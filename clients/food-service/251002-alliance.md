@@ -17,5 +17,5 @@ tags:
 
 ---
 <div class="client fade-in">
-                <a href="#" class="loaded" target="_blank"><img src="/static/img/clients-logos/alliance-logo.png"></a>
+                <a href="#" class="loaded lazy" target="_blank"><img src="/static/img/clients-logos/alliance-logo.png"></a>
             </div>
