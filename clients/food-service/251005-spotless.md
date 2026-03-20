@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 title: Spotless
 date: 2025-10-05
 description: 

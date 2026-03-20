@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 title: Alliance
 date: 2025-10-02
 description: 

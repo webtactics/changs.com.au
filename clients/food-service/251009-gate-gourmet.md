@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 title: GateGourmet
 date: 2025-10-09
 description: 

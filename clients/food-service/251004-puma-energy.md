@@ -1,4 +1,5 @@
 ---
+eleventyExcludeFromCollections: true
 title: Puma Energy
 date: 2025-10-04
 description: 
