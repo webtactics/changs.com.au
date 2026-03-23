@@ -2,9 +2,9 @@
 layout: layouts/grid-who-we-serve.njk
 title: Who We Serve.
 subtitle: Supplying to the catering and food service industries.
-description: Discover our wide range of delicious, fresh, conveniently prepared foods - Primo Moraitis Fresh
+description: Our range also includes products specifically produced for restaurants, catering and a variety of food businesses.
 
-date: 2025-10-01
+date: 2026-03-23
 image: https://ik.imagekit.io/webtactics/pmfresh/img/products/categories/who-we-serve-1920x953_YPg8pZEhe.jpg
 
 rightimage: https://ik.imagekit.io/webtactics/pmfresh/img/products/categories/about-us-1920x953_kULfkrgVH.jpg
