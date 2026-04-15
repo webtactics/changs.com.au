@@ -1022,7 +1022,7 @@ ul.infobox li, ul.infoboxmobile li, ul.infoboxfooter li {
   margin: 0 3rem 0 0;
 }
 
-a.newslettersign,  a.tradelogin  {
+a.newslettersign {
   font-size:1.1rem;
   font-weight:400;
   color: var(--black);
@@ -1033,9 +1033,29 @@ text-decoration: none;
   background-color: var(--white);
 }
 
-
-
-a.newslettersign:hover, a.tradelogin:hover {
+.infobox > li > a.text-icon {
+  display: flex;
+  height: var(--navtopheight);
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  padding: 0 0 0 2rem;
+  font-size: 18px;
+  color: var(--white);
+  text-decoration: none;
+}
+.infobox > li > a.text-icon:hover {
+  display: flex;
+  height: var(--navtopheight);
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  padding: 0 0 0 2rem;
+  font-size: 18px;
+  color: var(--primary);
+  text-decoration: none;
+}
+a.newslettersign:hover{
 color: var(--black);
 text-decoration: none;
 border-bottom: 3px solid var(--black);
@@ -1044,8 +1064,7 @@ transition: all var(--transitionquick) ease-in-out;
 padding:0 0.5rem;
 }
 
-a.tradelogin  {font-weight:600;}
-a.tradelogin:hover {background-color: var(--primarydark30);} 
+
 
 .mobilemenu {padding:0;}
 
