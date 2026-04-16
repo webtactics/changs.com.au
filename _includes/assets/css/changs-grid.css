@@ -990,28 +990,14 @@ ul.infobox li, ul.infoboxmobile li, ul.infoboxfooter li {
   padding: 0 0 0 1rem;
 
 }
-.infobox > li > a.tradelogin, .infobox > li > a.newslettersign {
+.infobox > li > a.social-icon:hover, .infoboxmobile > li > a.social-icon:hover, .infoboxfooter > li > a.social-icon:hover {
   display: flex;
   height: var(--navtopheight);
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  margin: 0 2rem 0 0;
-
-}
-.infobox > li > a.newslettersign {
-  margin: 0 3rem 0 0;
-}
-
-a.newslettersign {
-  font-size:1.1rem;
-  font-weight:400;
-  color: var(--black);
-text-decoration: none;
-  border-bottom: 3px solid var(--primary);
-  transition: all var(--transitionquick) ease-in-out;
-  padding:0 0.5rem;
-  background-color: var(--white);
+  padding: 0 0 0 1rem;
+ background: var(--black);
 }
 
 .infobox > li > a.text-icon {
@@ -1023,6 +1009,7 @@ text-decoration: none;
   padding: 0 0 0 2rem;
   font-size: 18px;
   color: var(--white);
+  background: var(--black);
   text-decoration: none;
 }
 .infobox > li > a.text-icon:hover {
@@ -1034,15 +1021,8 @@ text-decoration: none;
   padding: 0 0 0 2rem;
   font-size: 18px;
   color: var(--primary);
+  background: var(--black);
   text-decoration: none;
-}
-a.newslettersign:hover{
-color: var(--black);
-text-decoration: none;
-border-bottom: 3px solid var(--black);
-background-color: var(--lightgreen);
-transition: all var(--transitionquick) ease-in-out;
-padding:0 0.5rem;
 }
 
 
