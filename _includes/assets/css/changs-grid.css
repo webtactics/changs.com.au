@@ -800,7 +800,7 @@ background-color: var(--black);
 
 .logo {display: flex;
   height: var(--headerheight);
-justify-content: center;
+ justify-content: flex-start;
   align-items: center;
   -webkit-transition: all var( --transitionquick);
   -moz-transition: all var( --transitionquick);
@@ -812,7 +812,7 @@ justify-content: center;
 
  .scrolled .logo {display: flex;
     height: var(--navbottomheight); 
-justify-content: center;
+ justify-content: flex-start;
   align-items: center;
     -webkit-transition: all var( --transitionquick);
     -moz-transition: all var( --transitionquick);
