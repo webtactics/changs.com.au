@@ -1210,13 +1210,15 @@ ul.off-canvas-list > li.parent > a:hover {
 
 /* Top-level */
 .navbar ul.navbar-menu  li  a {
-    display: inline-block;
-    font-family: 'ProximaNova', sans-serif;
-    font-weight: 400;
-    font-size: 1.4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+font-family: 'Roboto' , sans-serif;
+    font-size: 1.25rem;
     font-style: normal;
-    letter-spacing: -1px;
-    text-transform: uppercase;
+font-weight: 600;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
     color: var(--white);
   background: var(--black);
     -webkit-transition: all .3s;
