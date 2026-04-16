@@ -48,7 +48,7 @@ k:root {
   --transitionLength: 0.4s;
   --transitionTiming: ease;
   --transitionquick: 0.6s;
-  --transition02: var( --transition02);
+  --transition02: 0.2s;
   --transitionslow: 1s;
 
 
@@ -945,11 +945,11 @@ transition: all 1s;}
   text-align: right;
   height: var(--navbottomheight); 
   line-height: var(--navbottomheight); 
-  -webkit-transition: all var( --transition02);
-  -moz-transition: all var( --transition02);
-  -ms-transition: all var( --transition02);
-  -o-transition: all var( --transition02);
-  transition: all var( --transition02);
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
 background-color: var(--black);
   display: flex;
     justify-content:flex-end;
@@ -1495,9 +1495,9 @@ svg:hover {
 }
 
 .loaded *, .loaded {
-  -moz-transition: all var( --transition02) ease-in;
-  -webkit-transition: all var( --transition02) ease-in;
-  -o-transition: all var( --transition02) ease-in;
+  -moz-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
 }
 
 
@@ -2996,7 +2996,7 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
 }
 .taggedimg img:hover {
   filter: brightness(110%);
-  transition: all var( --transition02) ease-in-out;
+  transition: all 0.2s ease-in-out;
 
 }
 
@@ -3443,7 +3443,7 @@ border:none;
 
 .from-left.appear a:hover img,.from-right.appear a:hover img {
   filter: brightness(110%);
-  transition: all var( --transition02) ease-in-out;
+  transition: all 0.2s ease-in-out;
 }
 
 
