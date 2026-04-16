@@ -1,52 +1,6 @@
 :root {
-  --primary: #73b72b;
-  --primaryright: #00b2c2;
-  --primarylight: hsla(211,50%,53%,0.6);
-  --primarydark: #00b2c2;
-  --primarydark30: hsla(185, 100%, 38%, 0.3);
-  --darkgreen: #047E47;
-  --text: #4A4A4A;
-  --darkblue: hsla(204, 96%, 18%, 1);
-  --darkblue40: hsla(204deg, 96%, 18%, 0.4);
-  --primarybutton: #B11112;
-  --white: #ffffff;
-  --white10: hsla(0,0%,100%,0.1);
-  --white20: hsla(0,0%,100%,0.2);
-  --white50: hsla(0,0%,100%,0.5);
-  --white60: hsla(0,0%,100%,0.6);
-  --white70: hsla(0,0%,100%,0.7);
-  --white80: hsla(0,0%,100%,0.8);
-	--lightgrey: #ebebeb;
-  --darkgrey: #808080;
-	--red: #ED1C24;
-  --pink: #FDDFCF;
-  --lightpink: hsla(20.87, 92%, 90.2%, 0.34);
 
-  --black: hsla(0,0%,0%,1);
-  --black20: hsla(0,0%,0%,0.2);
-  --black40: hsla(0,0%,0%,0.4);
-  --black60: hsla(0,0%,0%,0.6);
-  --black80: hsla(0,0%,0%,0.8);
-  --mattblack: hsla(214,12%,11%,0.95);
-  --green: hsla(144, 80%, 22%, 1);
-  --lightgreen: hsla(89, 62%, 44%,0.4);
-  --gold: hsl(43, 74.4%, 49%);
-  --darkgold: hsl(43, 88.7%, 38.2%);
 
-  --silver: hsl(0, 0%, 75%);
-  --darksilver: #808080;
-
-  --bronze: #b08d57;
-  --darkbronze: #7B5F34;
-
-  --transitionLength: 0.4s;
-  --transitionTiming: ease;
-  --transitionquick: 0.6s;
-  --transitionslow: 1s;
-  --headerheight: 100px;
-  --navtopheight: 40px;
-  --navbottomheight: 60px;
-  --mobilenavheight: 60px;
 
   --h3sum: 1.5rem;
   --h3summobile: 1.2rem;
@@ -65,8 +19,52 @@
 --nav-height:54px;
 
 --nav-height-scrolled:44px;
-}
+
   
+
+	--primary: hsla(357.7, 85.31%, 51.96%, 1);
+  --primarylight: hsla(357.7, 85.31%, 51.96%,0.6);
+  --primarybold: #D1030B;
+  --primarydark: #B11112;
+  --primarybutton: #B11112;
+	--white: #ffffff;
+
+  --white10: hsla(0,0%,100%,0.1);
+  --white20: hsla(0,0%,100%,0.2);
+  --white50: hsla(0,0%,100%,0.5);
+  --white80: hsla(0,0%,100%,0.8);
+	--lightgrey: #ebebeb;
+  --darkgrey: #808080;
+	--red: #ED1C24;
+  --pink: #FDDFCF;
+  --lightpink: hsla(20.87, 92%, 90.2%, 0.34);
+  --text: #6A6A6A;
+  --black: hsla(0,0%,0%,1);
+  --black20: hsla(0,0%,0%,0.2);
+  --black40: hsla(0,0%,0%,0.4);
+  --black60: hsla(0,0%,0%,0.6);
+  --black80: hsla(0,0%,0%,0.8);
+  --mattblack: hsla(214,12%,11%,0.95);
+  --green: hsla(144, 80%, 22%, 1);
+
+
+  --transitionLength: 0.4s;
+  --transitionTiming: ease;
+
+
+  --headerheight: 120px;
+  --navtopheight: 40px;
+  --navbottomheight: 80px;
+  --mobilenavheight: 80px;
+
+  --coles: #EB2019;
+  --woolworths: #00582D;
+  --iga: #E53322;
+
+}
+
+
+
   
 /* open-sans-regular - latin */
 /* open-sans-regular - latin */
@@ -1243,9 +1241,9 @@ ul.off-canvas-list > li.parent > a:hover {
     font-size: 1.4rem;
     font-style: normal;
     letter-spacing: -1px;
-    text-transform: none;
-    color: var(--text);
-  background: var(--white);
+    text-transform: uppercase;
+    color: var(--white);
+  background: var(--black);
     -webkit-transition: all .3s;
   -moz-transition: all .3s;
   -ms-transition: all .3s;
@@ -1260,8 +1258,8 @@ ul.off-canvas-list > li.parent > a:hover {
 .navbar  .navbar-menu  li  a:hover,
 .navbar  .navbar-menu > li  a:focus,
 ul.navbar-menu li.active-class  a {
-  color: var(--primary);
-  background: var(--white);
+  color: var(--red);
+  background: var(--black);
      line-height: var(--navbottomheight);
   height: var(--navbottomheight);
 }
