@@ -1,15 +1,6 @@
 :root {
 
 
-  --transitionLength: 0.4s;
-  --transitionTiming: ease;
-  --transitionquick: 0.6s;
-  --transitionslow: 1s;
-  --headerheight: 100px;
-  --navtopheight: 40px;
-  --navbottomheight: 60px;
-  --mobilenavheight: 60px;
-
   --h3sum: 1.5rem;
   --h3summobile: 1.2rem;
 
@@ -27,11 +18,7 @@
 --nav-height:54px;
 
 --nav-height-scrolled:44px;
-}
-  
 
-
-:root {
 	--primary: hsla(357.7, 85.31%, 51.96%, 1);
   --primarylight: hsla(357.7, 85.31%, 51.96%,0.6);
   --primarybold: #D1030B;
