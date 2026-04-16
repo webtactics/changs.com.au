@@ -800,8 +800,8 @@ background-color: var(--black);
 
 .logo {display: flex;
   height: var(--headerheight);
-  justify-content:flex-start;
- align-items: start;
+justify-content: center;
+  align-items: center;
   -webkit-transition: all var( --transitionquick);
   -moz-transition: all var( --transitionquick);
   -ms-transition: all var( --transitionquick);
@@ -812,8 +812,8 @@ background-color: var(--black);
 
  .scrolled .logo {display: flex;
     height: var(--navbottomheight); 
-    justify-content:flex-start;
- align-items: start;
+justify-content: center;
+  align-items: center;
     -webkit-transition: all var( --transitionquick);
     -moz-transition: all var( --transitionquick);
     -ms-transition: all var( --transitionquick);
@@ -824,6 +824,9 @@ background-color: var(--black);
 
 
   .logo img {
+    display: flex;
+    justify-content: center;
+  align-items: center;
       max-width: 260px;
   aspect-ratio: 260 / 69;
     -webkit-transition: all var( --transitionquick);
@@ -838,7 +841,12 @@ background-color: var(--black);
 
 
 
-.scrolled .logo img {max-width:160px;
+.scrolled .logo img {
+      display: flex;
+    justify-content: center;
+  align-items: center;
+  
+  max-width:160px;
   aspect-ratio: 260 / 69;
   -webkit-transition: all var( --transitionquick);
   -moz-transition: all var( --transitionquick);
