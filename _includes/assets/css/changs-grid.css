@@ -823,24 +823,30 @@ background-color: var(--white);
  }
 
 
-  .logo img {max-width:273px;aspect-ratio: 486 / 178;
+  .logo img {
+      max-width: 260px;
+  aspect-ratio: 260 / 69;
     -webkit-transition: all var( --transitionquick);
     -moz-transition: all var( --transitionquick);
     -ms-transition: all var( --transitionquick);
     -o-transition: all var( --transitionquick);
     transition: all var( --transitionquick);
     height:auto;
-      animation-timing-function: ease-out; 
+    animation-timing-function: ease-out; 
   
   }
-.scrolled .logo img {max-width:160px;aspect-ratio: 486 / 178;
+
+
+
+.scrolled .logo img {max-width:160px;
+  aspect-ratio: 260 / 69;
   -webkit-transition: all var( --transitionquick);
   -moz-transition: all var( --transitionquick);
   -ms-transition: all var( --transitionquick);
   -o-transition: all var( --transitionquick);
   transition: all var( --transitionquick);
   height:auto;
-    animation-timing-function: ease-out; 
+  animation-timing-function: ease-out; 
   }
 
 
@@ -894,10 +900,6 @@ a.logolink:hover {background-color: transparent;}
 -ms-transition: all 1s;
 -o-transition: all 1s;
 transition: all 1s;}
-
-
-
-
 
 }
   
