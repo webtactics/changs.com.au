@@ -970,7 +970,7 @@ transition: all 1s;}
   -ms-transition: all 0.2s;
   -o-transition: all 0.2s;
   transition: all 0.2s;
-background-color: var(--white);
+background-color: var(--black);
   display: flex;
     justify-content:flex-end;
   align-items: center;
