@@ -926,10 +926,8 @@ transition: all 1s;}
   padding:8px 0 0 0;
  }
 
-.scrolled .navrightsidetopline {text-align: right;height:0px;
-  display: flex;
-    justify-content:flex-end;
-  align-items: center;
+.scrolled .navrightsidetopline {
+  height:0px;
   -webkit-transition: all var( --transitionquick);
   -moz-transition: all var( --transitionquick);
   -ms-transition: all var( --transitionquick);
