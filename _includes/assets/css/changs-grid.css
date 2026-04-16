@@ -1,4 +1,4 @@
-k:root {
+:root {
 
 
   --h3sum: 1.5rem;
@@ -48,7 +48,6 @@ k:root {
   --transitionLength: 0.4s;
   --transitionTiming: ease;
   --transitionquick: 0.6s;
-  --transition02: 0.2s;
   --transitionslow: 1s;
 
 
@@ -927,8 +926,8 @@ transition: all 1s;}
   padding:8px 0 0 0;
  }
 
-.scrolled .navrightsidetopline {
-  height:0px;
+.scrolled .navrightsidetopline {height:0px;
+
   -webkit-transition: all var( --transitionquick);
   -moz-transition: all var( --transitionquick);
   -ms-transition: all var( --transitionquick);
