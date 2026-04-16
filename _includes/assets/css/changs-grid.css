@@ -64,74 +64,52 @@
 
 
 
-  
-/* open-sans-regular - latin */
-/* open-sans-regular - latin */
+
+/* Perpetua */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Open Sans';
+  font-family: Perpetua; 
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://webtactics.b-cdn.net/fonts/Perpetua-BoldItalic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+
+/* roboto-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
-  src: url('/static/fonts/open-sans-v40-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-       url('/static/fonts/open-sans-v40-latin-regular.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+  src: url('https://webtactics.b-cdn.net/fonts//roboto-v30-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-
-
-
-
+/* roboto-500 - latin */
 @font-face {
-      font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-    font-family: 'ProximaNova';
-    font-weight: 300;
-    src: url('/static/fonts/proxima_nova_light_0-webfont.eot');
-    src: url('/static/fonts/proxima_nova_light_0-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/static/fonts/proxima_nova_light_0-webfont.woff2') format('woff2'),
-         url('/static/fonts/proxima_nova_light_0-webfont.woff') format('woff'),
-         url('/static/fonts/proxima_nova_light_0-webfont.ttf') format('truetype'),
-         url('/static/fonts/proxima_nova_light_0-webfont.svg#proxima_novalight') format('svg');
-    font-style: normal;
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://webtactics.b-cdn.net/fonts/roboto-v30-latin-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+/* roboto-500italic - latin */
 @font-face {
-      font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-    font-family: 'ProximaNova';
-    font-weight: 400;
-    src: url('/static/fonts/proxima_nova_reg_0-webfont.eot');
-    src: url('/static/fonts/proxima_nova_reg_0-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/static/fonts/proxima_nova_reg_0-webfont.woff2') format('woff2'),
-         url('/static/fonts/proxima_nova_reg_0-webfont.woff') format('woff'),
-         url('/static/fonts/proxima_nova_reg_0-webfont.ttf') format('truetype'),
-         url('/static/fonts/proxima_nova_reg_0-webfont.svg#proxima_nova_rgregular') format('svg');
-    font-style: normal;
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  src: url('https://webtactics.b-cdn.net/fonts/roboto-v30-latin-500italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+/* roboto-700 - latin */
 @font-face {
-      font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-    font-family: 'ProximaNova';
-    font-weight: 600;    
-    src: url('/static/fonts/proxima_nova_sbold-webfont.eot');
-    src: url('/static/fonts/proxima_nova_sbold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/static/fonts/proxima_nova_sbold-webfont.woff2') format('woff2'),
-         url('/static/fonts/proxima_nova_sbold-webfont.woff') format('woff'),
-         url('/static/fonts/proxima_nova_sbold-webfont.ttf') format('truetype'),
-         url('/static/fonts/proxima_nova_sbold-webfont.svg#proxima_novasemibold') format('svg');
-    font-style: normal;
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://webtactics.b-cdn.net/fonts/roboto-v30-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
-
-@font-face {
-      font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-    font-family: 'ProximaNova';
-    font-weight: 700;
-    src: url('/static/fonts/proxima_nova_bold_0-webfont.eot');
-    src: url('/static/fonts/proxima_nova_bold_0-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/static/fonts/proxima_nova_bold_0-webfont.woff2') format('woff2'),
-         url('/static/fonts/proxima_nova_bold_0-webfont.woff') format('woff'),
-         url('/static/fonts/proxima_nova_bold_0-webfont.ttf') format('truetype'),
-         url('/static/fonts/proxima_nova_bold_0-webfont.svg#proxima_nova_rgbold') format('svg');
-    font-style: normal;
-}
-
 
 
   @view-transition {
@@ -416,15 +394,11 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-  font-family: ProximaNova, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 1.5;
+  background-color: var(--black);
   scroll-padding-top: var(--navbottomheight); 
-  background: var(--primary);
-  background: -moz-linear-gradient(left, var(--primary) 0%, var(--primaryright) 100%);
-  background: -webkit-linear-gradient(left, var(--primary) 0%,var(--primaryright) 100%);
-  background: linear-gradient(to right, var(--primary) 0%,var(--primaryright) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='var(--primary)', endColorstr='var(--primaryright)',GradientType=1 );
 }
 
 
@@ -454,7 +428,7 @@ background: var(--white);
 
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p {
-  font-family: 'ProximaNova', sans-serif;
+   font-family: 'Perpetua', sans-serif;
   font-style: normal;
   font-weight: 400;
   color: var(--text);
@@ -569,17 +543,19 @@ color: var(--primary);
 
 
 
+
 p {
-  font-family: 'ProximaNova', sans-serif;
+font-family: 'Roboto' , sans-serif;
 font-style: normal;
-font-weight: 300;
-color: var(--text);
+font-weight: normal;
+color: var(--black);
 text-rendering: optimizeLegibility;
-font-size: 1.2rem;
-font-size: clamp(18px, 2vw + 1rem, 1.4rem);
-line-height: 1.7rem;
+font-size: 1rem;
+font-size: clamp(16px, 2vw + 1rem, 1.1rem);
+line-height: 1.5rem;
 margin: 0 0 1rem 0;
 padding:0;}
+
 
 strong {font-weight: 600;color: var(--black);}
 
