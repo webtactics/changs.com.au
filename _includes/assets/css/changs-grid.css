@@ -1407,11 +1407,11 @@ ul.second-level {
 
 /* end second level */
 svg {
-  color : var(--primary);
+  color : var(--white);
 }
 
 svg:hover {
-  color : var(--black);
+  color : var(--red);
 }
 
 
