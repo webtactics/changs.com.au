@@ -923,7 +923,7 @@ transition: all 1s;}
   -ms-transition: all var( --transitionquick);
   -o-transition: all var( --transitionquick);
   transition: all var( --transitionquick);
-  padding:8px 0;
+  padding:8px 0 0 0;
  }
 
 .scrolled .navrightsidetopline {text-align: right;height:0px;
