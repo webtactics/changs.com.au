@@ -5,9 +5,7 @@ description: This is a sample meta description. If one is not present in your pa
 section: gluten-free
 date: 2023-01-01
 permalink: /gluten-free/
-eleventyNavigation:
-  key: Gluten Free
-  order: 2
+
 ---
 
 
