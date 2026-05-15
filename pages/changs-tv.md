@@ -8,7 +8,7 @@ date: 2023-01-01
 permalink: /changs-tv/
 eleventyNavigation:
   key: Chang's TV
-  order: 4
+  order: 3
 ---
 
 <div class="mobile-nav-search-wrapper">

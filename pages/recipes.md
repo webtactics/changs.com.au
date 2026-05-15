@@ -6,7 +6,7 @@ date: 2023-04-19
 permalink: /recipes/
 eleventyNavigation:
   key: Recipes
-  order: 3
+  order: 2
 ---
 
 {% set postslist = collections['Recipes']  %} 
