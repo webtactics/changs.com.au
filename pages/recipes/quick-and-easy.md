@@ -1,12 +1,15 @@
 ---
-title: Thank you for contacting us!
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.description will be used instead.
-date: 2017-01-01T00:00:00.000Z
+layout: layouts/default.njk
+title: Chang's Quick and Easy Recipes
+class: recipes
+metaDescription: Our Quick and Easy Recipes section has heaps of easy Asian meal ideas to try at home!
+date: 2023-01-04
+permalink: "/recipes/quick-and-easy/"
 eleventyNavigation:
-  key: Thanks
-  parent: Contact
+  key: Quick and Easy
+  parent: Recipes
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Our Quick and Easy Recipes section has heaps of easy Asian meal ideas to try at home!
 
 # Thank you!
 

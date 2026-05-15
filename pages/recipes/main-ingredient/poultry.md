@@ -1,12 +1,16 @@
 ---
-title: Thank you for contacting us!
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.description will be used instead.
-date: 2017-01-01T00:00:00.000Z
-eleventyNavigation:
-  key: Thanks
-  parent: Contact
+layout: layouts/recipes/recipes-list.njk
+title: Chang's Poultry Based Recipes
+class: recipes
+metaDescription: Tamari is a Japanese sauce made from fermented soybeans. Use ours to create authentic Asian cuisine to serve up in so many ways!
+date: 2023-01-04
+permalink: "recipes/main-ingredient/poultry-based-recipes/"
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Chang's Poultry Based Recipes
+
+<script async src="https://cse.google.com/cse.js?cx=94dea8fae08aa4379">
+</script>
+<div class="gcse-search"></div>
 
 # Thank you!
 
