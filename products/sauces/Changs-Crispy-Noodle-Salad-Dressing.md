@@ -1,0 +1,41 @@
+---
+title: "Crispy Noodle Salad Dressing"
+status: published
+date: 2026-05-15
+description: "The perfect dressing for your fried noodle salad. Gluten Free. No artificial colours or preservatives."
+permalink: "/products/Changs-Crispy-Noodle-Salad-Dressing/"
+image: "/static/img/products/Changs-Crispy-Noodle-Salad-Dressing/Changs-Crispy-Noodle-Salad-Dressing-1000x1000.jpg"
+sumimage: "/static/img/products/Changs-Crispy-Noodle-Salad-Dressing/Changs-Crispy-Noodle-Salad-Dressing-300x200.jpg"
+prodsize: "280ml"
+gluten_free: true
+gtin: "9300777092316"
+allergen: "Contains Sesame and Soybean"
+ingredients: "Water, Sugar, Refined Salt, Naturally Brewed Soy Sauce (Soya Bean, Water, Salt, Rice Extract), Sesame Oil, Vinegar, Vegetable Gum (415)."
+origin: "Product of China"
+coleslink: "https://www.coles.com.au/product/chang's-crispy-noodle-salad-dressing-280ml-6803642"
+woolworthslink: "https://www.woolworths.com.au/shop/productdetails/354423/chang-s-salad-dressing-oriental"
+igalink: "https://www.igashop.com.au/product/changs-salad-dressing-oriental-813610"
+nutrition:
+  servingsize: "12ml"
+  servingsperpackage: "23"
+  EnergyAvgQuantityPerServing: "865kJ"
+  EnergyAvgQuantityPer100g: "1267kJ (303Cal)"
+  ProteinAvgQuantityPerServing: "Less than 1g                                        "
+  ProteinAvgQuantityPer100g: "1.6g"
+  FatAvgQuantityPerServing: "2g"
+  FatAvgQuantityPer100g: "17g"
+  FatSaturatedAvgQuantityPerServing: "Less than 1g"
+  FatSaturatedAvgQuantityPer100g: "2.6g"
+  CarbohydratesAvgQuantityPerServing: "4.3g"
+  CarbohydratesAvgQuantityPer100g: "35.9g"
+  SugarsAvgQuantityPerServing: "4.3g"
+  SugarsAvgQuantityPer100g: "35.9g"
+  SodiumAvgQuantityPerServing: "216mg"
+  SodiumAvgQuantityPer100g: "1800mg"
+tags:
+  - "Gluten Free"
+  - "Sauces"
+  - "ChangsTV"
+---
+
+A ready-made dressing to add to your favourite Asian salad.

@@ -1,0 +1,39 @@
+---
+title: "Japanese Teriyaki Sauce"
+status: published
+date: 2026-05-15
+description: "Teriyaki Sauce can be used as a marinade, table sauce and in stir fries for your meats, poultry, vegetables and seafood to enhance your favourite dishes. Our Japanese Teriyaki Sauce brings both taste and lustre to your grill, BBQ or pan fry."
+permalink: "/products/Changs-Japanese-Teriyaki-Sauce/"
+image: "/static/img/products/Changs-Japanese-Teriyaki-Sauce/Changs-Japanese-Teriyaki-Sauce-280ml-1200x1200.jpg"
+sumimage: "/static/img/products/Changs-Japanese-Teriyaki-Sauce/Changs-Japanese-Teriyaki-Sauce-280ml-300x200.jpg"
+prodsize: "280ml"
+packsizes: "150ml and 280ml"
+gluten_free: true
+gtin: "9300777093382"
+allergen: "Gluten Free. No artificial colouring or preservatives. Contains: Soybeans, Wheat May Contain: Peanuts"
+ingredients: "Water, Naturally Brewed Soy Sauce (Water, Soya Bean Extract, Wheat Extract, Salt), Brown sugar, Corn Syrup, Vinegar, Wine, Corn starch (1422), Yeast extract, Onion, Spices"
+origin: "Product of China"
+woolworthslink: "https://www.woolworths.com.au/shop/productdetails/167355/chang-s-japanese-teriyaki-sauce"
+nutrition:
+  servingsize: "20ml"
+  servingsperpackage: "14"
+  EnergyAvgQuantityPerServing: "115kJ"
+  EnergyAvgQuantityPer100g: "575kJ"
+  ProteinAvgQuantityPerServing: "0.1g"
+  ProteinAvgQuantityPer100g: "0.5g"
+  FatAvgQuantityPerServing: "<0.1g"
+  FatAvgQuantityPer100g: "<0.1g"
+  FatSaturatedAvgQuantityPerServing: "<0.1g"
+  FatSaturatedAvgQuantityPer100g: "<0.1g"
+  CarbohydratesAvgQuantityPerServing: "6.6g"
+  CarbohydratesAvgQuantityPer100g: "33.3g"
+  SugarsAvgQuantityPerServing: "5.1g"
+  SugarsAvgQuantityPer100g: "25.5g"
+  SodiumAvgQuantityPerServing: "440mg"
+  SodiumAvgQuantityPer100g: "2200mg"
+tags:
+  - "Gluten Free"
+  - "Sauces"
+---
+
+Teriyaki Sauce can be used as a marinade, table sauce and in stir fries for your meats, poultry, vegetables and seafood to enhance your favourite dishes. Our Japanese Teriyaki Sauce brings both taste and lustre to your grill, BBQ or pan fry.
