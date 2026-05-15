@@ -53,4 +53,11 @@ tags:
   - "Winter"
   - "Autumn"
   - "Kids"
+  - "Original Hoisin Sauce"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Long Life Noodles"
+  - "Egg Noodles"
+  - "Wok-Ready Noodles"
+  - "Traditional Super Lo-Cal Noodles"
+  - "Super Lo-Cal Wide Noodles"
 ---

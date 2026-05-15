@@ -7,7 +7,8 @@
       "Bash(cp \"D:/Dropbox/Webtactics/Websites/M21/changs.com/public_html/export/products.json\" \"D:/Dropbox/Webtactics/Websites/GitHub/changs.com.au/_data/products.json\")",
       "Bash(cp \"D:/Dropbox/Webtactics/Websites/M21/changs.com/public_html/export/recipes.json\" \"D:/Dropbox/Webtactics/Websites/GitHub/changs.com.au/_data/recipes.json\")",
       "Bash(node generate-changs-content.js)",
-      "Bash(node -e \"const d=require\\('./_data/recipes.json'\\); const r=d.find\\(r=>r.slug&&r.slug.includes\\('Banana-Split'\\)\\); console.log\\(r ? 'id:'+r.id+' image:'+r.image : 'not found'\\); d.filter\\(r=>r.slug&&r.slug.toLowerCase\\(\\).includes\\('banana'\\)\\).forEach\\(r=>console.log\\(r.id, r.slug\\)\\);\")"
+      "Bash(node -e \"const d=require\\('./_data/recipes.json'\\); const r=d.find\\(r=>r.slug&&r.slug.includes\\('Banana-Split'\\)\\); console.log\\(r ? 'id:'+r.id+' image:'+r.image : 'not found'\\); d.filter\\(r=>r.slug&&r.slug.toLowerCase\\(\\).includes\\('banana'\\)\\).forEach\\(r=>console.log\\(r.id, r.slug\\)\\);\")",
+      "Bash(python3 -c \"import os; files = [f for f in os.listdir\\('d:/Dropbox/Webtactics/Websites/GitHub/changs.com.au/recipes'\\) if f.endswith\\('.md'\\)]; print\\(len\\(files\\)\\)\")"
     ]
   }
 }

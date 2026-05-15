@@ -56,4 +56,9 @@ tags:
   - "Kids"
   - "Poultry"
   - "Soup and Salad"
+  - "Long Life Noodles"
+  - "Traditional Super Lo-Cal Noodles"
+  - "Sesame Oil"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Original Oyster Sauce"
 ---

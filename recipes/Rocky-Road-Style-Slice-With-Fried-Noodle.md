@@ -39,4 +39,5 @@ tags:
   - "Kids"
   - "Entertaining"
   - "Festive"
+  - "Gluten Free Fried Noodles"
 ---

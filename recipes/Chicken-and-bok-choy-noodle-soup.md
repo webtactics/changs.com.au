@@ -36,4 +36,6 @@ tags:
   - "Light Meals"
   - "Poultry"
   - "Soup and Salad"
+  - "Long Life Noodles"
+  - "Master Stock"
 ---

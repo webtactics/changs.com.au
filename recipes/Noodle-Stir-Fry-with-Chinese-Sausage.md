@@ -44,4 +44,8 @@ tags:
   - "Winter"
   - "Autumn"
   - "Spring"
+  - "Long Life Noodles"
+  - "Sesame Oil"
+  - "Original Oyster Sauce"
+  - "Soy Sauce Dark"
 ---

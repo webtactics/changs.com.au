@@ -39,4 +39,5 @@ tags:
   - "Salad"
   - "Festive"
   - "Soup and Salad"
+  - "Original Fried Noodles"
 ---

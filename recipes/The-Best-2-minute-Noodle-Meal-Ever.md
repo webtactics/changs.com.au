@@ -57,4 +57,9 @@ tags:
   - "Summer"
   - "Autumn"
   - "Spring"
+  - "Traditional Super Lo-Cal Noodles"
+  - "Super Lo-Cal Wide Noodles"
+  - "Sesame Oil"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Original Oyster Sauce"
 ---

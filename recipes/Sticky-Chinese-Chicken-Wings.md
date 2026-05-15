@@ -56,4 +56,9 @@ tags:
   - "Main Meals"
   - "Spring"
   - "Poultry"
+  - "Original Hoisin Sauce"
+  - "Soy Sauce Dark"
+  - "Original Oyster Sauce"
+  - "Sesame Oil"
+  - "Vermicelli Rice Noodles"
 ---

@@ -43,4 +43,5 @@ tags:
   - "Chinese New Year"
   - "Festive"
   - "Poultry"
+  - "Hoisin Sauce"
 ---

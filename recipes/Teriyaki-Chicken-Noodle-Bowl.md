@@ -45,4 +45,9 @@ tags:
   - "Winter"
   - "Autumn"
   - "Poultry"
+  - "Long Life Noodles"
+  - "Thai Style Rice Noodles"
+  - "Japanese Teriyaki Sauce (280ml)"
+  - "Tamari Light Soy Sauce"
+  - "Sesame Oil"
 ---

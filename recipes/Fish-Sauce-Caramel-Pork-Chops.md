@@ -43,4 +43,6 @@ tags:
   - "Main Meals"
   - "Quick and Easy"
   - "Summer"
+  - "Fish Sauce"
+  - "Tamari Light Soy Sauce"
 ---

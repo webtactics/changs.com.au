@@ -34,4 +34,7 @@ method: |
 tags:
   - "Beef"
   - "Main Ingredient"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Original Hoisin Sauce"
+  - "Original Fried Noodles"
 ---

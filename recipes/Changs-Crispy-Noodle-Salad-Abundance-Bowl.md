@@ -44,4 +44,8 @@ tags:
   - "Entertaining"
   - "Salad"
   - "Soup and Salad"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
+  - "Crunchy Fried Noodles"
+  - "Crispy Noodle Salad Dressing"
 ---

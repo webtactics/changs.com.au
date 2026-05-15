@@ -33,4 +33,6 @@ tags:
   - "Quick and Easy"
   - "Sweet treats"
   - "Summer"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
 ---

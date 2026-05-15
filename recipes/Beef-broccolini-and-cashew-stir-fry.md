@@ -48,4 +48,6 @@ tags:
   - "Spring"
   - "Summer BBQ"
   - "Kids"
+  - "Long Life Noodles"
+  - "Original Oyster Sauce"
 ---

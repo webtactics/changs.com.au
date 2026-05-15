@@ -51,4 +51,6 @@ tags:
   - "Autumn"
   - "Spring"
   - "Summer BBQ"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
 ---

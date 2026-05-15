@@ -44,4 +44,5 @@ tags:
   - "Summer BBQ"
   - "Christmas"
   - "Festive"
+  - "Crunchy Fried Noodles"
 ---

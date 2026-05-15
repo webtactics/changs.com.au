@@ -60,4 +60,9 @@ tags:
   - "Spring"
   - "Summer BBQ"
   - "Festive"
+  - "Vermicelli Rice Noodles"
+  - "Crunchy Fried Noodles"
+  - "Gluten Free Fried Noodles"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Sesame Oil"
 ---

@@ -38,4 +38,5 @@ tags:
   - "Sweet treats"
   - "Kids"
   - "Scary Sweets"
+  - "Original Fried Noodles"
 ---

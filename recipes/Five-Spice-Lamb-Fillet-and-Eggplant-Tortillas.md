@@ -61,4 +61,6 @@ tags:
   - "Summer BBQ"
   - "Kids"
   - "Entertaining"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Original Hoisin Sauce"
 ---

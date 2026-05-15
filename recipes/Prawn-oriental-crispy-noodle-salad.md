@@ -37,4 +37,6 @@ tags:
   - "Entertaining"
   - "Salad"
   - "Soup and Salad"
+  - "Original Fried Noodles"
+  - "Crispy Noodle Salad Dressing"
 ---

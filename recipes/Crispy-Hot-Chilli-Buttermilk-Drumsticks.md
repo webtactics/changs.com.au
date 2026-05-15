@@ -41,4 +41,7 @@ tags:
   - "Summer"
   - "Spring"
   - "Poultry"
+  - "Crunchy Fried Noodles"
+  - "Crispy Noodle Salad Dressing"
+  - "Crispy Noodle Salad"
 ---

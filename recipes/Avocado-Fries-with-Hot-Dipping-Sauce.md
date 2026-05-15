@@ -49,4 +49,6 @@ tags:
   - "Vegetarian"
   - "Quick and Easy"
   - "Winter"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
 ---

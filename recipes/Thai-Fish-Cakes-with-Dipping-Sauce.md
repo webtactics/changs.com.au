@@ -50,4 +50,6 @@ tags:
   - "Gluten-Free"
   - "Main Meals"
   - "Quick and Easy"
+  - "Original Fish Sauce"
+  - "Original Oyster Sauce"
 ---

@@ -77,4 +77,6 @@ tags:
   - "Quick and Easy"
   - "Family Dinners"
   - "Soup and Salad"
+  - "Original Fish Sauce"
+  - "Super Lo-Cal Wide Noodles"
 ---

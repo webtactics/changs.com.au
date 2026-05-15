@@ -62,4 +62,6 @@ tags:
   - "Kids"
   - "Entertaining"
   - "Poultry"
+  - "Vermicelli Rice Noodles"
+  - "Original Hoisin Sauce"
 ---

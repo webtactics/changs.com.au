@@ -41,4 +41,6 @@ tags:
   - "Summer"
   - "Spring"
   - "Poultry"
+  - "Long Life Noodles"
+  - "Crispy Noodle Salad Dressing"
 ---

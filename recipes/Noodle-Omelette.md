@@ -38,4 +38,5 @@ tags:
   - "Main Meals"
   - "Quick and Easy"
   - "Winter"
+  - "Long Life Noodles"
 ---

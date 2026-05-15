@@ -42,4 +42,8 @@ tags:
   - "Seasonalbox"
   - "Festive"
   - "Soup and Salad"
+  - "Original Fried Noodles"
+  - "Crunchy Fried Noodles"
+  - "Gluten Free Fried Noodles"
+  - "Crispy Noodle Salad Dressing"
 ---

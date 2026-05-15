@@ -44,4 +44,6 @@ tags:
   - "Spring"
   - "Summer BBQ"
   - "Scary Sweets"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
 ---

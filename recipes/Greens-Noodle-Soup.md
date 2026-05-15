@@ -48,4 +48,6 @@ tags:
   - "Autumn"
   - "Spring"
   - "Soup and Salad"
+  - "Long Life Noodles"
+  - "Sesame Oil"
 ---

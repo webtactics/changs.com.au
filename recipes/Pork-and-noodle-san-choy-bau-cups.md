@@ -38,4 +38,6 @@ tags:
   - "Summer"
   - "Spring"
   - "Summer BBQ"
+  - "Original Fried Noodles"
+  - "Original Hoisin Sauce"
 ---

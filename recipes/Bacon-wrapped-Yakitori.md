@@ -43,4 +43,6 @@ tags:
   - "Christmas"
   - "Special Occasion"
   - "Festive"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Sesame Oil"
 ---

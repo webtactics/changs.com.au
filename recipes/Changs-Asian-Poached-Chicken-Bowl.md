@@ -56,4 +56,8 @@ tags:
   - "Salad"
   - "Poultry"
   - "Soup and Salad"
+  - "Long Life Noodles"
+  - "Original Fried Noodles"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Original Fish Sauce"
 ---

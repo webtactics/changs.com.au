@@ -66,4 +66,8 @@ tags:
   - "Featured Recipe"
   - "Salad"
   - "Soup and Salad"
+  - "Crunchy Fried Noodles"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
+  - "Crispy Noodle Salad Dressing"
 ---

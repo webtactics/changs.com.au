@@ -66,4 +66,8 @@ tags:
   - "Quick and Easy"
   - "Poultry"
   - "Protein"
+  - "Original Fish Sauce"
+  - "Sesame Oil"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Traditional Super Lo-Cal Wide Noodles"
 ---

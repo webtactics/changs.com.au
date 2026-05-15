@@ -46,4 +46,6 @@ tags:
   - "Summer BBQ"
   - "Christmas"
   - "Soup and Salad"
+  - "Crunchy Fried Noodles"
+  - "Crispy Noodle Salad Dressing"
 ---

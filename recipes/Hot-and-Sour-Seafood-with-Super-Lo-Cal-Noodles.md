@@ -62,4 +62,6 @@ tags:
   - "Summer"
   - "Autumn"
   - "Spring"
+  - "Traditional Super Lo-Cal Noodles"
+  - "Fish Sauce"
 ---

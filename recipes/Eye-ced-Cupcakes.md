@@ -42,4 +42,6 @@ tags:
   - "Sweet treats"
   - "Festive"
   - "Scary Sweets"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
 ---

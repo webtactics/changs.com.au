@@ -66,4 +66,7 @@ tags:
   - "Spring"
   - "Salad"
   - "Soup and Salad"
+  - "Original Fried Noodles"
+  - "Thai Style Rice Noodles"
+  - "Sesame Oil"
 ---

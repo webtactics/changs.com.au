@@ -66,4 +66,7 @@ tags:
   - "Kids"
   - "Festive"
   - "Poultry"
+  - "Soy Sauce"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
 ---

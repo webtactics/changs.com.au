@@ -51,4 +51,8 @@ tags:
   - "Spring"
   - "Special Occasion"
   - "Festive"
+  - "Vermicelli Rice Noodles"
+  - "Original Hoisin Sauce"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Sesame Oil"
 ---

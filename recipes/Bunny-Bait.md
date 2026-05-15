@@ -40,4 +40,6 @@ tags:
   - "Easter"
   - "Festive"
   - "Scary Sweets"
+  - "Crunchy Fried Noodles"
+  - "Original Fried Noodles"
 ---

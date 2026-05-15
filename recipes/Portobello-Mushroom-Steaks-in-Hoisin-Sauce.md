@@ -39,4 +39,6 @@ tags:
   - "Vegetarian"
   - "Main Meals"
   - "Quick and Easy"
+  - "Original Hoisin Sauce"
+  - "Sesame Oil"
 ---

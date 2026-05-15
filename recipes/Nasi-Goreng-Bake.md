@@ -56,4 +56,6 @@ tags:
   - "Family Dinners"
   - "Winter"
   - "Poultry"
+  - "Kecap Manis Sweet Soy Sauce"
+  - "Tamari Light Soy Sauce"
 ---

@@ -38,4 +38,8 @@ tags:
   - "Winter"
   - "Spring"
   - "Soup and Salad"
+  - "Thai Style Rice Noodles"
+  - "Long Life Noodles"
+  - "Sesame Oil"
+  - "Original Hoisin Sauce"
 ---

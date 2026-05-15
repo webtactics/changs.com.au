@@ -48,4 +48,7 @@ tags:
   - "Summer"
   - "Autumn"
   - "Spring"
+  - "Long Life Noodles"
+  - "Sesame Oil"
+  - "Soy Sauce Light"
 ---

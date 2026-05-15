@@ -73,4 +73,11 @@ tags:
   - "Spring"
   - "Summer BBQ"
   - "Poultry"
+  - "Original Hoisin Sauce"
+  - "Original Oyster Sauce"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Kecap Manis Sweet Soy Sauce"
+  - "Traditional Super Lo-Cal Noodles"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
 ---

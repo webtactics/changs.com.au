@@ -37,4 +37,5 @@ tags:
   - "Kids"
   - "Entertaining"
   - "Festive"
+  - "Crunchy Fried Noodles"
 ---

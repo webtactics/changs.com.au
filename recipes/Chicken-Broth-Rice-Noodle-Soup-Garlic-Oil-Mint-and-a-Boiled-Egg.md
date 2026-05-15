@@ -44,4 +44,7 @@ tags:
   - "Main Meals"
   - "Poultry"
   - "Soup and Salad"
+  - "Traditional Super Lo-Cal Noodles"
+  - "Sesame Oil"
+  - "Original Hoisin Sauce"
 ---

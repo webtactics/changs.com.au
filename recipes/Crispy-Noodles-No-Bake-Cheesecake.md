@@ -56,4 +56,6 @@ tags:
   - "Summer BBQ"
   - "Christmas"
   - "Festive"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
 ---

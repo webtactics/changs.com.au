@@ -57,4 +57,7 @@ tags:
   - "Salad"
   - "Poultry"
   - "Soup and Salad"
+  - "Sesame Oil"
+  - "Crunchy Fried Noodles"
+  - "Crispy Noodle Salad Dressing"
 ---

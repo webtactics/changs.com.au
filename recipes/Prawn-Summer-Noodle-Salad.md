@@ -58,4 +58,12 @@ tags:
   - "Salad"
   - "Festive"
   - "Soup and Salad"
+  - "Vermicelli Rice Noodles"
+  - "Crispy Noodle Salad Dressing"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Sesame Oil"
+  - "Original Fish Sauce"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
+  - "Crunchy Fried Noodles"
 ---

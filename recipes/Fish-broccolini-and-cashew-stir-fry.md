@@ -39,4 +39,5 @@ tags:
   - "Summer"
   - "Spring"
   - "Summer BBQ"
+  - "Long Life Noodles"
 ---

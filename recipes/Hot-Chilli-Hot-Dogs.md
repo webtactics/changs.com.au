@@ -50,4 +50,6 @@ tags:
   - "Quick and Easy"
   - "Winter"
   - "Entertaining"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
 ---

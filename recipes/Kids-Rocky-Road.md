@@ -38,4 +38,5 @@ tags:
   - "Sweet treats"
   - "Christmas"
   - "Festive"
+  - "Original Fried Noodles"
 ---

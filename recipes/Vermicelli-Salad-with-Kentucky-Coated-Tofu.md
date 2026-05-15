@@ -65,4 +65,8 @@ tags:
   - "Spring"
   - "Salad"
   - "Soup and Salad"
+  - "Vermicelli Rice Noodles"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Original Oyster Sauce"
+  - "Sesame Oil"
 ---

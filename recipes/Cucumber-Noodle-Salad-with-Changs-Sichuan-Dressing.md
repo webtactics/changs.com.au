@@ -53,4 +53,9 @@ tags:
   - "Spring"
   - "Salad"
   - "Soup and Salad"
+  - "Traditional Super Lo-Cal Noodles"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
+  - "Sesame Oil"
+  - "Crispy Noodle Salad Dressing"
 ---

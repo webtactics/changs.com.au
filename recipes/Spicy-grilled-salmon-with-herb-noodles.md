@@ -59,4 +59,8 @@ tags:
   - "Autumn"
   - "Spring"
   - "Summer BBQ"
+  - "Thai Style Rice Noodles"
+  - "Sesame Oil"
+  - "Original Fish Sauce"
+  - "Original Oyster Sauce"
 ---

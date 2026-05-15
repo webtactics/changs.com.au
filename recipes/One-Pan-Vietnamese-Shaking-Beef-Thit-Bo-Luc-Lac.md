@@ -53,4 +53,9 @@ tags:
   - "Summer"
   - "Autumn"
   - "Spring"
+  - "Tamari Light Soy Sauce"
+  - "Original Oyster Sauce"
+  - "Kecap Manis Sweet Soy Sauce"
+  - "Soy Sauce"
+  - "Fish Sauce"
 ---

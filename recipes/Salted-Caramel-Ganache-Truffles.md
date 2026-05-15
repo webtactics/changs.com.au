@@ -38,4 +38,6 @@ tags:
   - "Sweet treats"
   - "Summer"
   - "Spring"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
 ---

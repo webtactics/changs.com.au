@@ -66,4 +66,9 @@ tags:
   - "Christmas"
   - "Salad"
   - "Soup and Salad"
+  - "Original Hoisin Sauce"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Sesame Oil"
+  - "Original Fish Sauce"
+  - "Thai Style Rice Noodles"
 ---

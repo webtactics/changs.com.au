@@ -40,4 +40,6 @@ tags:
   - "Dinner for Two"
   - "Winter"
   - "Summer"
+  - "Master Stock"
+  - "Crunchy Fried Noodles"
 ---

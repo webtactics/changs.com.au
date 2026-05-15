@@ -39,4 +39,8 @@ tags:
   - "Soups"
   - "Winter"
   - "Soup and Salad"
+  - "Long Life Noodles"
+  - "Wok-Ready Noodles"
+  - "Soy Sauce Dark"
+  - "Sesame Oil"
 ---

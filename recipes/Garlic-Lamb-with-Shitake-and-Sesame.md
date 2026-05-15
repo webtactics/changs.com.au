@@ -40,4 +40,8 @@ tags:
   - "Style"
   - "Main Meals"
   - "Spring"
+  - "Original Oyster Sauce"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Sesame Oil"
+  - "Traditional Super Lo-Cal Noodles"
 ---

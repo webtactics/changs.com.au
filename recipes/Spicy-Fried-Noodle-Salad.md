@@ -43,4 +43,7 @@ tags:
   - "Summer BBQ"
   - "Salad"
   - "Soup and Salad"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
+  - "Crispy Noodle Salad Dressing"
 ---

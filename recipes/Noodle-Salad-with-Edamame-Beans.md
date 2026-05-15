@@ -52,4 +52,8 @@ tags:
   - "Salad"
   - "Festive"
   - "Soup and Salad"
+  - "Long Life Noodles"
+  - "Crispy Noodle Salad Dressing"
+  - "Original Fried Noodles"
+  - "Sesame Oil"
 ---

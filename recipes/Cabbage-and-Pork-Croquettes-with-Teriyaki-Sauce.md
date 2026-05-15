@@ -51,4 +51,6 @@ tags:
   - "Summer"
   - "Autumn"
   - "Spring"
+  - "Japanese Teriyaki Sauce (280ml)"
+  - "Tamari Light Soy Sauce"
 ---

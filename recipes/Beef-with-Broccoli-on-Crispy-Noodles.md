@@ -69,4 +69,9 @@ tags:
   - "Spring"
   - "Chinese New Year"
   - "Festive"
+  - "Vermicelli Rice Noodles"
+  - "Crunchy Fried Noodles"
+  - "Original Oyster Sauce"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Soy Sauce Dark"
 ---

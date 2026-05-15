@@ -41,4 +41,5 @@ tags:
   - "Salad"
   - "Poultry"
   - "Soup and Salad"
+  - "Original Fried Noodles"
 ---

@@ -36,4 +36,5 @@ tags:
   - "Kid friendly"
   - "Gluten Free Variation"
   - "Sweet treats"
+  - "Gluten Free Fried Noodles"
 ---

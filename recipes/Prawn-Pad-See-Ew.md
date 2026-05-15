@@ -53,4 +53,8 @@ tags:
   - "Kids"
   - "Glutenbox"
   - "Festive"
+  - "Thai Style Rice Noodles"
+  - "Soy Sauce Dark"
+  - "Original Oyster Sauce"
+  - "Sesame Oil"
 ---

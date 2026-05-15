@@ -50,4 +50,7 @@ tags:
   - "Entertaining"
   - "Festive"
   - "Poultry"
+  - "Sesame Oil"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Original Hoisin Sauce"
 ---

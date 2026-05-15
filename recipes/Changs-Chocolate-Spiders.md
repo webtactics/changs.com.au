@@ -40,4 +40,5 @@ tags:
   - "Scary Sweets"
   - "DessertFeature"
   - "toprecipe"
+  - "Original Fried Noodles"
 ---

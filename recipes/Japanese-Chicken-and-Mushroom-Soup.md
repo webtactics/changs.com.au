@@ -58,4 +58,7 @@ tags:
   - "Spring"
   - "Poultry"
   - "Soup and Salad"
+  - "Traditional Super Lo-Cal Noodles"
+  - "Super Lo-Cal Wide Noodles"
+  - "Gluten Free Tamari Light Soy Sauce"
 ---

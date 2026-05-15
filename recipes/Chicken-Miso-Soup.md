@@ -57,4 +57,8 @@ tags:
   - "Summer"
   - "Poultry"
   - "Soup and Salad"
+  - "Thai Style Rice Noodles"
+  - "Original Fish Sauce"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Sesame Oil"
 ---

@@ -59,4 +59,7 @@ tags:
   - "Entertaining"
   - "Homeboxes"
   - "Festive"
+  - "Vermicelli Rice Noodles"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Sesame Oil"
 ---

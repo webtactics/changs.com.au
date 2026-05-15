@@ -57,4 +57,7 @@ tags:
   - "Autumn"
   - "Spring"
   - "Soup and Salad"
+  - "Soy Sauce Lighte"
+  - "Long Life Noodles"
+  - "Organic Ramen Noodles"
 ---

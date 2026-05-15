@@ -44,4 +44,6 @@ tags:
   - "Summer"
   - "Spring"
   - "Festive"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
 ---

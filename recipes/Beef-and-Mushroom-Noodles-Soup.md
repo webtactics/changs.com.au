@@ -47,4 +47,10 @@ tags:
   - "Quick and Easy"
   - "Winter"
   - "Soup and Salad"
+  - "Long Life Noodles"
+  - "Traditional Super Lo-Cal Noodles"
+  - "Super Lo-Cal Wide Noodles"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Crispy Noodle Salad Dressing"
+  - "Sesame Oil"
 ---

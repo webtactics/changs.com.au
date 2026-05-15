@@ -33,4 +33,6 @@ tags:
   - "Noodles Ingredient"
   - "Sweet treats"
   - "Scary Sweets"
+  - "Original Fried Noodles"
+  - "Gluten Free Fried Noodles"
 ---

@@ -48,4 +48,6 @@ tags:
   - "Seasonalbox"
   - "Festive"
   - "Poultry"
+  - "Japanese Teriyaki Sauce"
+  - "Sesame Oil"
 ---

@@ -43,4 +43,6 @@ tags:
   - "Christmas"
   - "Special Occasion"
   - "Festive"
+  - "Original Hoisin Sauce"
+  - "Gluten Free Tamari Light Soy Sauce"
 ---

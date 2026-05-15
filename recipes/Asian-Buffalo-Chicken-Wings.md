@@ -47,4 +47,6 @@ tags:
   - "Quick and Easy"
   - "Winter"
   - "Poultry"
+  - "Sesame Oil"
+  - "Gluten Free Tamari Light Soy Sauce"
 ---

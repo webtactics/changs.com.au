@@ -46,4 +46,6 @@ tags:
   - "Chinese New Year"
   - "Special Occasion"
   - "Festive"
+  - "Original Hoisin Sauce"
+  - "Long Life Noodles"
 ---

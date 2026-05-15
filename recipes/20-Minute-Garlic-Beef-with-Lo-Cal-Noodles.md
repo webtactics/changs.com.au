@@ -47,4 +47,7 @@ tags:
   - "Noodles Ingredient"
   - "Main Meals"
   - "Protein"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Original Hoisin Sauce"
+  - "Traditional Super Lo-Cal Noodles"
 ---

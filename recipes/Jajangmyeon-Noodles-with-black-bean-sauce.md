@@ -59,4 +59,6 @@ tags:
   - "Autumn"
   - "Spring"
   - "Poultry"
+  - "Super Lo-Cal Wide Noodles"
+  - "Original Oyster Sauce"
 ---

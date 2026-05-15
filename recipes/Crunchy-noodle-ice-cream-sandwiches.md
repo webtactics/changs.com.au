@@ -42,4 +42,5 @@ tags:
   - "Spring"
   - "Special Occasion"
   - "Festive"
+  - "Crunchy Fried Noodles"
 ---

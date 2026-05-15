@@ -71,4 +71,5 @@ tags:
   - "Noodles Ingredient"
   - "Sweet treats"
   - "Autumn"
+  - "Original Fried Noodles"
 ---

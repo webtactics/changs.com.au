@@ -33,4 +33,5 @@ tags:
   - "Noodles Style"
   - "Sweet treats"
   - "Scary Sweets"
+  - "Original Fried Noodles"
 ---

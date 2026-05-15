@@ -48,4 +48,5 @@ tags:
   - "Quick and Easy"
   - "Winter"
   - "Spring"
+  - "Vermicelli Rice Noodles"
 ---
