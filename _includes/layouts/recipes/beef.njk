@@ -1,0 +1,26 @@
+
+{% extends "layouts/default.njk" %}
+
+{% block hero %}
+{% include "components/hero-detail.njk" %}
+{% endblock %}
+
+
+
+
+{% block content %} <section role="main" class="content">
+ <div class="grid-2-columns-2x1">
+ <div class="detailwrapper">
+<article>
+<h1>{{ title }}</h1>
+{{ layoutContent | safe }}
+{% set postslist = collections.Beef %}
+{% include "components/postslist.njk" %}
+ </article>
+ </div>
+ <div class="sidebarwrapper"><aside>{% set postslist = collections.noodles %}
+{% include "components/postslist-sidebar.njk" %}</aside></div>
+ </div>
+</section>
+{% endblock %}
+

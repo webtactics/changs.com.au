@@ -1,0 +1,40 @@
+
+{% extends "layouts/default.njk" %}
+
+{% block hero %}
+{% include "components/hero-detail.njk" %}
+{% endblock %}
+
+
+
+
+{% block content %} <section role="main" class="content">
+ <div class="grid-2-columns-2x1">
+ <div class="detailwrapper">
+<article>
+<h1>{{ title }}</h1>
+{{ content | safe }}
+{% if page.url == "/products/noodles/" %}
+{% set postslist = collections.Noodles %}
+{% include "components/post-product-default.njk" %}
+{% endif %}
+{% if page.url == "products/sauces/" %}
+{% set postslist = collections.Sauces %}
+{% include "components/postslist.njk" %}
+{% endif %}
+{% if page.url == "products/gluten-free-products/" %}
+{% set postslist = collections.gluten-free %}
+{% include "components/postslist.njk" %}
+{% endif %}
+{% if page.url == "products/tamari-wheat-free-sauces/" %}
+{% set postslist = collections.tamari %}
+{% include "components/tamari.njk" %}
+{% endif %}
+ </article>
+ </div>
+ <div class="sidebarwrapper"><aside>{% set postslist = collections.Beef %}
+{% include "components/postslist-sidebar.njk" %}</aside></div>
+ </div>
+</section>
+{% endblock %}
+

@@ -1,0 +1,56 @@
+{% extends "layouts/default.njk" %}
+
+{% block hero %}
+{% include "components/hero-detail.njk" %}
+{% endblock %}
+
+
+
+
+{% block content %} <section role="main" class="content">
+ <div class="grid-2-columns-2x1">
+ <div class="detailwrapper">
+<article>
+<h1>{{ title }}</h1>
+{{ layoutContent | safe }}
+{% if page.url == "/recipes/main-ingredients/beef/" %}
+{% set postslist = collections.Beef %}
+{% include "components/postslist.njk" %}
+{% elif page.url == "/recipes/main-ingredients/lamb/" %}
+{% set postslist = collections.Lamb %}
+{% include "components/postslist.njk" %}
+{% elif page.url == "/recipes/main-ingredients/noodles-ingredients/" %}
+{% set postslist = collections.Noodles %}
+{% include "components/postslist.njk" %}
+{% elif page.url == "/recipes/main-ingredients/seafood/" %}
+{% set postslist = collections.Seafood %}
+{% include "components/postslist.njk" %}
+{% elif page.url == "/recipes/main-ingredients/pork/" %}
+{% set postslist = collections.Pork %}
+{% include "components/postslist.njk" %}
+{% elif page.url == "/recipes/main-ingredients/poultry-based-recipes/" %}
+{% set postslist = collections.Poultry %}
+{% include "components/postslist.njk" %}
+{% elif page.url == "/recipes/main-ingredients/vegetarian/" %}
+{% set postslist = collections.Vegetarian %}
+{% include "components/postslist.njk" %}
+{% endif %}
+ </article>
+ </div>
+ <div class="sidebarwrapper"><aside>
+{% set postslist = collections.Beef %}
+{% include "components/postslist-sidebar.njk" %}
+{% set postslist = collections.Lamb %}
+{% include "components/postslist-sidebar.njk" %}
+{% set postslist = collections.Seafood %}
+{% include "components/postslist-sidebar.njk" %}
+{% set postslist = collections.Noodles %}
+{% include "components/postslist-sidebar.njk" %}
+</aside>
+</div>
+ </div>
+</section>
+{% endblock %}
+
+
+
