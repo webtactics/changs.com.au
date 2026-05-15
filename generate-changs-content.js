@@ -68,8 +68,7 @@ const ALIASES = [
   { pattern: "Pure\\s*Sesame\\s*Oil",                  title: "Sesame Oil",                         slug: "Changs-Sesame-Oil" },
   { pattern: "Light\\s*Soy\\s*Sauce",                  title: "Gluten Free Tamari Light Soy Sauce", slug: "Changs-Tamari-Light-Soy-Sauce" },
   { pattern: "Rice\\s*Vermicelli\\s*Noodles",          title: "Vermicelli Rice Noodles",            slug: "Changs-Vermicelli-Rice-Noodles" },
-  { pattern: "Hokkien\\s*Noodles",                     title: "Hokkien Noodles",                    slug: "Changs-Shelf-Fresh-Noodles-Hokkien-Style" },
-  { pattern: "Egg\\s*Noodles",                         title: "Egg Noodles",                        slug: "Changs-Egg-Noodles" },
+  { pattern: "Hokkien\\s*Noodles",                     title: "Shelf Fresh Noodles Hokkien Style",  slug: "Changs-Shelf-Fresh-Noodles-Hokkien-Style" },
   { pattern: "Chinese\\s*Master\\s*Stock",             title: "Master Stock",                       slug: "Changs-Master-Stock" },
   { pattern: "Chinese\\s*Masterstock",                 title: "Master Stock",                       slug: "Changs-Master-Stock" },
   { pattern: "Masterstock",                            title: "Master Stock",                       slug: "Changs-Master-Stock" },
@@ -83,33 +82,37 @@ for (const a of ALIASES) {
   });
 }
 
-/** Replace plain-text "Chang's X" mentions with links, skipping existing <a> tags */
-function linkPlainText(html) {
-  if (!html) return html;
-  // Split into linked / unlinked segments
-  const segments = [];
+/** Split html into linked/unlinked segments around existing <a> tags */
+function segmentHtml(html) {
+  const segs = [];
   let last = 0;
   const aTag = /<a\b[^>]*>[\s\S]*?<\/a>/gi;
   let m;
   while ((m = aTag.exec(html)) !== null) {
-    segments.push({ t: html.slice(last, m.index), linked: false });
-    segments.push({ t: m[0], linked: true });
+    segs.push({ t: html.slice(last, m.index), linked: false });
+    segs.push({ t: m[0], linked: true });
     last = m.index + m[0].length;
   }
-  segments.push({ t: html.slice(last), linked: false });
+  segs.push({ t: html.slice(last), linked: false });
+  return segs;
+}
 
-  return segments.map(seg => {
-    if (seg.linked) return seg.t;
-    let text = seg.t;
-    for (const { re, title, slug } of _textPatterns) {
-      text = text.replace(re, () => {
-        const label = `Chang's ${title}`;
+/** Replace plain-text "Chang's X" mentions with links, skipping existing <a> tags.
+ *  Re-segments after each pattern so newly-created links are never re-processed. */
+function linkPlainText(html) {
+  if (!html) return html;
+  for (const { re, title, slug } of _textPatterns) {
+    const segs = segmentHtml(html);
+    html = segs.map(seg => {
+      if (seg.linked) return seg.t;
+      return seg.t.replace(re, () => {
+        const label = "Chang's " + title;
         const t = _escAttr(label);
-        return `<a href="/products/${slug}/" title="${t}" alt="${t}">${label}</a>`;
+        return "<a href=\"/products/" + slug + "/\" title=\"" + t + "\" alt=\"" + t + "\">" + label + "</a>";
       });
-    }
-    return text;
-  }).join('');
+    }).join('');
+  }
+  return html;
 }
 
 function findProduct(templateName) {
