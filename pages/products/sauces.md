@@ -10,6 +10,7 @@ eleventyNavigation:
   parent: Products
   order: 2
 ---
-Sauces
+{% set postslist = collections['Products'] | intersection(collections['Sauces']) %}
+{% include "components/postslist-products-4-wide.njk" %}
 
 

@@ -10,6 +10,7 @@ eleventyNavigation:
   parent: Products
   order: 4
 ---
-Chang's Tamari - Wheat Free Products
+{% set postslist = collections['Products'] | intersection(collections['Tamari']) %}
+{% include "components/postslist-products-4-wide.njk" %}
 
 
