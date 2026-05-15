@@ -23,7 +23,7 @@ metadata:
   title: Our Range of Products.
 eleventyNavigation:
   key: Products
-  order: 3
+  order: 1
 ---
 
 {% set postslist = collections['Products']  %} 
