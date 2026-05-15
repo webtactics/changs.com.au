@@ -7,8 +7,10 @@ date: 2023-01-03
 permalink: "/products/gluten-free-products/"
 eleventyNavigation:
   key: Gluten Free
-  parent: Events
+  parent: Products
+  order: 3
 ---
-Gluten Free
+{% set postslist = collections['Products'] | intersection(collections['Gluten Free']) %}
+{% include "components/postslist-products-4-wide.njk" %}
 
 
