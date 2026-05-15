@@ -1,10 +1,10 @@
----
+﻿---
 title: "Teriyaki Sushi Burgers"
 status: published
 date: 2021-09-16
 description: "Teriyaki Sushi Burgers"
 permalink: "/recipes/Teriyaki-Sushi-Burgers/"
-image: "/static/img/recipes/Teriyaki-Sushi-Burgers/Teriyaki-Sushi-Burgers.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Teriyaki-Sushi-Burgers/Teriyaki-Sushi-Burgers.jpg
 serves: "4"
 preptime: "15 mins (cooking sushi rice and allowing to cool)"
 cookingtime: "20 mins"

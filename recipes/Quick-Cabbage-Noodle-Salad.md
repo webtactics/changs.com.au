@@ -1,10 +1,10 @@
----
+﻿---
 title: "Quick Cabbage Noodle Salad"
 status: published
 date: 2023-02-27
 description: "Colourful and gorgeous to look at, this salad is packed with nutritious vegetables, is low in calories, and can be made in just a few minutes! The perfect option for busy weeknights!"
 permalink: "/recipes/Quick-Cabbage-Noodle-Salad/"
-image: "/static/img/recipes/Quick-Cabbage-Noodle-Salad/Quick-Cabbage-Noodle-Salad-6.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Quick-Cabbage-Noodle-Salad/Quick-Cabbage-Noodle-Salad-6.jpg
 serves: "4"
 preptime: "15 minutes"
 cookingtime: "3 minutes"

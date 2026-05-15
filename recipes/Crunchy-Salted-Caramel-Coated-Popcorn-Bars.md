@@ -1,10 +1,10 @@
----
+﻿---
 title: "Crunchy Salted Caramel Coated Popcorn Bars"
 status: published
 date: 2016-03-02
 description: "Tasty salted caramel popcorn bars with added Chang’s noodle crunch"
 permalink: "/recipes/Crunchy-Salted-Caramel-Coated-Popcorn-Bars/"
-image: "/static/img/recipes/Crunchy-Salted-Caramel-Coated-Popcorn-Bars/Crunchy-Salted-Caramel-Coated-Popcorn-Bars.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Crunchy-Salted-Caramel-Coated-Popcorn-Bars/Crunchy-Salted-Caramel-Coated-Popcorn-Bars.jpg
 serves: "18"
 preptime: "1 hour 30 mins"
 difficulty: "Easy"

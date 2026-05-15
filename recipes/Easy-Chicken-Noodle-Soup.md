@@ -1,10 +1,10 @@
----
+﻿---
 title: "Easy Chicken Noodle Soup"
 status: published
 date: 2019-07-10
 description: "Who doesn’t love Chicken Noodle Soup? And whop doesn’t love easy? Leave it to Chang’s and our Long Life Noodles to bring this favourite into your home, simply.  Make some today!"
 permalink: "/recipes/Easy-Chicken-Noodle-Soup/"
-image: "/static/img/recipes/Easy-Chicken-Noodle-Soup/191126-Easy-Chicken-Noodle-Soup-3.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Easy-Chicken-Noodle-Soup/191126-Easy-Chicken-Noodle-Soup-3.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

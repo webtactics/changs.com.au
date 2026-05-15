@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chinese Master Stock Poached Barramundi and Crunchy Noodles"
 status: published
 date: 2016-06-19
 description: "Barramundi poached in Chinese Master Stock with Greens and Crunchy Noodles"
 permalink: "/recipes/Chinese-Master-Stock-Poached-Barramundi-Crunchy-Noodles/"
-image: "/static/img/recipes/Chinese-Master-Stock-Poached-Barramundi-Crunchy-Noodles/Changs-Chinese-Master-Stock-Poached-Barramundi-and-Crunchy-Noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chinese-Master-Stock-Poached-Barramundi-Crunchy-Noodles/Changs-Chinese-Master-Stock-Poached-Barramundi-and-Crunchy-Noodles.jpg
 serves: "4"
 preptime: "15 minutes"
 difficulty: "Easy"

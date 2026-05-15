@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chinese Master Stock Tofu and Asian Greens"
 status: published
 date: 2016-06-19
 description: "Braised Asian Greens and Tofu in Chinese Master Stock with Red Peanuts"
 permalink: "/recipes/Chinese-Master-Stock-Tofu-Asian-Greens/"
-image: "/static/img/recipes/Chinese-Master-Stock-Tofu-Asian-Greens/Braised-Asian-greens-and-tofu-in-Masterstock-with-red-peanuts.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chinese-Master-Stock-Tofu-Asian-Greens/Braised-Asian-greens-and-tofu-in-Masterstock-with-red-peanuts.jpg
 serves: "4"
 preptime: "30 minutes"
 difficulty: "Easy"

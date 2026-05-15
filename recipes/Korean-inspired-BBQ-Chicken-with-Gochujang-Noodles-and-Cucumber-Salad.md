@@ -1,10 +1,10 @@
----
+﻿---
 title: "Korean-inspired BBQ Chicken with Gochujang Noodles and Cucumber Salad"
 status: published
 date: 2025-05-25
 description: "A flavour-packed, protein-rich dish inspired by Korean BBQ flavours — perfect for meal prep or weeknight dinners."
 permalink: "/recipes/Korean-inspired-BBQ-Chicken-with-Gochujang-Noodles-and-Cucumber-Salad/"
-image: "/static/img/recipes/Korean-inspired-BBQ-Chicken-with-Gochujang-Noodles-and-Cucumber-Salad/Korean-inspired-BBQ-Chicken-with-Gochujang-Noodles-and-Cucumber-Salad.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Korean-inspired-BBQ-Chicken-with-Gochujang-Noodles-and-Cucumber-Salad/Korean-inspired-BBQ-Chicken-with-Gochujang-Noodles-and-Cucumber-Salad.jpg
 serves: "4"
 preptime: "20 minutes"
 cookingtime: "20 minutes"

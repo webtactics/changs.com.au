@@ -1,10 +1,10 @@
----
+﻿---
 title: "One Pan Chinese Chicken and Rice"
 status: published
 date: 2022-10-12
 description: "Who doesn’t love a one-pan meal? Especially one that tastes like this!"
 permalink: "/recipes/One-Pan-Chinese-Chicken-and-Rice/"
-image: "/static/img/recipes/One-Pan-Chinese-Chicken-and-Rice/One-Pan-Chinese-Chicken-and-Rice-13.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/One-Pan-Chinese-Chicken-and-Rice/One-Pan-Chinese-Chicken-and-Rice-13.jpg
 author: "pwg"
 gallery: "recipes/One-Pan-Chinese-Chicken-and-Rice"
 ingredients: |

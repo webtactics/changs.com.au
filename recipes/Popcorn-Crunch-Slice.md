@@ -1,10 +1,10 @@
----
+﻿---
 title: "Popcorn Crunch Slice"
 status: published
 date: 2023-11-15
 description: "How could a mix of popcorn, chocolate and our famous noodles not create a wonderful taste. Simple, great and fun to make!"
 permalink: "/recipes/Popcorn-Crunch-Slice/"
-image: "/static/img/recipes/Popcorn-Crunch-Slice/Popcorn-Crunch-Slice-5.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Popcorn-Crunch-Slice/Popcorn-Crunch-Slice-5.jpg
 preptime: "10 minutes"
 cookingtime: "Chill 20 minutes"
 difficulty: "Easy"

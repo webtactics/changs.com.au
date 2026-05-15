@@ -1,10 +1,10 @@
----
+﻿---
 title: "Spicy Asian Osso Buco"
 status: published
 date: 2015-08-07
 description: "A warming winter Osso Buco, with an Asian flair"
 permalink: "/recipes/Spicy-Asian-Osso-Buco/"
-image: "/static/img/recipes/Spicy-Asian-Osso-Buco/Spicy-Asian-Osso-Buco.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Spicy-Asian-Osso-Buco/Spicy-Asian-Osso-Buco.jpg
 serves: "4"
 preptime: "2+ hours"
 difficulty: "Easy"

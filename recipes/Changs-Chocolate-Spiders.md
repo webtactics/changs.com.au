@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chang's Chocolate Spiders"
 status: published
 date: 2026-04-14
 description: "Kids love this treat. So simple to make, they can do it themselves. The mixture really does resemble a spider. They won’t last long at a birthday party or fete !"
 permalink: "/recipes/Changs-Chocolate-Spiders/"
-image: "/static/img/recipes/Changs-Chocolate-Spiders/Changs-Chocolate-Spiders-800-3.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Changs-Chocolate-Spiders/Changs-Chocolate-Spiders-800-3.jpg
 difficulty: "Easy. Kids could make."
 author: "Pete"
 gallery: "recipes/Changs-Chocolate-Spiders"

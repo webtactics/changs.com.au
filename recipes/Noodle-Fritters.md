@@ -1,10 +1,10 @@
----
+﻿---
 title: "Noodle Fritters"
 status: published
 date: 2020-05-26
 description: "What could be a more appealing start to the day than our Asian Style Noodle Fritters? Crispy and flavourful these super simple fritters are quickly on the table and really can include whatever veggies you have in the fridge. Enjoy!"
 permalink: "/recipes/Noodle-Fritters/"
-image: "/static/img/recipes/Noodle-Fritters/Noodle-Fritters-4.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Noodle-Fritters/Noodle-Fritters-4.jpg
 makes: "12"
 preptime: "10 mins"
 cookingtime: "20 mins"

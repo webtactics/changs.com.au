@@ -1,10 +1,10 @@
----
+﻿---
 title: "Steamed Whole Fish with Ginger and Soy"
 status: published
 date: 2016-02-03
 description: "A tasty classic Chinese special occasion banquet dish."
 permalink: "/recipes/Steamed-Whole-Fish-with-Ginger-and-Soy/"
-image: "/static/img/recipes/Steamed-Whole-Fish-with-Ginger-and-Soy/Steamed-Whole-Fish-with-Ginger-and-Soy.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Steamed-Whole-Fish-with-Ginger-and-Soy/Steamed-Whole-Fish-with-Ginger-and-Soy.jpg
 serves: "4"
 preptime: "45 minutes"
 difficulty: "Easy"

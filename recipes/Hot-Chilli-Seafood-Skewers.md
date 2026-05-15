@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chilli Seafood Skewers"
 status: published
 date: 2020-09-30
 description: "These delicious Chang's Hot Chilli Sauce skewers are easy to make with just the right amount of heat from the sauce. Served with a butter lettuce and mango salad it's the perfect summer meal for entertaining."
 permalink: "/recipes/Hot-Chilli-Seafood-Skewers/"
-image: "/static/img/recipes/Hot-Chilli-Seafood-Skewers/Hot-Chilli-Seafood-Skewers-15.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Hot-Chilli-Seafood-Skewers/Hot-Chilli-Seafood-Skewers-15.jpg
 serves: "4"
 preptime: "15 mins"
 cookingtime: "20 mins"

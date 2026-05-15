@@ -1,10 +1,10 @@
----
+﻿---
 title: "Marshmallows and Caramel Cups"
 status: published
 date: 2019-10-24
 description: "Sweet treats don’t come much simpler or sweeter than our Marshmallow and Caramel cups. Easy to make and easier to love!"
 permalink: "/recipes/Marshmallows-and-Caramel-Cups/"
-image: "/static/img/recipes/Marshmallows-and-Caramel-Cups/191024-Marshmallows-and-Caramel-Cups.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Marshmallows-and-Caramel-Cups/191024-Marshmallows-and-Caramel-Cups.jpg
 makes: "16"
 difficulty: "Simple"
 author: "pwg"

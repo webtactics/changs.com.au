@@ -1,10 +1,10 @@
----
+﻿---
 title: "Cabbage and Pork Croquettes with Teriyaki Sauce"
 status: published
 date: 2021-11-30
 description: "Cabbage and Pork Croquettes with Teriyaki Sauce"
 permalink: "/recipes/Cabbage-and-Pork-Croquettes-with-Teriyaki-Sauce/"
-image: "/static/img/recipes/Cabbage-and-Pork-Croquettes-with-Teriyaki-Sauce/Cabbage-and-Pork-Croquettes_2x3_WEB-7.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Cabbage-and-Pork-Croquettes-with-Teriyaki-Sauce/Cabbage-and-Pork-Croquettes_2x3_WEB-7.jpg
 makes: "22-24"
 preptime: "20 minutes Refrigeration: 30 minutes"
 cookingtime: "30 minutes"

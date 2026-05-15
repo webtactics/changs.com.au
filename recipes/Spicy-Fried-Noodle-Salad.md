@@ -1,10 +1,10 @@
----
+﻿---
 title: "Spicy Fried Noodle Salad"
 status: published
 date: 2019-04-02
 description: "With a gluten-free option, this easy to prepare, super tasty, spicy, and crunchy recipe is also good for you! What’s not to love about our Spicy Fried Noodle Salad?"
 permalink: "/recipes/Spicy-Fried-Noodle-Salad/"
-image: "/static/img/recipes/Spicy-Fried-Noodle-Salad/Spicy-Fried-Noodle-Salad.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Spicy-Fried-Noodle-Salad/Spicy-Fried-Noodle-Salad.jpg
 serves: "4-6"
 difficulty: "Simple"
 author: "pwg"

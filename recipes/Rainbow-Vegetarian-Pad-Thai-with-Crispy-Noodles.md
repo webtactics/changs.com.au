@@ -1,10 +1,10 @@
----
+﻿---
 title: "Rainbow Vegetarian Pad Thai with Crispy Noodles"
 status: published
 date: 2019-04-05
 description: "A Pad Thai dish that is nut free and school box friendly with Chang’s Original Fried Noodles used instead of peanuts for that special Pad Thai crunch!)"
 permalink: "/recipes/Rainbow-Vegetarian-Pad-Thai-with-Crispy-Noodles/"
-image: "/static/img/recipes/Rainbow-Vegetarian-Pad-Thai-with-Crispy-Noodles/Rainbow-Vegetarian-Pad-Thai-with-Crispy-Noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Rainbow-Vegetarian-Pad-Thai-with-Crispy-Noodles/Rainbow-Vegetarian-Pad-Thai-with-Crispy-Noodles.jpg
 serves: "3-4"
 difficulty: "Easy"
 author: "pwg"

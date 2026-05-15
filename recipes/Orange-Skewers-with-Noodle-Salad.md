@@ -1,10 +1,10 @@
----
+﻿---
 title: "Orange Skewers with Noodle Salad"
 status: published
 date: 2019-10-17
 description: "Kids of all ages love eating off a stick, and these marinated chicken skewers are a hit. Simple to make, eat and clean up. A winner all round."
 permalink: "/recipes/Orange-Skewers-with-Noodle-Salad/"
-image: "/static/img/recipes/Orange-Skewers-with-Noodle-Salad/191202-Orange-Skewers-with-Noodle-Salad-2.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Orange-Skewers-with-Noodle-Salad/191202-Orange-Skewers-with-Noodle-Salad-2.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

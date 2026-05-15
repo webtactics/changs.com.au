@@ -1,10 +1,10 @@
----
+﻿---
 title: "Pork and noodle san choy bau cups"
 status: published
 date: 2017-12-01
 description: "Nothing starts a meal better than San Choy Bau and this year it will bring you luck as well. Use our recipe to serve 4 (a lucky number during the Year of the Dog), while the green of the lettuce cups is also very lucky this year."
 permalink: "/recipes/Pork-and-noodle-san-choy-bau-cups/"
-image: "/static/img/recipes/Pork-and-noodle-san-choy-bau-cups/Pork-and-noodle-san-choy-bau-cups.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Pork-and-noodle-san-choy-bau-cups/Pork-and-noodle-san-choy-bau-cups.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

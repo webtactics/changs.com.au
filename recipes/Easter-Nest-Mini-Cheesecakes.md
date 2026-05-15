@@ -1,10 +1,10 @@
----
+﻿---
 title: "Easter Nest Mini Cheesecakes"
 status: published
 date: 2022-01-20
 description: "Easter Nest Mini Cheesecakes"
 permalink: "/recipes/Easter-Nest-Mini-Cheesecakes/"
-image: "/static/img/recipes/Easter-Nest-Mini-Cheesecakes/Easter-Nest-Mini-Cheesecakes-10.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Easter-Nest-Mini-Cheesecakes/Easter-Nest-Mini-Cheesecakes-10.jpg
 makes: "12 large muffin size cheesecakes"
 preptime: "20 minutes Refrigeration: 3 hours or overnight"
 difficulty: "Pretty Easy"

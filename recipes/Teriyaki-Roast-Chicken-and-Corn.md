@@ -1,10 +1,10 @@
----
+﻿---
 title: "Teriyaki Roast Chicken and Corn"
 status: published
 date: 2021-11-17
 description: "Teriyaki Roast Chicken and Corn"
 permalink: "/recipes/Teriyaki-Roast-Chicken-and-Corn/"
-image: "/static/img/recipes/Teriyaki-Roast-Chicken-and-Corn/Teriyaki-Roast-Chicken-and-Corn.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Teriyaki-Roast-Chicken-and-Corn/Teriyaki-Roast-Chicken-and-Corn.jpg
 preptime: "10 minutes"
 cookingtime: "2 hours"
 author: "pwg"

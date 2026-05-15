@@ -1,10 +1,10 @@
----
+﻿---
 title: "Beef and Mushroom Noodles Soup"
 status: published
 date: 2022-05-14
 description: "A steaming bowl of comfort packed with delicious flavours and the taste of the Orient. This Beef and Mushroom Noodles Soup can be made into a low carb  and gluten free version using our Traditional Super Lo Cal Noodles or traditionally using our Long Life Noodles."
 permalink: "/recipes/Beef-and-Mushroom-Noodles-Soup/"
-image: "/static/img/recipes/Beef-and-Mushroom-Noodles-Soup/Beef-and-Mushroom-Noodles-Soup_WEB-4.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Beef-and-Mushroom-Noodles-Soup/Beef-and-Mushroom-Noodles-Soup_WEB-4.jpg
 serves: "4"
 preptime: "10 minutes"
 cookingtime: "15 minutes"

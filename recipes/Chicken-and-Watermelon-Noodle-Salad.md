@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chicken and Watermelon Noodle Salad"
 status: published
 date: 2015-09-15
 description: "Asian inspired chicken and watermelon salad with a hint of freshness"
 permalink: "/recipes/Chicken-and-Watermelon-Noodle-Salad/"
-image: "/static/img/recipes/Chicken-and-Watermelon-Noodle-Salad/Chicken-and-Watermelon-Noodle-Salad.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chicken-and-Watermelon-Noodle-Salad/Chicken-and-Watermelon-Noodle-Salad.jpg
 serves: "4"
 preptime: "25 minutes"
 difficulty: "Easy"

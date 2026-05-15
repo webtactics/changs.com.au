@@ -1,11 +1,11 @@
----
+﻿---
 title: "Cleaver and wooden chopping board"
 status: published
 date: 2026-05-15
 description: "This brilliantly sharp Chang's Cleaver, made from Damascus steel, and accompanying Chang's wooden chopping board can by yours for only $299.00"
 permalink: "/products/Changs-Cleaver-And-Wooden-Chopping-Board/"
-image: "/static/img/products/Changs-Cleaver-And-Wooden-Chopping-Board/Changs-Cleaver-and-wooden-chopping-board-1.jpg"
-sumimage: "/static/img/products/Changs-Cleaver-And-Wooden-Chopping-Board/Changs-Cleaver-and-wooden-chopping-board-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Cleaver-And-Wooden-Chopping-Board/Changs-Cleaver-and-wooden-chopping-board-1.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Cleaver-And-Wooden-Chopping-Board/Changs-Cleaver-and-wooden-chopping-board-300x200.jpg
 gluten_free: true
 ---
 

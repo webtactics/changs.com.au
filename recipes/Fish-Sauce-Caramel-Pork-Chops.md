@@ -1,10 +1,10 @@
----
+﻿---
 title: "Fish Sauce Caramel Pork Chops"
 status: published
 date: 2021-09-16
 description: "Fish Sauce Caramel Pork Chops"
 permalink: "/recipes/Fish-Sauce-Caramel-Pork-Chops/"
-image: "/static/img/recipes/Fish-Sauce-Caramel-Pork-Chops/Fish-Sauce-Caramel-Pork-Chops.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Fish-Sauce-Caramel-Pork-Chops/Fish-Sauce-Caramel-Pork-Chops.jpg
 serves: "4"
 preptime: "5 mins"
 cookingtime: "30 mins"

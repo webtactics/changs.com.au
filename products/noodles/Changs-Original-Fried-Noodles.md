@@ -1,11 +1,11 @@
----
+﻿---
 title: "Original Fried Noodles"
 status: published
 date: 2026-05-15
 description: "Our famous original fried noodles! Ready to eat thin, short, straight crunchy fried noodles made with wheat flour and fried in cottonseed oil."
 permalink: "/products/Changs-Original-Fried-Noodles/"
-image: "/static/img/products/Changs-Original-Fried-Noodles/190829-Original-Fried-Noodles.jpg"
-sumimage: "/static/img/products/Changs-Original-Fried-Noodles/190829-Original-Fried-Noodles-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Fried-Noodles/190829-Original-Fried-Noodles.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Fried-Noodles/190829-Original-Fried-Noodles-300x200.jpg
 gluten_free: true
 gtin: "9300777013021"
 allergen: "Contains gluten"

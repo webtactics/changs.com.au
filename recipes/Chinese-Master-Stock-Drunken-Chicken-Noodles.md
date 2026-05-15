@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chinese Master Stock Drunken Chicken Noodles"
 status: published
 date: 2016-06-19
 description: "Chinese Master Stock Drunken Chicken with Egg Noodles"
 permalink: "/recipes/Chinese-Master-Stock-Drunken-Chicken-Noodles/"
-image: "/static/img/recipes/Chinese-Master-Stock-Drunken-Chicken-Noodles/Changs-Chinese-Master-Stock-Chicken-and-Noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chinese-Master-Stock-Drunken-Chicken-Noodles/Changs-Chinese-Master-Stock-Chicken-and-Noodles.jpg
 serves: "4"
 preptime: "1 hour"
 difficulty: "Easy"

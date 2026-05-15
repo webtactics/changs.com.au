@@ -1,10 +1,10 @@
----
+﻿---
 title: "Noodle Stir Fry with Chinese Sausage"
 status: published
 date: 2019-07-10
 description: "A great dish for a packed lunch this one, as it can be eaten hot or cold. The meaty flavours of the Chinese sausage, combined with the bok choy, carrot and Long Life noodles make for a flavour sensation."
 permalink: "/recipes/Noodle-Stir-Fry-with-Chinese-Sausage/"
-image: "/static/img/recipes/Noodle-Stir-Fry-with-Chinese-Sausage/191202-Noodle-Stir-Fry-with-Chinese-Sausage-3.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Noodle-Stir-Fry-with-Chinese-Sausage/191202-Noodle-Stir-Fry-with-Chinese-Sausage-3.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

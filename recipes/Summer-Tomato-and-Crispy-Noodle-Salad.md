@@ -1,10 +1,10 @@
----
+﻿---
 title: "Summer Tomato and Crispy Noodle Salad"
 status: published
 date: 2015-08-07
 description: "The perfect side salad at any BBQ"
 permalink: "/recipes/Summer-Tomato-and-Crispy-Noodle-Salad/"
-image: "/static/img/recipes/Summer-Tomato-and-Crispy-Noodle-Salad/Summer-Tomato-and-Crispy-Noodle-Salad.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Summer-Tomato-and-Crispy-Noodle-Salad/Summer-Tomato-and-Crispy-Noodle-Salad.jpg
 serves: "4-6"
 preptime: "15 minutes"
 difficulty: "Easy"

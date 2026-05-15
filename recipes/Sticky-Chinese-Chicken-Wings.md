@@ -1,10 +1,10 @@
----
+﻿---
 title: "Sticky Chinese Chicken Wings"
 status: published
 date: 2020-08-17
 description: "I’m not sure we need to say anything else. Sticky Chinese Chicken Wings. There you have it. Sticky, spicey (if you wish), flavourful delectable goodness."
 permalink: "/recipes/Sticky-Chinese-Chicken-Wings/"
-image: "/static/img/recipes/Sticky-Chinese-Chicken-Wings/Sticky-Chinese-Chicken-Wings-WEB-3.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Sticky-Chinese-Chicken-Wings/Sticky-Chinese-Chicken-Wings-WEB-3.jpg
 serves: "6"
 preptime: "20 mins"
 cookingtime: "40 mins"

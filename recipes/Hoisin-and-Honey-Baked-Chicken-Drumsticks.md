@@ -1,10 +1,10 @@
----
+﻿---
 title: "Hoisin and Honey Baked Chicken Drumsticks"
 status: published
 date: 2015-12-07
 description: "Child friendly, snack-sized chicken drumsticks with hoisin and honey."
 permalink: "/recipes/Hoisin-and-Honey-Baked-Chicken-Drumsticks/"
-image: "/static/img/recipes/Hoisin-and-Honey-Baked-Chicken-Drumsticks/Hoisin-and-Honey-Baked-Chicken-Drumsticks.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Hoisin-and-Honey-Baked-Chicken-Drumsticks/Hoisin-and-Honey-Baked-Chicken-Drumsticks.jpg
 serves: "8"
 preptime: "45 minutes"
 marinating: "12 hours"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Crispy Noodle Salad in a Jar"
 status: published
 date: 2020-03-04
 description: "Another spin on our famous Chang’s Crispy Noodle Salad, this time the travel version. With an interesting Asian flavour combined with the crunch of Fried noodles and nuts, this meal is ideal for a day at work or away!"
 permalink: "/recipes/Crispy-Noodle-Salad-in-a-Jar/"
-image: "/static/img/recipes/Crispy-Noodle-Salad-in-a-Jar/Crispy-Noodle-Salad-in-a-Jar-4.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Crispy-Noodle-Salad-in-a-Jar/Crispy-Noodle-Salad-in-a-Jar-4.jpg
 makes: "4-5 large jar servings"
 difficulty: "Easy"
 author: "pwg"

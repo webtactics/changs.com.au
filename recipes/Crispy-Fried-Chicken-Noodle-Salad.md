@@ -1,10 +1,10 @@
----
+﻿---
 title: "Crispy Fried Chicken Noodle Salad"
 status: published
 date: 2017-09-01
 description: "Crispy Fried Chicken Noodle Salad - what's not to love?"
 permalink: "/recipes/Crispy-Fried-Chicken-Noodle-Salad/"
-image: "/static/img/recipes/Crispy-Fried-Chicken-Noodle-Salad/Crispy-Fried-Chicken-Noodle-Salad.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Crispy-Fried-Chicken-Noodle-Salad/Crispy-Fried-Chicken-Noodle-Salad.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

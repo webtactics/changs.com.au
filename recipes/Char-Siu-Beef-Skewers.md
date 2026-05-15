@@ -1,10 +1,10 @@
----
+﻿---
 title: "Char Siu Beef Skewers"
 status: published
 date: 2020-08-17
 description: "Think your standard BBQ skewers, and then throw away the standard part. Our Char Siu (Chinese BBQ) Beef Skewers will have the kids calling for more."
 permalink: "/recipes/Char-Siu-Beef-Skewers/"
-image: "/static/img/recipes/Char-Siu-Beef-Skewers/Char-Siu-Beef-Skewers-5.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Char-Siu-Beef-Skewers/Char-Siu-Beef-Skewers-5.jpg
 serves: "6"
 preptime: "6 mins"
 cookingtime: "10 mins"

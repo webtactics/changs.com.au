@@ -1,10 +1,10 @@
----
+﻿---
 title: "Peppered Beef and Crispy Noodles stir fry"
 status: published
 date: 2017-09-10
 description: "Peppered Beef and Crispy Noodles stir fry"
 permalink: "/recipes/Peppered-Beef-and-Crispy-Noodles-stir-fry/"
-image: "/static/img/recipes/Peppered-Beef-and-Crispy-Noodles-stir-fry/Peppered-Beef-and-Crispy-Noodles-stir-fry.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Peppered-Beef-and-Crispy-Noodles-stir-fry/Peppered-Beef-and-Crispy-Noodles-stir-fry.jpg
 serves: "4"
 difficulty: "Not bad"
 author: "pwg"

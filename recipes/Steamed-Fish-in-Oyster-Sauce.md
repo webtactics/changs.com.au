@@ -1,10 +1,10 @@
----
+﻿---
 title: "Steamed Fish in Oyster Sauce (Waterless)"
 status: published
 date: 2023-02-27
 description: "Our Steamed Fish in Oyster Sauce recipe is a delicious and healthy option for any seafood lover. This dish is easy to make, yet impressive enough to serve to guests. With its tender, flaky texture and flavourful sauce, it's sure to become a new favourite in your recipe collection!"
 permalink: "/recipes/Steamed-Fish-in-Oyster-Sauce/"
-image: "/static/img/recipes/Steamed-Fish-in-Oyster-Sauce/Steamed-Fish-in-Oyster-Sauce-10.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Steamed-Fish-in-Oyster-Sauce/Steamed-Fish-in-Oyster-Sauce-10.jpg
 serves: "4"
 preptime: "15 minutes"
 cookingtime: "15 minutes"

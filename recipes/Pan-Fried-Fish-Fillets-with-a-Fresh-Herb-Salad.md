@@ -1,10 +1,10 @@
----
+﻿---
 title: "Quick Pan-Fried Fish with a Fresh Herb Salad"
 status: published
 date: 2015-08-07
 description: "A quick and easy marinated, pan fried fish served with a fresh herb salad"
 permalink: "/recipes/Pan-Fried-Fish-Fillets-with-a-Fresh-Herb-Salad/"
-image: "/static/img/recipes/Pan-Fried-Fish-Fillets-with-a-Fresh-Herb-Salad/Pan-Fried-Fish-Fillets-with-a-Fresh-Herb-Salad.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Pan-Fried-Fish-Fillets-with-a-Fresh-Herb-Salad/Pan-Fried-Fish-Fillets-with-a-Fresh-Herb-Salad.jpg
 serves: "4"
 preptime: "20 minutes - 12 hours"
 marinating: "20 minutes - 12 hours"

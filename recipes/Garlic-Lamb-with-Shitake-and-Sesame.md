@@ -1,10 +1,10 @@
----
+﻿---
 title: "Garlic Lamb with Shitake and Sesame"
 status: published
 date: 2018-10-10
 description: "Garlic Lamb with Shitake and Sesame: swap out the lamb for beef or chicken if desired"
 permalink: "/recipes/Garlic-Lamb-with-Shitake-and-Sesame/"
-image: "/static/img/recipes/Garlic-Lamb-with-Shitake-and-Sesame/Garlic-Lamb-with-Shitake-and-Sesame.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Garlic-Lamb-with-Shitake-and-Sesame/Garlic-Lamb-with-Shitake-and-Sesame.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Easy Work Place Noodles"
 status: published
 date: 2019-07-10
 description: "Everyone has those days. The days when you need quick, simple, and fantastic! Add chilli to taste."
 permalink: "/recipes/Easy-Work-Place-Noodles/"
-image: "/static/img/recipes/Easy-Work-Place-Noodles/Easy-Work-Place-Noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Easy-Work-Place-Noodles/Easy-Work-Place-Noodles.jpg
 serves: "1"
 difficulty: "Simple"
 author: "pwg"

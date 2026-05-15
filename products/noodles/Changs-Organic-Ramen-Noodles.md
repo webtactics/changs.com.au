@@ -1,11 +1,11 @@
----
+﻿---
 title: "Organic Ramen Noodles"
 status: published
 date: 2026-05-15
 description: "Ramen is a Japanese name for traditional Chinese-style noodles (stretched noodles). It is often used in stir-fries and soups."
 permalink: "/products/Changs-Organic-Ramen-Noodles/"
-image: "/static/img/products/Changs-Organic-Ramen-Noodles/Organic-Ramen-Noodles-280g-front.jpg"
-sumimage: "/static/img/products/Changs-Organic-Ramen-Noodles/Organic-Ramen-Noodles-280g-front-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Organic-Ramen-Noodles/Organic-Ramen-Noodles-280g-front.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Organic-Ramen-Noodles/Organic-Ramen-Noodles-280g-front-300x200.jpg
 prodsize: "280g"
 gluten_free: true
 gtin: "9300777093429"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Noodle Hair Monster Pops"
 status: published
 date: 2019-09-30
 description: "Who doesn’t want a Noodle Hair Monster Pop? With a gluten-free option, these delectable delights, both look and taste great."
 permalink: "/recipes/Noodle-Hair-Monster-Pops/"
-image: "/static/img/recipes/Noodle-Hair-Monster-Pops/191202-Noodle-Hair-Monster-Pops-4.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Noodle-Hair-Monster-Pops/191202-Noodle-Hair-Monster-Pops-4.jpg
 difficulty: "Easy"
 author: "pwg"
 gallery: "recipes/Noodle-Hair-Monster-Pops"

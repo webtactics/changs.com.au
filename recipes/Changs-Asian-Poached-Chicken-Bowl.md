@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chang's Asian Poached Chicken Bowl"
 status: published
 date: 2023-11-15
 description: "Experience the exquisite blend of flavors in our Asian Poached Chicken Bowl - a quick and easy main meal that serves four. Poached chicken, Chang’s Long Life Noodles, and a colorful medley of shredded purple cabbage, cucumber ribbons, carrot, pea sprouts, and fresh mint or coriander come together harmoniously."
 permalink: "/recipes/Changs-Asian-Poached-Chicken-Bowl/"
-image: "/static/img/recipes/Changs-Asian-Poached-Chicken-Bowl/Changs-Asian-Poached-Chicken-Bowl-6.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Changs-Asian-Poached-Chicken-Bowl/Changs-Asian-Poached-Chicken-Bowl-6.jpg
 serves: "4"
 preptime: "10 minutes"
 cookingtime: "15 minutes"

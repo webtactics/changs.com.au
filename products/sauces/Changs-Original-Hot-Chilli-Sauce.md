@@ -1,11 +1,11 @@
----
+﻿---
 title: "Original Hot Chilli Sauce"
 status: published
 date: 2026-05-15
 description: "Who doesn't love a spicy chilli sauce? And a gluten-free one at that!"
 permalink: "/products/Changs-Original-Hot-Chilli-Sauce/"
-image: "/static/img/products/Changs-Original-Hot-Chilli-Sauce/200511-Changs-Original-Hot-Chilli-Sauce-280ml-1200x1200.jpg"
-sumimage: "/static/img/products/Changs-Original-Hot-Chilli-Sauce/200511-Changs-Original-Hot-Chilli-Sauce-280ml-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Hot-Chilli-Sauce/200511-Changs-Original-Hot-Chilli-Sauce-280ml-1200x1200.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Hot-Chilli-Sauce/200511-Changs-Original-Hot-Chilli-Sauce-280ml-300x200.jpg
 prodsize: "280ml"
 packsizes: "150ml and 280ml"
 gluten_free: true

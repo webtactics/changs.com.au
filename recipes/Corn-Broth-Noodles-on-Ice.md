@@ -1,10 +1,10 @@
----
+﻿---
 title: "Corn Broth Noodles (on Ice)"
 status: published
 date: 2025-12-02
 description: "Corn Broth Noodles (on Ice) — a refreshing summer noodle dish from Chang’s. Chilled rice-noodles in a silky, sweet corn broth, topped with warm corn kernels, spring onion and a hint of sesame oil. Ready in about 20 minutes prep time (plus cooling) — a light, cool bowl perfect for hot days."
 permalink: "/recipes/Corn-Broth-Noodles-on-Ice/"
-image: "/static/img/recipes/Corn-Broth-Noodles-on-Ice/Corn-Broth-Noodles-on-ice.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Corn-Broth-Noodles-on-Ice/Corn-Broth-Noodles-on-ice.jpg
 serves: "2"
 preptime: "20 minutes"
 cookingtime: "35 minutes"

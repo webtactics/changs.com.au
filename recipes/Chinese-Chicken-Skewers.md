@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chinese Chicken Skewers"
 status: published
 date: 2015-08-07
 description: "Marinated chicken skewers, best enjoyed straight from the BBQ"
 permalink: "/recipes/Chinese-Chicken-Skewers/"
-image: "/static/img/recipes/Chinese-Chicken-Skewers/Chinese-Chicken-Skewers.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chinese-Chicken-Skewers/Chinese-Chicken-Skewers.jpg
 serves: "4"
 preptime: "30 minutes"
 marinating: "2+ hours"

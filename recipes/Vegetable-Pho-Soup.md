@@ -1,10 +1,10 @@
----
+﻿---
 title: "Vegetable Pho Soup"
 status: published
 date: 2020-08-17
 description: "Vietnamese pho is generally meat-based, but our VegetablePho Soup is no lightweight! The soup has a depth of flavour, there is body in thebroth and plenty of spice, courtesy of Chang's Original Hot Chilli Sauce."
 permalink: "/recipes/Vegetable-Pho-Soup/"
-image: "/static/img/recipes/Vegetable-Pho-Soup/Vegetable-Pho-Soup-WEB-2.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Vegetable-Pho-Soup/Vegetable-Pho-Soup-WEB-2.jpg
 serves: "4"
 preptime: "15 min"
 cookingtime: "30 min"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Roast Pumpkin and Quinoa Noodle Salad"
 status: published
 date: 2015-09-15
 description: "Asian inspired salad with roast pumpkin, quinoa, feta and walnuts"
 permalink: "/recipes/Roast-Pumpkin-and-Quinoa-Noodle-Salad/"
-image: "/static/img/recipes/Roast-Pumpkin-and-Quinoa-Noodle-Salad/Roast-Pumpkin-and-Quinoa-Noodle-Salad.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Roast-Pumpkin-and-Quinoa-Noodle-Salad/Roast-Pumpkin-and-Quinoa-Noodle-Salad.jpg
 serves: "4"
 preptime: "35 minutes"
 difficulty: "Easy"

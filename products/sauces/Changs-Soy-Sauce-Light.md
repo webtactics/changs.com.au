@@ -1,11 +1,11 @@
----
+﻿---
 title: "Soy Sauce Light"
 status: published
 date: 2026-05-15
 description: "A lighter version of our classic dark soy, perfect for use in cooking or as a dipping sauce."
 permalink: "/products/Changs-Soy-Sauce-Light/"
-image: "/static/img/products/Changs-Soy-Sauce-Light/light-soy-500x500.jpg"
-sumimage: "/static/img/products/Changs-Soy-Sauce-Light/light-soy-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Soy-Sauce-Light/light-soy-500x500.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Soy-Sauce-Light/light-soy-300x200.jpg
 gluten_free: true
 gtin: "9300777017012"
 allergen: "Gluten Free"

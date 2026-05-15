@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chang's Teriyaki Salmon Bowl with Rice Vermicelli and Broccolini"
 status: published
 date: 2023-11-15
 description: "Delight your taste buds with our Teriyaki Salmon Bowl featuring succulent salmon, rice vermicelli, and vibrant broccolini. This gluten-free, seafood delight is a quick and easy main meal that serves four."
 permalink: "/recipes/Changs-Teriyaki-Salmon-Bowl-with-Rice-Vermicelli-and-Broccolini/"
-image: "/static/img/recipes/Changs-Teriyaki-Salmon-Bowl-with-Rice-Vermicelli-and-Broccolini/Changs-Teriyaki-Salmon-Bowl-with-Rice-Vermicelli-and-Broccolini-2.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Changs-Teriyaki-Salmon-Bowl-with-Rice-Vermicelli-and-Broccolini/Changs-Teriyaki-Salmon-Bowl-with-Rice-Vermicelli-and-Broccolini-2.jpg
 serves: "4"
 preptime: "10 minutes"
 cookingtime: "15 minutes"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chang’s Crispy Noodle Salad Abundance Bowl"
 status: published
 date: 2019-12-06
 description: "As beautiful as it looks, our Crispy Noodle Salad Abundance Bowl recipe is easy to make, satisfying and healthy! Perfect for a summer’s day, or any day really!"
 permalink: "/recipes/Changs-Crispy-Noodle-Salad-Abundance-Bowl/"
-image: "/static/img/recipes/Changs-Crispy-Noodle-Salad-Abundance-Bowl/Changs-Crispy-Noodle-Salad-Abundance-Bowl-2.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Changs-Crispy-Noodle-Salad-Abundance-Bowl/Changs-Crispy-Noodle-Salad-Abundance-Bowl-2.jpg
 serves: "4 individual lunch bowls"
 preptime: "20 minutes"
 difficulty: "Easy"

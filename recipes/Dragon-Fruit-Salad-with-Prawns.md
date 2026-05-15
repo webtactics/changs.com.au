@@ -1,10 +1,10 @@
----
+﻿---
 title: "Dragon Fruit Salad with Prawns"
 status: published
 date: 2022-10-18
 description: "Immerse yourself in a burst of flavors as succulent prawns mingle with the exotic allure of dragon fruit."
 permalink: "/recipes/Dragon-Fruit-Salad-with-Prawns/"
-image: "/static/img/recipes/Dragon-Fruit-Salad-with-Prawns/Dragon-Fruit-Salad-with-Prawns-7.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Dragon-Fruit-Salad-with-Prawns/Dragon-Fruit-Salad-with-Prawns-7.jpg
 serves: "4-6"
 preptime: "15 minutes"
 author: "pwg"

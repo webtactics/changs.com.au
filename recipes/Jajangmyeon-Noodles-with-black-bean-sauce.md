@@ -1,10 +1,10 @@
----
+﻿---
 title: "Jajangmyeon - Noodles with black bean sauce"
 status: published
 date: 2024-03-31
 description: "Indulge in savory Jajangmyeon—potato glass noodles in rich black bean sauce. A Korean classic bursting with flavor awaits!"
 permalink: "/recipes/Jajangmyeon-Noodles-with-black-bean-sauce/"
-image: "/static/img/recipes/Jajangmyeon-Noodles-with-black-bean-sauce/Jajangmyeon-Potato-glass-noodles-with-black-bean-sauce.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Jajangmyeon-Noodles-with-black-bean-sauce/Jajangmyeon-Potato-glass-noodles-with-black-bean-sauce.jpg
 serves: "4"
 preptime: "20 mins"
 cookingtime: "30 mins"

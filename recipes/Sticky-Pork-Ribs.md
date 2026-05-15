@@ -1,10 +1,10 @@
----
+﻿---
 title: "Sticky Pork Ribs"
 status: published
 date: 2015-08-07
 description: "Sticky Pork Ribs"
 permalink: "/recipes/Sticky-Pork-Ribs/"
-image: "/static/img/recipes/Sticky-Pork-Ribs/Sticky-Pork-Ribs.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Sticky-Pork-Ribs/Sticky-Pork-Ribs.jpg
 serves: "2-4"
 preptime: "1 hour"
 marinating: "Nil to 8+ hours"

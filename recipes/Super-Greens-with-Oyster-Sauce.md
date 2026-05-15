@@ -1,10 +1,10 @@
----
+﻿---
 title: "Super Greens with Oyster Sauce"
 status: published
 date: 2019-10-17
 description: "Who doesn’t need super greens every now and then? Ok, more now, and less then! Add extra tang with a squeeze of fresh lime over each serving!"
 permalink: "/recipes/Super-Greens-with-Oyster-Sauce/"
-image: "/static/img/recipes/Super-Greens-with-Oyster-Sauce/191202-Super-Greens-with-Oyster-Sauce-4.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Super-Greens-with-Oyster-Sauce/191202-Super-Greens-with-Oyster-Sauce-4.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

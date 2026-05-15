@@ -1,10 +1,10 @@
----
+﻿---
 title: "Asian Buffalo Chicken Wings"
 status: published
 date: 2020-05-19
 description: "A popular classic, enjoyed all year round. Simple to make, plentiful and always appreciated. Add some Chang's Original Hot Chilli Sauce to your marinade and put some real power to the wing!"
 permalink: "/recipes/Asian-Buffalo-Chicken-Wings/"
-image: "/static/img/recipes/Asian-Buffalo-Chicken-Wings/Buffalo-Chicken-Wings-4.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Asian-Buffalo-Chicken-Wings/Buffalo-Chicken-Wings-4.jpg
 serves: "2-4"
 difficulty: "Easy"
 author: "pwg"

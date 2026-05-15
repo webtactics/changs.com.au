@@ -1,10 +1,10 @@
----
+﻿---
 title: "Balinese Pork"
 status: published
 date: 2015-08-06
 description: "Balinese Pork, the perfect winter dish"
 permalink: "/recipes/Balinese-Pork/"
-image: "/static/img/recipes/Balinese-Pork/Balinese-Pork.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Balinese-Pork/Balinese-Pork.jpg
 serves: "4"
 preptime: "45 minutes"
 difficulty: "Easy"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Fried Chicken with Unicorn Noodles"
 status: published
 date: 2022-04-21
 description: "Fried Chicken with Unicorn Noodles. Go on, say that to a child and try and not make this recipe! Fortunately, this tastes as good as it looks."
 permalink: "/recipes/Fried-Chicken-with-Unicorn-Noodles/"
-image: "/static/img/recipes/Fried-Chicken-with-Unicorn-Noodles/Fried-Chicken-with-Unicorn-Noodles_HD-2.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Fried-Chicken-with-Unicorn-Noodles/Fried-Chicken-with-Unicorn-Noodles_HD-2.jpg
 serves: "4"
 preptime: "15 minutes"
 cookingtime: "30 minutes"

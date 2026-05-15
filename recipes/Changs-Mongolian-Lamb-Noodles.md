@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chang’s Mongolian Lamb Noodles"
 status: published
 date: 2023-05-10
 description: "Indulge in the delicious flavours of Mongolian Lamb Noodles with this easy-to-follow recipe from Chang's. Thinly sliced lamb, savory sauce, and Chang's Hokkien noodles come together to create a mouth-watering dish that will satisfy your cravings. Get ready to enjoy a flavourful and satisfying meal in the comfort of your own home."
 permalink: "/recipes/Changs-Mongolian-Lamb-Noodles/"
-image: "/static/img/recipes/Changs-Mongolian-Lamb-Noodles/Mongolian-Lamb-Noodles-1.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Changs-Mongolian-Lamb-Noodles/Mongolian-Lamb-Noodles-1.jpg
 serves: "4"
 preptime: "10 minutes"
 cookingtime: "15 minutes"

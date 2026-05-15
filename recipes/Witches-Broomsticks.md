@@ -1,10 +1,10 @@
----
+﻿---
 title: "Witches Broomsticks"
 status: published
 date: 2019-09-30
 description: "Halloween treats just aren’t complete without these super cute and incredibly easy to make little Witches Broomsticks.  Hop aboard!"
 permalink: "/recipes/Witches-Broomsticks/"
-image: "/static/img/recipes/Witches-Broomsticks/191202-Witches-Broomsticks-2.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Witches-Broomsticks/191202-Witches-Broomsticks-2.jpg
 makes: "40+"
 difficulty: "Easy"
 author: "pwg"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "White chocolate noodle crunch"
 status: published
 date: 2018-05-23
 description: "Melt white chocolate, milk and butter over a low heat and pour over a baking tray covered in Changs Gluten Free Fried Noodles. Leave to chill until set. Enjoy!"
 permalink: "/recipes/White-chocolate-noodle-crunch/"
-image: "/static/img/recipes/White-chocolate-noodle-crunch/White-chocolate-noodle-crunch.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/White-chocolate-noodle-crunch/White-chocolate-noodle-crunch.jpg
 serves: "10"
 difficulty: "Easy"
 author: "pwg"

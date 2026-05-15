@@ -1,11 +1,11 @@
----
+﻿---
 title: "Graveyard Shift Brownies"
 status: published
 date: 2022-10-19
 description: "These Graveyard Brownies are fun and the perfect edible Halloween treat or party centrepiece. Get your loved ones involved in making them because they are so easy, you could make them with one eye shut!"
 permalink: "/recipes/Graveyard-Shift-Brownies/"
-image: "/static/img/recipes/Graveyard-Shift-Brownies/Graveyard-Shift-Brownies-2.jpg"
-summaryimage: "/static/img/recipes/Graveyard-Shift-Brownies/images/Gallery/recipes/Graveyard-Shift-Brownies-230307/Graveyard-Shift-Brownies-3.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Graveyard-Shift-Brownies/Graveyard-Shift-Brownies-2.jpg
+summaryimage: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Graveyard-Shift-Brownies/images/Gallery/recipes/Graveyard-Shift-Brownies-230307/Graveyard-Shift-Brownies-3.jpg
 difficulty: "Easy, easy, easy!"
 author: "pwg"
 gallery: "recipes/Graveyard-Shift-Brownies-230307"

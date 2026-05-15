@@ -1,10 +1,10 @@
----
+﻿---
 title: "Banana Split with Maple Syrup and Fried Noodles"
 status: published
 date: 2019-04-04
 description: "Whip up this super easy dessert by frying bananas till they are caramelised and top with ice-cream and caramel or maple sauce. An absolute winner."
 permalink: "/recipes/Banana-Split-with-Maple-Syrup-and-Fried-Noodles/"
-image: "/static/img/recipes/Banana-Split-with-Maple-Syrup-and-Fried-Noodles/Banana-Split-with-Maple-Syrup-and-Fried-Noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Banana-Split-with-Maple-Syrup-and-Fried-Noodles/Banana-Split-with-Maple-Syrup-and-Fried-Noodles.jpg
 serves: "2"
 difficulty: "Simple"
 author: "pwg"

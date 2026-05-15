@@ -1,10 +1,10 @@
----
+﻿---
 title: "Hoisin Pork and Pumpkin Bake"
 status: published
 date: 2020-04-08
 description: "In the immortal words of Homer Simpson, “Hmmm, Pork Belly”. Need we say anymore?"
 permalink: "/recipes/Hoisin-Pork-and-Pumpkin-Bake/"
-image: "/static/img/recipes/Hoisin-Pork-and-Pumpkin-Bake/Hoisin-Pork-and-Pumpkin-Bake-web-2.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Hoisin-Pork-and-Pumpkin-Bake/Hoisin-Pork-and-Pumpkin-Bake-web-2.jpg
 serves: "4"
 preptime: "2 hours 15 (Prep 15min)"
 author: "pwg"

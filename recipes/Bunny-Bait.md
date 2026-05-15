@@ -1,10 +1,10 @@
----
+﻿---
 title: "Bunny Bait"
 status: published
 date: 2016-03-01
 description: "Colourful and fun Bunny Bait textured bark"
 permalink: "/recipes/Bunny-Bait/"
-image: "/static/img/recipes/Bunny-Bait/Bunny-Bait.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Bunny-Bait/Bunny-Bait.jpg
 serves: "12"
 preptime: "1 hour 15 mins"
 difficulty: "Easy"

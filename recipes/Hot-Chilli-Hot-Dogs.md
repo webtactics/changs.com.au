@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chang's Hot Dogs"
 status: published
 date: 2020-05-19
 description: "Anyone can make a Hot dog, but it’s Chang's Original Hot Chilli Sauce that really puts some bark in this dog! Brioche buns, radish, sprouts. Chilli mayo and lime juice. This is a dog of beauty and surprisingly refined taste."
 permalink: "/recipes/Hot-Chilli-Hot-Dogs/"
-image: "/static/img/recipes/Hot-Chilli-Hot-Dogs/Hot-Chilli-Hot-Dogs-3.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Hot-Chilli-Hot-Dogs/Hot-Chilli-Hot-Dogs-3.jpg
 serves: "6"
 preptime: "20 minutes"
 difficulty: "Easy"

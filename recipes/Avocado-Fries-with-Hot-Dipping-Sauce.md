@@ -1,10 +1,10 @@
----
+﻿---
 title: "Avocado Fries"
 status: published
 date: 2020-05-19
 description: "Go on, just say the recipe name out aloud. Avocado Fries with Hot Dipping Sauce. Isn’t that magnificent. Avocado, one of the more favoured fruits, the ever-popular fries and a chilli hot dipping sauce? Heaven in a mouthful."
 permalink: "/recipes/Avocado-Fries-with-Hot-Dipping-Sauce/"
-image: "/static/img/recipes/Avocado-Fries-with-Hot-Dipping-Sauce/Avocado-Fries-with-Hot-Dipping-Sauce-6.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Avocado-Fries-with-Hot-Dipping-Sauce/Avocado-Fries-with-Hot-Dipping-Sauce-6.jpg
 serves: "3"
 preptime: "20 minutes & 15 minutes cooking"
 author: "pwg"

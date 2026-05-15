@@ -1,10 +1,10 @@
----
+﻿---
 title: "Japanese Chicken and Mushroom Soup"
 status: published
 date: 2015-03-11
 description: "Super quick and easy to make Japanese chicken and mushroom soup. Perfect for any day!"
 permalink: "/recipes/Japanese-Chicken-and-Mushroom-Soup/"
-image: "/static/img/recipes/Japanese-Chicken-and-Mushroom-Soup/Japanese-Chicken-and-Mushroom-Soup.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Japanese-Chicken-and-Mushroom-Soup/Japanese-Chicken-and-Mushroom-Soup.jpg
 serves: "4"
 preptime: "20 minutes"
 difficulty: "Easy"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chang’s Super Lo-Cal Noodle Bowl"
 status: published
 date: 2024-03-31
 description: "Discover Chang's Super Lo-Cal Noodle Bowl recipe. A flavorful, low-calorie dish packed with wholesome ingredients for guilt-free indulgence!"
 permalink: "/recipes/Changs-Super-Lo-Cal-Noodle-Bowl/"
-image: "/static/img/recipes/Changs-Super-Lo-Cal-Noodle-Bowl/Changs-Super-Lo-Cal-Noodle-Bowl.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Changs-Super-Lo-Cal-Noodle-Bowl/Changs-Super-Lo-Cal-Noodle-Bowl.jpg
 serves: "2"
 preptime: "10 min"
 cookingtime: "30 min"

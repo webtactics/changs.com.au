@@ -1,11 +1,11 @@
----
+﻿---
 title: "Delicious Mongolian Style Stir Fry Sauce"
 status: published
 date: 2026-05-15
 description: "Chang's range of sauces make cooking a delicious, quick dinner easy for everyone. This Mongolian style sauce is a great addition to stir fries."
 permalink: "/products/Changs-Delicious-Mongolian-Style-Stir-Fry-Sauce/"
-image: "/static/img/products/Changs-Delicious-Mongolian-Style-Stir-Fry-Sauce/Changs-Delicious-Mongolian-Style-Stir-Fry-Sauce-1000x1000.jpg"
-sumimage: "/static/img/products/Changs-Delicious-Mongolian-Style-Stir-Fry-Sauce/Changs-Delicious-Mongolian-Style-Stir-Fry-Sauce-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Delicious-Mongolian-Style-Stir-Fry-Sauce/Changs-Delicious-Mongolian-Style-Stir-Fry-Sauce-1000x1000.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Delicious-Mongolian-Style-Stir-Fry-Sauce/Changs-Delicious-Mongolian-Style-Stir-Fry-Sauce-300x200.jpg
 prodsize: "75ml"
 gluten_free: true
 gtin: "9300777092811"

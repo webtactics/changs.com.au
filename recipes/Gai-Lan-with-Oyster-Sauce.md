@@ -1,10 +1,10 @@
----
+﻿---
 title: "Gai Lan with Oyster Sauce"
 status: published
 date: 2016-02-03
 description: "Yum Cha favourite Gai Lan with Oyster Sauce"
 permalink: "/recipes/Gai-Lan-with-Oyster-Sauce/"
-image: "/static/img/recipes/Gai-Lan-with-Oyster-Sauce/Gai-Lan-with-Oyster-Sauce.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Gai-Lan-with-Oyster-Sauce/Gai-Lan-with-Oyster-Sauce.jpg
 serves: "4"
 preptime: "10 minutes"
 difficulty: "Easy"

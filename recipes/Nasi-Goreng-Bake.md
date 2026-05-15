@@ -1,10 +1,10 @@
----
+﻿---
 title: "Nasi Goreng Bake"
 status: published
 date: 2020-05-14
 description: "Nasi Goreng is a classic Indonesian dish and our Nasi Goreng Bake adds a wonderful twist retaining the dark brown, caramelised rice but baking in the flavour."
 permalink: "/recipes/Nasi-Goreng-Bake/"
-image: "/static/img/recipes/Nasi-Goreng-Bake/Nasi-Goreng-Bake-3.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Nasi-Goreng-Bake/Nasi-Goreng-Bake-3.jpg
 serves: "4"
 preptime: "10 minutes & 50 minutes cooking"
 difficulty: "Easy"

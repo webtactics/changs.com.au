@@ -1,10 +1,10 @@
----
+﻿---
 title: "Black Pepper Lamb and Green Beans"
 status: published
 date: 2015-08-07
 description: "Simple Black Pepper Lamb and Green Beans."
 permalink: "/recipes/Black-Pepper-Lamb-and-Green-Beans/"
-image: "/static/img/recipes/Black-Pepper-Lamb-and-Green-Beans/Black-Pepper-Lamb-and-Green-Beans.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Black-Pepper-Lamb-and-Green-Beans/Black-Pepper-Lamb-and-Green-Beans.jpg
 serves: "4"
 preptime: "25 minutes"
 difficulty: "Easy"

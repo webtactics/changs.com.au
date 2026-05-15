@@ -1,10 +1,10 @@
----
+﻿---
 title: "Black Pepper Crab"
 status: published
 date: 2015-03-22
 description: "Perfectly cooked Black Pepper Crab"
 permalink: "/recipes/Black-Pepper-Crab/"
-image: "/static/img/recipes/Black-Pepper-Crab/Black-Pepper-Crab.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Black-Pepper-Crab/Black-Pepper-Crab.jpg
 serves: "2"
 preptime: "40 minutes"
 difficulty: "Medium"

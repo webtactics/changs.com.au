@@ -1,11 +1,11 @@
----
+﻿---
 title: "Black Bean Sauce"
 status: published
 date: 2026-05-15
 description: "A traditional Cantonese sauce that is versatile enough to use with beef, pork and fish."
 permalink: "/products/Changs-Black-Bean-Sauce/"
-image: "/static/img/products/Changs-Black-Bean-Sauce/black-bean-sauce-500x500.jpg"
-sumimage: "/static/img/products/Changs-Black-Bean-Sauce/black-bean-sauce-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Black-Bean-Sauce/black-bean-sauce-500x500.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Black-Bean-Sauce/black-bean-sauce-300x200.jpg
 prodsize: "150ml"
 gluten_free: true
 gtin: "93777001"

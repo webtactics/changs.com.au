@@ -1,10 +1,10 @@
----
+﻿---
 title: "Rice Noodles with Garlic Chilli Oil"
 status: published
 date: 2024-03-31
 description: "Savor the bold flavors of rice noodles infused with aromatic garlic chili oil—a tantalizing fusion for your taste buds!"
 permalink: "/recipes/Rice-Noodles-with-Garlic-Chilli-Oil/"
-image: "/static/img/recipes/Rice-Noodles-with-Garlic-Chilli-Oil/Rice-Noodles-with-Garlic-Chilli-Oil.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Rice-Noodles-with-Garlic-Chilli-Oil/Rice-Noodles-with-Garlic-Chilli-Oil.jpg
 serves: "2-3"
 preptime: "5 mins"
 cookingtime: "20 mins"

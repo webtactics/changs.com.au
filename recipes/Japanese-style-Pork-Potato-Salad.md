@@ -1,10 +1,10 @@
----
+﻿---
 title: "Japanese-style Pork Potato Salad"
 status: published
 date: 2015-08-07
 description: "Japanese style pork schnitzel served with a creamy potato salad."
 permalink: "/recipes/Japanese-style-Pork-Potato-Salad/"
-image: "/static/img/recipes/Japanese-style-Pork-Potato-Salad/Japanese-style-Pork-Potato-Salad.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Japanese-style-Pork-Potato-Salad/Japanese-style-Pork-Potato-Salad.jpg
 serves: "4"
 preptime: "30 minutes"
 difficulty: "Easy"

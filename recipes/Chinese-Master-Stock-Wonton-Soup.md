@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chinese Master Stock Wonton Soup"
 status: published
 date: 2016-06-19
 description: "Chang’s Chinese Master Stock Prawn and Chicken Wonton Soup"
 permalink: "/recipes/Chinese-Master-Stock-Wonton-Soup/"
-image: "/static/img/recipes/Chinese-Master-Stock-Wonton-Soup/Prawn-and-chicken-wonton-soup-with-sesame-and-noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chinese-Master-Stock-Wonton-Soup/Prawn-and-chicken-wonton-soup-with-sesame-and-noodles.jpg
 serves: "4"
 preptime: "50 minutes"
 difficulty: "Medium"

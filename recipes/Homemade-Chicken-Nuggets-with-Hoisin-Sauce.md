@@ -1,10 +1,10 @@
----
+﻿---
 title: "Homemade Chicken Nuggets"
 status: published
 date: 2015-08-07
 description: "Hungry kids? These homemade chicken nuggets are a real pleaser."
 permalink: "/recipes/Homemade-Chicken-Nuggets-with-Hoisin-Sauce/"
-image: "/static/img/recipes/Homemade-Chicken-Nuggets-with-Hoisin-Sauce/Homemade-Chicken-Nuggets-with-Hoisin-Sauce.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Homemade-Chicken-Nuggets-with-Hoisin-Sauce/Homemade-Chicken-Nuggets-with-Hoisin-Sauce.jpg
 serves: "4"
 preptime: "30 minutes"
 difficulty: "Easy"

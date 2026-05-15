@@ -1,10 +1,10 @@
----
+﻿---
 title: "Salmon with Asian Guacamole Noodles"
 status: published
 date: 2019-04-05
 description: "A simple and sensational way to add more fish into your diet, and our Salmon with Asian Guacamole Noodles can be even served cold and is possibly better the next day. How good is that?"
 permalink: "/recipes/Salmon-with-Asian-Guacamole-Noodles/"
-image: "/static/img/recipes/Salmon-with-Asian-Guacamole-Noodles/Salmon-with-Asian-Guacamole-Noodles-2.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Salmon-with-Asian-Guacamole-Noodles/Salmon-with-Asian-Guacamole-Noodles-2.jpg
 serves: "4-6"
 difficulty: "Easy"
 author: "pwg"

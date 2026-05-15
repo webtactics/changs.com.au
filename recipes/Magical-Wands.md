@@ -1,10 +1,10 @@
----
+﻿---
 title: "Magical Wands"
 status: published
 date: 2015-10-14
 description: "Enchanted liquorish wands to keep your kids spellbound!"
 permalink: "/recipes/Magical-Wands/"
-image: "/static/img/recipes/Magical-Wands/Magical-Wands.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Magical-Wands/Magical-Wands.jpg
 serves: "15"
 difficulty: "Easy"
 author: "pwg"

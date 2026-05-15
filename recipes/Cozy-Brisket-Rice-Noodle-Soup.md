@@ -1,10 +1,10 @@
----
+﻿---
 title: "Cozy Brisket Rice Noodle Soup"
 status: published
 date: 2026-04-14
 description: "A deeply comforting, slow-cooked bowl with tender brisket, fragrant broth, and silky noodles. Finished with fresh herbs and a rich soy-cured egg, this is the kind of soup that feels like a warm hug."
 permalink: "/recipes/Cozy-Brisket-Rice-Noodle-Soup/"
-image: "/static/img/recipes/Cozy-Brisket-Rice-Noodle-Soup/Cozy-Brisket-Rice-Noodle-Soup.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Cozy-Brisket-Rice-Noodle-Soup/Cozy-Brisket-Rice-Noodle-Soup.jpg
 serves: "4"
 preptime: "20 minutes (plus 30–60 minutes soaking time)"
 cookingtime: "1 hour"

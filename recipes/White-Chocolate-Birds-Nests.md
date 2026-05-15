@@ -1,10 +1,10 @@
----
+﻿---
 title: "White Chocolate Birds Nests"
 status: published
 date: 2015-10-14
 description: "A tasty tangle of chocolate, colourful Hundreds & Thousands and Chang’s Original Fried Noodles."
 permalink: "/recipes/White-Chocolate-Birds-Nests/"
-image: "/static/img/recipes/White-Chocolate-Birds-Nests/White-Chocolate-Birds-Nests.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/White-Chocolate-Birds-Nests/White-Chocolate-Birds-Nests.jpg
 serves: "10"
 difficulty: "Easy"
 allergen: "Contains Gluten Contains Dairy May Contain Nuts"

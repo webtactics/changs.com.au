@@ -1,11 +1,11 @@
----
+﻿---
 title: "“Eye-ced” Cupcakes"
 status: published
 date: 2022-10-19
 description: "These one-eyed cupcakes are ready in no time. All you need is your favourite cupcake mix, gummy eyeballs and Chang’s Original or Gluten Free Fried Noodles."
 permalink: "/recipes/Eye-ced-Cupcakes/"
-image: "/static/img/recipes/Eye-ced-Cupcakes/Eye-ced-Cupcakes-1.jpg"
-summaryimage: "/static/img/recipes/Eye-ced-Cupcakes/images/Gallery/recipes/Eye-ced-Cupcakes-230307/Eye-ced-Cupcakes-4.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Eye-ced-Cupcakes/Eye-ced-Cupcakes-1.jpg
+summaryimage: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Eye-ced-Cupcakes/images/Gallery/recipes/Eye-ced-Cupcakes-230307/Eye-ced-Cupcakes-4.jpg
 makes: "12 cupcakes"
 difficulty: "Easy, easy, easy!"
 author: "pwg"

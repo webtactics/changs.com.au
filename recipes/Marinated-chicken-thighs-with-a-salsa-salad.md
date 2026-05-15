@@ -1,10 +1,10 @@
----
+﻿---
 title: "Marinated chicken thighs with a salsa salad"
 status: published
 date: 2015-03-10
 description: "Marinated chicken thighs served with a fresh salsa salad"
 permalink: "/recipes/Marinated-chicken-thighs-with-a-salsa-salad/"
-image: "/static/img/recipes/Marinated-chicken-thighs-with-a-salsa-salad/Marinated-chicken-thighs-with-a-salsa-salad.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Marinated-chicken-thighs-with-a-salsa-salad/Marinated-chicken-thighs-with-a-salsa-salad.jpg
 serves: "4"
 preptime: "30 minutes"
 marinating: "2+ hours"

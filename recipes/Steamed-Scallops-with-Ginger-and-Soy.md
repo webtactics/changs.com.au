@@ -1,10 +1,10 @@
----
+﻿---
 title: "Steamed Scallops with Ginger and Soy"
 status: published
 date: 2016-02-03
 description: "Asian style steamed scallops in a flavourful dinner party entrée"
 permalink: "/recipes/Steamed-Scallops-with-Ginger-and-Soy/"
-image: "/static/img/recipes/Steamed-Scallops-with-Ginger-and-Soy/Steamed-Scallops-with-Ginger-and-Soy.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Steamed-Scallops-with-Ginger-and-Soy/Steamed-Scallops-with-Ginger-and-Soy.jpg
 allergen: "Dairy Free Gluten Free"
 author: "pwg"
 ingredients: |

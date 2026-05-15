@@ -1,10 +1,10 @@
----
+﻿---
 title: "Crispy Chilli Buttermilk Drumsticks"
 status: published
 date: 2020-10-01
 description: "Crispy on the outside and delectably juicy on the in, these chicken drumsticks are covered with crushed Chang's Crunchy Fried Noodles then baked in the oven until golden."
 permalink: "/recipes/Crispy-Hot-Chilli-Buttermilk-Drumsticks/"
-image: "/static/img/recipes/Crispy-Hot-Chilli-Buttermilk-Drumsticks/Crispy-Hot-Chilli-Buttermilk-Drumsticks-0015-2.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Crispy-Hot-Chilli-Buttermilk-Drumsticks/Crispy-Hot-Chilli-Buttermilk-Drumsticks-0015-2.jpg
 makes: "5"
 preptime: "15mins + 2 hours"
 cookingtime: "35-40 mins"

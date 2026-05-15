@@ -1,10 +1,10 @@
----
+﻿---
 title: "Spicy curry noodle soup"
 status: published
 date: 2018-05-23
 description: "Spicy curry noodle soup with chicken and sweet potato - Boil sliced chicken, chilli, coconut milk and Changs fish sauce together, slowly adding sweet potato, peas and onion and edamame beans"
 permalink: "/recipes/Spicy-curry-noodle-soup/"
-image: "/static/img/recipes/Spicy-curry-noodle-soup/Spicy-curry-noodle-soup.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Spicy-curry-noodle-soup/Spicy-curry-noodle-soup.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

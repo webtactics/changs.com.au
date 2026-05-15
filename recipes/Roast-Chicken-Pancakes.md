@@ -1,10 +1,10 @@
----
+﻿---
 title: "Roast Chicken Pancakes"
 status: published
 date: 2015-08-07
 description: "Inspired by the Peking Duck Pancake, this Roast Chicken Pancake is the perfect entrée or start to a banquet."
 permalink: "/recipes/Roast-Chicken-Pancakes/"
-image: "/static/img/recipes/Roast-Chicken-Pancakes/Roast-Chicken-Pancakes.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Roast-Chicken-Pancakes/Roast-Chicken-Pancakes.jpg
 serves: "4"
 preptime: "45 minutes"
 difficulty: "Easy"

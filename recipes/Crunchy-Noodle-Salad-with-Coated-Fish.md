@@ -1,10 +1,10 @@
----
+﻿---
 title: "Crunchy Noodle Salad with Coated Fish"
 status: published
 date: 2021-07-27
 description: "Crunchy Noodle Salad with Coated Fish"
 permalink: "/recipes/Crunchy-Noodle-Salad-with-Coated-Fish/"
-image: "/static/img/recipes/Crunchy-Noodle-Salad-with-Coated-Fish/Crunchy-Noodle-Salad-with-Coated-Fish-3.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Crunchy-Noodle-Salad-with-Coated-Fish/Crunchy-Noodle-Salad-with-Coated-Fish-3.jpg
 serves: "4"
 preptime: "15 minutes"
 cookingtime: "25 minutes"

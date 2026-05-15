@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chang’s Crispy Noodle Salad"
 status: published
 date: 2026-04-14
 description: "This dish is the classic crowd pleaser and a staple on Aussie dinner tables. Our famous Chang’s Crispy Noodle Salad has an interesting Asian flavour combined with the crunch of Fried noodles and nuts. To turn this into a delicious meal add 300g shredded BBQ Chicken or BBQ Pork."
 permalink: "/recipes/Crispy-Noodle-Salad/"
-image: "/static/img/recipes/Crispy-Noodle-Salad/Crispy-Noodle-Salad-250807.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Crispy-Noodle-Salad/Crispy-Noodle-Salad-250807.jpg
 serves: "4"
 preptime: "15 minutes"
 difficulty: "Easy"

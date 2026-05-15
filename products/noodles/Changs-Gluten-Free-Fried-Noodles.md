@@ -1,11 +1,11 @@
----
+﻿---
 title: "Gluten Free Fried Noodles"
 status: published
 date: 2026-05-15
 description: "Ready to eat short, thin, crunchy fried noodles made with rice flour and fried in cottonseed oil. Gluten-free fried noodles for salads and spiders!"
 permalink: "/products/Changs-Gluten-Free-Fried-Noodles/"
-image: "/static/img/products/Changs-Gluten-Free-Fried-Noodles/190829-Gluten-Free-Fried-Noodles.jpg"
-sumimage: "/static/img/products/Changs-Gluten-Free-Fried-Noodles/190829-Gluten-Free-Fried-Noodles-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Gluten-Free-Fried-Noodles/190829-Gluten-Free-Fried-Noodles.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Gluten-Free-Fried-Noodles/190829-Gluten-Free-Fried-Noodles-300x200.jpg
 gluten_free: true
 gtin: "9300777092347"
 allergen: "Gluten Free"

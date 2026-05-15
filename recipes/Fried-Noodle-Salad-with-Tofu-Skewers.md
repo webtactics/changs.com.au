@@ -1,10 +1,10 @@
----
+﻿---
 title: "Fried Noodle Salad with Tofu Skewers"
 status: published
 date: 2019-04-04
 description: "Our Original Fried Noodle salad, with tofu and a kick! Healthy, fantastic and fast."
 permalink: "/recipes/Fried-Noodle-Salad-with-Tofu-Skewers/"
-image: "/static/img/recipes/Fried-Noodle-Salad-with-Tofu-Skewers/Fried-Noodle-Salad-with-Tofu-Skewers.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Fried-Noodle-Salad-with-Tofu-Skewers/Fried-Noodle-Salad-with-Tofu-Skewers.jpg
 serves: "3-4"
 difficulty: "Simple"
 author: "pwg"

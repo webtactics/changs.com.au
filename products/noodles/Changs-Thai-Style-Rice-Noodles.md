@@ -1,11 +1,11 @@
----
+﻿---
 title: "Thai Style Rice Noodles"
 status: published
 date: 2026-05-15
 description: "A flat and wide rice noodle, popularised by use in Pad Thai recipes; Just soak and add Thai Style Rice Noodles to your favourite recipes."
 permalink: "/products/Changs-Thai-Style-Rice-Noodles/"
-image: "/static/img/products/Changs-Thai-Style-Rice-Noodles/190612-Changs-Thai-Style-Rice-Noodles-1000x1000.jpg"
-sumimage: "/static/img/products/Changs-Thai-Style-Rice-Noodles/190612-Changs-Thai-Style-Rice-Noodles-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Thai-Style-Rice-Noodles/190612-Changs-Thai-Style-Rice-Noodles-1000x1000.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Thai-Style-Rice-Noodles/190612-Changs-Thai-Style-Rice-Noodles-300x200.jpg
 prodsize: "250g"
 gluten_free: true
 gtin: "9300777091357"

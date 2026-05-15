@@ -1,10 +1,10 @@
----
+﻿---
 title: "Giant Freckles with Marshmallows"
 status: published
 date: 2016-03-02
 description: "Classic Giant Freckles with Marshmallow and Crunchy Noodles"
 permalink: "/recipes/Giant-Freckles-with-Marshmallows/"
-image: "/static/img/recipes/Giant-Freckles-with-Marshmallows/Giant-Freckles-with-Crunchy-Noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Giant-Freckles-with-Marshmallows/Giant-Freckles-with-Crunchy-Noodles.jpg
 serves: "14"
 preptime: "30 mins + 1 hour setting"
 difficulty: "Easy"

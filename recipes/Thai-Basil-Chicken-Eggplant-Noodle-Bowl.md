@@ -1,10 +1,10 @@
----
+﻿---
 title: "Thai Basil Chicken & Eggplant Noodle Bowl"
 status: published
 date: 2025-05-26
 description: "Discover a delicious Thai Basil Chicken Eggplant Noodle Bowl recipe! Perfectly balanced with flavors, it's a quick and satisfying meal for any night of the week."
 permalink: "/recipes/Thai-Basil-Chicken-Eggplant-Noodle-Bowl/"
-image: "/static/img/recipes/Thai-Basil-Chicken-Eggplant-Noodle-Bowl/Thai-Basil-Chicken-Eggplant-Noodle-Bowl.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Thai-Basil-Chicken-Eggplant-Noodle-Bowl/Thai-Basil-Chicken-Eggplant-Noodle-Bowl.jpg
 serves: "4"
 preptime: "15 minutes"
 cookingtime: "20 minutes"

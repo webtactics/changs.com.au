@@ -1,10 +1,10 @@
----
+﻿---
 title: "Bacon-wrapped Yakitori"
 status: published
 date: 2015-12-07
 description: "BBQ ready bacon-wrapped yakitori skewers."
 permalink: "/recipes/Bacon-wrapped-Yakitori/"
-image: "/static/img/recipes/Bacon-wrapped-Yakitori/Bacon-wrapped-Yakitori.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Bacon-wrapped-Yakitori/Bacon-wrapped-Yakitori.jpg
 serves: "4"
 preptime: "30 minutes"
 marinating: "12 hours"

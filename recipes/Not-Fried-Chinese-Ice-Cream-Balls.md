@@ -1,10 +1,10 @@
----
+﻿---
 title: "‘Not-Fried’ Chinese Ice Cream Balls"
 status: published
 date: 2022-10-12
 description: "Fried Ice Cream without frying it and using only 4 ingredients! Sounds too good to be true! Chang’s Fried Noodles, desiccated coconut, ice cream and ice cream sauce is all that is needed to make this classic Chinese recipe but without the oil!"
 permalink: "/recipes/Not-Fried-Chinese-Ice-Cream-Balls/"
-image: "/static/img/recipes/Not-Fried-Chinese-Ice-Cream-Balls/Not-Fried-Chinese-Ice-Cream-Balls-4.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Not-Fried-Chinese-Ice-Cream-Balls/Not-Fried-Chinese-Ice-Cream-Balls-4.jpg
 preptime: "15 minutes"
 cookingtime: "Chilling 2 hours 30 minutes"
 author: "pwg"

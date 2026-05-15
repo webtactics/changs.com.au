@@ -1,10 +1,10 @@
----
+﻿---
 title: "Stir Fried Noodles with Chinese Sausage and Pippies"
 status: published
 date: 2015-08-07
 description: "Stir Fried Noodles with Chinese Sausage and Pippies. An unusual but easy noodle recipe."
 permalink: "/recipes/Stir-Fried-Noodles-Chinese-Sausage-and-Pippies/"
-image: "/static/img/recipes/Stir-Fried-Noodles-Chinese-Sausage-and-Pippies/Stir-Fried-Noodles-Chinese-Sausage-and-Pippies.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Stir-Fried-Noodles-Chinese-Sausage-and-Pippies/Stir-Fried-Noodles-Chinese-Sausage-and-Pippies.jpg
 serves: "4"
 preptime: "45 mins"
 difficulty: "Easy"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Crab San Choy Bow"
 status: published
 date: 2020-10-01
 description: "A light summer entertainers’ take on the classic, this crab meat san choy bow burst with fresh flavours of herbs, fragrant coconut milk mixed with Chang's Crispy Noodle Salad Dressing plus a hint of spice from Chang's Original Hot Chilli Sauce."
 permalink: "/recipes/Crab-San-Choy-Bow/"
-image: "/static/img/recipes/Crab-San-Choy-Bow/Crab-San-Choy-Bow-0218.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Crab-San-Choy-Bow/Crab-San-Choy-Bow-0218.jpg
 serves: "2-4"
 preptime: "15 mins"
 author: "pwg"

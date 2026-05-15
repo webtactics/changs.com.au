@@ -1,10 +1,10 @@
----
+﻿---
 title: "Vermicelli Noodle Salad with Sliced Steak"
 status: published
 date: 2023-02-27
 description: "This Vermicelli Noodle Salad with Sliced Steak recipe is a perfect combination of flavours and textures. The tender slices of steak complement the crunchy vegetables and delicate rice noodles, all tossed in a deliciously tangy dressing. Quick and easy to prepare, this salad is perfect for a healthy lunch or dinner option."
 permalink: "/recipes/Vermicelli-Noodle-Salad-with-Sliced-Steak/"
-image: "/static/img/recipes/Vermicelli-Noodle-Salad-with-Sliced-Steak/Vermicelli-Noodle-Salad-with-Sliced-Steak-8.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Vermicelli-Noodle-Salad-with-Sliced-Steak/Vermicelli-Noodle-Salad-with-Sliced-Steak-8.jpg
 serves: "4"
 preptime: "20 minutes"
 cookingtime: "10 minutes"

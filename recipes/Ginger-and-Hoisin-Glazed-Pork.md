@@ -1,10 +1,10 @@
----
+﻿---
 title: "Ginger and Hoisin Glazed Pork"
 status: published
 date: 2016-02-03
 description: "Delicious ginger and soy glazed pork neck"
 permalink: "/recipes/Ginger-and-Hoisin-Glazed-Pork/"
-image: "/static/img/recipes/Ginger-and-Hoisin-Glazed-Pork/Ginger-and-Hoisin-Glazed-Pork.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Ginger-and-Hoisin-Glazed-Pork/Ginger-and-Hoisin-Glazed-Pork.jpg
 serves: "4"
 preptime: "1+ hours"
 difficulty: "Easy"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Leftover Turkey and Noodle Stir Fry"
 status: published
 date: 2015-12-08
 description: "Quick and easy fix for that leftover Christmas turkey!"
 permalink: "/recipes/Leftover-Turkey-and-Noodle-Stir-Fry/"
-image: "/static/img/recipes/Leftover-Turkey-and-Noodle-Stir-Fry/Leftover-Turkey-and-Noodle-Stir-Fry.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Leftover-Turkey-and-Noodle-Stir-Fry/Leftover-Turkey-and-Noodle-Stir-Fry.jpg
 serves: "2"
 preptime: "25 minutes"
 difficulty: "Easy"

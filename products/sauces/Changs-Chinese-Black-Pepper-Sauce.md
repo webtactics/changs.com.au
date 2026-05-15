@@ -1,11 +1,11 @@
----
+﻿---
 title: "Chinese Black Pepper Sauce"
 status: published
 date: 2026-05-15
 description: "Authentic Cantonese flavour for all meat and fish dishes."
 permalink: "/products/Changs-Chinese-Black-Pepper-Sauce/"
-image: "/static/img/products/Changs-Chinese-Black-Pepper-Sauce/chinese-black-pepper-sauce-500x500.jpg"
-sumimage: "/static/img/products/Changs-Chinese-Black-Pepper-Sauce/chinese-black-pepper-sauce-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Chinese-Black-Pepper-Sauce/chinese-black-pepper-sauce-500x500.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Chinese-Black-Pepper-Sauce/chinese-black-pepper-sauce-300x200.jpg
 gluten_free: true
 gtin: "9300777092972"
 allergen: "Gluten Free"

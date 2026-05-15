@@ -1,10 +1,10 @@
----
+﻿---
 title: "BBQ East West Lamb"
 status: published
 date: 2015-03-23
 description: "A delicious lamb and bokchoy combination."
 permalink: "/recipes/BBQ-East-West-Lamb/"
-image: "/static/img/recipes/BBQ-East-West-Lamb/BBQ-East-West-Lamb-1000x750.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/BBQ-East-West-Lamb/BBQ-East-West-Lamb-1000x750.jpg
 serves: "6-8"
 preptime: "25 minutes"
 marinating: "4-12 hours"

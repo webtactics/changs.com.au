@@ -1,10 +1,10 @@
----
+﻿---
 title: "Easy Vegetable Lo Mein"
 status: published
 date: 2023-05-03
 description: "Easy Vegetable Lo Mein is a delicious dish that can be on your table in under 30 minutes. Love slurpy, noodle-y goodness? This quick and easy meal is sure to please."
 permalink: "/recipes/Easy-Vegetable-Lo-Mein/"
-image: "/static/img/recipes/Easy-Vegetable-Lo-Mein/Easy-Vegetable-Lo-Mein-7.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Easy-Vegetable-Lo-Mein/Easy-Vegetable-Lo-Mein-7.jpg
 serves: "4"
 preptime: "10 minutes"
 cookingtime: "15 minutes"

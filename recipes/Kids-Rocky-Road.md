@@ -1,10 +1,10 @@
----
+﻿---
 title: "Kids Christmas Rocky Road"
 status: published
 date: 2015-03-17
 description: "Fun Rocky Road with a Chang’s crunch!"
 permalink: "/recipes/Kids-Rocky-Road/"
-image: "/static/img/recipes/Kids-Rocky-Road/Kids-Rocky-Road.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Kids-Rocky-Road/Kids-Rocky-Road.jpg
 serves: "20"
 preptime: "2+ hours"
 difficulty: "Easy"

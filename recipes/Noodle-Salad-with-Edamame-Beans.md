@@ -1,10 +1,10 @@
----
+﻿---
 title: "Noodle Salad with Edamame Beans"
 status: published
 date: 2019-10-17
 description: "Making a great accompaniment to our Christmas Ham with Hoisin Sauce, Orange and Ginger Glaze this Edamame enriched noodle salad can stand in its own and levels up when entertaining!"
 permalink: "/recipes/Noodle-Salad-with-Edamame-Beans/"
-image: "/static/img/recipes/Noodle-Salad-with-Edamame-Beans/191126-Noodle-Salad-with-Edamame-Beans-2.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Noodle-Salad-with-Edamame-Beans/191126-Noodle-Salad-with-Edamame-Beans-2.jpg
 serves: "4"
 difficulty: "Simple"
 author: "pwg"

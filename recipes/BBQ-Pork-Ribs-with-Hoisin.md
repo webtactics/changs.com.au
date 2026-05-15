@@ -1,10 +1,10 @@
----
+﻿---
 title: "BBQ Pork Ribs with Hoisin"
 status: published
 date: 2015-08-07
 description: "Melting BBQ Pork Ribs marinated with Hoisin"
 permalink: "/recipes/BBQ-Pork-Ribs-with-Hoisin/"
-image: "/static/img/recipes/BBQ-Pork-Ribs-with-Hoisin/BBQ-Pork-Ribs-with-Hoisin.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/BBQ-Pork-Ribs-with-Hoisin/BBQ-Pork-Ribs-with-Hoisin.jpg
 serves: "6"
 preptime: "1 hour"
 marinating: "Up to 12 hours"

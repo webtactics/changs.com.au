@@ -1,10 +1,10 @@
----
+﻿---
 title: "Oysters with three dressings"
 status: published
 date: 2015-12-08
 description: "A Thai, Chinese and Japanese dressing that will make your fresh oysters pop!"
 permalink: "/recipes/Oysters-with-three-dressings/"
-image: "/static/img/recipes/Oysters-with-three-dressings/Oysters-with-three-dressings.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Oysters-with-three-dressings/Oysters-with-three-dressings.jpg
 serves: "4"
 preptime: "10 minutes"
 difficulty: "Easy"

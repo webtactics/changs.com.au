@@ -1,10 +1,10 @@
----
+﻿---
 title: "Easter Nest Chocolate Cake"
 status: published
 date: 2022-02-07
 description: "Easter Nest Chocolate Cake. That’s it. Really, what else can we say? Look at it, and eat it!"
 permalink: "/recipes/Easter-Nest-Chocolate-Cake/"
-image: "/static/img/recipes/Easter-Nest-Chocolate-Cake/Easter-Nest-Chocolate-Cake-2.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Easter-Nest-Chocolate-Cake/Easter-Nest-Chocolate-Cake-2.jpg
 serves: "12"
 cookingtime: "1 Hour + cooling time"
 author: "pwg"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Hairy Scary Banana Ghosts"
 status: published
 date: 2019-09-30
 description: "Almost healthy? Well, our Hairy Scary Banana Ghosts do contain bananas and lots of fun and fright potential, so yeah, we think that’s a healthy approach to Halloween!"
 permalink: "/recipes/Hairy-Scary-Banana-Ghosts/"
-image: "/static/img/recipes/Hairy-Scary-Banana-Ghosts/Hairy-Scary-Banana-Ghosts.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Hairy-Scary-Banana-Ghosts/Hairy-Scary-Banana-Ghosts.jpg
 makes: "8-10"
 difficulty: "Easy"
 author: "pwg"

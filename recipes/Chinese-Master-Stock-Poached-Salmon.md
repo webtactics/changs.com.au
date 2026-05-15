@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chinese Master Stock Poached Salmon"
 status: published
 date: 2016-06-19
 description: "Atlantic Salmon poached in Chinese Master Stock with Shiitake Mushrooms and Coriander Salad"
 permalink: "/recipes/Chinese-Master-Stock-Poached-Salmon/"
-image: "/static/img/recipes/Chinese-Master-Stock-Poached-Salmon/Atlantic-Salmon-poached-in-Masterstock-with-shiitake-mushrooms-and-coriander-salad.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chinese-Master-Stock-Poached-Salmon/Atlantic-Salmon-poached-in-Masterstock-with-shiitake-mushrooms-and-coriander-salad.jpg
 serves: "4"
 preptime: "45 minutes"
 difficulty: "Easy"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chang’s Apple Crumble"
 status: published
 date: 2023-05-03
 description: "Chang's Apple Crumble is a delicious and easy-to-make dessert that is typically served warm with a scoop of vanilla ice cream or a dollop of whipped cream on top. What’s not to love about that!"
 permalink: "/recipes/Changs-Apple-Crumble/"
-image: "/static/img/recipes/Changs-Apple-Crumble/Changs-Apple-Crumble-9.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Changs-Apple-Crumble/Changs-Apple-Crumble-9.jpg
 serves: "4-6"
 preptime: "15 minutes"
 cookingtime: "25 minutes"

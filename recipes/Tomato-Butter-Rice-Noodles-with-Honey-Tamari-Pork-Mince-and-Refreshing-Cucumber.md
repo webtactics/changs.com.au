@@ -1,10 +1,10 @@
----
+﻿---
 title: "Tomato Butter Rice Noodles with Honey Tamari Pork Mince and Refreshing Cucumber"
 status: published
 date: 2025-12-02
 description: "Tomato Butter Rice Noodles with Honey-Tamari Pork Mince & Refreshing Cucumber – a quick, flavour-packed Asian-inspired recipe from Chang’s. Ready in under 40 minutes: silky vermicelli rice noodles in a rich tomato-butter sauce, topped with caramelised pork mince, crisp cucumber and fresh herbs. Perfect for a wholesome weeknight dinner."
 permalink: "/recipes/Tomato-Butter-Rice-Noodles-with-Honey-Tamari-Pork-Mince-and-Refreshing-Cucumber/"
-image: "/static/img/recipes/Tomato-Butter-Rice-Noodles-with-Honey-Tamari-Pork-Mince-and-Refreshing-Cucumber/Tomato-Butter-Rice-Noodles-with-Pork-Mince.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Tomato-Butter-Rice-Noodles-with-Honey-Tamari-Pork-Mince-and-Refreshing-Cucumber/Tomato-Butter-Rice-Noodles-with-Pork-Mince.jpg
 serves: "2"
 preptime: "15 minutes"
 cookingtime: "25 minutes"

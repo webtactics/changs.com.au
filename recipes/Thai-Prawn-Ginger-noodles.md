@@ -1,10 +1,10 @@
----
+﻿---
 title: "Thai Prawn & Ginger noodles"
 status: published
 date: 2018-05-23
 description: "Thai prawns tossed into Chang’s Super Low Cal Noodles, mixed with bean sprout and ginger, with Changs fish sauce to serve."
 permalink: "/recipes/Thai-Prawn-Ginger-noodles/"
-image: "/static/img/recipes/Thai-Prawn-Ginger-noodles/Thai-Prawn-Ginger-noodles-2.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Thai-Prawn-Ginger-noodles/Thai-Prawn-Ginger-noodles-2.jpg
 serves: "2"
 difficulty: "Easy"
 author: "pwg"

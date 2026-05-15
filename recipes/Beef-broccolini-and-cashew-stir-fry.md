@@ -1,10 +1,10 @@
----
+﻿---
 title: "Beef, Broccolini and Cashew Stir Fry"
 status: published
 date: 2017-12-01
 description: "For a quick and easy meal to munch on while waiting for the main course you can’t go past a Chang’s stir fry. The Broccolini brings the luck with the green and the cashews bring a satisfying crunch into the mix."
 permalink: "/recipes/Beef-broccolini-and-cashew-stir-fry/"
-image: "/static/img/recipes/Beef-broccolini-and-cashew-stir-fry/Beef-broccolini-and-cashew-stir-fry.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Beef-broccolini-and-cashew-stir-fry/Beef-broccolini-and-cashew-stir-fry.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

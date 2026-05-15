@@ -1,10 +1,10 @@
----
+﻿---
 title: "Five spice crunchy noodles"
 status: published
 date: 2017-12-01
 description: "Great party snack served with Changs Hoisin Sauce"
 permalink: "/recipes/Five-spice-crunchy-noodles/"
-image: "/static/img/recipes/Five-spice-crunchy-noodles/Five-spice-crunchy-noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Five-spice-crunchy-noodles/Five-spice-crunchy-noodles.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

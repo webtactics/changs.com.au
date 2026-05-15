@@ -1,10 +1,10 @@
----
+﻿---
 title: "Peach Melba Ice Cream Log with Crunchy Fried Noodles"
 status: published
 date: 2022-09-30
 description: "Method: Remove ice cream from freezer and soften at room temperature for 10 minutes. In the meantime, line a 2-litre loaf tin with 2 layers of plastic wrap, leaving plenty overhanging the sides."
 permalink: "/recipes/Peach-Melba-Ice-Cream-Log-with-Crunchy-Fried-Noodles/"
-image: "/static/img/recipes/Peach-Melba-Ice-Cream-Log-with-Crunchy-Fried-Noodles/Peach-Melba-Ice-Cream-Log-with-Crunchy-Fried-Noodles-1.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Peach-Melba-Ice-Cream-Log-with-Crunchy-Fried-Noodles/Peach-Melba-Ice-Cream-Log-with-Crunchy-Fried-Noodles-1.jpg
 preptime: "20 min Freeze: overnight"
 author: "pwg"
 gallery: "recipes/Peach-Melba-Ice-Cream-Log-with-Crunchy-Fried-Noodles"

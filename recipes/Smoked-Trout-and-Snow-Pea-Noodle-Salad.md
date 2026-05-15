@@ -1,10 +1,10 @@
----
+﻿---
 title: "Smoked Trout and Snow Pea Noodle Salad"
 status: published
 date: 2015-08-07
 description: "A quick an easy smoked trout salad with snow peas and noodles"
 permalink: "/recipes/Smoked-Trout-and-Snow-Pea-Noodle-Salad/"
-image: "/static/img/recipes/Smoked-Trout-and-Snow-Pea-Noodle-Salad/Smoked-Trout-and-Snow-Pea-Noodle-Salad.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Smoked-Trout-and-Snow-Pea-Noodle-Salad/Smoked-Trout-and-Snow-Pea-Noodle-Salad.jpg
 serves: "4"
 preptime: "25 minutes"
 difficulty: "Easy"

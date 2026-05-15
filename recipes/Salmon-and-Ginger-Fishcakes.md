@@ -1,10 +1,10 @@
----
+﻿---
 title: "Salmon and Ginger Fishcakes With Cucumber Relish"
 status: published
 date: 2015-08-07
 description: "These fresh fishcakes served with a cucumber relish is the perfect start to a family meal."
 permalink: "/recipes/Salmon-and-Ginger-Fishcakes/"
-image: "/static/img/recipes/Salmon-and-Ginger-Fishcakes/Salmon-and-Ginger-Fishcakes.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Salmon-and-Ginger-Fishcakes/Salmon-and-Ginger-Fishcakes.jpg
 serves: "4"
 preptime: "40 minutes"
 difficulty: "Easy"

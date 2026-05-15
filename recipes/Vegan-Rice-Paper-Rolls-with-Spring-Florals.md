@@ -1,10 +1,10 @@
----
+﻿---
 title: "Vegan Rice Paper Rolls with Spring Florals"
 status: published
 date: 2018-10-10
 description: "A simple, tasty, healthy recipe using our Rice Vermicelli Noodles and Hoisin, Soy, and Sesame oil sauces. Beautiful and really speaks to the season!"
 permalink: "/recipes/Vegan-Rice-Paper-Rolls-with-Spring-Florals/"
-image: "/static/img/recipes/Vegan-Rice-Paper-Rolls-with-Spring-Florals/Vegan-Rice-Paper-Rolls-with-Spring-Florals.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Vegan-Rice-Paper-Rolls-with-Spring-Florals/Vegan-Rice-Paper-Rolls-with-Spring-Florals.jpg
 makes: "20"
 author: "pwg"
 ingredients: |

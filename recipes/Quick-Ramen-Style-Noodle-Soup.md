@@ -1,10 +1,10 @@
----
+﻿---
 title: "Quick Ramen Style Noodle Soup"
 status: published
 date: 2015-08-07
 description: "Delicious pork and tofu Chinese noodle soup"
 permalink: "/recipes/Quick-Ramen-Style-Noodle-Soup/"
-image: "/static/img/recipes/Quick-Ramen-Style-Noodle-Soup/Quick-Ramen-Style-Noodle-Soup.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Quick-Ramen-Style-Noodle-Soup/Quick-Ramen-Style-Noodle-Soup.jpg
 serves: "4"
 preptime: "20 minutes"
 difficulty: "Easy"

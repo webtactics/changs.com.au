@@ -1,10 +1,10 @@
----
+﻿---
 title: "Spicy Slurpy Soup"
 status: published
 date: 2020-05-26
 description: "This is the soup for a cold wet day. Or a hot one. Definitely when you are hungry, or maybe just when you want something simple. This deceptively easy to make recipe is welcome anywhere."
 permalink: "/recipes/Spicy-Slurpy-Soup/"
-image: "/static/img/recipes/Spicy-Slurpy-Soup/Spicy-Slurpy-Soup-4.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Spicy-Slurpy-Soup/Spicy-Slurpy-Soup-4.jpg
 serves: "4"
 preptime: "5 min and 20 min cooking"
 difficulty: "Easy"

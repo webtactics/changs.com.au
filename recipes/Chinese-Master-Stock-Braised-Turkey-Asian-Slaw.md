@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chinese Master Stock Braised Turkey and Asian Slaw"
 status: published
 date: 2016-06-19
 description: "Red Braised Turkey Breast with Crunchy Asian Slaw and Mint"
 permalink: "/recipes/Chinese-Master-Stock-Braised-Turkey-Asian-Slaw/"
-image: "/static/img/recipes/Chinese-Master-Stock-Braised-Turkey-Asian-Slaw/Red-braised-turkey-breast-with-crunchy-Asian-slaw-and-mint.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chinese-Master-Stock-Braised-Turkey-Asian-Slaw/Red-braised-turkey-breast-with-crunchy-Asian-slaw-and-mint.jpg
 serves: "4"
 preptime: "55 minutes"
 difficulty: "Easy"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Hoisin Sauce Mushrooms with Peking Pancakes"
 status: published
 date: 2020-08-17
 description: "This recipe provides a great variation on a traditional favourite. Swapping out duck for mushroom, our Hoisin Sauce Mushrooms with Peking Pancakes are all you hope for. Fun to eat, fantastic and surprisingly easy to make."
 permalink: "/recipes/Hoisin-Sauce-Mushrooms-with-Peking-Pancakes/"
-image: "/static/img/recipes/Hoisin-Sauce-Mushrooms-with-Peking-Pancakes/Hoisin-Sauce-Mushrooms-with-Peking-Pancakes-WEB-6.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Hoisin-Sauce-Mushrooms-with-Peking-Pancakes/Hoisin-Sauce-Mushrooms-with-Peking-Pancakes-WEB-6.jpg
 serves: "4"
 preptime: "10 mins"
 cookingtime: "10 mins"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Crispy Noodle Salad with Quinoa in a Jar"
 status: published
 date: 2020-03-04
 description: "The goodness of quinoa and carrot with the convenience of a travel ready, jar sized serving and our famous Chang’s Crispy Noodle Salad. What could be better? Healthy, satisfying, easy to make and a delight to eat!"
 permalink: "/recipes/Crispy-Noodle-Salad-with-Quinoa-in-a-Jar/"
-image: "/static/img/recipes/Crispy-Noodle-Salad-with-Quinoa-in-a-Jar/Crispy-Noodle-Salad-with-Quinoa-1.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Crispy-Noodle-Salad-with-Quinoa-in-a-Jar/Crispy-Noodle-Salad-with-Quinoa-1.jpg
 makes: "6 large jar servings"
 difficulty: "Easy"
 author: "pwg"

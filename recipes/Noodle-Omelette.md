@@ -1,10 +1,10 @@
----
+﻿---
 title: "Noodle Omelette"
 status: published
 date: 2020-05-26
 description: "Ok, so omelette, and you’re thinking breakfast. However, think again! Our Noodle Omelette is so simple to make and tasty to eat that any hour is Noodle Omelette hour!"
 permalink: "/recipes/Noodle-Omelette/"
-image: "/static/img/recipes/Noodle-Omelette/Noodle-Omelette-4.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Noodle-Omelette/Noodle-Omelette-4.jpg
 serves: "2-3"
 preptime: "10 min and 10 min cooking"
 difficulty: "Easy"

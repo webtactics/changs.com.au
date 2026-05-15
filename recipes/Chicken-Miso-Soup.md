@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chicken Miso Soup"
 status: published
 date: 2023-05-03
 description: "Ideal all year round, our Chicken Miso Soup is a comforting and flavourful soup that is easy to make at home."
 permalink: "/recipes/Chicken-Miso-Soup/"
-image: "/static/img/recipes/Chicken-Miso-Soup/Chicken-Miso-Soup-3.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chicken-Miso-Soup/Chicken-Miso-Soup-3.jpg
 serves: "4"
 preptime: "20 minutes"
 cookingtime: "20 minutes"

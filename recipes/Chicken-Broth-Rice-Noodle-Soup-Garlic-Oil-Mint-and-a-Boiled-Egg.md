@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chicken Broth Rice Noodle Soup, Garlic Oil, Mint and a Boiled Egg"
 status: published
 date: 2025-12-02
 description: "Chicken Broth Rice Noodle Soup with Garlic Oil, Fresh Mint & Boiled Egg — a light, warming bowl of rice noodles in fragrant chicken broth, topped with aromatic garlic oil, herbs and a soft-boiled egg. Ready in under 30 minutes — perfect for a cozy, nourishing meal."
 permalink: "/recipes/Chicken-Broth-Rice-Noodle-Soup-Garlic-Oil-Mint-and-a-Boiled-Egg/"
-image: "/static/img/recipes/Chicken-Broth-Rice-Noodle-Soup-Garlic-Oil-Mint-and-a-Boiled-Egg/Chicken-Broth-Rice-Noodle-Soup.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chicken-Broth-Rice-Noodle-Soup-Garlic-Oil-Mint-and-a-Boiled-Egg/Chicken-Broth-Rice-Noodle-Soup.jpg
 serves: "2"
 preptime: "10 minutes"
 cookingtime: "20 minutes"

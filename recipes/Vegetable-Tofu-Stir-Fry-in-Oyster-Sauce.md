@@ -1,10 +1,10 @@
----
+﻿---
 title: "Vegetable and Tofu Stir Fry in Oyster Sauce"
 status: published
 date: 2015-08-07
 description: "A quick and easy meat - free stir fry!"
 permalink: "/recipes/Vegetable-Tofu-Stir-Fry-in-Oyster-Sauce/"
-image: "/static/img/recipes/Vegetable-Tofu-Stir-Fry-in-Oyster-Sauce/Vegetable-Tofu-Stir-Fry-in-Oyster-Sauce.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Vegetable-Tofu-Stir-Fry-in-Oyster-Sauce/Vegetable-Tofu-Stir-Fry-in-Oyster-Sauce.jpg
 serves: "4"
 preptime: "15 minutes"
 difficulty: "Easy"

@@ -1,11 +1,11 @@
----
+﻿---
 title: "Original Oyster Sauce"
 status: published
 date: 2026-05-15
 description: "Traditional sauce particularly popular for use with a stir-fry."
 permalink: "/products/Changs-Original-Oyster-Sauce/"
-image: "/static/img/products/Changs-Original-Oyster-Sauce/Changs-Original-Oyster-Sauce-280ml.jpg"
-sumimage: "/static/img/products/Changs-Original-Oyster-Sauce/Changs-Original-Oyster-Sauce-280ml-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Oyster-Sauce/Changs-Original-Oyster-Sauce-280ml.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Oyster-Sauce/Changs-Original-Oyster-Sauce-280ml-300x200.jpg
 prodsize: "280ml"
 packsizes: "150ml, 280ml and 430ml"
 gluten_free: true

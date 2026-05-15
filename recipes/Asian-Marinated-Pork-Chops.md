@@ -1,10 +1,10 @@
----
+﻿---
 title: "Asian Marinated Pork Chops"
 status: published
 date: 2015-08-06
 description: "Asian inspired marinated pork chops"
 permalink: "/recipes/Asian-Marinated-Pork-Chops/"
-image: "/static/img/recipes/Asian-Marinated-Pork-Chops/Asian-Marinated-Pork-Chops.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Asian-Marinated-Pork-Chops/Asian-Marinated-Pork-Chops.jpg
 serves: "4"
 preptime: "20 minutes"
 marinating: "4+"

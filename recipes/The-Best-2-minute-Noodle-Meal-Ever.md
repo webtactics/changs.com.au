@@ -1,10 +1,10 @@
----
+﻿---
 title: "The Best 2 minute Noodle Meal Ever"
 status: published
 date: 2019-04-05
 description: "Big claim. The BEST 2-minute noodles, ever. Put this recipe to the test. An absolute favourite. Quick, easy and fantastic."
 permalink: "/recipes/The-Best-2-minute-Noodle-Meal-Ever/"
-image: "/static/img/recipes/The-Best-2-minute-Noodle-Meal-Ever/The-Best-2-minute-Noodle-Meal-Ever.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/The-Best-2-minute-Noodle-Meal-Ever/The-Best-2-minute-Noodle-Meal-Ever.jpg
 serves: "3-4"
 difficulty: "Easy Peasy"
 author: "pwg"

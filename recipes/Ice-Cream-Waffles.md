@@ -1,10 +1,10 @@
----
+﻿---
 title: "Ice Cream Waffles"
 status: published
 date: 2021-03-02
 description: "As a treat made Ice Cream Waffles for my daughter. Fair to say, I could do no wrong in her eyes, at least for a while. Worth it for the adulation alone!"
 permalink: "/recipes/Ice-Cream-Waffles/"
-image: "/static/img/recipes/Ice-Cream-Waffles/Ice-Cream-Waffles-4.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Ice-Cream-Waffles/Ice-Cream-Waffles-4.jpg
 difficulty: "Not bad at all."
 author: "pwg"
 gallery: "recipes/Ice-Cream-Waffles"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Five Spice Marinated Duck Breast"
 status: published
 date: 2015-12-07
 description: "A hearty, slow roasted, Five Spice and Hoisin marinated duck breast with cherries on top."
 permalink: "/recipes/Five-Spice-Marinated-Duck-Breast/"
-image: "/static/img/recipes/Five-Spice-Marinated-Duck-Breast/Five-Spice-Marinated-Duck-Breast.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Five-Spice-Marinated-Duck-Breast/Five-Spice-Marinated-Duck-Breast.jpg
 serves: "4-6"
 preptime: "1+ hours"
 marinating: "12 hours"

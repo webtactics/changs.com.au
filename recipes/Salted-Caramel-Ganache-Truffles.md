@@ -1,10 +1,10 @@
----
+﻿---
 title: "Salted Caramel Ganache Truffles"
 status: published
 date: 2020-10-01
 description: "A chewy salted caramel centre, enveloped in chocolate-covered Chang's Original Fried Noodles (or Chang's Gluten Free Fried Noodles for a gluten-free option) make for a perfectly delicious and indulgent treat for the festive season."
 permalink: "/recipes/Salted-Caramel-Ganache-Truffles/"
-image: "/static/img/recipes/Salted-Caramel-Ganache-Truffles/Salted-Caramel-Ganache-Truffles-0242.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Salted-Caramel-Ganache-Truffles/Salted-Caramel-Ganache-Truffles-0242.jpg
 makes: "approx 16"
 preptime: "20 mins + 2 hours chilling"
 cookingtime: "15 mins"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Pork Meatballs with Oyster Sauce"
 status: published
 date: 2017-09-10
 description: "Pork Meatballs with Oyster Sauce"
 permalink: "/recipes/Pork-Meatballs-with-Oyster-Sauce/"
-image: "/static/img/recipes/Pork-Meatballs-with-Oyster-Sauce/Pork-Meatballs-with-Oyster-Sauce.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Pork-Meatballs-with-Oyster-Sauce/Pork-Meatballs-with-Oyster-Sauce.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Salmon avocado and fried noodle salad"
 status: published
 date: 2017-12-01
 description: "Salmon avocado and fried noodle salad"
 permalink: "/recipes/Salmon-avocado-and-fried-noodle-salad/"
-image: "/static/img/recipes/Salmon-avocado-and-fried-noodle-salad/Salmon-avocado-and-fried-noodle-salad.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Salmon-avocado-and-fried-noodle-salad/Salmon-avocado-and-fried-noodle-salad.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Potato Salad with Chang's Fried Noodles"
 status: published
 date: 2020-05-19
 description: "This isn’t a salad for rabbits. Full of taste, bite and sure to satisfy the hungry! Potatoes, bacon, eggs, chilli. Really, need I say more?"
 permalink: "/recipes/Potato-Salad-with-Chilli-Salad-Dressing/"
-image: "/static/img/recipes/Potato-Salad-with-Chilli-Salad-Dressing/Potato-Salad-with-Chilli-Salad-Dressing-1.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Potato-Salad-with-Chilli-Salad-Dressing/Potato-Salad-with-Chilli-Salad-Dressing-1.jpg
 serves: "4-6"
 preptime: "15 minutes & 20 minutes cooking"
 difficulty: "Easy"

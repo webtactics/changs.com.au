@@ -1,10 +1,10 @@
----
+﻿---
 title: "Beef Pad See Ew"
 status: published
 date: 2025-05-25
 description: "Discover a delicious Beef Pad See Ew recipe that combines tender beef, fresh veggies, and chewy rice noodles. Perfect for a tasty homemade Thai meal!"
 permalink: "/recipes/Beef-Pad-See-Ew/"
-image: "/static/img/recipes/Beef-Pad-See-Ew/Beef-Pad-See-Ew.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Beef-Pad-See-Ew/Beef-Pad-See-Ew.jpg
 serves: "3"
 preptime: "15 minutes"
 cookingtime: "20 minutes"

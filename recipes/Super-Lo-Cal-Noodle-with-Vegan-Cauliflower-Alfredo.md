@@ -1,10 +1,10 @@
----
+﻿---
 title: "Super Lo-Cal Noodle with Vegan Cauliflower Alfredo"
 status: published
 date: 2024-03-31
 description: "Experience Chang's Super Lo-Cal Noodle with Vegan Cauliflower Alfredo recipe. A creamy, guilt-free delight packed with flavor and nutrients!"
 permalink: "/recipes/Super-Lo-Cal-Noodle-with-Vegan-Cauliflower-Alfredo/"
-image: "/static/img/recipes/Super-Lo-Cal-Noodle-with-Vegan-Cauliflower-Alfredo/Super-Lo-Cal-Noodle-with-Vegan-Cauliflower-Alfredo.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Super-Lo-Cal-Noodle-with-Vegan-Cauliflower-Alfredo/Super-Lo-Cal-Noodle-with-Vegan-Cauliflower-Alfredo.jpg
 serves: "2"
 preptime: "10 mins"
 cookingtime: "15 mins"

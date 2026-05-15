@@ -1,10 +1,10 @@
----
+﻿---
 title: "San Choy Bow"
 status: published
 date: 2015-08-07
 description: "This quick and easy San Choy Bow makes a delicious entrée or light midweek meal."
 permalink: "/recipes/San-Choy-Bow/"
-image: "/static/img/recipes/San-Choy-Bow/San-Choy-Bow.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/San-Choy-Bow/San-Choy-Bow.jpg
 makes: "4"
 preptime: "15 minutes"
 difficulty: "Easy"

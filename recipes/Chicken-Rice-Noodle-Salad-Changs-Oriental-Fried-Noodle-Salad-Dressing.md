@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chicken & Rice Noodle Salad + Changs Oriental Fried Noodle Salad Dressing"
 status: published
 date: 2018-05-23
 description: "Add the noodles, cabbage, carrot, green shallot, mint and coriander to the chicken and gently toss to combine. Drizzle with dressing and gently toss to combine. Add the sesame seeds to taste"
 permalink: "/recipes/Chicken-Rice-Noodle-Salad-Changs-Oriental-Fried-Noodle-Salad-Dressing/"
-image: "/static/img/recipes/Chicken-Rice-Noodle-Salad-Changs-Oriental-Fried-Noodle-Salad-Dressing/Chicken-Rice-Noodle-Salad-Changs-Oriental-Fried-Noodle-Salad-Dressing.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chicken-Rice-Noodle-Salad-Changs-Oriental-Fried-Noodle-Salad-Dressing/Chicken-Rice-Noodle-Salad-Changs-Oriental-Fried-Noodle-Salad-Dressing.jpg
 serves: "6"
 difficulty: "Easy"
 author: "pwg"

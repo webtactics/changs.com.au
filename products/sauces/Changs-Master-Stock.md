@@ -1,11 +1,11 @@
----
+﻿---
 title: "Master Stock"
 status: published
 date: 2026-05-15
 description: "Authentic master stock with none of the hard work."
 permalink: "/products/Changs-Master-Stock/"
-image: "/static/img/products/Changs-Master-Stock/Master_Stock_280ml-500x500.jpg"
-sumimage: "/static/img/products/Changs-Master-Stock/Master_Stock_280ml-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Master-Stock/Master_Stock_280ml-500x500.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Master-Stock/Master_Stock_280ml-300x200.jpg
 gluten_free: true
 ingredients: "Water, shaoxing wine, naturally brewed soy sauce, (soya bean, water, salt, wheat flour), brown sugar, garlic, ginger, vinegar, sorghum liqueur, star anise, cinnamon, fennel"
 tags:

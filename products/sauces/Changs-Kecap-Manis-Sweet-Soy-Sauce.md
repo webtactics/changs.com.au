@@ -1,11 +1,11 @@
----
+﻿---
 title: "Kecap Manis Sweet Soy Sauce"
 status: published
 date: 2026-05-15
 description: "Naturally brewed...ideal for a bbq marinade"
 permalink: "/products/Changs-Kecap-Manis-Sweet-Soy-Sauce/"
-image: "/static/img/products/Changs-Kecap-Manis-Sweet-Soy-Sauce/Changs-Kecap-Manis-Sweet-Soy-Sauce.jpg"
-sumimage: "/static/img/products/Changs-Kecap-Manis-Sweet-Soy-Sauce/Changs-Kecap-Manis-Sweet-Soy-Sauce-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Kecap-Manis-Sweet-Soy-Sauce/Changs-Kecap-Manis-Sweet-Soy-Sauce.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Kecap-Manis-Sweet-Soy-Sauce/Changs-Kecap-Manis-Sweet-Soy-Sauce-300x200.jpg
 prodsize: "150ml"
 gluten_free: true
 gtin: "9300777091821"

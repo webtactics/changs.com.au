@@ -1,11 +1,11 @@
----
+﻿---
 title: "Hokkien Noodles"
 status: published
 date: 2026-05-15
 description: "Ready to use Hokkien noodles in convenient packets."
 permalink: "/products/Changs-Shelf-Fresh-Noodles-Hokkien-Style/"
-image: "/static/img/products/Changs-Shelf-Fresh-Noodles-Hokkien-Style/Changs-Shelf-Fresh-Noodles-Hokkien-Style.jpg"
-sumimage: "/static/img/products/Changs-Shelf-Fresh-Noodles-Hokkien-Style/Changs-Shelf-Fresh-Noodles-Hokkien-Style-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Shelf-Fresh-Noodles-Hokkien-Style/Changs-Shelf-Fresh-Noodles-Hokkien-Style.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Shelf-Fresh-Noodles-Hokkien-Style/Changs-Shelf-Fresh-Noodles-Hokkien-Style-300x200.jpg
 prodsize: "800g"
 gluten_free: true
 gtin: "9300777091951"

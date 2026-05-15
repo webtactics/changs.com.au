@@ -1,10 +1,10 @@
----
+﻿---
 title: "Spicy Satay Noodles"
 status: published
 date: 2020-06-10
 description: "This noodle dish takes no more than 10 minutes to make and is a wonderful lunch or dinner option. You can also call it 10 minute Spicy Satay Noodles!"
 permalink: "/recipes/Spicy-Satay-Noodles/"
-image: "/static/img/recipes/Spicy-Satay-Noodles/Spicy-Satay-Noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Spicy-Satay-Noodles/Spicy-Satay-Noodles.jpg
 preptime: "5 minutes, 3 min cooking"
 difficulty: "Easy!"
 author: "pwg"

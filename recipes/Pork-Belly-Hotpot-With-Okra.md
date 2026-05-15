@@ -1,10 +1,10 @@
----
+﻿---
 title: "Pork Belly Hotpot With Okra"
 status: published
 date: 2015-08-07
 description: "This warming pork belly hotpot is a must-try this winter!"
 permalink: "/recipes/Pork-Belly-Hotpot-With-Okra/"
-image: "/static/img/recipes/Pork-Belly-Hotpot-With-Okra/Pork-Belly-Hotpot-with-Okra.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Pork-Belly-Hotpot-With-Okra/Pork-Belly-Hotpot-with-Okra.jpg
 serves: "4"
 preptime: "2 hours"
 difficulty: "Easy"

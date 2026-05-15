@@ -1,10 +1,10 @@
----
+﻿---
 title: "Red cabbage slaw with crunchy noodles"
 status: published
 date: 2017-12-01
 description: "Red cabbage slaw with crunchy noodles"
 permalink: "/recipes/Red-cabbage-slaw-with-crunchy-noodles/"
-image: "/static/img/recipes/Red-cabbage-slaw-with-crunchy-noodles/Red-cabbage-slaw-with-crunchy-noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Red-cabbage-slaw-with-crunchy-noodles/Red-cabbage-slaw-with-crunchy-noodles.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

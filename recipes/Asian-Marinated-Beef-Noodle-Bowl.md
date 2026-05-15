@@ -1,10 +1,10 @@
----
+﻿---
 title: "Chang's Asian Marinated Beef Noodle Bowl"
 status: published
 date: 2023-11-15
 description: "Discover the perfect fusion of flavors with Chang's Asian Marinated Beef Noodle Bowl recipe."
 permalink: "/recipes/Asian-Marinated-Beef-Noodle-Bowl/"
-image: "/static/img/recipes/Asian-Marinated-Beef-Noodle-Bowl/Asian-Marinated-Beef-Noodle-Bowl-4.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Asian-Marinated-Beef-Noodle-Bowl/Asian-Marinated-Beef-Noodle-Bowl-4.jpg
 serves: "4"
 author: "pwg"
 gallery: "recipes/Asian-Marinated-Beef-Noodle-Bowl"

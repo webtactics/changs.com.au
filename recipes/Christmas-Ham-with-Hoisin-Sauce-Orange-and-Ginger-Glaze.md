@@ -1,10 +1,10 @@
----
+﻿---
 title: "Christmas Ham with Hoisin Sauce, Orange and Ginger Glaze"
 status: published
 date: 2020-11-04
 description: "Ham for any time of the year, this festive feast is a sure-fire winner. Pair with our Noodle Salad with Edamame Beans for a summer blast!"
 permalink: "/recipes/Christmas-Ham-with-Hoisin-Sauce-Orange-and-Ginger-Glaze/"
-image: "/static/img/recipes/Christmas-Ham-with-Hoisin-Sauce-Orange-and-Ginger-Glaze/191125-Christmas-Ham-with-Hoisin-Sauce-Orange-and-Ginger-Glaze-3.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Christmas-Ham-with-Hoisin-Sauce-Orange-and-Ginger-Glaze/191125-Christmas-Ham-with-Hoisin-Sauce-Orange-and-Ginger-Glaze-3.jpg
 preptime: "15 minutes"
 difficulty: "Easier than you think!"
 author: "pwg"

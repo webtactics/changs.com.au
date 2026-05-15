@@ -1,10 +1,10 @@
----
+﻿---
 title: "Cucumber Noodle Salad with Chang’s Sichuan Dressing"
 status: published
 date: 2023-11-15
 description: "This quick and easy recipe is a delightful fusion of vibrant textures and bold tastes, creating a refreshing salad that's perfect for any occasion."
 permalink: "/recipes/Cucumber-Noodle-Salad-with-Changs-Sichuan-Dressing/"
-image: "/static/img/recipes/Cucumber-Noodle-Salad-with-Changs-Sichuan-Dressing/Cucumber-Noodle-Salad-with-Changs-Sichuan-Dressing-2.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Cucumber-Noodle-Salad-with-Changs-Sichuan-Dressing/Cucumber-Noodle-Salad-with-Changs-Sichuan-Dressing-2.jpg
 serves: "2"
 preptime: "10 minutes"
 cookingtime: "5 minutes"

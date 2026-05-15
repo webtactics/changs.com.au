@@ -1,10 +1,10 @@
----
+﻿---
 title: "Rocky Road Style Slice With Fried Noodle"
 status: published
 date: 2018-05-23
 description: "Line the base and sides of an 20cm square cake pan with baking paper. Prepare all the ingredients, cutting glacé cherries and large marshmallows with scissors. Then place all the ingredients in a bowl."
 permalink: "/recipes/Rocky-Road-Style-Slice-With-Fried-Noodle/"
-image: "/static/img/recipes/Rocky-Road-Style-Slice-With-Fried-Noodle/200226-Rocky-Road-Style-Slice-With-Fried-Noodle.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Rocky-Road-Style-Slice-With-Fried-Noodle/200226-Rocky-Road-Style-Slice-With-Fried-Noodle.jpg
 serves: "10"
 difficulty: "Easy"
 author: "pwg"

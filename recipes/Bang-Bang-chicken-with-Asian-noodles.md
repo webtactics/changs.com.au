@@ -1,10 +1,10 @@
----
+﻿---
 title: "Bang Bang chicken with Asian noodles "
 status: published
 date: 2018-10-10
 description: "Bang Bang chicken with Asian noodles "
 permalink: "/recipes/Bang-Bang-chicken-with-Asian-noodles/"
-image: "/static/img/recipes/Bang-Bang-chicken-with-Asian-noodles/Bang-Bang-chicken-with-Asian-noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Bang-Bang-chicken-with-Asian-noodles/Bang-Bang-chicken-with-Asian-noodles.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

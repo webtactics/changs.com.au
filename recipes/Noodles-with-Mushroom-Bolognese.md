@@ -1,10 +1,10 @@
----
+﻿---
 title: "Noodles with Mushroom Bolognese"
 status: published
 date: 2019-07-10
 description: "Noodles with a mushroom Bolognese. This dish, sounds, looks and tastes great! None of the fuss of traditional Bolognese, this easy to prepare dish is a winner."
 permalink: "/recipes/Noodles-with-Mushroom-Bolognese/"
-image: "/static/img/recipes/Noodles-with-Mushroom-Bolognese/191202-Noodles-with-Mushroom-Bolognese-3.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Noodles-with-Mushroom-Bolognese/191202-Noodles-with-Mushroom-Bolognese-3.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Dry Beef Rice Noodles"
 status: published
 date: 2015-08-07
 description: "Flavoursome Dry Beef Rice Noodles"
 permalink: "/recipes/Dry-Beef-Rice-Noodles/"
-image: "/static/img/recipes/Dry-Beef-Rice-Noodles/Dry-Beef-Rice-Noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Dry-Beef-Rice-Noodles/Dry-Beef-Rice-Noodles.jpg
 serves: "4"
 preptime: "30 minutes"
 marinating: "2-12 hours"

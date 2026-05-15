@@ -1,11 +1,11 @@
----
+﻿---
 title: "Vermicelli Rice  Noodles"
 status: published
 date: 2026-05-15
 description: "Versatile rice noodles for all your favourite Asian dishes."
 permalink: "/products/Changs-Vermicelli-Rice-Noodles/"
-image: "/static/img/products/Changs-Vermicelli-Rice-Noodles/Changs-Rice-Noodles-Vermicelli-1000x1000.jpg"
-sumimage: "/static/img/products/Changs-Vermicelli-Rice-Noodles/Changs-Rice-Noodles-Vermicelli-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Vermicelli-Rice-Noodles/Changs-Rice-Noodles-Vermicelli-1000x1000.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Vermicelli-Rice-Noodles/Changs-Rice-Noodles-Vermicelli-300x200.jpg
 prodsize: "250g"
 gluten_free: true
 gtin: "9300777091357"

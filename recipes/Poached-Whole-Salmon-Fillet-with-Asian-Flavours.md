@@ -1,10 +1,10 @@
----
+﻿---
 title: "Poached Whole Salmon Fillet with Asian Flavours"
 status: published
 date: 2015-12-08
 description: "Impress your guests with this poached whole salmon"
 permalink: "/recipes/Poached-Whole-Salmon-Fillet-with-Asian-Flavours/"
-image: "/static/img/recipes/Poached-Whole-Salmon-Fillet-with-Asian-Flavours/Poached-Whole-Salmon-Fillet-with-Asian-Flavours.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Poached-Whole-Salmon-Fillet-with-Asian-Flavours/Poached-Whole-Salmon-Fillet-with-Asian-Flavours.jpg
 serves: "4-6"
 preptime: "45 minutes"
 difficulty: "Easy"

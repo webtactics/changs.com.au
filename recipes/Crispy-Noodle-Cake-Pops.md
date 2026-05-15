@@ -1,10 +1,10 @@
----
+﻿---
 title: "Crispy Noodle Cake Pops"
 status: published
 date: 2020-10-01
 description: "A delicious and fun take on serving cake at your next party, these cake pops are easy to make and come with a delicious Chang's Original Fried Noodles or Chang's Gluten Free Fried Noodles surprise in the middle."
 permalink: "/recipes/Crispy-Noodle-Cake-Pops/"
-image: "/static/img/recipes/Crispy-Noodle-Cake-Pops/Crispy-Noodle-Cake-Pops-9724.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Crispy-Noodle-Cake-Pops/Crispy-Noodle-Cake-Pops-9724.jpg
 makes: "16 pops"
 preptime: "30 mins + 1 hour chilling"
 difficulty: "Easy"

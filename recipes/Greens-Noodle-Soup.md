@@ -1,10 +1,10 @@
----
+﻿---
 title: "Greens Noodle Soup"
 status: published
 date: 2019-07-10
 description: "What a beautiful dish! A healthy warming nutritious bowl of goodness. Oyster mushrooms, bok choy, Thai basil chilli and a squeeze of lime juice. Hmmm."
 permalink: "/recipes/Greens-Noodle-Soup/"
-image: "/static/img/recipes/Greens-Noodle-Soup/191202-Greens-Noodle-Soup-3.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Greens-Noodle-Soup/191202-Greens-Noodle-Soup-3.jpg
 serves: "4"
 difficulty: "Simple"
 author: "pwg"

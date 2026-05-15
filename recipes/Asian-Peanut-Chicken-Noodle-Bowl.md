@@ -1,10 +1,10 @@
----
+﻿---
 title: "Asian Peanut Chicken Noodle Bowl"
 status: published
 date: 2019-04-02
 description: "Abundance bowls are the perfect meal to use up whatever you have in your fridge or pantry. Don’t let the ingredient list fool you, this is super quick and easy recipe to prepare!"
 permalink: "/recipes/Asian-Peanut-Chicken-Noodle-Bowl/"
-image: "/static/img/recipes/Asian-Peanut-Chicken-Noodle-Bowl/Asian-Peanut-Chicken-Noodle-Bowl-2.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Asian-Peanut-Chicken-Noodle-Bowl/Asian-Peanut-Chicken-Noodle-Bowl-2.jpg
 serves: "3-4"
 difficulty: "Simple"
 author: "pwg"

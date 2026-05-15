@@ -1,11 +1,11 @@
----
+﻿---
 title: "Egg Noodles"
 status: published
 date: 2026-05-15
 description: "Healthy, versatile egg noodles for use in a stir-fry, soups and salads."
 permalink: "/products/Changs-Egg-Noodles/"
-image: "/static/img/products/Changs-Egg-Noodles/egg-noodle-500x500.jpg"
-sumimage: "/static/img/products/Changs-Egg-Noodles/egg-noodle-300x200.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Egg-Noodles/egg-noodle-500x500.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Egg-Noodles/egg-noodle-300x200.jpg
 gluten_free: true
 gtin: "9300777081143"
 ingredients: "Wheat flour, egg white, wheat gluten, water, natural colouring 160(b) Product of Taiwan"

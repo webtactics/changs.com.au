@@ -1,10 +1,10 @@
----
+﻿---
 title: "Salmon with Oyster Sauce Glaze"
 status: published
 date: 2020-05-26
 description: "We think baked salmon is one of the more underrated dishes a family can enjoy. Nutritious, flavourful and certainly easy to make, our Salmon with Spicy Glaze is sure to enliven any gathering!"
 permalink: "/recipes/Salmon-with-Oyster-Sauce-Glaze/"
-image: "/static/img/recipes/Salmon-with-Oyster-Sauce-Glaze/Salmon-with-Spicy-Glaze-1.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Salmon-with-Oyster-Sauce-Glaze/Salmon-with-Spicy-Glaze-1.jpg
 serves: "6"
 preptime: "30 min and 25 min cooking"
 difficulty: "Easy"

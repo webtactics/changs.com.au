@@ -1,10 +1,10 @@
----
+﻿---
 title: "Meatball and Super Lo-Cal Noodle Soup"
 status: published
 date: 2015-03-10
 description: "A warming beef and noodle soup."
 permalink: "/recipes/Meatball-and-Super-Lo-Cal-Noodle-Soup/"
-image: "/static/img/recipes/Meatball-and-Super-Lo-Cal-Noodle-Soup/Meatball-and-Super-Lo-Cal-Noodle-Soup.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Meatball-and-Super-Lo-Cal-Noodle-Soup/Meatball-and-Super-Lo-Cal-Noodle-Soup.jpg
 serves: "4"
 preptime: "45 minutes"
 marinating: "10 minutes"

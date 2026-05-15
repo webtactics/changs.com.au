@@ -1,10 +1,10 @@
----
+﻿---
 title: "Taiwanese Beef and Noodle Soup"
 status: published
 date: 2016-02-03
 description: "A fresh Taiwanese beef soup served with Chang’s Egg Noodles"
 permalink: "/recipes/Taiwanese-Beef-and-Noodle-Soup/"
-image: "/static/img/recipes/Taiwanese-Beef-and-Noodle-Soup/Taiwanese-Beef-and-Noodle-Soup.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Taiwanese-Beef-and-Noodle-Soup/Taiwanese-Beef-and-Noodle-Soup.jpg
 serves: "6"
 preptime: "3+ hours"
 difficulty: "Easy"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Lemongrass Chicken with Stir-Fried Greens & Super Lo-Cal Noodles"
 status: published
 date: 2025-05-26
 description: "Quick, flavour-packed and protein-rich.  Air fryer or stovetop friendly. Gluten-free and low carb."
 permalink: "/recipes/Lemongrass-Chicken-with-Stir-Fried-Greens-Super-Lo-Cal-Noodles/"
-image: "/static/img/recipes/Lemongrass-Chicken-with-Stir-Fried-Greens-Super-Lo-Cal-Noodles/Lemongrass-Chicken-with-Stir-Fried-Greens-Super-Lo-Cal-Noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Lemongrass-Chicken-with-Stir-Fried-Greens-Super-Lo-Cal-Noodles/Lemongrass-Chicken-with-Stir-Fried-Greens-Super-Lo-Cal-Noodles.jpg
 serves: "4"
 preptime: "15 minutes (plus marinating)"
 cookingtime: "20 minutes"

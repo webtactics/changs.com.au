@@ -1,10 +1,10 @@
----
+﻿---
 title: "Spiced Chicken with Couscous and Noodle Salad"
 status: published
 date: 2015-09-15
 description: "Asian inspired chicken with couscous and noodle salad"
 permalink: "/recipes/Spiced-Chicken-with-Couscous-and-Noodle-Salad/"
-image: "/static/img/recipes/Spiced-Chicken-with-Couscous-and-Noodle-Salad/Spiced-Chicken-with-Couscous-and-Noodle-Salad.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Spiced-Chicken-with-Couscous-and-Noodle-Salad/Spiced-Chicken-with-Couscous-and-Noodle-Salad.jpg
 serves: "4"
 preptime: "30 mins"
 difficulty: "Easy"

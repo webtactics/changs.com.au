@@ -1,10 +1,10 @@
----
+﻿---
 title: "Teriyaki Chicken Thigh Fillets"
 status: published
 date: 2023-02-27
 description: "The simple fact is everyone loves chicken thighs! This Teriyaki Chicken Thigh Fillets recipe is a mouth-watering dish that combines the sweetness of teriyaki sauce with the great flavour and tenderness of chicken thighs. Easy to prepare and full of flavour, this dish is perfect for a weeknight dinner or a weekend barbecue."
 permalink: "/recipes/Teriyaki-Chicken-Thigh-Fillets/"
-image: "/static/img/recipes/Teriyaki-Chicken-Thigh-Fillets/Teriyaki-Chicken-Thigh-Fillets-13.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Teriyaki-Chicken-Thigh-Fillets/Teriyaki-Chicken-Thigh-Fillets-13.jpg
 serves: "4"
 preptime: "5 minutes"
 author: "pwg"

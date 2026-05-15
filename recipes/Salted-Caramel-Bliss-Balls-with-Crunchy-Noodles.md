@@ -1,10 +1,10 @@
----
+﻿---
 title: "Salted Caramel Bliss Balls with Crunchy Noodles"
 status: published
 date: 2021-11-17
 description: "Salted Caramel Bliss Balls with Crunchy Noodles"
 permalink: "/recipes/Salted-Caramel-Bliss-Balls-with-Crunchy-Noodles/"
-image: "/static/img/recipes/Salted-Caramel-Bliss-Balls-with-Crunchy-Noodles/Salted-Caramel-Bliss-Balls-with-Crunchy-Noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Salted-Caramel-Bliss-Balls-with-Crunchy-Noodles/Salted-Caramel-Bliss-Balls-with-Crunchy-Noodles.jpg
 makes: "20 bite size"
 preptime: "5 minutes"
 cookingtime: "10 minutes Chilling Time: Optional"

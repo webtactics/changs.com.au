@@ -1,10 +1,10 @@
----
+﻿---
 title: "Summer Rice Paper Rolls"
 status: published
 date: 2022-10-12
 description: "Filled with bright and colourful salad ingredients, these Summer Rice Paper Rolls are easy to make, healthy and are served with the most delicious dipping sauce."
 permalink: "/recipes/Summer-Rice-Paper-Rolls/"
-image: "/static/img/recipes/Summer-Rice-Paper-Rolls/Summer-Rice-Paper-Rolls-18.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Summer-Rice-Paper-Rolls/Summer-Rice-Paper-Rolls-18.jpg
 makes: "12-14"
 preptime: "Prep and Make 30 minutes"
 author: "pwg"

@@ -1,10 +1,10 @@
----
+﻿---
 title: "Monster Party Bark"
 status: published
 date: 2019-09-30
 description: "A simple, scary, spin on an old favourite. Monster Party Bark may be the simplest recipe here. Melt chocolate cover it in personality, and eat!"
 permalink: "/recipes/Monster-Party-Bark/"
-image: "/static/img/recipes/Monster-Party-Bark/191202-Monster-Party-Bark-7.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Monster-Party-Bark/191202-Monster-Party-Bark-7.jpg
 difficulty: "Easy"
 author: "pwg"
 gallery: "recipes/Monster-Party-Bark"

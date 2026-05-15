@@ -1,10 +1,10 @@
----
+﻿---
 title: "Stir Fried Prawns and Vegetables with Hoisin"
 status: published
 date: 2015-08-07
 description: "Stir Fried Prawns and Vegetables with Hoisin"
 permalink: "/recipes/Stir-Fried-Prawns-and-Vegetables-with-Hoisin/"
-image: "/static/img/recipes/Stir-Fried-Prawns-and-Vegetables-with-Hoisin/Stir-Fried-Prawns-and-Vegetables-with-Hoisin.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Stir-Fried-Prawns-and-Vegetables-with-Hoisin/Stir-Fried-Prawns-and-Vegetables-with-Hoisin.jpg
 serves: "4"
 preptime: "15 minutes"
 marinating: "30 minutes"

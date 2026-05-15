@@ -1,11 +1,11 @@
----
+﻿---
 title: "Roast Pumpkin Noodle Salad"
 status: published
 date: 2022-10-19
 description: "The magical combination of this Roast Pumpkin Noodle Salad is so irresistible, it will be tempting and inviting even to the most picky salad eaters."
 permalink: "/recipes/Roast-Pumpkin-Noodle-Salad/"
-image: "/static/img/recipes/Roast-Pumpkin-Noodle-Salad/Roast-Pumpkin-Noodle-Salad-3.jpg"
-summaryimage: "/static/img/recipes/Roast-Pumpkin-Noodle-Salad/images/Gallery/recipes/Roast-Pumpkin-Noodle-Salad-230307/Roast-Pumpkin-Noodle-Salad-4.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Roast-Pumpkin-Noodle-Salad/Roast-Pumpkin-Noodle-Salad-3.jpg
+summaryimage: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Roast-Pumpkin-Noodle-Salad/images/Gallery/recipes/Roast-Pumpkin-Noodle-Salad-230307/Roast-Pumpkin-Noodle-Salad-4.jpg
 serves: "4 (or 8 as a side salad)"
 author: "pwg"
 gallery: "recipes/Roast-Pumpkin-Noodle-Salad-230307"

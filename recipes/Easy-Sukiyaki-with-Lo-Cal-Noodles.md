@@ -1,10 +1,10 @@
----
+﻿---
 title: "Easy Sukiyaki with Lo-Cal Noodles"
 status: published
 date: 2015-08-07
 description: "The perfect beef hot pot to warm you up this"
 permalink: "/recipes/Easy-Sukiyaki-with-Lo-Cal-Noodles/"
-image: "/static/img/recipes/Easy-Sukiyaki-with-Lo-Cal-Noodles/Easy-Sukiyaki-with-Lo-Cal-Noodles.jpg"
+image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Easy-Sukiyaki-with-Lo-Cal-Noodles/Easy-Sukiyaki-with-Lo-Cal-Noodles.jpg
 serves: "4"
 preptime: "20 minutes"
 difficulty: "Easy"
