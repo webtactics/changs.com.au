@@ -31,6 +31,7 @@ nutrition:
 tags:
   - "Gluten Free"
   - "Sauces"
+  - "Delicious Mongolian Style Stir Fry Sauce"
 ---
 
 Chang's range of sauces make cooking a delicious, quick dinner easy for everyone. This Mongolian style sauce is a great addition to stir fries.

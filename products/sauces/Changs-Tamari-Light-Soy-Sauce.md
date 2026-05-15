@@ -36,6 +36,7 @@ tags:
   - "Gluten Free"
   - "Sauces"
   - "Tamari"
+  - "Gluten Free Tamari Light Soy Sauce"
 ---
 
 Soy Sauce can be used as a flavouring marinade, table sauce or dipping sauce. Marinade any meat, poultry, vegetables and seafood to enhance your favourite dishes. “Light” means the colour is lighter.

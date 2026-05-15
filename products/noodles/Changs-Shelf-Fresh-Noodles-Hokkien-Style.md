@@ -30,6 +30,7 @@ nutrition:
   SodiumAvgQuantityPer100g: "227mg"
 tags:
   - "Noodles"
+  - "Hokkien Noodles"
 ---
 
 Delicious Shelf Fresh Noodles Hokkien Style sealed in four convenient packets. Ready to use, just heat in microwave or add near the end of cooking your favourite stir-fry.

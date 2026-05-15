@@ -32,6 +32,7 @@ nutrition:
 tags:
   - "Gluten Free"
   - "Sauces"
+  - "Original Chinese Sate Sauce"
 ---
 
 This is the original sate sauce made in the Chiuchow area in southern China. Later passed to Malaysia and Singapore by Chinese migrants.

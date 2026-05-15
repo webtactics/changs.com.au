@@ -13,6 +13,7 @@ ingredients: "Citron juice, sugar, water, natural brewed soy sauce (soy bean, wa
 tags:
   - "Gluten Free"
   - "Sauces"
+  - "Japanese Ponzu Sauce"
 ---
 
 A sweet tangy citrus based soy sauce commonly used in Japanese cooking, its fresh uplifting flavour enhances grilled meat or seafood. Chang’s Ponzu Sauce is perfect as a salad dressing on its own or with a little oil or mirin. Also great with sushi.

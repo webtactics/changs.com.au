@@ -13,6 +13,7 @@ ingredients: "Water, soya bean extract, wheat flour, salt, caramel colour (150)"
 tags:
   - "Gluten Free"
   - "Sauces"
+  - "Soy Sauce Dark"
 ---
 
 Classic soy sauce naturally brewed to have authentic aroma and taste. It can be used in cooking and as a table sauce.

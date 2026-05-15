@@ -33,6 +33,7 @@ nutrition:
 tags:
   - "Gluten Free"
   - "Noodles"
+  - "Traditional Super Lo-Cal Noodles"
 ---
 
 Chang’s new Super Lo-Cal Wok-Ready Noodles are 100% fat-free, low-GI and gluten-free. They are made from the soluble fibre of the konjac root which has been used in Asian cooking for many centuries. Ideal to add to a soup, stir-fry or even pasta.

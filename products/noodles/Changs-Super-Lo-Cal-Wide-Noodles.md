@@ -34,6 +34,7 @@ nutrition:
 tags:
   - "Gluten Free"
   - "Noodles"
+  - "Super Lo-Cal Wide Noodles"
 ---
 
 Super Lo-Cal Wide Noodles are crafted from the soluble fibre found in the Konjac root. Low in calories and incredibly filling, Super Lo-Cal Wide Noodles are suitable for a low-carb diet. A single serving contains fewer carbs than an average slice of bread. Popular in Japan, Super Lo-Cal Wide Noodles noodles readily absorb the flavours of the sauce or soup. Super Lo-Cal Wide Noodles are quick and easy to prepare—just rinse in water, add to your meal, and enjoy!

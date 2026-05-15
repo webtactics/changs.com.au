@@ -29,6 +29,7 @@ nutrition:
 tags:
   - "Gluten Free"
   - "Noodles"
+  - "Wok-Ready Noodles"
 ---
 
 Chang’s Wok-Ready noodles are 99% fat free and convenient for quick meals. No soaking or boiling required, just add straight to a stir fry for instant perfect results every time. Available in the Pasta aisle at your favourite Supermarket and selected independent Food Stores.

@@ -33,6 +33,7 @@ nutrition:
 tags:
   - "Gluten Free"
   - "Sauces"
+  - "Original Fish Sauce"
 ---
 
 A naturally brewed sauce made from fresh anchovies and salt, Fish Sauce is used extensively in Thai and Vietnamese cooking. Fish Sauce adds a unique delicious savoury flavour to your soups, stews, stir-fries, curries, dressings and as a dipping sauce.

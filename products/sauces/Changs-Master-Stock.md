@@ -11,6 +11,7 @@ ingredients: "Water, shaoxing wine, naturally brewed soy sauce, (soya bean, wate
 tags:
   - "Gluten Free"
   - "Sauces"
+  - "Master Stock"
 ---
 
 Chang’s has taken the hard work out of creating an authentic master stock with the introduction of Chang’s Master Stock. The shaoxing rice wine, star anise, ginger and cassia are all in the bottle, blended perfectly for you to make restaurant-quality food at home.

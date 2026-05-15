@@ -31,6 +31,7 @@ nutrition:
   SodiumAvgQuantityPer100g: "410mg"
 tags:
   - "Noodles"
+  - "Organic Soba Noodles"
 ---
 
 Chang’s Organic Soba Noodles are thin traditional Japanese-style noodles made with a mixture of wheat and buckwheat. With a similar size and shape to Italian spaghetti, our Organic Soba Noodles are suitable for many pasta dishes.

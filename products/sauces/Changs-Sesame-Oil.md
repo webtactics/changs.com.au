@@ -34,6 +34,7 @@ nutrition:
 tags:
   - "Gluten Free"
   - "Sauces"
+  - "Sesame Oil"
 ---
 
 Chang’s Sesame Oil gives a delicate flavour to meats, chicken, vegetable and noodles. Add towards the end of cooking for best results. Available in the cooking oil aisle at your favourite supermarket and selected independent food stores.

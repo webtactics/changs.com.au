@@ -28,6 +28,9 @@ nutrition:
   SugarsAvgQuantityPer100g: "3.6g"
   SodiumAvgQuantityPerServing: "287mg"
   SodiumAvgQuantityPer100g: "410mg"
+tags:
+  - "Noodles"
+  - "Organic Ramen Noodles"
 ---
 
 Ramen is a Japanese name for traditional Chinese-style noodles (stretched noodles). It is often used in stir-fries and soups.

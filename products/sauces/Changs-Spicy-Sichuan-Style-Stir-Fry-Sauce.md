@@ -31,6 +31,7 @@ nutrition:
 tags:
   - "Gluten Free"
   - "Sauces"
+  - "Spicy Sichuan Style Stir Fry Sauce"
 ---
 
 Chang's range of sauces makes cooking a delicious, quick dinner easy for everyone. This Spicy Sichuan style sauce is a great addition to stir-fries.

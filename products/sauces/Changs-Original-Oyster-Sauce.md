@@ -35,6 +35,7 @@ tags:
   - "Gluten Free"
   - "Sauces"
   - "ChangsTV"
+  - "Original Oyster Sauce"
 ---
 
 Chang’s Oyster Sauce is a traditional sauce widely used in Cantonese cooking. Complex flavours make it suitable for stir-fried beef, pork or chicken as well as being very tasty as a dipping sauce for steamed fish. Chang’s Oyster Sauce is gluten free.

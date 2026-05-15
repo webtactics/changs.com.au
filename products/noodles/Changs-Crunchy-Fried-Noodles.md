@@ -36,6 +36,7 @@ nutrition:
   SodiumAvgQuantityPer100g: "946mg"
 tags:
   - "Noodles"
+  - "Crunchy Fried Noodles"
 ---
 
 Authentic Asian cooking, Chang’s Crunchy Noodles can be eaten straight out the packet. Alternatively they can be added to soups, stews, casseroles or salads. Great with dips or in party snack mixes, Chang’s Crunchy Noodles are really versatile and add crunch to any dish.

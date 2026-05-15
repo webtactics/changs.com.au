@@ -36,6 +36,7 @@ tags:
   - "Gluten Free"
   - "Noodles"
   - "homebox"
+  - "Gluten Free Fried Noodles"
 ---
 
 Chang’s introduces its Gluten Free Fried Noodle to its range so now people following a gluten-free diet can enjoy our famous Oriental Fried Noodle Salad or Chocolate Spiders. Sold in a convenient 100g packet.

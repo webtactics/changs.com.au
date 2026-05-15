@@ -40,6 +40,7 @@ tags:
   - "Harris Farm"
   - "IGA"
   - "ChangsTV"
+  - "Original Fried Noodles"
 ---
 
 Our famous Original Fried Noodles - use in salads and soups for that extra crunch! Chang's Original Fried Noodles are cooked in cottonseed oil.

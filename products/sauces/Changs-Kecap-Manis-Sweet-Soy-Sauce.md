@@ -31,6 +31,7 @@ nutrition:
 tags:
   - "Gluten Free"
   - "Sauces"
+  - "Kecap Manis Sweet Soy Sauce"
 ---
 
 A tasty sweet soy sauce to add to meals or for dipping.

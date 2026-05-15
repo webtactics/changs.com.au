@@ -34,6 +34,7 @@ nutrition:
 tags:
   - "Gluten Free"
   - "Noodles"
+  - "Vermicelli Rice Noodles"
 ---
 
 Rice noodles are a delicious and light alternative to wheat noodles or spaghetti. Serve hot or cold with a stir-fry, soup or salad. Chang’s Rice Noodles are gluten-free and 99% fat free with no artificial colours or flavourings, packed with four individual portions.

@@ -14,6 +14,7 @@ igalink: "https://www.igashop.com.au/product/changs-light-soy-sauce-96514"
 tags:
   - "Gluten Free"
   - "Sauces"
+  - "Soy Sauce Light"
 ---
 
 Soy Sauce Light is naturally brewed to have authentic aroma and taste. Its light colour allows cooking with the taste of soy sauce without the dark colour. It is especially suitable used as dipping sauce for seafood, sashimi and sushi.

@@ -33,6 +33,7 @@ nutrition:
 tags:
   - "Gluten Free"
   - "Noodles"
+  - "Thai Style Rice Noodles"
 ---
 
 A flat and wide rice noodle, popularised by use in Pad Thai recipes. Just soak and add Thai Style Rice Noodles to your favourite recips. No artificial flavours, colours or preservatives Gluten Free.

@@ -14,6 +14,7 @@ woolworthslink: "https://www.woolworths.com.au/shop/productdetails/94986/chang-s
 igalink: "https://www.igashop.com.au/product/changs-long-life-noodles-92560"
 tags:
   - "Noodles"
+  - "Long Life Noodles"
 ---
 
 Chang’s Long Life Noodles are made the traditional way, steamed and then dried with hot air. They require minimal cooking, are packed in four individual portions and are ideal for a stir-fry, soup and salads. These noodles contain no artificial colours, flavours or preservatives and are 98% fat free!

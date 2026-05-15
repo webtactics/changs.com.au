@@ -13,6 +13,7 @@ ingredients: "Water, sugar, refined salt, black pepper, rice wine, garlic, onion
 tags:
   - "Gluten Free"
   - "Sauces"
+  - "Chinese Black Pepper Sauce"
 ---
 
 Authentic black pepper sauce originating from Cantonese cuisine, made popular by Chinese restaurants around the world. Can be used with all meats and firm white fish. Now gluten free.
