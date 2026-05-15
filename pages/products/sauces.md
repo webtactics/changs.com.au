@@ -7,7 +7,8 @@ date: 2023-01-02
 permalink: "/products/sauces/"
 eleventyNavigation:
   key: Sauces
-  parent: Events
+  parent: Products
+  order: 2
 ---
 Sauces
 

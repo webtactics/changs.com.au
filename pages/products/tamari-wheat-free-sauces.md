@@ -7,7 +7,8 @@ date: 2023-01-04
 permalink: "/products/tamari-wheat-free-sauces/"
 eleventyNavigation:
   key: Tamari
-  parent: Events
+  parent: Products
+  order: 4
 ---
 Chang's Tamari - Wheat Free Products
 
