@@ -21,3 +21,23 @@ $('.home-slide').slick({
   });
   </script>
 
+  <script>
+  const modal = document.querySelector('#my-modal');
+  const openBtn = document.querySelector('#open-modal');
+  const closeBtn = document.querySelector('#close-modal');
+
+  openBtn.addEventListener('click', () => {
+    modal.showModal(); // Native dialog method
+  });
+
+  closeBtn.addEventListener('click', () => {
+    modal.close();
+  });
+
+  // Optional: Close when clicking outside the modal box
+  modal.addEventListener('click', (event) => {
+    if (event.target === modal) {
+      modal.close();
+    }
+  });
+</script>
