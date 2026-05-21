@@ -568,6 +568,52 @@
         </div>
       </div>
     </footer>
+
+
+
+<!-- The Modal -->
+
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+      <span class="closemodal">&times;</span>
+      <h3>Chang's Search Section</h3>
+    </div>
+    <div class="modal-body">
+      <p>This search field queries the website, products and recipes.</p>
+	  <div class="mobilesearch">
+	  <form id="mc2a4amoduleform_2" method="get" action="https://www.changs.com/search-results/" class="cms_form">
+<div class="hidden">
+<input type="hidden" name="mact" value="Search,mc2a4a,dosearch,0" />
+<input type="hidden" name="mc2a4areturnid" value="82" />
+</div>
+
+<div class="grid-2-searchbox">
+    <div class="searchinputrow"> 
+        <input type="text" class="search-input" id="mc2a4asearchinput" name="mc2a4asearchinput" size="20" maxlength="50" value="" onfocus="if(this.value==this.defaultValue) this.value='';" onblur="if(this.value=='') this.value=this.defaultValue;" placeholder="Search this website"/>
+    </div>
+    <div class="searchsubmitrow">
+        <button class="searchsubmit" type="submit">Go</button>
+    </div>
+</div>
+<input type="hidden" id="mc2a4aorigreturnid" name="mc2a4aorigreturnid" value="15" />
+</form>
+
+  </div>
+    </div>
+  
+  </div>
+
+</div>
+
+  <!-- end Modal content -->
+
+
+
+
+
     {% endblock %} {% include "components/grid-js.njk" %}
   </body>
 </html>
