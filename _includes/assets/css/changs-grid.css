@@ -3501,7 +3501,14 @@ font-family: ProximaNova,sans-serif;
   min-height: 340px;
 }
 
+.redgradientcontentwrapper h1 {
+font-family: 'Perpetua', sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  color: var(--white);
 
+
+}
 
 .redgradientcontenttextbox {
   max-width: 80ch;
