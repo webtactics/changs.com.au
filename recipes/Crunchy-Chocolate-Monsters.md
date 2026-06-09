@@ -14,7 +14,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>400g milk chocolate, melted</li>
-  <li>3 packets <a title="Chang's Original Fried Noodles" href="products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a></li>
+  <li>3 packets <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a></li>
   <li>1 packet M&amp;M&rsquo;s</li>
   <li>Writing Icing Pens in red and orange to decorate</li>
   <li>Icing sugar to dust</li>

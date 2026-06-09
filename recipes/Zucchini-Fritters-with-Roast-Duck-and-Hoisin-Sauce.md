@@ -24,7 +24,7 @@ ingredients: |
   <li>&frac12; Chinese roast duck &ndash; available from Chinese BBQ restaurants</li>
   <li>1 Lebanese cucumber, cut into 4 cm long batons</li>
   <li>4 spring onions, white and pale green parts only, halved lengthways and cut into 4 cm lengths</li>
-  <li>2/3 cup <a title="Chang's Hoisin Sauce" href="products/Changs-Hoisin-Sauce/">Chang's Hoisin Sauce</a></li>
+  <li>2/3 cup <a title="Chang's Hoisin Sauce" href="/products/Changs-Hoisin-Sauce/">Chang's Hoisin Sauce</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

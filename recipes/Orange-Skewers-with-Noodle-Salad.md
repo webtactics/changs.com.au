@@ -16,11 +16,11 @@ ingredients: |
   <li>1/3 cup olive oil</li>
   <li>&frac12; cup orange marmalade</li>
   <li>&frac14; cup Sweet Chilli Sauce</li>
-  <li>1 tablespoon <a title="Chang's Soy Sauce" href="products/Changs-Soy-Sauce-Dark/">Chang's Soy Sauce</a></li>
+  <li>1 tablespoon <a title="Chang's Soy Sauce" href="/products/Changs-Soy-Sauce-Dark/">Chang's Soy Sauce</a></li>
   </ul>
   <h3>Salad:</h3>
   <ul>
-  <li>1 pkt <a title="Chang's Original Fried Noodles" href="products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a> or <a title="Chang's Gluten Free Fried Noodles" href="products/Gluten-Free-Fried-Noodles/">Chang's Gluten Free Fried Noodles</a></li>
+  <li>1 pkt <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a> or <a title="Chang's Gluten Free Fried Noodles" href="/products/Gluten-Free-Fried-Noodles/">Chang's Gluten Free Fried Noodles</a></li>
   <li>&frac12; green cabbage, shredded</li>
   <li>1/3 red cabbage, shredded</li>
   <li>1 red capsicum, cut into thin strips</li>

@@ -15,7 +15,7 @@ ingredients: |
   <li>10-12 sugar candy eyeballs</li>
   <li>2 tbs coloured sprinkles</li>
   <li>100g chocolate bar of choice, broken into pieces (we used Rolo)</li>
-  <li>&frac12; packet <a title="Chang's Original Fried Noodles" href="products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a></li>
+  <li>&frac12; packet <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a></li>
   </ul>
 method: |
   <h3>Method:</h3>
@@ -24,7 +24,7 @@ method: |
   <li>Spread evenly the sugar candy eyeballs, chocolate bar pieces, sprinkles and fried noodles onto the melted chocolate.</li>
   <li>Place into fridge to harden for 1 hour. Once hardened break up into pieces and serve.</li>
   </ol>
-  <p>See all of our <a href="recipes/desserts/scary-sweet-treats/">Scary Sweet Treats recipes here.</a></p>
+  <p>See all of our <a href="/recipes/desserts/scary-sweet-treats/">Scary Sweet Treats recipes here.</a></p>
 tags:
   - "Main Ingredient"
   - "Noodles"

@@ -13,7 +13,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>4-6 medium bananas</li>
-  <li>&frac12; packet <a title="Chang's Original Fried Noodles" href="products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a> (For Gluten Free option use <a title="Chang's Gluten Free Fried Noodles" href="products/Gluten-Free-Fried-Noodles/">Chang's Gluten Free Fried Noodles</a>.)</li>
+  <li>&frac12; packet <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a> (For Gluten Free option use <a title="Chang's Gluten Free Fried Noodles" href="/products/Gluten-Free-Fried-Noodles/">Chang's Gluten Free Fried Noodles</a>.)</li>
   <li>150-200g white chocolate</li>
   <li>8-10 paper lolly pop sticks</li>
   <li>writing icing tube</li>
@@ -26,7 +26,7 @@ method: |
   <li>Dip bananas into chocolate and coat all the way around. Place onto baking paper. Sprinkle noodles at the top end of bananas to create its hair. Repeat with remainder bananas.</li>
   <li>Using writing icing tube draw eyes and mouth. Allow setting in freezer for 3 hours before serving.</li>
   </ol>
-  <p>See all of our <a href="recipes/desserts/scary-sweet-treats/">Scary Sweet Treats recipes here.</a></p>
+  <p>See all of our <a href="/recipes/desserts/scary-sweet-treats/">Scary Sweet Treats recipes here.</a></p>
 tags:
   - "Main Ingredient"
   - "Noodles"

@@ -13,7 +13,7 @@ gallery: "recipes/Noodle-Omelette"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>125g <a title="Chang's Long Life Noodles" href="products/Changs-Long-Life-Noodles/" target="_blank" rel="noopener">Chang's Long Life Noodles</a> (&frac12; pkt) OR 2 cups leftover cooked noodles</li>
+  <li>125g <a title="Chang's Long Life Noodles" href="/products/Changs-Long-Life-Noodles/" target="_blank" rel="noopener">Chang's Long Life Noodles</a> (&frac12; pkt) OR 2 cups leftover cooked noodles</li>
   <li>4 eggs, whisked</li>
   <li>6 white mushrooms, sliced</li>
   <li>1 small brown onion, chopped</li>

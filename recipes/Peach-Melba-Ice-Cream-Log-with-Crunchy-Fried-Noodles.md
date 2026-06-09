@@ -21,7 +21,7 @@ ingredients: |
   <li>Ready-made whipped cream</li>
   <li>1 peach, firm, sliced into wedges</li>
   <li>1 punnet raspberries</li>
-  <li>&frac12; packet <a title="Chang's Crunchy Fried Noodles" href="products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a></li>
+  <li>&frac12; packet <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a></li>
   <li>Mint leaves</li>
   </ul>
 method: |

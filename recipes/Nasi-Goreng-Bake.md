@@ -22,8 +22,8 @@ ingredients: |
   <li>4 garlic cloves, minced</li>
   <li>3 tbs cooking oil</li>
   <li>2 tbs chilli sauce</li>
-  <li>2 tbs <a title="Chang's Kecap Manis Sweet Soy Sauce" href="products/Changs-Kecap-Manis-Sweet-Soy-Sauce/" target="_blank" rel="noopener">Chang's Kecap Manis Sweet Soy Sauce</a></li>
-  <li>1 tbs <a title="Chang's Tamari Light Soy Sauce" href="products/Changs-Tamari-Light-Soy-Sauce/" target="_blank" rel="noopener">Chang's Tamari Light Soy Sauce</a></li>
+  <li>2 tbs <a title="Chang's Kecap Manis Sweet Soy Sauce" href="/products/Changs-Kecap-Manis-Sweet-Soy-Sauce/" target="_blank" rel="noopener">Chang's Kecap Manis Sweet Soy Sauce</a></li>
+  <li>1 tbs <a title="Chang's Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce/" target="_blank" rel="noopener">Chang's Tamari Light Soy Sauce</a></li>
   </ul>
   <h3>To Garnish</h3>
   <ul>

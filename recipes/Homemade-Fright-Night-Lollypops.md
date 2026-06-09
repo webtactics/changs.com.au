@@ -16,7 +16,7 @@ ingredients: |
   <li>3 Tsps glucose syrup</li>
   <li>&frac14; cup + 2 tsps cater</li>
   <li>1-2 drops red food colouring if desired</li>
-  <li>1 packet <a title="Chang's Original Fried Noodles" href="products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a></li>
+  <li>1 packet <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

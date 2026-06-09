@@ -15,8 +15,8 @@ ingredients: |
   <h4>Korean inspired BBQ Chicken:</h4>
   <ul>
   <li>800g boneless, skinless chicken thigh fillets</li>
-  <li>3 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>2 tablespoons <a title="Chang's Sesame Oil" href="products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
+  <li>3 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tablespoons <a title="Chang's Sesame Oil" href="/products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
   <li>2 tablespoons gochujang paste</li>
   <li>2 tablespoons runny honey</li>
   <li>4 large garlic cloves, minced</li>
@@ -33,14 +33,14 @@ ingredients: |
   <li>1 tablespoon sesame seeds</li>
   <li>1 tablespoon rice vinegar</li>
   <li>&frac12; teaspoon sugar</li>
-  <li>2 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>1 tablespoon <a title="Chang's Sesame Oil" href="products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
+  <li>2 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tablespoon <a title="Chang's Sesame Oil" href="/products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
   </ul>
   <h4>Korean-inspired Noodles:</h4>
   <ul>
   <li>2 packets <a href="/products/Changs-Super-Lo-Cal-Wide-Noodles/" title="Chang's Super Lo-Cal Wide Noodles" alt="Chang's Super Lo-Cal Wide Noodles">Chang's Super Lo-Cal Wide Noodles</a> or 1 packet <a href="/products/Changs-Thai-Style-Rice-Noodles/" title="Chang's Thai Style Rice Noodles" alt="Chang's Thai Style Rice Noodles">Chang's Thai Style Rice Noodles</a></li>
-  <li>3 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>2 tablespoons <a title="Chang's Sesame Oil" href="products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
+  <li>3 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tablespoons <a title="Chang's Sesame Oil" href="/products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
   <li>1-2 tablespoons gochujang paste (depending on personal preference)</li>
   <li>1 tablespoon runny honey</li>
   <li>2 spring onions, chopped</li>

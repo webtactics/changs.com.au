@@ -15,10 +15,10 @@ ingredients: |
   <ul>
   <li>1litre best quality chicken stock</li>
   <li>&frac12; cup sake</li>
-  <li>&frac14; cup <a title="Chang's Soy Sauce Lighte" href="products/Changs-Soy-Sauce-Light/">Chang's Soy Sauce Light</a></li>
+  <li>&frac14; cup <a title="Chang's Soy Sauce Lighte" href="/products/Changs-Soy-Sauce-Light/">Chang's Soy Sauce Light</a></li>
   <li>200g cold roast pork- rolled shoulder, loin, leg or fillet- thinly sliced</li>
   <li>2 boiled eggs, peeled and halved</li>
-  <li>250g <a title="Chang's Long Life Noodles" href="products/Changs-Long-Life-Noodles/">Chang's Long Life Noodles</a> or <a title="Chang's Organic Ramen Noodles" href="products/Changs-Organic-Ramen-Noodles/">Chang's Organic Ramen Noodles</a></li>
+  <li>250g <a title="Chang's Long Life Noodles" href="/products/Changs-Long-Life-Noodles/">Chang's Long Life Noodles</a> or <a title="Chang's Organic Ramen Noodles" href="/products/Changs-Organic-Ramen-Noodles/">Chang's Organic Ramen Noodles</a></li>
   <li>100g bamboo shoots, thinly sliced</li>
   <li>4 fresh shitake mushrooms, sliced or quartered</li>
   <li>&frac12; sheet nori, thinly sliced</li>

@@ -13,13 +13,13 @@ ingredients: |
   <p>Approx. 120g protein total (30g per serve)</p>
   <h3>Ingredients:</h3>
   <ul>
-  <li>2 x packets <a title="Chang's Traditional Super Lo-Cal Noodles" href="products/Changs-Traditional-Super-Lo-Cal-Noodles/">Chang's Traditional Super Lo-Cal Noodles</a>, rinsed and drained</li>
+  <li>2 x packets <a title="Chang's Traditional Super Lo-Cal Noodles" href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/">Chang's Traditional Super Lo-Cal Noodles</a>, rinsed and drained</li>
   <li>500g lean beef mince</li>
   <li>1 tablespoon cooking oil</li>
   <li>1 large brown onion, thinly sliced</li>
   <li>8 garlic cloves, minced</li>
-  <li>4 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>4 tablespoons <a title="Chang's Original Hoisin Sauce" href="products/Changs-Original-Hoisin-Sauce/">Chang's Original Hoisin Sauce</a></li>
+  <li>4 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>4 tablespoons <a title="Chang's Original Hoisin Sauce" href="/products/Changs-Original-Hoisin-Sauce/">Chang's Original Hoisin Sauce</a></li>
   <li>1 tablespoon brown sugar</li>
   <li>1 teaspoon ground ginger</li>
   <li>&frac12; teaspoon chilli flakes</li>

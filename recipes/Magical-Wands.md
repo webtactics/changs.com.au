@@ -14,7 +14,7 @@ ingredients: |
   <li>150g white chocolate, chopped</li>
   <li>&frac34; cup hundreds and thousands</li>
   <li>15 sticks black liquorice</li>
-  <li>1 packet <a title="Chang's Crunchy Fried Noodles" href="products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a></li>
+  <li>1 packet <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

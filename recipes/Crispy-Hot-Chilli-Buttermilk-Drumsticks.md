@@ -11,7 +11,7 @@ cookingtime: "35-40 mins"
 author: "pwg"
 gallery: "recipes/Crispy-Hot-Chilli-Buttermilk-Drumsticks"
 ingredients: |
-  <p>Crispy on the outside and delectably juicy on the in, these chicken drumsticks are covered with crushed <a title="Chang's Crunchy Fried Noodles" href="products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a> then baked in the oven until golden. With a light hint of spice from chilli sauce they are even more delicious when dipped in <a title="Chang's Crispy Noodle Salad Dressing" href="products/Crispy-Noodle-Salad-Dressing/" target="_blank" rel="noopener">Chang's Crispy Noodle Salad Dressing</a>. You can serve these with rice and coleslaw or <a title="Chang's Crispy Noodle Salad" href="recipes/Crispy-Noodle-Salad/">Chang's Crispy Noodle Salad</a> for a complete meal.</p>
+  <p>Crispy on the outside and delectably juicy on the in, these chicken drumsticks are covered with crushed <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a> then baked in the oven until golden. With a light hint of spice from chilli sauce they are even more delicious when dipped in <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/" target="_blank" rel="noopener">Chang's Crispy Noodle Salad Dressing</a>. You can serve these with rice and coleslaw or <a title="Chang's Crispy Noodle Salad" href="/recipes/Crispy-Noodle-Salad/">Chang's Crispy Noodle Salad</a> for a complete meal.</p>
   <h3>Ingredients:</h3>
   <ul>
   <li>&frac12; cup buttermilk</li>
@@ -19,10 +19,10 @@ ingredients: |
   <li>&frac12; tsp sweet paprika</li>
   <li>&frac12; tsp salt</li>
   <li>5 chicken drumsticks</li>
-  <li>1 packet <a title="Chang's Crunchy Fried Noodles" href="products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a></li>
+  <li>1 packet <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a></li>
   <li>Oil spray</li>
   <li>1 spring onion</li>
-  <li>&frac12; cup <a title="Chang's Crispy Noodle Salad Dressing" href="products/Crispy-Noodle-Salad-Dressing/" target="_blank" rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>&frac12; cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/" target="_blank" rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

@@ -36,7 +36,7 @@ method: |
   <li>Next add the remaining ingredients. First the broccoli leaves, green onions, carrots and onions. Stir fry for a minute and then add the noodles. Pour over the Tamari Soy Sauce and the remaining Crispy Noodle Salad Dressing.</li>
   <li>Stir to combine well and once noodles are coated turn off heat and allow sitting for a minute. Drizzle with sesame oil and garnish with toasted sesame seeds and extra slices of green onions. Serve immediately.</li>
   </ol>
-  <p><em>Note: Make this dish GLUTEN FREE by using <a title="Chang's Thai Style Rice Noodles" href="products/Changs-Thai-Style-Rice-Noodles/">Chang's Thai Style Rice Noodles</a> or <a title="Chang's Wok-Ready Noodles" href="products/Wok-Ready-Noodles/">Chang's Wok-Ready Noodles</a>.</em></p>
+  <p><em>Note: Make this dish GLUTEN FREE by using <a title="Chang's Thai Style Rice Noodles" href="/products/Changs-Thai-Style-Rice-Noodles/">Chang's Thai Style Rice Noodles</a> or <a title="Chang's Wok-Ready Noodles" href="/products/Wok-Ready-Noodles/">Chang's Wok-Ready Noodles</a>.</em></p>
 tags:
   - "Main Ingredient"
   - "Chicken"

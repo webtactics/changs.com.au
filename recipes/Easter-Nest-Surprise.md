@@ -13,7 +13,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>400g milk chocolate, melted</li>
-  <li>3 pkt <a title="Chang's Original Fried Noodles" href="products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a></li>
+  <li>3 pkt <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a></li>
   <li>&frac34; cup hundreds and thousands</li>
   <li>200g Nestle Top &lsquo;n&rsquo; Fill caramel filling</li>
   <li>16 muffin cases</li>

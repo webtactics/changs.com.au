@@ -30,7 +30,7 @@ method: |
   <li>Brush the fat with 1/3 of the glaze and then place into preheated oven for 30 minutes. After 30 minutes remove from oven and re-glaze with the second third of the glaze. Repeat this in a third time in another 30 minutes and bake for a final half-hour (total cooking time 1.5 hours). Remember to turn the baking dish in the oven for even colouring.</li>
   <li>Once cooked allow to sit for 15 minutes before calving and serving.</li>
   </ol>
-  <p><strong>Serving suggestions:<br /></strong><a title="Chang's Noodle with Edamame Beans Salad" href="recipes/Noodle-Salad-with-Edamame-Beans/">Chang's Noodle with Edamame Beans Salad</a> or<br /><a title="Chang&rsquo;s Crispy Noodle Salad" href="recipes/Crispy-Noodle-Salad/">Chang&rsquo;s Crispy Noodle Salad</a>.</p>
+  <p><strong>Serving suggestions:<br /></strong><a title="Chang's Noodle with Edamame Beans Salad" href="/recipes/Noodle-Salad-with-Edamame-Beans/">Chang's Noodle with Edamame Beans Salad</a> or<br /><a title="Chang&rsquo;s Crispy Noodle Salad" href="/recipes/Crispy-Noodle-Salad/">Chang&rsquo;s Crispy Noodle Salad</a>.</p>
 tags:
   - "Main Ingredient"
   - "Pork"

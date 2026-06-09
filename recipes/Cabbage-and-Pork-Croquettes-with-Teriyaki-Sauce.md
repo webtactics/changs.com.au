@@ -22,8 +22,8 @@ ingredients: |
   <li>500g pork mince</li>
   <li>1 teaspoon sea salt</li>
   <li>1 teaspoon ground pepper</li>
-  <li>&frac14; cup <a title="Chang's Japanese Teriyaki Sauce (280ml)" href="products/Changs-Japanese-Teriyaki-Sauce-280ml/" target="_blank" rel="noopener">Chang's Japanese Teriyaki Sauce (280ml)</a> plus extra for serving</li>
-  <li>1 tablespoon <a title="Chang's Tamari Light Soy Sauce" href="products/Changs-Tamari-Light-Soy-Sauce/" target="_blank" rel="noopener">Chang's Tamari Light Soy Sauce</a></li>
+  <li>&frac14; cup <a title="Chang's Japanese Teriyaki Sauce (280ml)" href="/products/Changs-Japanese-Teriyaki-Sauce-280ml/" target="_blank" rel="noopener">Chang's Japanese Teriyaki Sauce (280ml)</a> plus extra for serving</li>
+  <li>1 tablespoon <a title="Chang's Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce/" target="_blank" rel="noopener">Chang's Tamari Light Soy Sauce</a></li>
   <li>1.5 cups Panko breadcrumbs (gluten free breadcrumbs optional)</li>
   <li>2-3 eggs, whisked</li>
   <li>1 cup plain flour (gluten free optional)</li>
@@ -41,7 +41,7 @@ method: |
   <li>Once they have all been coated, warm the cooking oil in a frying pan and over medium heat, fry on three sides until golden for 2-3 minutes each side. Repeat with remaining croquettes. Drain on paper towel. Cook in 2 batches to not overcrowd the pan.</li>
   <li>Allow to cool for 5 minutes before serving with Japanese Teriyaki Sauce and a squeeze of fresh lime.</li>
   </ol>
-  <p>Options: Serve as finger food or as a main meal alongside our <a title="Crispy Noodle Salad" href="recipes/Crispy-Noodle-Salad/">Crispy Noodle Salad</a>.</p>
+  <p>Options: Serve as finger food or as a main meal alongside our <a title="Crispy Noodle Salad" href="/recipes/Crispy-Noodle-Salad/">Crispy Noodle Salad</a>.</p>
 tags:
   - "Main Ingredient"
   - "Pork"

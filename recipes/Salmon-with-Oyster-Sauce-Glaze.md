@@ -17,7 +17,7 @@ ingredients: |
   <li>2 tbs olive oil</li>
   <li>2 garlic cloves, minced</li>
   <li>1 tsp ginger, grated</li>
-  <li>2 tbs <a title="Chang's Original Oyster Sauce" href="products/Changs-Original-Oyster-Sauce-150ml/" target="_blank" rel="noopener">Chang's Original Oyster Sauce</a></li>
+  <li>2 tbs <a title="Chang's Original Oyster Sauce" href="/products/Changs-Original-Oyster-Sauce-150ml/" target="_blank" rel="noopener">Chang's Original Oyster Sauce</a></li>
   <li>1 tbs hot sauce</li>
   <li>Sea salt and pepper</li>
   </ul>

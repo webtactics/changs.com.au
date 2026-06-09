@@ -12,7 +12,7 @@ gallery: "recipes/Witches-Broomsticks"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 packet <a title="Chang's Original Fried Noodles" href="products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a></li>
+  <li>1 packet <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a></li>
   <li>100g pretzel sticks</li>
   <li>100g white chocolate</li>
   <li>writing icing tube</li>
@@ -25,7 +25,7 @@ method: |
   <li>Repeat with remainder pretzel sticks.</li>
   <li>Using writing icing tube create a rope that holds brush together. Allow to set for 10 minutes before serving.</li>
   </ol>
-  <p>See all of our <a href="recipes/desserts/scary-sweet-treats/">Scary Sweet Treats recipes here.</a></p>
+  <p>See all of our <a href="/recipes/desserts/scary-sweet-treats/">Scary Sweet Treats recipes here.</a></p>
 tags:
   - "Main Ingredient"
   - "Noodles"

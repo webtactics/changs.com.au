@@ -15,7 +15,7 @@ permalink: /gluten-free/
  
 
 
-<p>Whether you choose to avoid gluten for lifestyle or health reasons, going gluten-free doesn’t mean missing out. Chang’s has a great range of <a title="Gluten Free" href="gluten-free-products">gluten free</a> and <a title="Wheat-free-sauces" href="products/wheat-free-sauces">wheat free (tamari) products</a> options just for you!</p>
+<p>Whether you choose to avoid gluten for lifestyle or health reasons, going gluten-free doesn’t mean missing out. Chang’s has a great range of <a title="Gluten Free" href="gluten-free-products">gluten free</a> and <a title="Wheat-free-sauces" href="/products/wheat-free-sauces">wheat free (tamari) products</a> options just for you!</p>
 <p>An Australian laboratory has independently tested all of our gluten-free products so if the label says ‘Gluten Free’ you can be worry free.</p>
 <h3>Do you have questions about the world of ‘gluten free’?</h3>
 <p>We have the answers. And if you’d like more information, visit <a title="Coeliac Australia" href="http://www.coeliac.org.au" target="_blank" rel="noopener">Coeliac Australia</a> who has everything there is to know about being gluten free or coeliac.</p>
@@ -43,7 +43,7 @@ permalink: /gluten-free/
           <div class="accordion-content">
 <p>Gluten is a protein which is found in wheat, rye, barley, triticale and oats and for many people, ingesting too much gluten disagrees with them, causing various aches and pains.</p>
 <p>Being gluten intolerant is different to having an allergy to gluten, which is coeliac disease. Visit <a title="Coeliac Australia" href="http://www.coeliac.org.au" target="_blank">Coeliac Australia</a> for more information.</p>
-<p>If you’re interested in cooking without gluten, you can find our <a href="gluten-free-products" title="Gluten Free Products">gluten free</a> and <a href="products/wheat-free-sauces" title="Wheat Free Sauces">tamari ranges</a> here and <a href="gluten-free-recipes" title="Gluten Free Recipes">recipe ideas here</a>.</p>
+<p>If you’re interested in cooking without gluten, you can find our <a href="gluten-free-products" title="Gluten Free Products">gluten free</a> and <a href="/products/wheat-free-sauces" title="Wheat Free Sauces">tamari ranges</a> here and <a href="gluten-free-recipes" title="Gluten Free Recipes">recipe ideas here</a>.</p>
       </div>
         </div>
       </div>

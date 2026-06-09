@@ -43,7 +43,7 @@ method: |
   <li>Add the garlic and ginger to the wok and stir for a second before returning the beef to the wok along with the drained, still firm broccoli and bamboo shoots.</li>
   <li>Add the oyster, light soy and dark soy sauces and salt, stirring to coat the meat and vegetables. Add the stock or water and finally the dissolved cornflour and stir until the sauce thickens.</li>
   <li>To serve, place the noodles on a plate and the stir fry in the centre on top.</li>
-  <li>If you'd like this dish to be gluten free, be sure select the <a title="Chang's Vermicelli Rice Noodles" href="products/Changs-Vermicelli-Rice-Noodles/">Chang's Vermicelli Rice Noodles</a> and a gluten free chicken stock.</li>
+  <li>If you'd like this dish to be gluten free, be sure select the <a title="Chang's Vermicelli Rice Noodles" href="/products/Changs-Vermicelli-Rice-Noodles/">Chang's Vermicelli Rice Noodles</a> and a gluten free chicken stock.</li>
   </ol>
 tags:
   - "Beef"

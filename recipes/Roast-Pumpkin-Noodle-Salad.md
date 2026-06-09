@@ -18,8 +18,8 @@ ingredients: |
   <li>3 cups of cut pumpkin, cubed</li>
   <li>&frac12; cup lightly toasted slivered almonds</li>
   <li>&frac14; cup shelled pistachios</li>
-  <li>1 bag of <a title="Chang's Crunchy Fried Noodles" href="products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a></li>
-  <li>&frac12; bottle of <a title="Chang's Crispy Noodle Salad Dressing" href="products/Crispy-Noodle-Salad-Dressing/" target="_blank" rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>1 bag of <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a></li>
+  <li>&frac12; bottle of <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/" target="_blank" rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

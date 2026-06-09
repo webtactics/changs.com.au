@@ -31,7 +31,7 @@ method: |
   <li>Place finished gyoza on a board or plate, pushing down gently so the bottom of each flattens. Repeat with remainder of wrappers.</li>
   <li>Heat a heavy based frying pan with a lid, and add the neutral oil. Place the gyoza into the pan, frying until the base begins to brown. Once golden, add &frac14; cup of water to the pan and replace the lid. Reduce the heat to low, and cook for a further five minutes.</li>
   <li>Remove gyoza from the pan, and allow to cool.</li>
-  <li>Serve with <a title="Chang's Gluten Free Tamari Light Soy Sauce (280ml)" href="products/Changs-Tamari-Light-Soy-Sauce-280ml/">Chang's Gluten Free Tamari Light Soy Sauce (280ml)</a> to dip.</li>
+  <li>Serve with <a title="Chang's Gluten Free Tamari Light Soy Sauce (280ml)" href="/products/Changs-Tamari-Light-Soy-Sauce-280ml/">Chang's Gluten Free Tamari Light Soy Sauce (280ml)</a> to dip.</li>
   </ol>
 tags:
   - "Main Ingredient"

@@ -17,7 +17,7 @@ ingredients: |
   <li>1 litre chicken stock</li>
   <li>4 large garlic cloves, finely sliced</li>
   <li>5 cm piece ginger, sliced</li>
-  <li>4 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>4 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>2 long red chillis, sliced</li>
   <li>1 tablespoon cooking oil</li>
   <li>Salt and pepper</li>
@@ -25,8 +25,8 @@ ingredients: |
   <h4>Honey Soy Chicken:</h4>
   <ul>
   <li>2 large chicken breasts (approx. 700&ndash;800 g)</li>
-  <li>3 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>3 tablespoons <a title="Chang's Original Oyster Sauce" href="products/Changs-Original-Oyster-Sauce/">Chang's Original Oyster Sauce</a></li>
+  <li>3 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>3 tablespoons <a title="Chang's Original Oyster Sauce" href="/products/Changs-Original-Oyster-Sauce/">Chang's Original Oyster Sauce</a></li>
   <li>3 tablespoons runny honey</li>
   <li>2 tablespoons cooking oil</li>
   <li>Salt and pepper</li>
@@ -37,8 +37,8 @@ ingredients: |
   </ul>
   <h4>Noodles:</h4>
   <ul>
-  <li>2 packs <a title="Chang's Traditional Super Lo-Cal Wide Noodles" href="products/Changs-Traditional-Super-Lo-Cal-Wide-Noodles/">Chang's Traditional Super Lo-Cal Wide Noodles</a></li>
-  <li>2-3 tablespoons <a title="Chang's Sesame Oil" href="products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
+  <li>2 packs <a title="Chang's Traditional Super Lo-Cal Wide Noodles" href="/products/Changs-Traditional-Super-Lo-Cal-Wide-Noodles/">Chang's Traditional Super Lo-Cal Wide Noodles</a></li>
+  <li>2-3 tablespoons <a title="Chang's Sesame Oil" href="/products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
   </ul>
   <h4>To Garnish:</h4>
   <p>1 large spring onion, finely sliced, 2 tablespoons sesame seeds and Optional chilli oil.</p>

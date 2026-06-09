@@ -33,7 +33,7 @@ method: |
   <li>Place a sheet of baking paper over the chicken and then cover and enclose with foil. Bake for 1 hour and 15 minutes covered.</li>
   <li>Remove the chicken from the oven and uncover. Add the corn cobs around the chicken and turn them in the cooking juices. Baste the chicken with the juices as well.</li>
   <li>Melt the butter and drizzle it over the corn and the chicken. Return the chicken and corn to the oven uncovered for 30-40 minutes or until cooked and turning them half way.</li>
-  <li>Remove chicken and corn from oven, sprinkle with toasted sesame seeds, green onions and fresh herbs. Serve alongside fresh bread rolls, steamed rice or our <a title="Asian Slaw with Peanuts and Crispy Noodles" href="recipes/Asian-Slaw-with-Peanuts-and-Crispy-Noodles/">Asian Slaw with Peanuts and Crispy Noodles</a>.</li>
+  <li>Remove chicken and corn from oven, sprinkle with toasted sesame seeds, green onions and fresh herbs. Serve alongside fresh bread rolls, steamed rice or our <a title="Asian Slaw with Peanuts and Crispy Noodles" href="/recipes/Asian-Slaw-with-Peanuts-and-Crispy-Noodles/">Asian Slaw with Peanuts and Crispy Noodles</a>.</li>
   </ol>
 tags:
   - "Main Ingredient"

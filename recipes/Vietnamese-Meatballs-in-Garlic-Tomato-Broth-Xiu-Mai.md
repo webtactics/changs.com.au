@@ -29,8 +29,8 @@ ingredients: |
   <li>2 tablespoons cooking oil</li>
   <li>400g tomato puree</li>
   <li>8 large garlic cloves, finely minced</li>
-  <li>2 tablespoons <a title="Chang's Original Fish Sauce" href="products/Changs-Original-Fish-Sauce/">Chang's Original Fish Sauce</a></li>
-  <li>2 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tablespoons <a title="Chang's Original Fish Sauce" href="/products/Changs-Original-Fish-Sauce/">Chang's Original Fish Sauce</a></li>
+  <li>2 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 tablespoon chicken stock powder</li>
   <li>1 teaspoon white pepper</li>
   <li>&frac12; teaspoon salt</li>
@@ -39,7 +39,7 @@ ingredients: |
   </ul>
   <h4>To serve:</h4>
   <ul>
-  <li>1 packet <a title="Chang's Vermicelli Rice Noodles" href="products/Changs-Vermicelli-Rice-Noodles/">Chang's Vermicelli Rice Noodles</a></li>
+  <li>1 packet <a title="Chang's Vermicelli Rice Noodles" href="/products/Changs-Vermicelli-Rice-Noodles/">Chang's Vermicelli Rice Noodles</a></li>
   <li>Spring onion, chopped</li>
   <li>Coriander, chopped</li>
   </ul>

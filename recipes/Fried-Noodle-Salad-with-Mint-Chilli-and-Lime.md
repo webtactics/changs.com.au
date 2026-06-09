@@ -12,7 +12,7 @@ gallery: "recipes/Fried-Noodle-Salad-with-Mint-Chilli-and-Lime"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 packet <a title="Chang's Original Fried Noodles" href="products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a>, or <a title="Chang's Gluten Free Fried Noodles" href="products/Gluten-Free-Fried-Noodles/">Chang's Gluten Free Fried Noodles</a></li>
+  <li>1 packet <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a>, or <a title="Chang's Gluten Free Fried Noodles" href="/products/Gluten-Free-Fried-Noodles/">Chang's Gluten Free Fried Noodles</a></li>
   <li>&frac12; Chinese cabbage</li>
   <li>6 green onions, sliced on the diagonal</li>
   <li>&frac12; cup slivered almonds</li>
@@ -21,7 +21,7 @@ ingredients: |
   <li>1 long red chilli, thinly sliced</li>
   <li>juice of 1 lime</li>
   <li>handful on Thai mint</li>
-  <li>2/3 cup <a title="Chang's Crispy Noodle Salad Dressing" href="products/Crispy-Noodle-Salad-Dressing/">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>2/3 cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/">Chang's Crispy Noodle Salad Dressing</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

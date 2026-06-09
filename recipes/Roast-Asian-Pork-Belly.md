@@ -37,7 +37,7 @@ method: |
   <li>Bake at 220 degrees for 15 minutes then reduce to 160 degrees for another 90 minutes. If the skin begins to burn, cover carefully with foil. If the skin has not yet crisped up, turn the grill on your oven and grill the skin for a few minutes, until cooked golden brown.</li>
   <li>Allow pork to rest for 10 minutes before portioning along the cut marks made previously.</li>
   </ol>
-  <p>Serve with Chang's famous <a title="Chang&rsquo;s Crispy Noodle Salad" href="recipes/Crispy-Noodle-Salad/">Chang&rsquo;s Crispy Noodle Salad</a>.</p>
+  <p>Serve with Chang's famous <a title="Chang&rsquo;s Crispy Noodle Salad" href="/recipes/Crispy-Noodle-Salad/">Chang&rsquo;s Crispy Noodle Salad</a>.</p>
 tags:
   - "Main Ingredient"
   - "Pork"

@@ -20,9 +20,9 @@ ingredients: |
   <li>3cm piece ginger, peeled and roughly chopped</li>
   <li>1 cup Thai basil (or coriander if unavailable)</li>
   <li>1 long red chilli, roughly chopped</li>
-  <li>2 tablespoons <a title="Chang's Original Fish Sauce" href="products/Changs-Original-Fish-Sauce/">Chang's Original Fish Sauce</a></li>
-  <li>2 tablespoons <a title="Chang's Sesame Oil" href="products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
-  <li>2 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tablespoons <a title="Chang's Original Fish Sauce" href="/products/Changs-Original-Fish-Sauce/">Chang's Original Fish Sauce</a></li>
+  <li>2 tablespoons <a title="Chang's Sesame Oil" href="/products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
+  <li>2 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>Juice of &frac12; lime</li>
   <li>Salt and pepper to taste</li>
   </ul>
@@ -31,12 +31,12 @@ ingredients: |
   <li>1 bunch Chinese broccoli, chopped 4cm lengths</li>
   <li>3cm piece ginger, thinly sliced</li>
   <li>2 large garlic cloves, minced</li>
-  <li>2 tablespoons <a title="Chang's Sesame Oil" href="products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
-  <li>2 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tablespoons <a title="Chang's Sesame Oil" href="/products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
+  <li>2 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>3 tablespoons ice cold water</li>
   <li>2 teaspoons corn flour</li>
   <li>2 tablespoons cooking oil</li>
-  <li>2-3 packets <a title="Chang's Traditional Super Lo-Cal Wide Noodles" href="products/Changs-Traditional-Super-Lo-Cal-Wide-Noodles/">Chang's Traditional Super Lo-Cal Wide Noodles</a></li>
+  <li>2-3 packets <a title="Chang's Traditional Super Lo-Cal Wide Noodles" href="/products/Changs-Traditional-Super-Lo-Cal-Wide-Noodles/">Chang's Traditional Super Lo-Cal Wide Noodles</a></li>
   </ul>
   <h4>Options to Garnish:</h4>
   <p>Lime, Coriander, Chilli slices and Green Onions</p>

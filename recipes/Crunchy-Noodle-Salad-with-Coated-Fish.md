@@ -13,8 +13,8 @@ gallery: "recipes/Crunchy-Noodle-Salad-with-Coated-Fish"
 ingredients: |
   <h3>Salad:</h3>
   <ul>
-  <li>1 packet <a title="Chang's Crunchy Fried Noodles" href="products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a></li>
-  <li>&frac12; cup <a title="Chang's Crispy Noodle Salad Dressing" href="products/Crispy-Noodle-Salad-Dressing/" target="_blank" rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>1 packet <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a></li>
+  <li>&frac12; cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/" target="_blank" rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
   <li>&frac12; Chinese Cabbage, finely shredded</li>
   <li>6 green onions, sliced</li>
   <li>1 cup frozen or fresh peas, boiled until tender</li>

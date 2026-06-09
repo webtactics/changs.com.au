@@ -12,7 +12,7 @@ gallery: "recipes/Spicy-Fried-Noodle-Salad"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 packet <a title="Chang's Original Fried Noodles" href="products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a>, or <a title="Chang's Gluten Free Fried Noodles" href="products/Gluten-Free-Fried-Noodles/">Chang's Gluten Free Fried Noodles</a></li>
+  <li>1 packet <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a>, or <a title="Chang's Gluten Free Fried Noodles" href="/products/Gluten-Free-Fried-Noodles/">Chang's Gluten Free Fried Noodles</a></li>
   <li>&frac14; Chinese cabbage, shredded</li>
   <li>&frac14; purple cabbage, shredded</li>
   <li>1 large carrot, sliced thinly</li>
@@ -21,7 +21,7 @@ ingredients: |
   <li>2 red chillies, finely sliced</li>
   <li>125g can of corn</li>
   <li>Juice of 1 lime</li>
-  <li>&frac12; cup <a title="Chang's Crispy Noodle Salad Dressing" href="products/Crispy-Noodle-Salad-Dressing/">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>&frac12; cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/">Chang's Crispy Noodle Salad Dressing</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

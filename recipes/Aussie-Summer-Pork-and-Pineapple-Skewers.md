@@ -34,9 +34,9 @@ method: |
   </ol>
   <h3>Optional:</h3>
   <ul>
-  <li>1 pkt <a title="Chang's Rice Vermicelli Noodles" href="products/Changs-Rice-Noodles-Vermicelli/">Chang's Rice Vermicelli Noodles</a></li>
-  <li>1 tbs <a title="Chang's Soy Sauce" href="products/Changs-Soy-Sauce-Dark/">Chang's Soy Sauce</a></li>
-  <li>1 tbs <a title="Chang's Sesame Oil" href="products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
+  <li>1 pkt <a title="Chang's Rice Vermicelli Noodles" href="/products/Changs-Rice-Noodles-Vermicelli/">Chang's Rice Vermicelli Noodles</a></li>
+  <li>1 tbs <a title="Chang's Soy Sauce" href="/products/Changs-Soy-Sauce-Dark/">Chang's Soy Sauce</a></li>
+  <li>1 tbs <a title="Chang's Sesame Oil" href="/products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
   <li>3 tbs pineapple juice</li>
   </ul>
   <h3>Method:</h3>
