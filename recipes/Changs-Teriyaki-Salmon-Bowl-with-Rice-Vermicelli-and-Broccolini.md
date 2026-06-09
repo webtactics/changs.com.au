@@ -14,19 +14,17 @@ ingredients: |
   <h3>Ingredients:</h3>
   <h4>Teriyaki Salmon:</h4>
   <ul>
-  <li>600g salmon fillets, skinless, diced</li>
-  <li>6 tablespoons <a href="/products/Changs-Japanese-Teriyaki-Sauce/" title="Chang's Japanese Teriyaki Sauce" alt="Chang's Japanese Teriyaki Sauce">Chang's Japanese Teriyaki Sauce</a></li>
+  <li>600g salmon fillets, skinless, diced</li> <li>6 tablespoons <a href="/products/Changs-Japanese-Teriyaki-Sauce/" title="Chang's Japanese Teriyaki Sauce" alt="Chang's Japanese Teriyaki Sauce">Chang's Japanese Teriyaki Sauce</a></li>
   <li>2 tablespoons <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
-  <li>2 large garlic cloves, minced</li>
-  <li>2 tablespoons fresh ginger, grated</li>
-  <li>Sea salt and pepper</li>
+  <li>2 large garlic cloves, minced</li> <li>2 tablespoons fresh ginger, grated</li> <li>Sea salt and pepper</li>
   </ul>
-  <h4>Noodles Sauce:</h4>
+  <h4>Noodles &amp; Sauce:</h4>
   <ul>
-  <li>&frac12; cup <a href="/products/Changs-Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a></li>
-  <li>&frac14; cup fresh lime juice</li>
+  <li>1 packet <a href="/products/Changs-Vermicelli-Rice-Noodles/" title="Chang's Vermicelli Rice Noodles" alt="Chang's Vermicelli Rice Noodles">Chang's Vermicelli Rice Noodles</a></li>
+  <li>½ cup <a href="/products/Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>¼ cup fresh lime juice</li>
   </ul>
-  <h4>Broccolini::</h4>
+  <h4>Broccolini:</h4>
   <ul>
   <li>2 bunch of broccolini, sliced into 5cm pieces</li>
   <li>2 tablespoons <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
