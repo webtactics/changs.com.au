@@ -12,5 +12,5 @@ eleventyNavigation:
 subtitle: We have literally hundreds of authentic Asian and modern Australian meal ideas to try at home. Make sure you bring your appetite!
 ---
 
-{% set postslist = collections['Recipes']  %} 
+{% set postslist = collections['Recipes'] | reverse  %} 
 {% include "components/postslist-products-4-wide.njk" %}
