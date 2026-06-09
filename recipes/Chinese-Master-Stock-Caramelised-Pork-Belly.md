@@ -39,7 +39,6 @@ method: |
   <li>Serve with the orange slices, steamed greens, sesame seeds and chilli, and drizzle with remaining caramel.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Slow Cooking"
   - "Occassions"

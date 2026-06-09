@@ -39,7 +39,6 @@ method: |
 tags:
   - "BBQ"
   - "Lamb"
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Style"
   - "Kid friendly"

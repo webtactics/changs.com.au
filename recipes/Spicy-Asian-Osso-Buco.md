@@ -35,7 +35,6 @@ method: |
   <li>Serves 4 as a small main course or generously as part of an Asian banquet.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Style"
   - "Slow Cooking"

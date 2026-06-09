@@ -39,7 +39,6 @@ method: |
   </ol>
 tags:
   - "BBQ"
-  - "Main Ingredient"
   - "Pork"
   - "Gluten-Free"
   - "Style"

@@ -44,7 +44,6 @@ method: |
   <li>To make the sauce, whisk together the ingredients and place into dipping bowl. Serve alongside Summer Rice Paper Rolls.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Finger Food"

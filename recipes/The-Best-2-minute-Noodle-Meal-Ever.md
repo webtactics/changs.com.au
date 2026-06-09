@@ -39,7 +39,6 @@ method: |
   <li>Turn off heat. Pour into bowl and garnish with green onions, coriander and chilli flakes.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles"
   - "Super Lo-Cal"

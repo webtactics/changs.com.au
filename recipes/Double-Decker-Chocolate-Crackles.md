@@ -41,7 +41,6 @@ method: |
   <li>Remove crackle from pan, and cut into 12 pieces.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles"
   - "Style"
   - "Noodles Ingredient"

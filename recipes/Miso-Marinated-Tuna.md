@@ -42,7 +42,6 @@ method: |
   </ol>
 tags:
   - "BBQ"
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Super Lo-Cal"

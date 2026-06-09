@@ -46,7 +46,6 @@ method: |
   <li>Once absorbed add the vegetables back into the wok. Combine with the noodles. Turn off heat and add the green onions, lime juice and fried noodles to garnish. Combine and serve immediately.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles"
   - "Gluten-Free"

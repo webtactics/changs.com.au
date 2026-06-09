@@ -30,7 +30,6 @@ method: |
   <li>Serve hot or cold, garnish with sesame seeds for flavour.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Style"
   - "Finger Food"

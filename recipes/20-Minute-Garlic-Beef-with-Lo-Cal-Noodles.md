@@ -41,7 +41,6 @@ method: |
   <p> </p>
 tags:
   - "Beef"
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Stir Frys"
   - "Noodles Ingredient"

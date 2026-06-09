@@ -42,7 +42,6 @@ method: |
   </ol>
   <p><strong>Serving Options: </strong>Avocado, Sesame seeds, Sliced Green onions, chilli flakes and a wedge of lime.</p>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Gluten-Free"
   - "Noodles Ingredient"
@@ -53,4 +52,5 @@ tags:
   - "Sesame Oil"
   - "Crispy Noodle Salad Dressing"
   - "Original Oyster Sauce"
+  - "Vermicelli Rice Noodles"
 ---

@@ -28,7 +28,6 @@ method: |
   <li>Set aside 1 hour or until firm.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles"
   - "Style"
   - "Noodles Ingredient"

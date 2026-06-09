@@ -37,7 +37,6 @@ method: |
   <li>Combine Hoisin, Soy, sesame oil and lime juice in a small bowl and serve with rice paper rolls</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles"
   - "Gluten-Free"

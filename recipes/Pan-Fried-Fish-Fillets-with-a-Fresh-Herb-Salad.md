@@ -40,7 +40,6 @@ method: |
   <li>For the gluten free, swap the plain flour for a gluten free variety.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Style"
   - "Occassions"

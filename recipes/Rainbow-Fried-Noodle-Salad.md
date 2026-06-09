@@ -37,7 +37,6 @@ method: |
   <li>Squeeze lime juice over entire salad and serve immediately.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles"
   - "Noodles Ingredient"

@@ -48,7 +48,6 @@ method: |
   </ol>
   <p><em>The recipe can be adapted to be gluten-free.</em></p>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles Ingredient"
   - "Noodles Style"

@@ -50,7 +50,6 @@ method: |
   <li>Arrange the toppings (broccoli florets, mushrooms, tofu, mint, coriander, chilli and bean sprouts) over the noodles.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Gluten-Free"
   - "Noodles Ingredient"

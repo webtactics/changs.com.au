@@ -53,7 +53,6 @@ method: |
   <li>Remove from heat, top with green onions, bean sprouts and sesame oil. Serve immediately.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Stir Frys"
   - "Noodles Ingredient"

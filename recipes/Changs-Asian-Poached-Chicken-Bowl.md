@@ -44,7 +44,6 @@ method: |
   <li>DIY: Place the vegetables, herbs, noodles, chicken and dressing in separate bowls and plates for self-serving and create your own bowl!</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles Ingredient"
   - "Dinner for Two"

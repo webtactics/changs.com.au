@@ -46,7 +46,6 @@ method: |
   <li>Remove from fridge, allow to settle at room temperature for 3 minutes and then use a knife to loosen the cheesecake from the rim. Using a sharp knife cut into slices for serving. Decorate with choice of toppings.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles Ingredient"
   - "Sweet treats"
   - "Winter"

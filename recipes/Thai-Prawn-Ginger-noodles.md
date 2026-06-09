@@ -31,7 +31,6 @@ method: |
   <li>Drain the noodles, then toss these into the pan with the herbs and remaining ginger. Mix until the noodles are well coated in the sauce, then serve.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Super Lo-Cal"

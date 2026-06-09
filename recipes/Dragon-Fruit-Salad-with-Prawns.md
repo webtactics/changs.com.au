@@ -33,7 +33,6 @@ method: |
   <li>Top with dragon fruit, choice of Chang&rsquo;s Crispy Fried Noodles and mint. Serve immediately.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Gluten-Free"
   - "Quick and Easy"

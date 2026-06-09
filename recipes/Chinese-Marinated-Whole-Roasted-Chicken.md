@@ -36,7 +36,6 @@ method: |
   <li>Serve marinated chicken with steamed Chinese broccoli or other Asian green vegetables.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Style"
   - "Sauces and condiments"

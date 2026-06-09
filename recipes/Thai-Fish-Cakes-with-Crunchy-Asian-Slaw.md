@@ -34,7 +34,6 @@ method: |
   <li>Garnish with lime wedges, sweet chilli sauce and drizzle with extra soy sauce if desired.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Kid friendly"

@@ -34,7 +34,6 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Main Ingredient"
   - "Pork"
   - "Stir Frys"
   - "Noodles Ingredient"

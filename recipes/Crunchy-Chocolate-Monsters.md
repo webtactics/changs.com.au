@@ -30,7 +30,6 @@ method: |
   <li>Dust lightly with icing sugar if desired.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles"
   - "Style"
   - "Noodles Ingredient"

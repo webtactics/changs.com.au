@@ -45,7 +45,6 @@ method: |
   <li>Garnish with the sesame seeds. (You can add additional spring onions for extra poppy colour before serving as well.) Serve hot with a bowl of steamed rice.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Gluten-Free"
   - "Healthy meals"

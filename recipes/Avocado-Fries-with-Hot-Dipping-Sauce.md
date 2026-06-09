@@ -43,7 +43,6 @@ method: |
   </ol>
   <p>Optional: garnish with coriander leaves and spring onions. </p>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Gluten-Free"
   - "Vegetarian"

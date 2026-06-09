@@ -28,7 +28,6 @@ method: |
   <li>Return the fish to the wok with the noodles and cashews. Toss through the Changs Oyster Sauce until fully coated and serve.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Stir Frys"

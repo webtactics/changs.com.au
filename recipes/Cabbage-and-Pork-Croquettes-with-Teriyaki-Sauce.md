@@ -43,7 +43,6 @@ method: |
   </ol>
   <p>Options: Serve as finger food or as a main meal alongside our <a title="Crispy Noodle Salad" href="/recipes/Crispy-Noodle-Salad/">Crispy Noodle Salad</a>.</p>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Gluten-Free"
   - "Main Meals"
@@ -53,4 +52,5 @@ tags:
   - "Spring"
   - "Japanese Teriyaki Sauce (280ml)"
   - "Tamari Light Soy Sauce"
+  - "Japanese Teriyaki Sauce"
 ---

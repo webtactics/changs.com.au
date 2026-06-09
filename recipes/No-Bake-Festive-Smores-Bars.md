@@ -35,7 +35,6 @@ method: |
   </ol>
   <p>TIP: Make them festive by sprinkling broken up candy cane or sprinkles over the chocolate layer while it is still warm.</p>
 tags:
-  - "Main Ingredient"
   - "Sweet treats"
   - "Summer"
   - "Spring"

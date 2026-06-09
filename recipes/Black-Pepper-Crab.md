@@ -39,7 +39,6 @@ method: |
   <li>Scatter the coriander leaves on top of the crab and serve immediately with finger bowls for the mess.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Style"

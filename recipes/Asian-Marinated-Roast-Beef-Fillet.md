@@ -49,7 +49,6 @@ method: |
 tags:
   - "BBQ"
   - "Beef"
-  - "Main Ingredient"
   - "Noodles"
   - "Style"
   - "Occassions"

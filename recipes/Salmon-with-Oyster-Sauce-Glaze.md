@@ -39,10 +39,10 @@ method: |
   <li>Remove Salmon from oven and top with prepared peas. Garnish with sprouts and a good drizzle of lime juice.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Gluten-Free"
   - "Main Meals"
   - "Winter"
   - "Original Oyster Sauce"
+  - "Sesame Oil"
 ---

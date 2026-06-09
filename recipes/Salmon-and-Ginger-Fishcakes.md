@@ -40,7 +40,6 @@ method: |
   <li>Drain on paper towel and serve with relish.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Style"
   - "Finger Food"

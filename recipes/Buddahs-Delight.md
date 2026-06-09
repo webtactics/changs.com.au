@@ -41,7 +41,6 @@ method: |
   <li>Serve immediately.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Style"
   - "Vegetarian"

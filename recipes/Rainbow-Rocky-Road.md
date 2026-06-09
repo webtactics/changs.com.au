@@ -31,7 +31,6 @@ method: |
   <li>Once set, turn out onto a chopping board or surface and allow it to come to room temperature. Then using a large and sharp knife, cut it into chunks. Place onto a platter for serving or into an air-tight container for storing.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Finger Food"
   - "Kid friendly"
   - "Gluten Free Variation"

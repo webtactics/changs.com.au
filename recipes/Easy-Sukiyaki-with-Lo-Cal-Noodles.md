@@ -30,7 +30,6 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Main Ingredient"
   - "Noodles"
   - "Super Lo-Cal"
   - "Gluten-Free"

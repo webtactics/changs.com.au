@@ -36,7 +36,6 @@ method: |
   <li>Squeeze lime juice all over and garnish with sliced green onions and Chang&rsquo;s choice of Fried Noodles.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Gluten-Free"
   - "Noodles Ingredient"

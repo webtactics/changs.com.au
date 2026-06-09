@@ -39,7 +39,6 @@ method: |
   <li>Allow sitting for 5 minutes, then serve with a dollop of cream, ice cream, custard, or vanilla yogurt.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Kid friendly"
   - "Vegetarian"

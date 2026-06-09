@@ -52,7 +52,6 @@ method: |
   </ol>
 tags:
   - "Lamb"
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Stir Frys"
   - "Noodles Ingredient"

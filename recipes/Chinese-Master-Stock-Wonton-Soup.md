@@ -40,7 +40,6 @@ method: |
   <li>Divide wontons and corn between the bowls, ladle over some of the hot soup, sprinkle with sesame seeds, chilli and coriander.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Seafood"
   - "Noodles"

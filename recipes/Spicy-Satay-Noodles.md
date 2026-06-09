@@ -28,7 +28,6 @@ method: |
   <li>Add an extra tablespoon of <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> if needed. Optional to garnish with coriander leaves, parsley leaves or chilli flakes.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Soups"

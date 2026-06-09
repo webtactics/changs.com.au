@@ -40,7 +40,6 @@ method: |
   <li>Serve with a small bowl of oyster sauce.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Gluten-Free"
   - "Style"

@@ -47,7 +47,6 @@ method: |
   <li>Barbecue over a medium heat grill with the hood closed for 40 minutes or until cooked through, turning halfway.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Gluten-Free"
   - "Main Meals"

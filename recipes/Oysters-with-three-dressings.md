@@ -78,7 +78,6 @@ method: |
   <li>Serve immediately.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Gluten-Free"
   - "Style"

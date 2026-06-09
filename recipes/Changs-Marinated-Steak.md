@@ -37,7 +37,6 @@ method: |
 tags:
   - "BBQ"
   - "Beef"
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Style"
   - "Kid friendly"
@@ -56,4 +55,5 @@ tags:
   - "Summer BBQ"
   - "Original Oyster Sauce"
   - "Sesame Oil"
+  - "Long Life Noodles"
 ---

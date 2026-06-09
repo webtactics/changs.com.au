@@ -33,7 +33,6 @@ method: |
   <li>Add the noodles, oyster and soy sauces, and cook for another minute.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles"
   - "Stir Frys"
   - "Style"

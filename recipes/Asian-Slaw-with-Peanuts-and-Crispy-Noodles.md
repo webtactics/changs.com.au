@@ -32,7 +32,6 @@ method: |
   <li>Make it a meal by serving it with our Teriyaki Roast Chicken and Corn.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Gluten-Free"
   - "Quick and Easy"

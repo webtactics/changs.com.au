@@ -30,7 +30,6 @@ method: |
   <li>Ladle over some of the hot stock and garnish with the coriander and crunchy noodles.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Style"

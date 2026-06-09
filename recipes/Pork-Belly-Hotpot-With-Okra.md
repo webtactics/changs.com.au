@@ -34,7 +34,6 @@ method: |
   <li>Serve with rice and steamed green vegetables.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Gluten-Free"
   - "Style"

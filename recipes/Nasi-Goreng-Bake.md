@@ -45,7 +45,6 @@ method: |
   <li>Serve immediately and top with garnish of choice including: green onions, cucumber, radish, chilli and juice of lime. For a crunchy twist sprinkle with Chang&rsquo;s fried noodles.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Seafood"
   - "Gluten-Free"

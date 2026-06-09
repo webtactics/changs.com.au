@@ -50,7 +50,6 @@ method: |
   </ol>
 tags:
   - "BBQ"
-  - "Main Ingredient"
   - "Chicken"
   - "Gluten-Free"
   - "Noodles Ingredient"

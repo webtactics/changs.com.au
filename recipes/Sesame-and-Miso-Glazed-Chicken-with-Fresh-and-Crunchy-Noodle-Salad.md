@@ -38,7 +38,6 @@ method: |
   <li>Sprinkle with sesame seeds and serve immediately with the fresh and crunchy noodle salad.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Style"

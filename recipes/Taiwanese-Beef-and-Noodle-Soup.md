@@ -45,7 +45,6 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Main Ingredient"
   - "Noodles"
   - "Gluten-Free"
   - "Style"

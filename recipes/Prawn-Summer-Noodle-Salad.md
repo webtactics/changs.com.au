@@ -44,7 +44,6 @@ method: |
   <li>Add the salad ingredients to the noodles and toss well to combine. Garnish with Chang&rsquo;s Fried Noodles and serve.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Gluten-Free"
   - "Noodles Ingredient"

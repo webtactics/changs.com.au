@@ -54,7 +54,6 @@ method: |
   <li>Garnish with fresh coriander and serve with lime wedges.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Vegetables"
   - "Super Lo-Cal"

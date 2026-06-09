@@ -34,7 +34,6 @@ method: |
   <li>Serve with a little more Chang&rsquo;s Hoisin sauce to dip the meatballs in or drizzle some over the top of them.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Noodles"
   - "Super Lo-Cal"

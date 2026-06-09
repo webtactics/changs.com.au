@@ -49,7 +49,6 @@ method: |
   </ol>
   <p> </p>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Gluten-Free"
   - "Noodles Ingredient"
@@ -61,4 +60,5 @@ tags:
   - "Original Oyster Sauce"
   - "Sesame Oil"
   - "Vermicelli Rice Noodles"
+  - "Original Hot Chilli Sauce"
 ---

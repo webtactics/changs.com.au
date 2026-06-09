@@ -33,7 +33,6 @@ method: |
 tags:
   - "BBQ"
   - "Beef"
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Style"
   - "Occassions"
@@ -51,4 +50,5 @@ tags:
   - "Autumn"
   - "Spring"
   - "Summer BBQ"
+  - "Original Fried Noodles"
 ---

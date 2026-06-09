@@ -42,7 +42,6 @@ method: |
   <li>Serve garnishing each plate with mint leaves, cucumber slices, chilli slices and a lime wedge.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Stir Frys"
   - "Vegetarian"

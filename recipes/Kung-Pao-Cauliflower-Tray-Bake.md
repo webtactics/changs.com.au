@@ -51,7 +51,6 @@ method: |
   <li>Once cooked, remove from oven, garnish with green onions and choice between peanuts or for a nut-free version, Chang&rsquo;s Fried Noodles. Serve immediately as a side dish or with steamed rice.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Vegetarian"
   - "Main Meals"

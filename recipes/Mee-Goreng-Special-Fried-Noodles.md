@@ -38,7 +38,6 @@ method: |
   </ol>
   <p><em>Note: Make this dish GLUTEN FREE by using <a title="Chang's Thai Style Rice Noodles" href="/products/Changs-Thai-Style-Rice-Noodles/">Chang's Thai Style Rice Noodles</a> or <a title="Chang's Wok-Ready Noodles" href="/products/Wok-Ready-Noodles/">Chang's Wok-Ready Noodles</a>.</em></p>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Seafood"
   - "Gluten-Free"

@@ -36,7 +36,6 @@ method: |
   </ol>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Gluten-Free"
   - "Noodles Ingredient"

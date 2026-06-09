@@ -31,7 +31,6 @@ method: |
   <li>Serve each bowl with a wedge of lime to squeeze over salad for an extra zing!</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles Ingredient"
   - "Healthy meals"
   - "Gluten Free Variation"

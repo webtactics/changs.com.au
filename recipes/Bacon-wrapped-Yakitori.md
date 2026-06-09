@@ -36,7 +36,6 @@ method: |
   </ol>
 tags:
   - "BBQ"
-  - "Main Ingredient"
   - "Pork"
   - "Style"
   - "Occassions"

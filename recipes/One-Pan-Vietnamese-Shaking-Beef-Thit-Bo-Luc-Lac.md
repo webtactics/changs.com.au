@@ -43,7 +43,6 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Stir Frys"
   - "Dinner for Two"

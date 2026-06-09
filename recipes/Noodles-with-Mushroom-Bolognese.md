@@ -33,7 +33,6 @@ method: |
   <li>Add noodles to mushroom bolognese along with the noodles water. Toss to combine. Divide between 4 bowls and garnish with thai basil. Enjoy!</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles Ingredient"
   - "Noodles Style"

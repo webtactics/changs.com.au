@@ -53,7 +53,6 @@ method: |
   <li>Chop the chicken with a cleaver and serve with the rice, cucumber and bowl of ginger sauce.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Gluten-Free"
   - "Style"

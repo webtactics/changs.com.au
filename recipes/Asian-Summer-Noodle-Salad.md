@@ -45,7 +45,6 @@ method: |
   <li>Drizzle sauce over the top just before serving.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Sides"

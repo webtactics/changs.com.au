@@ -35,7 +35,6 @@ method: |
   </ol>
 tags:
   - "BBQ"
-  - "Main Ingredient"
   - "Pork"
   - "Noodles"
   - "Style"

@@ -46,7 +46,6 @@ method: |
   <li>Enjoy.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Gluten-Free"
   - "Noodles Ingredient"

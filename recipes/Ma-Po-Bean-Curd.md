@@ -38,7 +38,6 @@ method: |
   <li>Gluten Free dependant upon the brand of chicken stock used.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Gluten-Free"
   - "Style"

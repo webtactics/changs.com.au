@@ -36,7 +36,6 @@ method: |
   <p><strong>Optional:</strong> squeeze lime juice over noodles for zest.</p>
 tags:
   - "Beef"
-  - "Main Ingredient"
   - "Noodles"
   - "Stir Frys"
   - "Noodles Style"
@@ -45,4 +44,7 @@ tags:
   - "Quick and Easy"
   - "Family Dinners"
   - "Autumn"
+  - "Long Life Noodles"
+  - "Original Fried Noodles"
+  - "Sesame Oil"
 ---

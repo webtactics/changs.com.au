@@ -41,7 +41,6 @@ method: |
   <li>Garnish the salad and the skewers with a handful of fresh coriander leaves. Serve with wraps, if desired.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Light Meals"
   - "Mains"

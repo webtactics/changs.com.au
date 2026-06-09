@@ -37,7 +37,6 @@ method: |
   <li>Serve hot and top with toasted sesame seeds and green onions.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Stir Frys"
   - "Noodles Ingredient"
@@ -50,4 +49,5 @@ tags:
   - "Japanese Teriyaki Sauce (280ml)"
   - "Tamari Light Soy Sauce"
   - "Sesame Oil"
+  - "Japanese Teriyaki Sauce"
 ---

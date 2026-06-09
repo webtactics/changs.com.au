@@ -32,7 +32,6 @@ method: |
   <li>Gently toss pumpkin, quinoa, walnuts, noodles and dressing together and serve topped with crumbled feta.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles"
   - "Style"

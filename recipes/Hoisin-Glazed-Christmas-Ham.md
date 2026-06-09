@@ -35,7 +35,6 @@ method: |
   <li>Serve ham warm from the oven, or cold from the refrigerator.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Style"
   - "Kid friendly"

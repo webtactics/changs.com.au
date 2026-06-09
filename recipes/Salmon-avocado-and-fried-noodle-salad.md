@@ -27,7 +27,6 @@ method: |
   <li>To serve, arrange salad on serving plates along with the avocado and flaked salmon. Drizzle with Changs Oriental Fried Noodle Salad Dressing and garnish with snow pea sprout. Serve with wedges of lemon.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Healthy meals"

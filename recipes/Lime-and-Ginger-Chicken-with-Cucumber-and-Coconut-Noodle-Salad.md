@@ -36,7 +36,6 @@ method: |
   <li>To prepare the salad, place oil and sugar in a large bowl, stirring well until sugar is dissolved. Add cucumber and toss to combine. Gently toss through coconut and noodles and serve immediately with the chicken.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Gluten-Free"

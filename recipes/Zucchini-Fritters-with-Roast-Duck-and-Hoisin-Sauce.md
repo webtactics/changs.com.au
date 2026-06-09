@@ -36,7 +36,6 @@ method: |
   <li>Transfer the fritters to serving plates and top with the duck slices, cucumber and spring onion, spooning a little Chang&rsquo;s Hoisin sauce over the top and serving more in a small bowl separately.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Style"
   - "Duck"
   - "Finger Food"

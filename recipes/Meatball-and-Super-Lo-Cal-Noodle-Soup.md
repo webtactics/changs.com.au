@@ -47,7 +47,6 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Main Ingredient"
   - "Pork"
   - "Noodles"
   - "Super Lo-Cal"

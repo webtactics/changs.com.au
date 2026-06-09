@@ -32,7 +32,6 @@ method: |
   <li>Top soup with the coriander sprigs and serve immediately.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Super Lo-Cal"

@@ -47,7 +47,6 @@ method: |
   <li>Prepare the meal prep bowls by adding tahini dressing to the bottom, then peas, red pepper, roasted broccoli, baked tofu, noodles, and a sprinkle of sesame seeds.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Super Lo-Cal"
   - "Gluten-Free"
   - "Vegetarian"

@@ -28,7 +28,6 @@ method: |
   <li>Now to assemble. Firstly add the blueberries and strawberries, secondly, dollop some of the cream, thirdly add some crushed meringue kisses and finally top it off with a sprinkle of Chang&rsquo;s Fried Noodles. Repeat the process and finish it with a garnish of mint leaves.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles Ingredient"
   - "Sweet treats"
   - "Sunday Feasts"

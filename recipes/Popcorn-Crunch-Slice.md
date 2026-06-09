@@ -27,7 +27,6 @@ method: |
   <li>Pour the popcorn crunch mixture into the prepared tin, spread in an even layer and pack it down firmly with the back of a spatula. Place into the refrigerator for 20 minutes or until chocolate has hardened. Remove and slice into desired size pieces.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Quick and Easy"

@@ -42,7 +42,6 @@ method: |
   <li>Top with an extra drizzle of hot chilli sauce and a good sprinkle of Chang&rsquo;s Fried Noodles. Serve and enjoy.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Finger Food"
   - "Kid friendly"

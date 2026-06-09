@@ -31,7 +31,6 @@ method: |
   <li>Serve garnished with toasted nuts, chilli, mint and extra dressing if desired.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Sauces and condiments"

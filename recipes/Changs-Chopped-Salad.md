@@ -40,7 +40,6 @@ method: |
   <li>For a gluten free alternative, simply remove the Chang&rsquo;s Original Crunchy Noodles.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles"
   - "Style"

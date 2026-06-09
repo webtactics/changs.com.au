@@ -34,7 +34,6 @@ method: |
   <li>You can simplify this dish and maintaining the flavours by simply stir frying peeled green king prawns in one tablespoon of oil, then adding the sauce mixture and finishing with spring onions, coriander and chilli.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Gluten-Free"

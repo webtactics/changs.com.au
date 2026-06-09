@@ -30,7 +30,6 @@ method: |
   </ol>
   <p><strong> Enjoy, ghouls and goblins!</strong></p>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Finger Food"

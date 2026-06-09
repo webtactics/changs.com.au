@@ -32,7 +32,6 @@ method: |
   <li>Divide chicken and spring onions between bowls, ladle over some of the stock and serve drizzled with the sesame oil, chill and crispy fried shallots.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Noodles Style"

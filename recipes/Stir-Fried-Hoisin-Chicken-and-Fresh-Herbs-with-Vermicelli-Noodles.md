@@ -35,7 +35,6 @@ method: |
   <li>Transfer the noodles to a serving platter or shallow bowl and spoon over the chicken and herb stir fry.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Chicken"
   - "Noodles"

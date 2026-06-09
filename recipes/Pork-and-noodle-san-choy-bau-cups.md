@@ -27,7 +27,6 @@ method: |
   <li>Serve the pork mix in iceberg lettuce cup garnished with sesame seeds. Drizzle over a little extra Changs Hoisin Sauce if desired.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Noodles"
   - "Stir Frys"

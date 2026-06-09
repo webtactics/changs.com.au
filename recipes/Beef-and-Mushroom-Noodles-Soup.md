@@ -40,7 +40,6 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Main Meals"

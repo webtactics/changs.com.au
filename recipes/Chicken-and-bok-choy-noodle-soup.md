@@ -26,7 +26,6 @@ method: |
   </ol>
   <p><strong>Note:</strong> If <a href="/products/Changs-Master-Stock/" title="Chang's Master Stock" alt="Chang's Master Stock">Chang's Master Stock</a> is unavailable, make a simple Asian stock using water, soy sauce, a little Chinese cooking wine and spices such as ginger, garlic and star anise.</p>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Style"
@@ -38,4 +37,5 @@ tags:
   - "Soup and Salad"
   - "Long Life Noodles"
   - "Master Stock"
+  - "Sesame Oil"
 ---

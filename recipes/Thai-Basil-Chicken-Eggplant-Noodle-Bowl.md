@@ -52,7 +52,6 @@ method: |
   </ol>
   <p> </p>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Gluten-Free"
   - "Stir Frys"

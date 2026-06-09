@@ -27,7 +27,6 @@ method: |
   </ol>
 tags:
   - "BBQ"
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles"
   - "Style"
@@ -47,4 +46,5 @@ tags:
   - "Entertaining"
   - "Salad"
   - "Soup and Salad"
+  - "Original Fried Noodles"
 ---

@@ -59,7 +59,6 @@ method: |
   </ol>
   <p><em>This recipe can be adapted to be gluten-free.</em></p>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Gluten-Free"

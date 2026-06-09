@@ -33,7 +33,6 @@ method: |
   <li>Add the noodles, cabbage, carrot, green shallot, mint and coriander to the chicken and gently toss to combine. Drizzle with dressing and gently toss to combine. Add the sesame seeds to taste</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Super Lo-Cal"

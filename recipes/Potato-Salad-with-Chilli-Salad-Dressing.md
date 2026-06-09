@@ -38,7 +38,6 @@ method: |
   <li>Serve at room temperature. Refrigerate leftovers. </li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Vegetables"
   - "Gluten-Free"

@@ -54,7 +54,6 @@ method: |
 tags:
   - "BBQ"
   - "Beef"
-  - "Main Ingredient"
   - "Noodles"
   - "Noodles Ingredient"
   - "Mains"

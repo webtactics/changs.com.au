@@ -53,7 +53,6 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Main Ingredient"
   - "Noodles"
   - "Noodles Ingredient"
   - "Noodles Style"

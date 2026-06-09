@@ -91,7 +91,6 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Main Ingredient"
   - "Noodles"
   - "Gluten-Free"
   - "Noodles Ingredient"

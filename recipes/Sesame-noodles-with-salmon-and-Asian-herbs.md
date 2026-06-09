@@ -35,7 +35,6 @@ method: |
   <li>Garnish with fried shallots and a squeeze of lime if desired.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Style"

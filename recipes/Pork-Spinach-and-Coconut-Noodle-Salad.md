@@ -33,7 +33,6 @@ method: |
   <li>Remove wok from heat and stir in mint, basil leaves and Chang’s fried noodles. Serve immediately with lime wedges and shaved coconut if desired.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Noodles"
   - "Style"

@@ -43,7 +43,6 @@ method: |
   <li>Then gently stir through the reserved seafood, along with the coriander and the mint, and serve immediately.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Gluten-Free"

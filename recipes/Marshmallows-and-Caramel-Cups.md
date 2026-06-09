@@ -28,7 +28,6 @@ method: |
   <li>Serve immediately or place back into the fridge until needed.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles Ingredient"
   - "Sweet treats"
   - "Easter"

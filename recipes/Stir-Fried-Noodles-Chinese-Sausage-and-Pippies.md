@@ -35,7 +35,6 @@ method: |
   <li>For a gluten free alternative, replace the Long Life Noodles with rice or Chang&rsquo;s Thai-Style Rice Noodles.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Gluten-Free"

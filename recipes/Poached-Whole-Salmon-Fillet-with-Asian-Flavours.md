@@ -34,7 +34,6 @@ method: |
   <li>Remove the foil and serve straight from the baking dish, or transfer to a serving platter, spooning cooking juices over the fish and topping with the shredded spring onion.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Style"
   - "Occassions"

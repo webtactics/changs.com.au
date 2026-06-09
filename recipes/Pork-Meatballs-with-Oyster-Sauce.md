@@ -38,7 +38,6 @@ method: |
   <li>Return meatballs to pan with watercress and noodles and toss to combine.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Dinner for Two"
   - "Main Meals"

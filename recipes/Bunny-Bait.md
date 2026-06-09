@@ -29,7 +29,6 @@ method: |
   <li>Break into pieces to serve</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles"
   - "Style"
   - "Noodles Ingredient"

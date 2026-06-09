@@ -38,7 +38,6 @@ method: |
   <li>Combine remaining ingredients in a large bowl and serve with the crispy skinned chicken.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Style"

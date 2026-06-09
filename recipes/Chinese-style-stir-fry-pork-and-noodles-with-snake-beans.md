@@ -34,7 +34,6 @@ method: |
   </ol>
   <p>You can swap out the pork mince for lamb or chicken mince if desired.</p>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Noodles"
   - "Stir Frys"

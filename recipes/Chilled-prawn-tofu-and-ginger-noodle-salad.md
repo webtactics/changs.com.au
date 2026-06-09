@@ -31,7 +31,6 @@ method: |
   <li>To serve, arrange the noodles in bowls, top with prawns, tofu, snow peas and cucumber ribbons. Drizzle over dressing and garnish with sesame seeds and snow pea sprouts. Serve with Changs Soy Sauce if desired.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Light Meals"

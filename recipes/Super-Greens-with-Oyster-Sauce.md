@@ -35,7 +35,6 @@ method: |
   <li>Serve in bowls and squeeze fresh lime juice over each serving.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Gluten-Free"
   - "Stir Frys"

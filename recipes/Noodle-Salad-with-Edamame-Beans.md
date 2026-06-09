@@ -34,7 +34,6 @@ method: |
   <li>Serve.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles Ingredient"
   - "Vegetarian"

@@ -36,7 +36,6 @@ method: |
   <li>Drain the carrot and arrange on four small plates with the chicken nuggets piled on top and the Chang&rsquo;s Hoisin sauce squirted over.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Style"
   - "Finger Food"

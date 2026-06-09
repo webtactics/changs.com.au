@@ -34,7 +34,6 @@ method: |
   </ol>
 tags:
   - "Lamb"
-  - "Main Ingredient"
   - "Noodles"
   - "Style"
   - "Kid friendly"

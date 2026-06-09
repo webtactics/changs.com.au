@@ -35,7 +35,6 @@ method: |
   <li>Serve with steamed rice. Serves four as part of an Asian banquet.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Gluten-Free"
   - "Stir Frys"

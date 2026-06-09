@@ -32,7 +32,6 @@ method: |
   <li>Cook couscous according to directions on packet. Combine couscous, tomatoes, mint, coriander and noodles together in a large bowl. Serve with the chicken and drizzle with dressing just before serving.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Style"

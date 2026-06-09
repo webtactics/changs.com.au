@@ -35,7 +35,6 @@ method: |
   <li>For a gluten free alternative, use Chang&rsquo;s Gluten Free Wok Ready Noodle or Chang&rsquo;s Super Lo Cal Noodle.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Noodles"
   - "Style"

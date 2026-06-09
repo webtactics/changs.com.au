@@ -26,7 +26,6 @@ method: |
   <li>Just before serving add the prawns and pour <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/" target="_blank" rel="noopener">Chang's Crispy Noodle Salad Dressing</a> over salad and toss until salad is fully coated.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Healthy meals"

@@ -55,7 +55,6 @@ method: |
   <li>Remove from heat and serve.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Gluten-Free"
   - "Healthy meals"

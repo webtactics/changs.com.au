@@ -43,7 +43,6 @@ method: |
 tags:
   - "BBQ"
   - "Lamb"
-  - "Main Ingredient"
   - "Style"
   - "Kid friendly"
   - "Occassions"

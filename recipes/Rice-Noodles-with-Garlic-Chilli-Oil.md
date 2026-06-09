@@ -48,7 +48,6 @@ method: |
   <li>Add the garlic chilli oil, chopped green part of the spring onion, and mix until the noodles are well coated. Sprinkle toasted white sesame seeds. Serve immediately while it's hot.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Noodles Style"

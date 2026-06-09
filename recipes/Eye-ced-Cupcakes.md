@@ -34,7 +34,6 @@ method: |
   </ol>
   <p><strong> Happy Halloween!</strong></p>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Finger Food"
   - "Kid friendly"

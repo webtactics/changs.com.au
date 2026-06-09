@@ -39,7 +39,6 @@ method: |
   <li>Serve the bowls of soup and encourage guests to add the bean sprouts, mint, basil, chilli, lime juice and hoisin sauce to taste.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Gluten-Free"
   - "Style"

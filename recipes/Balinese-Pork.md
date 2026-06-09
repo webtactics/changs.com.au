@@ -34,7 +34,6 @@ method: |
   <li>Serve with plenty of steamed rice and green vegetables.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Gluten-Free"
   - "Stir Frys"

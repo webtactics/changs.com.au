@@ -28,7 +28,6 @@ method: |
   <li>Cut into 16 bars.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles"
   - "Style"
   - "Noodles Ingredient"

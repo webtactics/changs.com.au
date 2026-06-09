@@ -67,7 +67,6 @@ method: |
   </ol>
   <p>Note: <em>It will be easier to cut the cake by removing the nest and then breaking the nest into chunks to serve alongside the cake.</em></p>
 tags:
-  - "Main Ingredient"
   - "Noodles Ingredient"
   - "Sweet treats"
   - "Autumn"

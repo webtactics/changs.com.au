@@ -34,7 +34,6 @@ method: |
   <li>Serve with desired amount of chocolate sauce and top with whipped cream and cherries.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Sweet treats"

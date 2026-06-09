@@ -34,7 +34,6 @@ method: |
   <li>Spray drumsticks with oil. Roast for 35-40 minutes or until golden and cooked through. Serve sprinkled with sliced spring onion and Salad Dressing for dipping.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Main Meals"
   - "Quick and Easy"

@@ -33,7 +33,6 @@ method: |
   <li>Serve topped with chilli, peanuts and drizzled with the sesame oil.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Style"
   - "Slow Cooking"

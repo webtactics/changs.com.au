@@ -31,7 +31,6 @@ method: |
   <li>Add Chang&rsquo;s Fried Noodles to salad. Serve immediately.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles"
   - "Noodles Ingredient"
   - "Noodles Style"

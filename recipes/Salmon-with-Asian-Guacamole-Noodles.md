@@ -47,7 +47,6 @@ method: |
   <p><strong>Optional:</strong> fresh coriander leaves</p>
   <p>Note: This dish can also be served cold and is even better the next day.</p>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Gluten-Free"

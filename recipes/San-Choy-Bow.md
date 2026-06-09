@@ -32,7 +32,6 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Style"
   - "Finger Food"

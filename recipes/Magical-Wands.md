@@ -27,7 +27,6 @@ method: |
   <li>Allow to set on trays.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles"
   - "Style"
   - "Noodles Ingredient"

@@ -32,7 +32,6 @@ method: |
   <li>For a gluten free alternative, use rice paper instead of spring roll paper.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Style"
   - "Finger Food"

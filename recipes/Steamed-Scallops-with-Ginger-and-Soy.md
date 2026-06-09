@@ -29,7 +29,6 @@ method: |
   <li>Scatter spring onions and coriander over scallops and serve from steamer or on individual plates.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Gluten-Free"
   - "Stir Frys"

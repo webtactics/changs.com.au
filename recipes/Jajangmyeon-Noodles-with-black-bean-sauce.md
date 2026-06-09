@@ -40,7 +40,6 @@ method: |
   <li>Optionally, garnish with sliced cucumbers before serving.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Chicken"
   - "Gluten-Free"

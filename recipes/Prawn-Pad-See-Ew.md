@@ -34,7 +34,6 @@ method: |
   <li>Add all other ingredients to wok, toss to combine and serve immediately. Optional to garnish with 1 tsp sesame oil, chopped chives or slices of spring onion.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Gluten-Free"
   - "Stir Frys"

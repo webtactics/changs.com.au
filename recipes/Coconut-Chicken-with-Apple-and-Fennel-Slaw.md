@@ -39,7 +39,6 @@ method: |
   <li>Serve immediately.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Style"

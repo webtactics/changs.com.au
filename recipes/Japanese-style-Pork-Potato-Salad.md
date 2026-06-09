@@ -41,7 +41,6 @@ method: |
   <li>Serve pork with the potato salad or very finely shredded cabbage and a lemon wedge.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Style"
   - "Occassions"

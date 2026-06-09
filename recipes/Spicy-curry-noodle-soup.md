@@ -35,7 +35,6 @@ method: |
   <li>Heat noodles in a microwave in 30-second intervals to rewarm. Divide noodles among bowls. Divide snow peas and hot soup among bowls. Scatter red onion and chiles over soup. Garnish with lime wedges and serve.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Super Lo-Cal"

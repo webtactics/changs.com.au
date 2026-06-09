@@ -30,7 +30,6 @@ method: |
   <li>Eat right away or cover and freeze for later. Optional to drizzle chocolate fudge over waffle before serving.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Quick and Easy"
   - "Sweet treats"
   - "Winter"

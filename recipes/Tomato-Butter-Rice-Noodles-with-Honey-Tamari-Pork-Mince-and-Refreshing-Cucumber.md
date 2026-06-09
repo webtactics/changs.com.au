@@ -35,7 +35,6 @@ method: |
   <li><strong> Assemble the bowls.<br /></strong>Add a ladle of fresh tomato butter sauce to each bowl and top with a bundle of <a href="/products/Changs-Vermicelli-Rice-Noodles/" title="Chang's Vermicelli Rice  Noodles" alt="Chang's Vermicelli Rice  Noodles">Chang's Vermicelli Rice  Noodles</a>.<br />Spoon hot caramelised pork mince over the top and finish with shredded cucumber, fresh coriander and spring onion.<br /><br />Mix well and enjoy!</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Gluten-Free"
   - "Noodles Ingredient"

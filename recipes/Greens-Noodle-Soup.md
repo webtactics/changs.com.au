@@ -33,7 +33,6 @@ method: |
   <li>Garnish with thai basil, green chilli slices and a squeeze of lime juice.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles Ingredient"
   - "Noodles Style"
@@ -50,4 +49,7 @@ tags:
   - "Soup and Salad"
   - "Long Life Noodles"
   - "Sesame Oil"
+  - "Original Oyster Sauce"
+  - "Gluten Free Tamari Light Soy Sauce"
+
 ---

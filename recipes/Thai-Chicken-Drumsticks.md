@@ -30,7 +30,6 @@ method: |
   <li>Garnish with toasted slivered almonds, coriander and sesame seeds if desired.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Kid friendly"
   - "Healthy meals"

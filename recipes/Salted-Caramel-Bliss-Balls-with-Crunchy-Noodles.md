@@ -29,7 +29,6 @@ method: |
   </ol>
   <p>Can also be eaten immediately as does not need chilling time to set.</p>
 tags:
-  - "Main Ingredient"
   - "Kid friendly"
   - "Quick and Easy"
   - "Sweet treats"

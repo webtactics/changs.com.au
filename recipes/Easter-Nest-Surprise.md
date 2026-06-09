@@ -30,7 +30,6 @@ method: |
   </ol>
   <p> </p>
 tags:
-  - "Main Ingredient"
   - "Noodles"
   - "Noodles Ingredient"
   - "Kid friendly"

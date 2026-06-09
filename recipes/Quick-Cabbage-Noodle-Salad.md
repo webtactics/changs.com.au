@@ -33,7 +33,6 @@ method: |
   <li>Drizzle over the salad, <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a>, lime juice and the remaining Crispy Noodle Salad Dressing. Sprinkle the sesame seeds and toss gently to combine. Serve.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles Ingredient"
   - "Vegetarian"
   - "Gluten Free Variation"

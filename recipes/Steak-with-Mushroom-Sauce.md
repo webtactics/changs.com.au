@@ -36,7 +36,6 @@ method: |
 tags:
   - "BBQ"
   - "Beef"
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Style"
   - "Kid friendly"

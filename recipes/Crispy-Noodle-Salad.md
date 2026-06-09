@@ -45,7 +45,6 @@ method: |
   <li>Using a large, sharp knife, cut the cabbage into very fine shreds, working from one end. Regular cabbage tends to have tighter leaves so its best to shred it into one piece. Hold the cabbage firmly with one hand and shave down one side.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles"
   - "Style"

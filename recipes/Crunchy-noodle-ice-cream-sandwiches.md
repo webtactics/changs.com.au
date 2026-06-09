@@ -33,7 +33,6 @@ method: |
   <p>For Gluten Free version use 3 packets Gluten Free Fried Noodles. Stir two packets into marshmallow mixture and spread into the tin. Sprinkle the remaining noodles over the top and press to stick. Follow as per recipe.</p>
   <p>Note: use ice-cream squares if preferred.</p>
 tags:
-  - "Main Ingredient"
   - "Noodles"
   - "Style"
   - "Noodles Ingredient"

@@ -38,7 +38,6 @@ method: |
   <li>Allow sitting for 10 minutes, then serve with ice cream, custard, vanilla yogurt or on its own.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles"
   - "Noodles Ingredient"
   - "Quick and Easy"

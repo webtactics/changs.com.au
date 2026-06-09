@@ -36,7 +36,6 @@ method: |
   <li>Remove chicken and corn from oven, sprinkle with toasted sesame seeds, green onions and fresh herbs. Serve alongside fresh bread rolls, steamed rice or our <a title="Asian Slaw with Peanuts and Crispy Noodles" href="/recipes/Asian-Slaw-with-Peanuts-and-Crispy-Noodles/">Asian Slaw with Peanuts and Crispy Noodles</a>.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Kid friendly"
   - "Main Meals"

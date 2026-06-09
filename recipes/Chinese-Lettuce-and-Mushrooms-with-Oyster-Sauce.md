@@ -33,7 +33,6 @@ method: |
   <li>Pour over the plated lettuce. Sprinkle over the top the red chilli flakes, sesame seeds and <a href="/products/Changs-Crunchy-Fried-Noodles/" title="Chang's Crunchy Fried Noodles" alt="Chang's Crunchy Fried Noodles">Chang's Crunchy Fried Noodles</a>. Serve.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Vegetarian"

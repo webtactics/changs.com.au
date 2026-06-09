@@ -65,7 +65,6 @@ method: |
   <li>Finish with fresh coriander, a squeeze of lime, and crushed peanuts.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Noodles"
   - "Gluten-Free"

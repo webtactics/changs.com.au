@@ -37,7 +37,6 @@ method: |
   <li>Pipe cream along the top, and decorate with peaches, fresh raspberries, mint leaves and Chang&rsquo;s Crunchy Noodles. Serve immediately.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles Ingredient"
   - "Sweet treats"
   - "Summer"

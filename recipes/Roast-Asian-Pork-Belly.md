@@ -39,7 +39,6 @@ method: |
   </ol>
   <p>Serve with Chang's famous <a title="Chang&rsquo;s Crispy Noodle Salad" href="/recipes/Crispy-Noodle-Salad/">Chang&rsquo;s Crispy Noodle Salad</a>.</p>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Occassions"
   - "Sunday Feasts"

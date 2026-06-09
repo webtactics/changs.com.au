@@ -33,7 +33,6 @@ method: |
   <li>Store caramel spiders in the fridge for up to 2 weeks or freeze for up to a month.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles Ingredient"
   - "Sweet treats"
   - "Summer"

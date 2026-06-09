@@ -46,7 +46,6 @@ method: |
   <li>Garnish with black sesame seeds and serve.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Chicken"
   - "Gluten-Free"

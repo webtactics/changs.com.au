@@ -32,7 +32,6 @@ method: |
   <li>Garnish with extra mint and chilli. Serve immediately. </li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles"
   - "Gluten-Free"

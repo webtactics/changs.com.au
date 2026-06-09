@@ -31,7 +31,6 @@ method: |
   <li>Place a piece of cucumber and spring onion on top and slice a piece of chicken skin and meat about 8-10 cm x 3-4cm on top. Fold the pancake in half and serve.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Style"
   - "Finger Food"

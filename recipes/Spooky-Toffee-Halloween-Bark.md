@@ -28,7 +28,6 @@ method: |
   <li>Refrigerate, uncovered, for 30 minutes or until hard. Break into pieces before serving.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles"
   - "Style"
   - "Noodles Ingredient"

@@ -33,7 +33,6 @@ method: |
   <li>Evenly distribute between 4 bowls and top with boiled eggs, slices of chilli, coriander leaves, spring onion and a good drizzle of lime juice.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Vegetarian"
   - "Soups"

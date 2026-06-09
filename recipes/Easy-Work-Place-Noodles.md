@@ -26,7 +26,6 @@ method: |
   <li>Pour over Crispy Salad Noodles Dressing, Sesame Oil, fried onions and chilli flakes. Toss to combine. Enjoy!</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Light Meals"

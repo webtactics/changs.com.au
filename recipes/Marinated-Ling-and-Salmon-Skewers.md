@@ -29,7 +29,6 @@ method: |
   </ol>
 tags:
   - "BBQ"
-  - "Main Ingredient"
   - "Seafood"
   - "Gluten-Free"
   - "Style"

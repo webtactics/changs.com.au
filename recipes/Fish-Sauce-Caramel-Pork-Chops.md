@@ -37,7 +37,6 @@ method: |
   <li>In a medium saucepan bring salted water to boil then blanch your broccolini for 1-2 minutes until bright green.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Gluten-Free"
   - "Main Meals"

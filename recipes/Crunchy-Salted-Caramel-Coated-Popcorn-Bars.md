@@ -31,7 +31,6 @@ method: |
   <li>Stand at room temperature for 1 hour, or until cool.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles"
   - "Style"
   - "Noodles Ingredient"

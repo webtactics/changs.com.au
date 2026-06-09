@@ -57,7 +57,6 @@ method: |
   </ol>
   <p> </p>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Gluten-Free"
   - "Stir Frys"
@@ -70,4 +69,5 @@ tags:
   - "Sesame Oil"
   - "Gluten Free Tamari Light Soy Sauce"
   - "Traditional Super Lo-Cal Wide Noodles"
+  - "Super Lo-Cal Wide Noodles"
 ---

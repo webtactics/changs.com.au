@@ -42,7 +42,6 @@ method: |
   <li>Serve warm or at room temperature with a cucumber and mint salad.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Quick and Easy"

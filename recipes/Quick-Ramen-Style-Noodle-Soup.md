@@ -35,7 +35,6 @@ method: |
   </ol>
   <p>Note: you can substitute the fresh shitake mushrooms with dried, but soak them in very hot or boiling water for 20 minutes then discard stems</p>
 tags:
-  - "Main Ingredient"
   - "Noodles"
   - "Style"
   - "Noodles Ingredient"
@@ -60,4 +59,6 @@ tags:
   - "Soy Sauce Lighte"
   - "Long Life Noodles"
   - "Organic Ramen Noodles"
+  - "Gluten Free Tamari Light Soy Sauce"
+  - "Soy Sauce Light"
 ---

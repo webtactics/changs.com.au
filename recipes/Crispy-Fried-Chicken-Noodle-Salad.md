@@ -35,7 +35,6 @@ method: |
   <li>Divide between 4 plates and garnish with roasted peanuts and coriander if desired.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Stir Frys"
   - "Dinner for Two"

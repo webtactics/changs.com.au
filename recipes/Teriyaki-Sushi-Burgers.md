@@ -35,7 +35,6 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Main Ingredient"
   - "Kid friendly"
   - "Quick and Easy"
   - "Winter"
@@ -43,4 +42,5 @@ tags:
   - "Autumn"
   - "Spring"
   - "Japanese Teriyaki Sauce (280ml)"
+  - "Japanese Teriyaki Sauce"
 ---

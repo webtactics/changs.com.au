@@ -37,7 +37,6 @@ method: |
   <li>Divide salad among serving plates and top with salmon. Drizzle with reduced marinade and sprinkle with sesame seeds.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Super Lo-Cal"

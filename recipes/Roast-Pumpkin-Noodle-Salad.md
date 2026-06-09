@@ -29,7 +29,6 @@ method: |
   <li>On a large salad platter, layer salad mix with carrot and cabbage. Mix through the crunchy noodles. Top the salad with roasted pumpkin, and a generous sprinkle of nuts. Dress with <a href="/products/Changs-Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a> and serve.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles Ingredient"
   - "Sides"
   - "Noodles Style"

@@ -33,7 +33,6 @@ method: |
   <p>You can swap out the pork mince for lamb or chicken mince if desired.</p>
 tags:
   - "BBQ"
-  - "Main Ingredient"
   - "Seafood"
   - "Noodles"
   - "Style"

@@ -33,7 +33,6 @@ method: |
   <li>Divide salmon, spring onions and mushrooms between four shallow serving bowls or plates, ladle over a little of the hot stock and serve with the coriander salad.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Sauces and condiments"
   - "Occassions"

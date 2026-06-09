@@ -28,7 +28,6 @@ method: |
   <li>Add to the jars the ingredients in the following order. Quinoa, purple cabbage, green cabbage, carrot, almonds, green onions and top off with <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a> (choice of <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a>, <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a> or for a gluten free option <a title="Chang's Gluten Free Fried Noodles" href="/products/Gluten-Free-Fried-Noodles/">Chang's Gluten Free Fried Noodles</a>). Store sauce in separate jars that fit approximately 60ml.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Gluten-Free"
   - "Noodles Ingredient"

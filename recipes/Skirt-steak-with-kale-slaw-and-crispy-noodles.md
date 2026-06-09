@@ -29,7 +29,6 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Main Ingredient"
   - "Noodles"
   - "Stir Frys"
   - "Style"

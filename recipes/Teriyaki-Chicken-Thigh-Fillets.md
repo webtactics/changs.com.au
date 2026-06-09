@@ -42,7 +42,6 @@ method: |
   <li>Remove from heat, serve onto platter and drizzle with <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a>. Optional to sprinkle chilli flakes. Serve.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Gluten-Free"
   - "Stir Frys"

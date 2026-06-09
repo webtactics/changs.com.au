@@ -27,7 +27,6 @@ method: |
   <li>Optional to either store sauce in a separate small jar that will fit approximately 50 ml or add in the bottom of the jar (if eating the same day only).</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Gluten-Free"
   - "Noodles Ingredient"

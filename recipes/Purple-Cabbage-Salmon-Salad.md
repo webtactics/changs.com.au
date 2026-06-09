@@ -34,7 +34,6 @@ method: |
   </ol>
   <p><em>*You can purchase a single pack of two smaller hot-smoked salmon fillets or use a larger single pack and simply crumble the salmon on top, dividing between two plates.</em></p>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Main Meals"
   - "Quick and Easy"

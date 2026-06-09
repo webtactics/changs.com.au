@@ -39,7 +39,6 @@ method: |
   <li>For a gluten free alternative, swap the Chang&rsquo;s Life Long Noodles for the Rice Vermicelli, and select an unflavoured tofu brand.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles"
   - "Stir Frys"

@@ -44,7 +44,6 @@ method: |
   </ol>
 tags:
   - "BBQ"
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles"
   - "Gluten-Free"

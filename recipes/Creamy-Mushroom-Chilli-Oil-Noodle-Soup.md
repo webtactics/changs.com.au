@@ -80,7 +80,6 @@ method: |
   <li>Finish with chopped coriander.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Vegetarian"
@@ -98,4 +97,5 @@ tags:
   - "Original Hoisin Sauce"
   - "Original Oyster Sauce"
   - "Long Life Noodles"
+  - "Sesame Oil"
 ---

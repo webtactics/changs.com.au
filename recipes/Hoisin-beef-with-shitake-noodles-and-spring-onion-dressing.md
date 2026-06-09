@@ -38,7 +38,6 @@ method: |
   <p>Gluten Free Option: use Wok-Ready Noodles in place of Hokkien Noodles</p>
 tags:
   - "Beef"
-  - "Main Ingredient"
   - "Noodles"
   - "Stir Frys"
   - "Style"

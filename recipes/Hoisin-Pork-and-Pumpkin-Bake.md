@@ -34,7 +34,6 @@ method: |
   </ol>
   <p>Optional to serve with steamed rice.</p>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Gluten-Free"
   - "Main Meals"

@@ -29,7 +29,6 @@ method: |
   <li>They can be kept in freezer for even longer time.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Style"
   - "Kid friendly"
   - "Occassions"

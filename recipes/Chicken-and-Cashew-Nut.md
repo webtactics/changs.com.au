@@ -33,7 +33,6 @@ method: |
   <li>Serve with the <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a>. For a gluten-free alternative, replace the noodles with rice.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Stir Frys"

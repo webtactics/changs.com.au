@@ -41,7 +41,6 @@ method: |
   <li>Serve with lemon wedges.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Style"

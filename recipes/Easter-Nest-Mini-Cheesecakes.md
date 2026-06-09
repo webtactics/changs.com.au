@@ -44,7 +44,6 @@ method: |
   <li>Optional to make these ahead of time; simply assemble, store in an airtight container and refrigerate until needed. Stores for up to a week.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles Ingredient"
   - "Sweet treats"
   - "Family Dinners"

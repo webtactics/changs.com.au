@@ -37,7 +37,6 @@ method: |
   <li>Serve immediately, garnished with fresh parsley or chives if desired.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Vegetables"
   - "Noodles Ingredient"
   - "Noodles Style"

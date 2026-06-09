@@ -38,7 +38,6 @@ method: |
   <li><strong>Assemble and serve.<br /></strong>Ladle the chilled corn broth into bowls and add bundle of noodles and one ice cube to each.<br />Top with a generous spoonful of warmed corn kernels and sliced spring onion.<br />Add more Chang's Sesame Oil to taste.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Vegetarian"

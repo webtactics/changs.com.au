@@ -45,7 +45,6 @@ method: |
   <li>Serve with Dipping Sauce and garnish with fresh coriander leaves and wedges of lime. </li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Gluten-Free"
   - "Main Meals"

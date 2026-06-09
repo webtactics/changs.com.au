@@ -34,7 +34,6 @@ method: |
   <li>Serve with <a title="Chang's Gluten Free Tamari Light Soy Sauce (280ml)" href="/products/Changs-Tamari-Light-Soy-Sauce-280ml/">Chang's Gluten Free Tamari Light Soy Sauce (280ml)</a> to dip.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Style"
   - "Noodles Style"
@@ -48,4 +47,5 @@ tags:
   - "Entertaining"
   - "Festive"
   - "Original Oyster Sauce"
+  - "Gluten Free Tamari Light Soy Sauce"
 ---

@@ -40,7 +40,6 @@ method: |
   <li>Once the fish is cooked, assemble each plate by evenly distributing the salad, sprinkle a quarter of <a href="/products/Changs-Crunchy-Fried-Noodles/" title="Chang's Crunchy Fried Noodles" alt="Chang's Crunchy Fried Noodles">Chang's Crunchy Fried Noodles</a> over each plate and serve topped with two pieces of fish fillets.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Seafood"
   - "Light Meals"
   - "Dinner for Two"

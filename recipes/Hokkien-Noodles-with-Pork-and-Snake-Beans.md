@@ -30,7 +30,6 @@ method: |
   <li>Transfer to a serving plate and serve immediately.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Noodles"
   - "Stir Frys"

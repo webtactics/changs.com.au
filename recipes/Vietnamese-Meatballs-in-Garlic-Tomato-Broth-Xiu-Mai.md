@@ -55,7 +55,6 @@ method: |
   </ol>
   <p> </p>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Gluten-Free"
   - "Noodles Ingredient"

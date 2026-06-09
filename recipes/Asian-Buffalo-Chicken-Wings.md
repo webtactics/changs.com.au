@@ -39,7 +39,6 @@ method: |
   </ol>
 tags:
   - "BBQ"
-  - "Main Ingredient"
   - "Chicken"
   - "Gluten-Free"
   - "Kid friendly"

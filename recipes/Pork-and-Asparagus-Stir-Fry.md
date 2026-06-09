@@ -34,7 +34,6 @@ method: |
   <li>Drain the noodles and place on a dish then spoon the pork and asparagus on top.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Pork"
   - "Noodles"
   - "Super Lo-Cal"

@@ -49,7 +49,6 @@ method: |
   <li>Divide Vermicelli Salad between 4 bowls and place tofu over the top. Garnish with coriander leaves and wedges of lime (optional to add slices of cucumber and serve with <a href="/products/Changs-Original-Hot-Chilli-Sauce/" title="Chang's Original Hot Chilli Sauce" alt="Chang's Original Hot Chilli Sauce">Chang's Original Hot Chilli Sauce</a>). </li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Vegetarian"
@@ -69,4 +68,5 @@ tags:
   - "Gluten Free Tamari Light Soy Sauce"
   - "Original Oyster Sauce"
   - "Sesame Oil"
+  - "Original Hot Chilli Sauce"
 ---

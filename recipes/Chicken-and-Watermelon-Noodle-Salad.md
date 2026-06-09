@@ -35,7 +35,6 @@ method: |
   <li>Serves 4 as a main meal.</li>
   </ol>
 tags:
-  - "Main Ingredient"
   - "Chicken"
   - "Noodles"
   - "Style"
