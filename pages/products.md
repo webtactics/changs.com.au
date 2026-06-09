@@ -1,9 +1,9 @@
 ---
 layout: layouts/grid-products.njk
-title: Range of Products.
-subtitle: Supplying to the catering and food service industries.
+title: Products to Inspire!
+subtitle: We love providing quality Asian noodles and sauces to Australian homes to help bring your favourite Asian and modern Australian dishes to life.
 
-description: Discover our wide range of delicious, fresh, conveniently prepared foods - Primo Moraitis Fresh
+description: We love providing quality Asian noodles and sauces to Australian homes to help bring your favourite Asian and modern Australian dishes to life.
 image: https://ik.imagekit.io/webtactics/pmfresh/img/1920x953/our-products-banner-1920x953_of7owdzm3.jpg
 
 rightimage: https://ik.imagekit.io/webtactics/pmfresh/img/products/categories/our-suppliers-bg-1920x953_Nbap_qtFC.jpg
