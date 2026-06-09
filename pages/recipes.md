@@ -1,8 +1,9 @@
 ---
-layout: layouts/grid-default.njk
+layout: layouts/grid-nohero.njk
 title: Chang's Recipes Section
 description: Chang’s Authentic Big Cookbook (Chang’s ABC!) has heaps of easy Asian meal ideas to try at home. Our Authentic Big Cookbook is bursting at the spine – just like you’d be if you were full of that many tasty Chang’s dishes!
 date: 2026-06-10
+class: recipes
 permalink: /recipes/
 eleventyNavigation:
   key: Recipes
