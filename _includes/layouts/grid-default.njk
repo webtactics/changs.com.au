@@ -48,7 +48,7 @@
               <a
                 class="social-icon"
                 title="Follow us on Instagram"
-                href="https://www.instagram.com/pmfresh_oz/"
+                href="https://www.instagram.com/ChangsAsianFood/"
                 target="_blank"
                 ><svg
                   fill="currentColor"
@@ -92,7 +92,7 @@
               <a
                 class="social-icon"
                 title="Follow us on Facebook"
-                href="https://www.facebook.com/PM-Fresh-Pty-Ltd-104225754405885/"
+                href="https://www.facebook.com/changsasianfood"
                 target="_blank"
                 ><svg
                   fill="currentColor"
@@ -111,7 +111,8 @@
         </div>
       </div>
     </nav>
-    {% endblock %} {% block header %}
+    {% endblock %}
+    {% block header %}
     <header id="header" class="topbar headerwrapper">
       <div class="hamburger">
         <div class="toggle-nav" aria-label="Toggle Navigation">
@@ -144,7 +145,7 @@
                 <a
                   class="social-icon hide-for-scroll hide-for-small"
                   title="Follow us on Facebook"
-                  href="https://www.facebook.com/PM-Fresh-Pty-Ltd-104225754405885/"
+                  href="https://www.facebook.com/changsasianfood"
                   target="_blank"
                   ><svg
                     fill="currentColor"
@@ -164,7 +165,7 @@
                 <a
                   class="social-icon hide-for-scroll hide-for-small"
                   title="Follow us on Instagram"
-                  href="https://www.instagram.com/pmfresh_oz/"
+                  href="https://www.instagram.com/ChangsAsianFood/"
                   target="_blank"
                 >
                   <svg
@@ -189,7 +190,7 @@
               <li>
                 <a
                   class="text-icon hide-for-small"
-                  href="{{metadata.url}}/contact"
+                  href="{{metadata.url}}/contact/"
                   title="Contact Chang's Flavours of Asia"
                   >Contact</a
                 >
@@ -209,78 +210,44 @@
       <div class="pad100"></div>
     </header>
 
-    {% endblock %} {% block hero %} {% include "components/grid-hero.njk" %} {%
-    endblock %} {% block content %}
+    {% endblock %}
+
+    {% block hero %} {% include "components/grid-hero.njk" %} {% endblock %} 
+
+
+
+
+{% block redgradient %}
+	<div class="redgradient">
+		<div class="content redgradientcontent">
+			<div class="redgradientcontentwrapper">
+			<h1 style="text-align:center;" class="text-center white" >{{ title }}</h1>
+				<div class="redgradientcontenttextbox">
+			<p style="text-align:center;" class="text-center white"> {% if subtitle %}{{ subtitle }}{% else %}{{ description }}{% endif %}</p>
+			
+				</div>
+			</div>
+		</div>
+	</div>
+ {% endblock %} 
+
+
+
+
+
+    {% block content %}
     <div class="container">
       <main class="content">
-        <div class="grid-2-products">
-          <div class="content-left">
-            <div class="text">
-              <div class="titlebox fade-in">
-                <h2 class="heading-text">{{ subtitle }}</h2>
-              </div>
+       
               <div class="indent">{{ content | safe }}</div>
-            </div>
-          </div>
-
-          <div class="content-right">
-            <div class="right-image slide-in from-right">
-              <img
-                src="{% if rightimage %}{{ rightimage }}{% else %}https://ik.imagekit.io/webtactics/pmfresh/img/1920x953/our-suppliers-bg-1920x953_HtBteOzpb8.jpg{% endif %}/tr:w-700,h-348"
-                alt="{% if subtitle %}{{ subtitle }}{% else %}{{ title }}{% endif %}"
-                title="{% if subtitle %}{{ subtitle }}{% else %}{{ title }}{% endif %}"
-                width="700px"
-                height="348px"
-              />
-            </div>
-          </div>
-        </div>
-        <div class="pad8rem"></div>
-        <div class="grid-2-products">
-          <div class="content-left">
-            <div class="left-image slide-in from-left">
-              <img
-                src="{% if leftimage %}{{ leftimage }}{% else %}https://ik.imagekit.io/webtactics/pmfresh/img/pages/about/about-us-left-1-900x600_OWoL5rA4x-.jpg{% endif %}/tr:w-700,h-348"
-                alt="{% if subtitle %}{{ subtitle }}{% else %}{{ title }}{% endif %}"
-                title="{% if subtitle %}{{ subtitle }}{% else %}{{ title }}{% endif %}"
-                width="700px"
-                height="348px"
-              />
-            </div>
-          </div>
-
-          <div class="content-right">
-            <div class="text">
-              <div class="titlebox fade-in">
-                <h2 class="heading-text">Message from our CEO.</h2>
-              </div>
-
-              <div class="indent">
-                <p>
-                  Our people, customers and suppliers are key in our success as
-                  we continually strive to be Australia’s #1 Fresh Salad
-                  manufacturer. We are focused on delivering consistent growth
-                  in today’s fast-paced, ever-changing market environment.
-                </p>
-                <p>
-                  To achieve our vision, we must meet the demands from our
-                  customers that best serve theirs.
-                </p>
-                <p>
-                  We continually focus our strengths to deliver high quality,
-                  efficient service with safe food that meets the taste and
-                  convenience demanded by today’s consumers whilst leading in
-                  product development and innovation.
-                </p>
-                <p><strong>Mike Fielden</strong>, PMFresh CEO</p>
-              </div>
-            </div>
-          </div>
-        </div>
+           
+        
       </main>
     </div>
 
-    {% endblock %} {% block content2 %}{% endblock %} {% block content3 %}{%
+    {% endblock %} 
+    
+    {% block content2 %}{% endblock %} {% block content3 %}{%
     endblock %} {% block ctacontent %}
     <div
       class="section cta-content"
@@ -495,7 +462,7 @@
                   <a
                     class="social-icon hide-for-scroll hide-for-small"
                     title="Follow us on Instagram"
-                    href="https://www.instagram.com/pmfresh_oz/"
+                    href="https://www.instagram.com/ChangsAsianFood/"
                     target="_blank"
                     ><svg
                       fill="currentColor"
@@ -542,7 +509,7 @@
                   <a
                     class="social-icon hide-for-scroll hide-for-small"
                     title="Follow us on Facebook"
-                    href="https://www.facebook.com/PM-Fresh-Pty-Ltd-104225754405885/"
+                    href="https://www.facebook.com/changsasianfood"
                     target="_blank"
                     ><svg
                       fill="currentColor"
