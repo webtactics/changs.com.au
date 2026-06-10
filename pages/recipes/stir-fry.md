@@ -8,6 +8,7 @@ permalink: "/recipes/stir-fry/"
 eleventyNavigation:
   key: Stir Fry
   parent: Recipes
+  order: 4
 
 subtitle: "Whip up tantalising stir-fry dishes effortlessly! Explore our collection of Stir-fry Recipes for delicious meals in no time."
 ---

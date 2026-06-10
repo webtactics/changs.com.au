@@ -9,6 +9,7 @@ eleventyNavigation:
   key: Dish Type
   parent: Recipes
   noLink: true
+  order: 8
 
 subtitle: "Explore our collection of recipes organized by dish type, from appetizers to desserts."
 ---

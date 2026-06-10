@@ -9,6 +9,7 @@ eleventyNavigation:
   key: Main Ingredient
   parent: Recipes
   noLink: true
+  order: 1
 
 subtitle: "Our Main Ingredient section highlights key components, helping to guide you towards recipes containing available or desired ingredients."
 ---

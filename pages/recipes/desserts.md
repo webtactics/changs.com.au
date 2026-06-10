@@ -8,6 +8,7 @@ permalink: "/recipes/desserts/"
 eleventyNavigation:
   key: Desserts
   parent: Recipes
+  order: 7
 
 subtitle: "Oh, come on, a little fun won’t hurt. Not just for the kids."
 ---

@@ -8,6 +8,7 @@ permalink: "/recipes/main-meals/"
 eleventyNavigation:
   key: Main Meals
   parent: Recipes
+  order: 5
 
 subtitle: "Create memorable main meals in a snap! Explore our collection of satisfying recipes for delicious Asian-inspired dishes."
 ---

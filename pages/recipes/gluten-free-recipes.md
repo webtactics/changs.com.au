@@ -8,6 +8,7 @@ permalink: "/recipes/gluten-free-recipes/"
 eleventyNavigation:
   key: Gluten Free
   parent: Recipes
+  order: 6
 
 subtitle: "Gluten Free recipes, that aren't just for the gluten-free."
 ---
