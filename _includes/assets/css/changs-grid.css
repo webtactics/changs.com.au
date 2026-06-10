@@ -1295,8 +1295,8 @@ ul.second-level {
   }
   
 
-ul.navbar-menu li ul li a {
-      display: flex;
+ul.navbar-menu li ul.second-level li a {
+  display: flex;
     align-items: center;
     justify-content: flex-start;
   text-transform: uppercase;
@@ -1306,18 +1306,14 @@ ul.navbar-menu li ul li a {
 }
 
 
-
-
-
-
  ul.navbar-menu ul a, ul.navbar-menu li .nav-section-header {
   color: var(--white);
   background-color: var(--black);
 }
 
  ul.navbar-menu ul a:hover, ul.navbar-menu ul a:focus {
-  background: var(--red);
   color: var(--black);
+  background-color: var(--white);
 }
 
 
@@ -3257,37 +3253,7 @@ span.contacttext {padding: 0 0.4rem;}
 .description.map span.contacttext {padding: 0;}
 
 
-.tradeloginexternal {
-  display:flex;
-  justify-content: flex-start;
-  align-items: center;
-  min-height:2rem;
-  margin-bottom:0.5rem;
-}
- a.tradeloginmobile {
-  color: var(--white);
-background-color: var(--primary);
-  font-size: 1rem;
-padding:.75rem .5rem;
-  transition: background .3s ease;
-  font-weight: 400;
-  text-decoration: none;
-  white-space: wrap;
-border:none;
-width:100%;
-}
 
- a.tradeloginmobile:hover {
-  color: var(--white);
-  background-color: var(--primarydark);
- font-size: 1rem;
-padding:.75rem .5rem;
-  transition: background .3s ease;
-  font-weight: 400;
-  text-decoration: none;
-  white-space: wrap;
-border:none;
-}
 
 /* Fade-in from-left */
 
