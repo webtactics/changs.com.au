@@ -1333,13 +1333,16 @@ ul.second-level {
   background-color: var(--white);
 }
 
-ul.navbar-menu li ul.second-level li a:hover,
+ul.navbar-menu li ul.second-level li a
+
 .navbar ul.navbar-menu li.active-class a ul.second-level li a,
-.navbar ul.navbar-menu li.active-class a ul.second-level li a:hover,
+
 .navbar ul.navbar-menu li a ul.second-level li.active-class a,
-.navbar ul.navbar-menu li a ul.second-level li.active-class a:hover,
-.navbar ul.navbar-menu li ul.second-level li.active-class a,
-.navbar ul.navbar-menu li ul.second-level li.active-class a:hover {
+
+.navbar ul.navbar-menu li ul.second-level li.active-class a
+
+
+ {
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -1360,12 +1363,40 @@ ul.navbar-menu li ul.second-level li a:hover,
   background: var(--black);
 }
 
+ul.navbar-menu li ul.second-level li a:hover,
+
+.navbar ul.navbar-menu li.active-class a ul.second-level li a:hover,
+
+.navbar ul.navbar-menu li a ul.second-level li.active-class a,
+
+.navbar ul.navbar-menu li ul.second-level li.active-class a:hover
+ {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0;
+  width: 100%;
+  text-align: left;
+  text-decoration: none;
+  border-bottom: 1px solid var(--primary);
+  transition: background 300ms ease;
+   font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  line-height: 1rem;
+  height: 3rem;
+  color: var(--black);
+  background: var(--primary);
+}
+
 
 ul.navbar-menu li.parent::after {
   content: '';
   position: absolute;
   top: 50%;
-  right: -1rem;
+  right: 1px;
   margin-top: -3px;
   height: 0;
   width: 0;
@@ -1450,7 +1481,7 @@ ul.navbar-menu ul li.parent:hover::after {
     text-transform: none;
     font-size: 0.9rem;
     padding: 0 0.5rem;
-    background-color: var(--white);
+
   }
 }
 
