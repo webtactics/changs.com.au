@@ -11,6 +11,7 @@ subtitle: "Create an intimate dining experience with our delectable dinner for t
 eleventyNavigation:
   key: Dinner for Two
   parent: Dish Type
+  order: 2
 ---
 
 {% set postslist = collections['Dinner for Two'] | reverse  %} 

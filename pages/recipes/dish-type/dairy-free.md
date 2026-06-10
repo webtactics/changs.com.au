@@ -11,6 +11,7 @@ subtitle: "Explore our dairy-free recipes for delicious alternatives without com
 eleventyNavigation:
   key: Dairy-Free
   parent: Dish Type
+  order: 5
 ---
 
 {% set postslist = collections['Dairy Free'] | reverse  %} 

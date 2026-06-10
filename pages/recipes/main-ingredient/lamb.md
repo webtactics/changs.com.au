@@ -2,11 +2,16 @@
 layout: layouts/grid-nohero.njk
 title: Chang's Lamb Recipes
 class: recipes
-description: Tamari is a Japanese sauce made from fermented soybeans. Use ours to create authentic Asian cuisine to serve up in so many ways!
+description: "Australian’s love lamb, and our recipes, noodles and sauces let you try lamb dishes from updates to tradition to completely new ways of looking at lamb."
 date: 2023-01-04
 permalink: "recipes/main-ingredient/lamb/"
+eleventyNavigation:
+  key: Lamb
+  parent: Main Ingredient
+  order: 2
+
+subtitle: "Australian’s love lamb, and our recipes, noodles and sauces let you try lamb dishes from updates to tradition to completely new ways of looking at lamb."
+  
 ---
-Chang's Lamb Recipes
-
-# Thank you!
-
+{% set postslist = collections['Lamb'] | reverse  %} 
+{% include "components/postslist-recipes-4-wide.njk" %}

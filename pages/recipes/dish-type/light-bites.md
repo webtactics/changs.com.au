@@ -11,6 +11,7 @@ subtitle: "Discover delightful light bites recipes, perfect for snacking or ente
 eleventyNavigation:
   key: Light Bites
   parent: Dish Type
+  order: 3
 ---
 
 {% set postslist = collections['Light Meals'] | reverse  %} 

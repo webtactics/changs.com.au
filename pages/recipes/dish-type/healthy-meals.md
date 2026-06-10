@@ -11,6 +11,7 @@ subtitle: "Nourish your body with wholesome, balanced meals packed with nutrient
 eleventyNavigation:
   key: Healthy Meals
   parent: Dish Type
+  order: 4
 ---
 
 {% set postslist = collections['Healthy Meals'] | reverse  %} 

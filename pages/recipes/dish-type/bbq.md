@@ -11,6 +11,7 @@ subtitle: "Fire up the BBQ and savour the flavour with our mouthwatering BBQ rec
 eleventyNavigation:
   key: BBQ
   parent: Dish Type
+  order: 6
 ---
 
 {% set postslist = collections['BBQ'] | reverse  %} 

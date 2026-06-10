@@ -11,6 +11,7 @@ subtitle: "It’s not just kids who love Sweet Treats! Explore our collection of
 eleventyNavigation:
   key: Sweet Treats
   parent: Dish Type
+  order: 7
 ---
 
 {% set postslist = collections['Sweet Treats'] | reverse  %} 

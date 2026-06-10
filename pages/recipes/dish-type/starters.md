@@ -11,6 +11,7 @@ subtitle: "Appetizers, Hors d'oeuvres, Entrées, Antipasti, Starters, Small plat
 eleventyNavigation:
   key: Starters
   parent: Dish Type
+  order: 1
 ---
 
 {% set postslist = collections['Starters'] | reverse  %} 

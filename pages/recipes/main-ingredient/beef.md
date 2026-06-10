@@ -13,6 +13,8 @@ subtitle: "Discover the rich and savory world of beef with our collection of del
 eleventyNavigation:
   key: Beef
   parent: Main Ingredient
+  order: 1
+  
 ---
 {% set postslist = collections['Beef'] | reverse  %} 
 {% include "components/postslist-recipes-4-wide.njk" %}
