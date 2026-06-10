@@ -6,14 +6,12 @@ description: Tamari is a Japanese sauce made from fermented soybeans. Use ours t
 date: 2023-01-04
 permalink: "recipes/main-ingredient/beef/"
 ---
-
+{% set postslist = collections['Beef'] | reverse  %} 
+{% include "components/postslist-recipes-4-wide.njk" %}
 
 
 {% for post in collections.Beef %}
 <h3>Beef</h3>
     <a href="{{ page.url }}">{{ post.data.title }}</a>
 {% endfor %}
-
-
-
 
