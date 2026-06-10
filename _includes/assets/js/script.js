@@ -91,6 +91,24 @@ if (entry.isIntersecting) {
 
 // Accordion
 
+document.querySelectorAll('.off-canvas-list .nav-accordion-toggle').forEach((toggle) => {
+  toggle.addEventListener('click', function (e) {
+    e.preventDefault();
+    const item = this.closest('li.has-children');
+    if (!item) return;
+
+    const isOpen = item.classList.toggle('open');
+    this.setAttribute('aria-expanded', isOpen);
+
+    if (!isOpen) {
+      item.querySelectorAll('li.open').forEach((child) => {
+        child.classList.remove('open');
+        const childToggle = child.querySelector(':scope > .nav-accordion-toggle, :scope > a + .nav-accordion-toggle');
+        if (childToggle) childToggle.setAttribute('aria-expanded', 'false');
+      });
+    }
+  });
+});
 
 
 // Project filter

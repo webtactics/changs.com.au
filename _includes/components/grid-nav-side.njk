@@ -1,10 +1,19 @@
 {% set navPages = collections.all | eleventyNavigation %}
+  {% macro containsActive(entry) -%}
+  {%- if entry.url == page.url -%}1{%- endif -%}
+  {%- for child in entry.children -%}{{ containsActive(child) }}{%- endfor -%}
+  {%- endmacro %}
+
   {% macro renderNavListItem(entry) -%}
-  <li{% if entry.url == page.url %} class="menuactive"{% endif %}>
+  {% set isOpen = containsActive(entry) | trim %}
+  <li class="nav-item{% if entry.children.length %} has-children{% endif %}{% if isOpen %} open{% endif %}{% if entry.url == page.url %} menuactive{% endif %}">
     {% if entry.noLink %}
-    <span class="nav-section-header">{{ entry.title }}</span>
+    <span class="nav-section-header{% if entry.children.length %} nav-accordion-toggle{% endif %}"{% if entry.children.length %} aria-expanded="{{ 'true' if isOpen else 'false' }}"{% endif %}>{{ entry.title }}</span>
     {% else %}
     <a href="{{ entry.url }}" title="{{ entry.title }}" alt="{{ entry.title }}">{{ entry.title }}</a>
+    {% if entry.children.length %}
+    <button type="button" class="nav-accordion-toggle" aria-expanded="{{ 'true' if isOpen else 'false' }}" aria-label="Toggle {{ entry.title }} menu"></button>
+    {% endif %}
     {% endif %}
  {% if entry.url == "/contact/thank-you/" %}
 <li class="hide"><a href="/contact/thank-you/" title="" alt=""></a></li>
@@ -27,6 +36,3 @@
 {% endif %}
 </ul>
 
-<div class="tradeloginexternal">
-<a class="tradeloginmobile" href="https://pmfresh-live.prontoavenue.biz/login" title="Trade Customer Login" target="_blank">Trade Customer Login > </a>
-</div>
