@@ -1344,17 +1344,20 @@ ul.navbar-menu li ul.second-level li a:hover,
   align-items: center;
   justify-content: flex-start;
   padding: 0 1rem;
-  font-size: 1rem;
   width: 100%;
   text-align: left;
   text-decoration: none;
   border-bottom: 1px solid var(--primary);
   transition: background 300ms ease;
-  text-transform: none;
+   font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
   line-height: 1rem;
   height: 3rem;
-  color: var(--primary);
-  background: var(--white);
+  color: var(--white);
+  background: var(--black);
 }
 
 
