@@ -1294,11 +1294,22 @@ ul.second-level {
   }
   
 
+ul.navbar-menu li ul a {
+  text-transform: uppercase;
+
+}
 
 
+.navbar-menu ul a {
+  color: var(--white);
+  text-align: left;
+  background-color: var(--black);
+}
 
-
-
+.navbar-menu ul a:hover, .navbar-menu ul a:focus {
+  background: var(--white);
+  color: var(--black);
+}
 
 ul.navbar-menu li ul.second-level li a, ul.navbar-menu li .nav-section-header {
   display: flex;
