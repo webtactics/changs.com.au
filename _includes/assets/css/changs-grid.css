@@ -1312,30 +1312,22 @@ background-color: var(--black);
 }
 
 ul.navbar-menu li ul.second-level li a:hover, ul.navbar-menu li ul.second-level li a:focus  {
+font-size: 1rem;
+line-height:3rem;
+height: 3rem;
 color: var(--primary);
 background-color: var(--white);
 }
 
 
 
-
-
-
-
-
-
-
   @media (max-width: 1300px) {
 ul.second-level {
     width: 10rem;
+    font-size: 0.9rem;
   }
 
-    ul.navbar-menu li ul.second-level a {
-  text-transform:none;
-    font-size: 0.9rem;
-    padding:0 0.5rem;
-     background-color: var(--white);
-   }
+
 }
 
 /* end second level */
