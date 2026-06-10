@@ -1343,7 +1343,7 @@ ul.navbar-menu li ul.second-level li a:hover,
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  padding: 0 1rem;
+  padding: 0;
   width: 100%;
   text-align: left;
   text-decoration: none;
