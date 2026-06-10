@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.njk
+layout: layouts/grid-nohero.njk
 title: Chang's Main Meal Recipes
 class: recipes
 description: Tamari is a Japanese sauce made from fermented soybeans. Use ours to create authentic Asian cuisine to serve up in so many ways!
