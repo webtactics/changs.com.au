@@ -31,7 +31,7 @@ tags:
   - "Style"
   - "Noodles Ingredient"
   - "Kid friendly"
-  - "Occassions"
+  - "Occasions"
   - "Sweet treats"
   - "Kids"
   - "Easter"

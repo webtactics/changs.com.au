@@ -82,7 +82,7 @@ tags:
   - "Gluten-Free"
   - "Style"
   - "Finger Food"
-  - "Occassions"
+  - "Occasions"
   - "Dairy Free"
   - "Summer"
   - "Summer BBQ"

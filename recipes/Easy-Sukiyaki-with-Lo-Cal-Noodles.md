@@ -36,7 +36,7 @@ tags:
   - "Style"
   - "Noodles Style"
   - "Soups"
-  - "Occassions"
+  - "Occasions"
   - "Dairy Free"
   - "Light Meals"
   - "Main Meals"

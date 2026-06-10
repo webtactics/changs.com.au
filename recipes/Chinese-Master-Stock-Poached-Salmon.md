@@ -35,7 +35,7 @@ method: |
 tags:
   - "Seafood"
   - "Sauces and condiments"
-  - "Occassions"
+  - "Occasions"
   - "Healthy meals"
   - "Main Meals"
   - "Family Dinners"

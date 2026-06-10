@@ -40,7 +40,7 @@ tags:
   - "Duck"
   - "Finger Food"
   - "Sides"
-  - "Occassions"
+  - "Occasions"
   - "Dairy Free"
   - "Light Meals"
   - "Nut Free"

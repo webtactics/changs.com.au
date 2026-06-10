@@ -35,7 +35,7 @@ method: |
 tags:
   - "Beef"
   - "Pork"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Noodles Ingredient"
   - "Dinner for Two"
   - "Main Meals"

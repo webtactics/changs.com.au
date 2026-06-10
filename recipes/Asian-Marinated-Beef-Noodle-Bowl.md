@@ -56,7 +56,7 @@ tags:
   - "Noodles"
   - "Noodles Ingredient"
   - "Noodles Style"
-  - "Mains"
+  - "Main Meals"
   - "Dinner for Two"
   - "Quick and Easy"
   - "Summer"

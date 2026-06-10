@@ -30,7 +30,7 @@ tags:
   - "Noodles"
   - "Style"
   - "Soups"
-  - "Occassions"
+  - "Occasions"
   - "Healthy meals"
   - "Light Meals"
   - "Poultry"

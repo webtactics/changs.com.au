@@ -39,7 +39,7 @@ tags:
   - "Chicken"
   - "Style"
   - "Sauces and condiments"
-  - "Occassions"
+  - "Occasions"
   - "Main Meals"
   - "Family Dinners"
   - "Sunday Feasts"

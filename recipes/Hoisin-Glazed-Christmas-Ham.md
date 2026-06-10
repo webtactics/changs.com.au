@@ -38,7 +38,7 @@ tags:
   - "Pork"
   - "Style"
   - "Kid friendly"
-  - "Occassions"
+  - "Occasions"
   - "Christmas"
   - "Special Occasion"
   - "Festive"

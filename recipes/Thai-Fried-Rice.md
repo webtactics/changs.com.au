@@ -43,7 +43,7 @@ method: |
   </ol>
 tags:
   - "Gluten-Free"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Vegetarian"
   - "Quick and Easy"
   - "Summer"

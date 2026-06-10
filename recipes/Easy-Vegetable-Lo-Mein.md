@@ -54,7 +54,7 @@ method: |
   </ol>
 tags:
   - "Gluten-Free"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Noodles Ingredient"
   - "Vegetarian"
   - "Main Meals"

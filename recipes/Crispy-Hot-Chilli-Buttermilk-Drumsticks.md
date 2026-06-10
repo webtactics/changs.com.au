@@ -42,5 +42,4 @@ tags:
   - "Poultry"
   - "Crunchy Fried Noodles"
   - "Crispy Noodle Salad Dressing"
-  - "Crispy Noodle Salad"
 ---

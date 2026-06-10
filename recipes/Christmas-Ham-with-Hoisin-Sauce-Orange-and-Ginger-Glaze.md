@@ -33,10 +33,9 @@ method: |
   <p><strong>Serving suggestions:<br /></strong><a title="Chang's Noodle with Edamame Beans Salad" href="/recipes/Noodle-Salad-with-Edamame-Beans/">Chang's Noodle with Edamame Beans Salad</a> or<br /><a title="Chang&rsquo;s Crispy Noodle Salad" href="/recipes/Crispy-Noodle-Salad/">Chang&rsquo;s Crispy Noodle Salad</a>.</p>
 tags:
   - "Pork"
-  - "Mains"
+  - "Main Meals"
   - "Sunday Feasts"
   - "Christmas"
-  - "Recipe of the Month"
   - "Special Occasion"
   - "Entertaining"
   - "Festive"

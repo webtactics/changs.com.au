@@ -41,8 +41,8 @@ method: |
 tags:
   - "Pork"
   - "Slow Cooking"
-  - "Occassions"
-  - "Mains"
+  - "Occasions"
+  - "Main Meals"
   - "Winter"
   - "Autumn"
   - "Chinese New Year"

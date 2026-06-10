@@ -38,7 +38,7 @@ tags:
   - "Pork"
   - "Noodles"
   - "Style"
-  - "Occassions"
+  - "Occasions"
   - "Main Meals"
   - "Family Dinners"
   - "Sunday Feasts"

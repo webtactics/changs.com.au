@@ -34,7 +34,7 @@ tags:
   - "Noodles Style"
   - "Vegetarian"
   - "Light Meals"
-  - "Mains"
+  - "Main Meals"
   - "Dinner for One"
   - "Dinner for Two"
   - "Quick and Easy"

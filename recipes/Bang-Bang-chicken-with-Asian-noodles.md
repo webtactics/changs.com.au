@@ -34,7 +34,6 @@ tags:
   - "Chicken"
   - "Noodles"
   - "Sauces and condiments"
-  - "Mains"
   - "Main Meals"
   - "Quick and Easy"
   - "Summer"

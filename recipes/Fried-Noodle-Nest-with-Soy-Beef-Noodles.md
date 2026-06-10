@@ -37,7 +37,7 @@ method: |
 tags:
   - "Beef"
   - "Noodles"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Noodles Style"
   - "Dinner for Two"
   - "Main Meals"

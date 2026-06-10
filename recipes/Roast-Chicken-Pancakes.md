@@ -34,7 +34,7 @@ tags:
   - "Chicken"
   - "Style"
   - "Finger Food"
-  - "Occassions"
+  - "Occasions"
   - "Dairy Free"
   - "Light Meals"
   - "Lunch"

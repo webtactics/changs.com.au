@@ -38,7 +38,7 @@ tags:
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Vegetarian"
-  - "Occassions"
+  - "Occasions"
   - "Healthy meals"
   - "Dairy Free"
   - "Dinner for Two"

@@ -31,7 +31,6 @@ nutrition:
 tags:
   - "Gluten Free"
   - "Sauces"
-  - "Sweet Manchurian Stir Fry Sauce"
 ---
 
 Chang's Sweet Manchurian Stir Fry Sauce: Indulge in a delightful fusion of sweet and savory flavors for your stir-fry adventures. Try it now!

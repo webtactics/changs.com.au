@@ -36,7 +36,7 @@ method: |
 tags:
   - "Seafood"
   - "Style"
-  - "Occassions"
+  - "Occasions"
   - "Christmas"
   - "Festive"
   - "Gluten Free Tamari Light Soy Sauce"

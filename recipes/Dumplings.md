@@ -37,7 +37,7 @@ tags:
   - "Pork"
   - "Style"
   - "Noodles Style"
-  - "Occassions"
+  - "Occasions"
   - "Dinner for Two"
   - "Sunday Feasts"
   - "Winter"

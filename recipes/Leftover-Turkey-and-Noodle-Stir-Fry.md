@@ -34,11 +34,11 @@ method: |
   </ol>
 tags:
   - "Noodles"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Style"
   - "Turkey"
   - "Noodles Ingredient"
-  - "Occassions"
+  - "Occasions"
   - "Main Meals"
   - "Family Dinners"
   - "Christmas"

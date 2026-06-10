@@ -45,7 +45,7 @@ tags:
   - "Finger Food"
   - "Kid friendly"
   - "Sides"
-  - "Occassions"
+  - "Occasions"
   - "Healthy meals"
   - "Dairy Free"
   - "Lunch"

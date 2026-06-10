@@ -47,7 +47,7 @@ tags:
   - "Noodles Ingredient"
   - "Slow Cooking"
   - "Noodles Style"
-  - "Occassions"
+  - "Occasions"
   - "Healthy meals"
   - "Dinner for Two"
   - "Main Meals"

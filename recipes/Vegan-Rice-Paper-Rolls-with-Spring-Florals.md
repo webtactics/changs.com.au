@@ -42,7 +42,7 @@ tags:
   - "Gluten-Free"
   - "Style"
   - "Vegetarian"
-  - "Occassions"
+  - "Occasions"
   - "Healthy meals"
   - "Light Meals"
   - "Starters"

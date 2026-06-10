@@ -45,7 +45,7 @@ tags:
   - "Style"
   - "Vegetarian"
   - "Soups"
-  - "Occassions"
+  - "Occasions"
   - "Light Meals"
   - "Dinner for Two"
   - "Lunch"

@@ -44,7 +44,7 @@ tags:
   - "Gluten-Free"
   - "Style"
   - "Sauces and condiments"
-  - "Occassions"
+  - "Occasions"
   - "Healthy meals"
   - "Dairy Free"
   - "Dinner for Two"

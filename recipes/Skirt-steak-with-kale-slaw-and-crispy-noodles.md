@@ -30,10 +30,10 @@ method: |
 tags:
   - "Beef"
   - "Noodles"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Style"
-  - "Occassions"
-  - "Mains"
+  - "Occasions"
+  - "Main Meals"
   - "Summer"
   - "Spring"
   - "Summer BBQ"

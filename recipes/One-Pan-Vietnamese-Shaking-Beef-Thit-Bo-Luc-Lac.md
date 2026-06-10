@@ -44,7 +44,7 @@ method: |
 tags:
   - "Beef"
   - "Gluten-Free"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Dinner for Two"
   - "Main Meals"
   - "Quick and Easy"

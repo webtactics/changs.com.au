@@ -42,7 +42,7 @@ tags:
   - "Style"
   - "Kid friendly"
   - "Noodles Style"
-  - "Occassions"
+  - "Occasions"
   - "Healthy meals"
   - "Dairy Free"
   - "Light Meals"

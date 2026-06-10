@@ -43,7 +43,7 @@ method: |
   </ol>
 tags:
   - "Vegetables"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Vegetarian"
   - "Main Meals"
   - "Quick and Easy"

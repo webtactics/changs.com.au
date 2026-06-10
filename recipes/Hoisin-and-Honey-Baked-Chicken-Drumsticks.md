@@ -34,7 +34,7 @@ tags:
   - "Style"
   - "Finger Food"
   - "Kid friendly"
-  - "Occassions"
+  - "Occasions"
   - "Main Meals"
   - "Christmas"
   - "Kids"

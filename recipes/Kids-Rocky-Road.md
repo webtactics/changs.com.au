@@ -33,7 +33,7 @@ tags:
   - "Finger Food"
   - "Kid friendly"
   - "Noodles Style"
-  - "Occassions"
+  - "Occasions"
   - "Sweet treats"
   - "Christmas"
   - "Festive"

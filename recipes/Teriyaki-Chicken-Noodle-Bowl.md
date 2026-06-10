@@ -38,7 +38,7 @@ method: |
   </ol>
 tags:
   - "Gluten-Free"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Noodles Ingredient"
   - "Main Meals"
   - "Winter"

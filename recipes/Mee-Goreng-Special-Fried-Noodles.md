@@ -41,7 +41,7 @@ tags:
   - "Chicken"
   - "Seafood"
   - "Gluten-Free"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Noodles Ingredient"
   - "Main Meals"
   - "Quick and Easy"

@@ -37,7 +37,7 @@ tags:
   - "Style"
   - "Noodles Ingredient"
   - "Noodles Style"
-  - "Occassions"
+  - "Occasions"
   - "Healthy meals"
   - "Dairy Free"
   - "Dinner for One"

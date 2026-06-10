@@ -53,7 +53,7 @@ method: |
 tags:
   - "Lamb"
   - "Gluten-Free"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Noodles Ingredient"
   - "Gluten Free Variation"
   - "Main Meals"

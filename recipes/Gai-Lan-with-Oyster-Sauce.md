@@ -30,7 +30,7 @@ tags:
   - "Vegetables"
   - "Style"
   - "Vegetarian"
-  - "Occassions"
+  - "Occasions"
   - "Light Meals"
   - "Quick and Easy"
   - "Chinese New Year"

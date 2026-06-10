@@ -45,7 +45,6 @@ tags:
   - "Chinese New Year"
   - "Kids"
   - "Entertaining"
-  - "Seasonalbox"
   - "Festive"
   - "Original Fried Noodles"
   - "Gluten Free Fried Noodles"

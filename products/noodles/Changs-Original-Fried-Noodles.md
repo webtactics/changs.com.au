@@ -35,10 +35,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "953mg"
 tags:
   - "Noodles"
-  - "Woolworths"
-  - "Coles"
-  - "Harris Farm"
-  - "IGA"
   - "ChangsTV"
   - "Original Fried Noodles"
 ---

@@ -36,7 +36,7 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Dinner for Two"
   - "Lunch"
   - "Main Meals"

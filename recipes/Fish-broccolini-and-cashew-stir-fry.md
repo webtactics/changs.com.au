@@ -30,9 +30,9 @@ method: |
 tags:
   - "Seafood"
   - "Noodles"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Style"
-  - "Occassions"
+  - "Occasions"
   - "Dinner for Two"
   - "Main Meals"
   - "Summer"

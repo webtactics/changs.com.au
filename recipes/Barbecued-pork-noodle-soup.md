@@ -30,7 +30,7 @@ tags:
   - "Style"
   - "Noodles Style"
   - "Soups"
-  - "Occassions"
+  - "Occasions"
   - "Winter"
   - "Summer"
   - "Autumn"

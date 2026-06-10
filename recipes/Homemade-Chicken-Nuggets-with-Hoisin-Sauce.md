@@ -40,7 +40,7 @@ tags:
   - "Style"
   - "Finger Food"
   - "Kid friendly"
-  - "Occassions"
+  - "Occasions"
   - "Dairy Free"
   - "Light Meals"
   - "Nut Free"

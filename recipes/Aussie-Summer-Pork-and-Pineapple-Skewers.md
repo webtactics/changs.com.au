@@ -59,6 +59,5 @@ tags:
   - "Soy Sauce Dark"
   - "Original Hoisin Sauce"
   - "Sesame Oil"
-  - "Rice Vermicelli Noodles"
   - "Soy Sauce"
 ---

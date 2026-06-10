@@ -42,7 +42,6 @@ tags:
   - "Autumn"
   - "Spring"
   - "Summer BBQ"
-  - "Seasonalbox"
   - "Hoisin Sauce"
   - "Soy Sauce Dark"
 ---

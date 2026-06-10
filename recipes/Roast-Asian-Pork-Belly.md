@@ -40,7 +40,7 @@ method: |
   <p>Serve with Chang's famous <a title="Chang&rsquo;s Crispy Noodle Salad" href="/recipes/Crispy-Noodle-Salad/">Chang&rsquo;s Crispy Noodle Salad</a>.</p>
 tags:
   - "Pork"
-  - "Occassions"
+  - "Occasions"
   - "Sunday Feasts"
   - "Christmas"
   - "Festive"

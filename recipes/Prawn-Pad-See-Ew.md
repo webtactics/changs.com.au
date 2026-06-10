@@ -36,7 +36,7 @@ method: |
 tags:
   - "Seafood"
   - "Gluten-Free"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Healthy meals"
@@ -50,7 +50,6 @@ tags:
   - "Spring"
   - "Summer BBQ"
   - "Kids"
-  - "Glutenbox"
   - "Festive"
   - "Thai Style Rice Noodles"
   - "Soy Sauce Dark"

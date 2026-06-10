@@ -34,7 +34,7 @@ tags:
   - "Noodles"
   - "Style"
   - "Sauces and condiments"
-  - "Occassions"
+  - "Occasions"
   - "Healthy meals"
   - "Dinner for Two"
   - "Winter"

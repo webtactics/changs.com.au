@@ -31,13 +31,10 @@ method: |
 tags:
   - "Style"
   - "Kid friendly"
-  - "Occassions"
+  - "Occasions"
   - "Quick and Easy"
   - "Sweet treats"
   - "Summer"
-  - "Feature"
   - "Scary Sweets"
-  - "DessertFeature"
-  - "toprecipe"
   - "Original Fried Noodles"
 ---

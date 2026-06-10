@@ -38,7 +38,6 @@ tags:
   - "Quick and Easy"
   - "Summer"
   - "Spring"
-  - "Seasonalbox"
   - "Festive"
   - "Soup and Salad"
   - "Original Fried Noodles"

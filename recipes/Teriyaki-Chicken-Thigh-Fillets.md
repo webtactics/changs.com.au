@@ -44,8 +44,7 @@ method: |
 tags:
   - "Chicken"
   - "Gluten-Free"
-  - "Stir Frys"
-  - "Mains"
+  - "Stir Fries"
   - "Main Meals"
   - "Quick and Easy"
   - "Family Dinners"

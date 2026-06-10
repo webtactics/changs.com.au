@@ -49,7 +49,7 @@ tags:
   - "Gluten-Free"
   - "Style"
   - "Soups"
-  - "Occassions"
+  - "Occasions"
   - "Healthy meals"
   - "Dairy Free"
   - "Main Meals"

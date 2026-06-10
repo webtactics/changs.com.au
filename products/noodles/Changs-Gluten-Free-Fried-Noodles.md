@@ -35,7 +35,6 @@ nutrition:
 tags:
   - "Gluten Free"
   - "Noodles"
-  - "homebox"
   - "Gluten Free Fried Noodles"
 ---
 

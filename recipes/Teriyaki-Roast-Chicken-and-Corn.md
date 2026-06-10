@@ -44,7 +44,6 @@ tags:
   - "Summer"
   - "Spring"
   - "Summer BBQ"
-  - "Seasonalbox"
   - "Festive"
   - "Poultry"
   - "Japanese Teriyaki Sauce"

@@ -35,7 +35,7 @@ tags:
   - "Style"
   - "Duck"
   - "Sauces and condiments"
-  - "Occassions"
+  - "Occasions"
   - "Winter"
   - "Autumn"
   - "Christmas"

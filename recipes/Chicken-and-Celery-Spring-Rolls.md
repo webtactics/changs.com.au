@@ -37,7 +37,7 @@ tags:
   - "Finger Food"
   - "Kid friendly"
   - "Sides"
-  - "Occassions"
+  - "Occasions"
   - "Dairy Free"
   - "Gluten Free Variation"
   - "Light Meals"

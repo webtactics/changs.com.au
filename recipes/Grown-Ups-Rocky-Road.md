@@ -33,7 +33,7 @@ tags:
   - "Noodles Ingredient"
   - "Finger Food"
   - "Kid friendly"
-  - "Occassions"
+  - "Occasions"
   - "Sweet treats"
   - "Christmas"
   - "Festive"

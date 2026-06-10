@@ -36,8 +36,7 @@ method: |
 tags:
   - "Pork"
   - "Style"
-  - "Occassions"
-  - "Mains"
+  - "Occasions"
   - "Main Meals"
   - "Nut Free"
   - "Family Dinners"

@@ -14,7 +14,6 @@ tags:
   - "Gluten Free"
   - "Sauces"
   - "Tamari"
-  - "Tamari Hoisin Sauce"
 ---
 
 A gluten-, wheat- and MSG-free hoisin sauce. Perfect for marinating beef, pork or chicken or simply as a dipping sauce. Great with duck dishes!

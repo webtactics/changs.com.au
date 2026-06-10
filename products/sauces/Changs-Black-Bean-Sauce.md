@@ -22,7 +22,6 @@ nutrition:
 tags:
   - "Gluten Free"
   - "Sauces"
-  - "Black Bean Sauce"
 
 
 ---

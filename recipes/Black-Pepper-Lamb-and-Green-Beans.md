@@ -32,10 +32,10 @@ method: |
 tags:
   - "Lamb"
   - "Gluten-Free"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Style"
   - "Kid friendly"
-  - "Occassions"
+  - "Occasions"
   - "Dairy Free"
   - "Dinner for Two"
   - "Lunch"

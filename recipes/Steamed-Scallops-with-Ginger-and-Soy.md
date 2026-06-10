@@ -31,10 +31,10 @@ method: |
 tags:
   - "Seafood"
   - "Gluten-Free"
-  - "Stir Frys"
+  - "Stir Fries"
   - "Style"
   - "Noodles Style"
-  - "Occassions"
+  - "Occasions"
   - "Healthy meals"
   - "Dairy Free"
   - "Dinner for Two"

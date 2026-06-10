@@ -36,7 +36,7 @@ tags:
   - "Seafood"
   - "Noodles"
   - "Style"
-  - "Occassions"
+  - "Occasions"
   - "Quick and Easy"
   - "Summer"
   - "Spring"

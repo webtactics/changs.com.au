@@ -31,7 +31,7 @@ tags:
   - "Noodles"
   - "Style"
   - "Vegetarian"
-  - "Occassions"
+  - "Occasions"
   - "Healthy meals"
   - "Quick and Easy"
   - "Starters"
