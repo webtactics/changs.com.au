@@ -49,7 +49,7 @@ tags:
   - "Vegetables"
   - "Noodles"
   - "Gluten-Free"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Noodles Ingredient"
   - "Vegetarian"
   - "Light Meals"

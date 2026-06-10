@@ -37,7 +37,7 @@ method: |
 tags:
   - "Vegetables"
   - "Gluten-Free"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Vegetarian"
   - "Light Meals"
   - "Lunch"

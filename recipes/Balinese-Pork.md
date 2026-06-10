@@ -36,7 +36,7 @@ method: |
 tags:
   - "Pork"
   - "Gluten-Free"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Style"
   - "Kid friendly"
   - "Occasions"

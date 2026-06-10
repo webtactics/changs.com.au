@@ -34,7 +34,7 @@ method: |
   </ol>
 tags:
   - "Noodles"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Style"
   - "Turkey"
   - "Noodles Ingredient"

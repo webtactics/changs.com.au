@@ -36,7 +36,7 @@ method: |
 tags:
   - "Seafood"
   - "Gluten-Free"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Healthy meals"

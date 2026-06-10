@@ -48,7 +48,7 @@ method: |
 tags:
   - "Beef"
   - "Noodles"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Style"
   - "Noodles Ingredient"
   - "Kid friendly"

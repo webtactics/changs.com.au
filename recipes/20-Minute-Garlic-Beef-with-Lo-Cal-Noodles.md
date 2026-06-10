@@ -42,7 +42,7 @@ method: |
 tags:
   - "Beef"
   - "Gluten-Free"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Noodles Ingredient"
   - "Main Meals"
   - "Protein"

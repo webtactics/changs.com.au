@@ -30,7 +30,7 @@ method: |
 tags:
   - "Beef"
   - "Noodles"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Style"
   - "Occasions"
   - "Main Meals"

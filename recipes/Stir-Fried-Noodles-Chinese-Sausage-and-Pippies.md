@@ -38,7 +38,7 @@ tags:
   - "Seafood"
   - "Noodles"
   - "Gluten-Free"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Style"
   - "Noodles Ingredient"
   - "Noodles Style"

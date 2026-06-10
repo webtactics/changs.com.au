@@ -36,7 +36,7 @@ method: |
 tags:
   - "Pork"
   - "Noodles"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Main Meals"
   - "Summer"
   - "Spring"

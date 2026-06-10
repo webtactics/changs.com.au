@@ -41,7 +41,7 @@ method: |
 tags:
   - "Vegetables"
   - "Noodles"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Style"
   - "Kid friendly"
   - "Vegetarian"

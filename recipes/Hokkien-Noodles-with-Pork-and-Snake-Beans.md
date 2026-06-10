@@ -32,7 +32,7 @@ method: |
 tags:
   - "Pork"
   - "Noodles"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Style"
   - "Noodles Ingredient"
   - "Noodles Style"

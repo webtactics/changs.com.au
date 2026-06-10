@@ -37,7 +37,7 @@ method: |
 tags:
   - "Seafood"
   - "Gluten-Free"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Style"
   - "Occasions"
   - "Healthy meals"

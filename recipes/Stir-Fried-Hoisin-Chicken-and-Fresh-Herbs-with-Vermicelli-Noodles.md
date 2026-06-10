@@ -39,7 +39,7 @@ tags:
   - "Chicken"
   - "Noodles"
   - "Gluten-Free"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Style"
   - "Noodles Ingredient"
   - "Kid friendly"

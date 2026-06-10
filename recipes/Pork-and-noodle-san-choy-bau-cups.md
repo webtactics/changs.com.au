@@ -29,7 +29,7 @@ method: |
 tags:
   - "Pork"
   - "Noodles"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Kid friendly"
   - "Dinner for Two"
   - "Lunch"

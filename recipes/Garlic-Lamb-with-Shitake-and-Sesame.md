@@ -35,7 +35,7 @@ method: |
 tags:
   - "Lamb"
   - "Noodles"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Style"
   - "Main Meals"
   - "Spring"

@@ -35,7 +35,7 @@ method: |
 tags:
   - "Chicken"
   - "Noodles"
-  - "Stir Fries"
+  - "Stir-Fry"
   - "Style"
   - "Noodles Ingredient"
   - "Occasions"
