@@ -31,7 +31,7 @@ method: |
   </ol>
 tags:
   - "Quick and Easy"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Winter"
   - "Summer"
   - "Autumn"

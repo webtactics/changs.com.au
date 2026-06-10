@@ -29,9 +29,9 @@ method: |
   </ol>
   <p>Can also be eaten immediately as does not need chilling time to set.</p>
 tags:
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Quick and Easy"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Summer"
   - "Spring"
   - "Kids"

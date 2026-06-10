@@ -32,8 +32,8 @@ tags:
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Finger Food"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Gluten Free Variation"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Gluten Free Fried Noodles"
 ---

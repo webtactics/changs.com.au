@@ -13,5 +13,5 @@ eleventyNavigation:
   parent: Dish Type
 ---
 
-{% set postslist = collections['Healthy meals'] | reverse  %} 
+{% set postslist = collections['Healthy Meals'] | reverse  %} 
 {% include "components/postslist-recipes-4-wide.njk" %}

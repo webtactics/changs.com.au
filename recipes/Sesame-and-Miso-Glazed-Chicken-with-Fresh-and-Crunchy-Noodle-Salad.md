@@ -44,7 +44,7 @@ tags:
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Main Meals"
   - "Dinner for Two"
   - "Lunch"

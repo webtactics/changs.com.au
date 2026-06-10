@@ -28,7 +28,7 @@ method: |
 tags:
   - "Noodles"
   - "Noodles Ingredient"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Scary Sweets"
   - "Original Fried Noodles"
 ---

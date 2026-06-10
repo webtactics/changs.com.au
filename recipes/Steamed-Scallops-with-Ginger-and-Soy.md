@@ -35,7 +35,7 @@ tags:
   - "Style"
   - "Noodles Style"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Dinner for Two"
   - "Summer"

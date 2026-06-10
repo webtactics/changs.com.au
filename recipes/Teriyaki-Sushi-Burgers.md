@@ -35,7 +35,7 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Quick and Easy"
   - "Winter"
   - "Summer"

@@ -29,7 +29,7 @@ method: |
   </ol>
 tags:
   - "Noodles Ingredient"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Sunday Feasts"
   - "Summer BBQ"
   - "Christmas"

@@ -45,7 +45,7 @@ method: |
   </ol>
 tags:
   - "Noodles Ingredient"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Family Dinners"
   - "Sunday Feasts"
   - "Winter"

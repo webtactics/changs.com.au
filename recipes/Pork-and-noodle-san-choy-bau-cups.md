@@ -30,7 +30,7 @@ tags:
   - "Pork"
   - "Noodles"
   - "Stir-Fry"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Dinner for Two"
   - "Lunch"
   - "Main Meals"

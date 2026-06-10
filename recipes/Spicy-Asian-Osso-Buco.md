@@ -40,7 +40,7 @@ tags:
   - "Slow Cooking"
   - "Soups"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Main Meals"
   - "Dinner for Two"

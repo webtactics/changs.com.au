@@ -38,7 +38,7 @@ tags:
   - "Slow Cooking"
   - "Vegetarian"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Light Meals"
   - "Main Meals"
   - "Quick and Easy"

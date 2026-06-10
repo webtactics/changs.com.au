@@ -59,7 +59,7 @@ tags:
   - "Super Lo-Cal"
   - "Noodles Ingredient"
   - "Vegetarian"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Gluten Free Variation"
   - "Dinner for Two"

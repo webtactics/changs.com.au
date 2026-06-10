@@ -56,7 +56,7 @@ tags:
   - "Noodles Style"
   - "Soups"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Light Meals"
   - "Main Meals"

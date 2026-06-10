@@ -36,7 +36,7 @@ method: |
 tags:
   - "Seafood"
   - "Noodles"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Light Meals"
   - "Dinner for Two"
   - "Lunch"

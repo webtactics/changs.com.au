@@ -39,7 +39,7 @@ tags:
   - "Noodles"
   - "Style"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Main Meals"
   - "Quick and Easy"
   - "Summer"

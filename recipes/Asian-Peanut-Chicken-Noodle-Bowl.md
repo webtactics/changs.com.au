@@ -46,7 +46,7 @@ method: |
 tags:
   - "Chicken"
   - "Noodles Style"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Autumn"
   - "Salad"
   - "Poultry"

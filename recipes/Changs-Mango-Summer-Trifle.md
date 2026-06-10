@@ -26,7 +26,7 @@ method: |
   <li>Layer the ingredients in four individual glasses or a trifle dish in the following order: ice cream, mango, coconut, Chang's Crunchy Fried Noodles, ice cream and top it off with a good drizzle of honey.</li>
   </ol>
 tags:
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Sunday Feasts"
   - "Summer"
   - "Spring"

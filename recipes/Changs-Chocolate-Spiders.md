@@ -30,10 +30,10 @@ method: |
   </ol>
 tags:
   - "Style"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Occasions"
   - "Quick and Easy"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Summer"
   - "Scary Sweets"
   - "Original Fried Noodles"

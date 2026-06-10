@@ -48,7 +48,7 @@ tags:
   - "Noodles Ingredient"
   - "Finger Food"
   - "Vegetarian"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Gluten Free Variation"
   - "Light Meals"
   - "Dinner for Two"

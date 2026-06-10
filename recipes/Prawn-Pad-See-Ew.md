@@ -39,7 +39,7 @@ tags:
   - "Stir-Fry"
   - "Noodles Ingredient"
   - "Noodles Style"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Gluten Free Variation"
   - "Light Meals"
   - "Dinner for Two"

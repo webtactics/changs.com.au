@@ -32,9 +32,9 @@ tags:
   - "Style"
   - "Noodles Ingredient"
   - "Finger Food"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Occasions"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Christmas"
   - "Festive"
 ---

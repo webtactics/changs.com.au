@@ -49,7 +49,7 @@ tags:
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Vegetarian"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Gluten Free Variation"
   - "Light Meals"
   - "Main Meals"

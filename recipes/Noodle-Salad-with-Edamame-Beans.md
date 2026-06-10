@@ -37,7 +37,7 @@ tags:
   - "Vegetables"
   - "Noodles Ingredient"
   - "Vegetarian"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dinner for Two"
   - "Lunch"
   - "Main Meals"

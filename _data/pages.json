@@ -333,7 +333,7 @@
         "show_in_menu": true,
         "main_title": "",
         "metadescription": "",
-        "content": "{CGBlog category=\"Sweet treats\" pagelimit=\"36\"}",
+        "content": "{CGBlog category=\"Sweet Treats\" pagelimit=\"36\"}",
         "created": "2019-08-15 14:33:07",
         "modified": "2025-10-09 17:58:13"
     },
@@ -352,14 +352,14 @@
     },
     {
         "id": "132",
-        "title": "Sweet treats",
+        "title": "Sweet Treats",
         "slug": "sweet-treats",
         "path": "recipes/dish-type/sweet-treats",
-        "menu_text": "It’s not just kids who love sweet treats! Explore our collection of desserts, perfect for satisfying cravings and adding a touch of sweetness to any occasion.",
+        "menu_text": "It’s not just kids who love Sweet Treats! Explore our collection of desserts, perfect for satisfying cravings and adding a touch of sweetness to any occasion.",
         "show_in_menu": true,
         "main_title": "",
         "metadescription": "",
-        "content": "{CGBlog category=\"Sweet treats\" pagelimit=\"36\"}",
+        "content": "{CGBlog category=\"Sweet Treats\" pagelimit=\"36\"}",
         "created": "2015-10-14 15:23:58",
         "modified": "2024-03-29 10:15:08"
     },
@@ -378,14 +378,14 @@
     },
     {
         "id": "104",
-        "title": "Healthy meals",
+        "title": "Healthy Meals",
         "slug": "healthy-meals",
         "path": "recipes/dish-type/healthy-meals",
         "menu_text": "Nourish your body with wholesome, balanced meals packed with nutrients and flavor. Explore our array of healthy recipes designed to fuel your well-being and satisfy your palate.",
         "show_in_menu": true,
         "main_title": "",
         "metadescription": "",
-        "content": "{CGBlog category=\"Healthy meals\" pagelimit=\"36\"}",
+        "content": "{CGBlog category=\"Healthy Meals\" pagelimit=\"36\"}",
         "created": "2015-08-22 00:23:31",
         "modified": "2024-03-29 10:09:47"
     },

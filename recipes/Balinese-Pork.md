@@ -38,7 +38,7 @@ tags:
   - "Gluten-Free"
   - "Stir-Fry"
   - "Style"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Occasions"
   - "Dairy Free"
   - "Main Meals"

@@ -40,10 +40,10 @@ method: |
   </ol>
 tags:
   - "Gluten-Free"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Vegetarian"
   - "Gluten Free Variation"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Family Dinners"
   - "Winter"
   - "Summer"

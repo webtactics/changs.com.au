@@ -34,7 +34,7 @@ method: |
   </ol>
 tags:
   - "Noodles Ingredient"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Summer"
   - "Spring"
   - "Original Fried Noodles"

@@ -35,7 +35,7 @@ tags:
   - "Style"
   - "Sauces and condiments"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dinner for Two"
   - "Winter"
   - "Summer"

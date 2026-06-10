@@ -39,7 +39,7 @@ tags:
   - "Style"
   - "Soups"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Main Meals"
   - "Nut Free"

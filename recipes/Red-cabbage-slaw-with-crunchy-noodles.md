@@ -32,7 +32,7 @@ tags:
   - "Style"
   - "Vegetarian"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Quick and Easy"
   - "Starters"
   - "Summer"

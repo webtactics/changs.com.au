@@ -44,7 +44,7 @@ method: |
 tags:
   - "Pork"
   - "Finger Food"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Main Meals"
   - "Quick and Easy"
   - "Winter"

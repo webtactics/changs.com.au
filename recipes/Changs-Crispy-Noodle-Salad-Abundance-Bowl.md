@@ -32,7 +32,7 @@ method: |
   </ol>
 tags:
   - "Noodles Ingredient"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Gluten Free Variation"
   - "Dinner for Two"
   - "Main Meals"

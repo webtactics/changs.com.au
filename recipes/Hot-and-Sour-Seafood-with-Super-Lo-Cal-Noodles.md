@@ -50,7 +50,7 @@ tags:
   - "Style"
   - "Noodles Ingredient"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Light Meals"
   - "Main Meals"

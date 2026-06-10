@@ -39,7 +39,7 @@ tags:
   - "Noodles Style"
   - "Vegetarian"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Dinner for Two"
   - "Lunch"

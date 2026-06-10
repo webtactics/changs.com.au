@@ -39,7 +39,7 @@ tags:
   - "Noodles"
   - "Style"
   - "Noodles Ingredient"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Noodles Style"
   - "Occasions"
   - "Dairy Free"

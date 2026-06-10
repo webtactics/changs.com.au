@@ -32,10 +32,10 @@ method: |
   </ol>
 tags:
   - "Finger Food"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Gluten Free Variation"
   - "Quick and Easy"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Summer"
   - "Spring"
   - "Summer BBQ"

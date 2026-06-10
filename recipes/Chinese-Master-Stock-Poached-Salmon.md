@@ -36,7 +36,7 @@ tags:
   - "Seafood"
   - "Sauces and condiments"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Main Meals"
   - "Family Dinners"
   - "Winter"

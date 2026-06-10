@@ -44,7 +44,7 @@ tags:
   - "Style"
   - "Noodles Style"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Gluten Free Variation"
   - "Main Meals"

@@ -44,7 +44,7 @@ tags:
   - "Sauces and condiments"
   - "Slow Cooking"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Main Meals"
   - "Quick and Easy"
   - "Family Dinners"

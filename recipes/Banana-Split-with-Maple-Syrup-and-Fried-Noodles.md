@@ -31,7 +31,7 @@ tags:
   - "Noodles"
   - "Noodles Ingredient"
   - "Noodles Style"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Autumn"
   - "Kids"
   - "Special Occasion"

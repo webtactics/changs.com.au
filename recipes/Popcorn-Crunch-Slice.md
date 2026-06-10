@@ -30,7 +30,7 @@ tags:
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Quick and Easy"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Summer"
   - "Original Fried Noodles"
   - "Gluten Free Fried Noodles"

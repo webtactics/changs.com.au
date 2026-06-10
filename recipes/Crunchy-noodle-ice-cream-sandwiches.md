@@ -36,7 +36,7 @@ tags:
   - "Noodles"
   - "Style"
   - "Noodles Ingredient"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Summer"
   - "Spring"
   - "Special Occasion"

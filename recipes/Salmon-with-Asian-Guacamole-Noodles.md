@@ -52,7 +52,7 @@ tags:
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Noodles Style"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Dinner for Two"
   - "Main Meals"

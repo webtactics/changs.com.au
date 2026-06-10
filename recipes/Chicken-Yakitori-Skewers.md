@@ -32,7 +32,7 @@ tags:
   - "Gluten-Free"
   - "Style"
   - "Finger Food"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Occasions"
   - "Dairy Free"
   - "Main Meals"

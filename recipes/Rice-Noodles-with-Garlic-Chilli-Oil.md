@@ -52,7 +52,7 @@ tags:
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Vegetarian"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Gluten Free Variation"
   - "Wheat Free"

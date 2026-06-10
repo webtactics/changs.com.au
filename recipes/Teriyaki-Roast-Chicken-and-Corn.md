@@ -37,7 +37,7 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Main Meals"
   - "Quick and Easy"
   - "Family Dinners"

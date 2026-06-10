@@ -68,7 +68,7 @@ method: |
   <p>Note: <em>It will be easier to cut the cake by removing the nest and then breaking the nest into chunks to serve alongside the cake.</em></p>
 tags:
   - "Noodles Ingredient"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Autumn"
   - "Original Fried Noodles"
 ---

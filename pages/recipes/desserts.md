@@ -12,7 +12,7 @@ eleventyNavigation:
 subtitle: "Oh, come on, a little fun won’t hurt. Not just for the kids."
 ---
 
-{% set postslist = collections['Sweet treats'] | union(collections['Scary Sweets']) %}
+{% set postslist = collections['Sweet Treats'] | union(collections['Scary Sweets']) %}
 {% include "components/postslist-recipes-4-wide.njk" %}
 
-Sweet treats
+Sweet Treats

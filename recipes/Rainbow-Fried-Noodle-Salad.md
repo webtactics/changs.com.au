@@ -41,7 +41,7 @@ tags:
   - "Noodles"
   - "Noodles Ingredient"
   - "Vegetarian"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Light Meals"
   - "Lunch"
   - "Main Meals"

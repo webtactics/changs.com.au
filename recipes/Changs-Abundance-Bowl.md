@@ -50,7 +50,7 @@ tags:
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Vegetarian"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Main Meals"
   - "Quick and Easy"
   - "Family Dinners"

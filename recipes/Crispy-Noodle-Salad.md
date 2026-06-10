@@ -52,7 +52,7 @@ tags:
   - "Sides"
   - "Vegetarian"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Gluten Free Variation"
   - "Wheat Free"

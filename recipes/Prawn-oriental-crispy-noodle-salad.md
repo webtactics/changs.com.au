@@ -28,7 +28,7 @@ method: |
 tags:
   - "Seafood"
   - "Noodles"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Light Meals"
   - "Dinner for Two"
   - "Spring"

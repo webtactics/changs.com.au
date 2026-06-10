@@ -57,7 +57,7 @@ method: |
 tags:
   - "Seafood"
   - "Gluten-Free"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Main Meals"
   - "Quick and Easy"
   - "Family Dinners"

@@ -46,7 +46,7 @@ tags:
   - "Style"
   - "Noodles Style"
   - "Soups"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Light Meals"
   - "Main Meals"
   - "Dinner for Two"

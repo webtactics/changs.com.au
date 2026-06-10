@@ -43,7 +43,7 @@ tags:
   - "Style"
   - "Vegetarian"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Light Meals"
   - "Starters"
   - "Summer"

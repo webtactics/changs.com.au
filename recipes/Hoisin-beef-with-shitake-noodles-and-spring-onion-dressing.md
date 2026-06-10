@@ -42,7 +42,7 @@ tags:
   - "Stir-Fry"
   - "Style"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Gluten Free Variation"
   - "Main Meals"
   - "Quick and Easy"

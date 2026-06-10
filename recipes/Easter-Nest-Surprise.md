@@ -32,8 +32,8 @@ method: |
 tags:
   - "Noodles"
   - "Noodles Ingredient"
-  - "Kid friendly"
-  - "Sweet treats"
+  - "Kid Friendly"
+  - "Sweet Treats"
   - "Sunday Feasts"
   - "Autumn"
   - "Easter"

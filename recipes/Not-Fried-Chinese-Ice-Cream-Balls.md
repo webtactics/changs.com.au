@@ -36,7 +36,7 @@ method: |
 tags:
   - "Gluten-Free"
   - "Noodles Ingredient"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Sunday Feasts"
   - "Summer"
   - "Spring"

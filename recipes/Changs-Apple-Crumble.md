@@ -41,6 +41,6 @@ tags:
   - "Noodles"
   - "Noodles Ingredient"
   - "Quick and Easy"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Original Fried Noodles"
 ---

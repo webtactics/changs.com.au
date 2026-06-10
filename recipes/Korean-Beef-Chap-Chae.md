@@ -53,7 +53,7 @@ tags:
   - "Style"
   - "Noodles Style"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Light Meals"
   - "Main Meals"

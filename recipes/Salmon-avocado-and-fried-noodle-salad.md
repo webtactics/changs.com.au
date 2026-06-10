@@ -29,7 +29,7 @@ method: |
 tags:
   - "Seafood"
   - "Noodles"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dinner for Two"
   - "Summer"
   - "Spring"

@@ -33,7 +33,7 @@ tags:
   - "Chicken"
   - "Style"
   - "Finger Food"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Occasions"
   - "Main Meals"
   - "Christmas"

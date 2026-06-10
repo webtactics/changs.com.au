@@ -44,7 +44,7 @@ tags:
   - "Style"
   - "Soups"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Main Meals"
   - "Dinner for Two"
   - "Nut Free"

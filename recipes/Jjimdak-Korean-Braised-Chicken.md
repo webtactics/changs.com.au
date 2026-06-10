@@ -47,7 +47,7 @@ method: |
 tags:
   - "Chicken"
   - "Gluten-Free"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Gluten Free Variation"
   - "Wheat Free"

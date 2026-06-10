@@ -96,7 +96,7 @@ tags:
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Soups"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Gluten Free Variation"
   - "Main Meals"
   - "Dinner for Two"

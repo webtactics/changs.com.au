@@ -40,7 +40,7 @@ method: |
 tags:
   - "Noodles"
   - "Quick and Easy"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Winter"
   - "Summer"
   - "Autumn"

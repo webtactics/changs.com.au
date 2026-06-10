@@ -58,7 +58,7 @@ tags:
   - "Style"
   - "Slow Cooking"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Light Meals"
   - "Main Meals"

@@ -41,7 +41,7 @@ tags:
   - "BBQ"
   - "Chicken"
   - "Gluten-Free"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Main Meals"
   - "Quick and Easy"
   - "Winter"

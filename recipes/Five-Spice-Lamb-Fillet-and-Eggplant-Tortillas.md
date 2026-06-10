@@ -44,7 +44,7 @@ tags:
   - "BBQ"
   - "Lamb"
   - "Style"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Occasions"
   - "Dairy Free"
   - "Gluten Free Variation"

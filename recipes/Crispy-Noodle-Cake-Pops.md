@@ -39,7 +39,7 @@ tags:
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Noodles Style"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Summer"
   - "Spring"
   - "Festive"

@@ -31,7 +31,7 @@ tags:
   - "Noodles"
   - "Noodles Ingredient"
   - "Noodles Style"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Scary Sweets"
   - "Original Fried Noodles"
   - "Gluten Free Fried Noodles"

@@ -31,8 +31,8 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Kid friendly"
-  - "Healthy meals"
+  - "Kid Friendly"
+  - "Healthy Meals"
   - "Quick and Easy"
   - "Poultry"
   - "Gluten Free Tamari Light Soy Sauce"

@@ -31,7 +31,7 @@ tags:
   - "Chicken"
   - "Noodles"
   - "Style"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dinner for Two"
   - "Spring"
   - "Summer BBQ"

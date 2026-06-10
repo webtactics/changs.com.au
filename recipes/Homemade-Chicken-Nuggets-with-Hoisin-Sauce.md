@@ -39,7 +39,7 @@ tags:
   - "Chicken"
   - "Style"
   - "Finger Food"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Occasions"
   - "Dairy Free"
   - "Light Meals"

@@ -38,7 +38,7 @@ tags:
   - "Noodles Style"
   - "Vegetarian"
   - "Soups"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dinner for Two"
   - "Lunch"
   - "Main Meals"

@@ -50,7 +50,7 @@ tags:
   - "Super Lo-Cal"
   - "Gluten-Free"
   - "Vegetarian"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Gluten Free Variation"
   - "Dinner for Two"

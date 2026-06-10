@@ -33,7 +33,7 @@ tags:
   - "Sides"
   - "Vegetarian"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Light Meals"
   - "Lunch"

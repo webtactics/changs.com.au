@@ -48,7 +48,7 @@ tags:
   - "Slow Cooking"
   - "Noodles Style"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dinner for Two"
   - "Main Meals"
   - "Family Dinners"

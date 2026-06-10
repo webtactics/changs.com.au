@@ -36,9 +36,9 @@ method: |
 tags:
   - "Gluten-Free"
   - "Finger Food"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Quick and Easy"
-  - "Sweet treats"
+  - "Sweet Treats"
   - "Festive"
   - "Scary Sweets"
   - "Original Fried Noodles"

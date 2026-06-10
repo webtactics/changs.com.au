@@ -44,7 +44,7 @@ tags:
   - "Gluten-Free"
   - "Style"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Dairy Free"
   - "Main Meals"
   - "Dinner for One"

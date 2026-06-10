@@ -37,7 +37,7 @@ method: |
 tags:
   - "Pork"
   - "Style"
-  - "Kid friendly"
+  - "Kid Friendly"
   - "Occasions"
   - "Christmas"
   - "Special Occasion"

@@ -31,7 +31,7 @@ tags:
   - "Style"
   - "Soups"
   - "Occasions"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Light Meals"
   - "Poultry"
   - "Soup and Salad"

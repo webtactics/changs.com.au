@@ -84,7 +84,7 @@ tags:
   - "Noodles Style"
   - "Vegetarian"
   - "Soups"
-  - "Healthy meals"
+  - "Healthy Meals"
   - "Main Meals"
   - "Dinner for Two"
   - "Family Dinners"
