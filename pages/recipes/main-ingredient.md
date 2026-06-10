@@ -2,7 +2,7 @@
 layout: layouts/default.njk
 title: Chang's Main Ingredients Recipes
 class: recipes
-metaDescription: All the noodles you will ever need or want to create authentic Asian cuisine to serve up in so many ways.
+description: All the noodles you will ever need or want to create authentic Asian cuisine to serve up in so many ways.
 date: 2023-01-01
 permalink: "/recipes/main-ingredient/"
 eleventyNavigation:

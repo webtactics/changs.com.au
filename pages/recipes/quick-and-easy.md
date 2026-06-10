@@ -2,7 +2,7 @@
 layout: layouts/default.njk
 title: Chang's Quick and Easy Recipes
 class: recipes
-metaDescription: Our Quick and Easy Recipes section has heaps of easy Asian meal ideas to try at home!
+description: Our Quick and Easy Recipes section has heaps of easy Asian meal ideas to try at home!
 date: 2023-01-04
 permalink: "/recipes/quick-and-easy/"
 eleventyNavigation:

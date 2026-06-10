@@ -1,13 +1,16 @@
 ---
-layout: layouts/default.njk
+layout: layouts/grid-nohero.njk
 title: Chang's Soup & Salad Recipes
 class: recipes
-metaDescription: All the noodles you will ever need or want to create authentic Asian cuisine to serve up in so many ways.
+description: Explore our soup & salad section: a medley of vibrant flavours & textures, offering nourishing recipes for every palate!
 date: 2023-01-02
 permalink: "/recipes/soup-salad/"
 eleventyNavigation:
   key: Soup & Salad
   parent: Recipes
+
+
+subtitle: Explore our soup & salad section: a medley of vibrant flavours & textures, offering nourishing recipes for every palate!
 ---
 Chang's Soup & Salad Recipes
 
