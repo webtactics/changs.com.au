@@ -987,7 +987,7 @@ ul.infobox li, ul.infoboxmobile li, ul.infoboxfooter li {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  padding: 0 0 0 1rem;
+  padding: 0 0 0 2rem;
 
 }
 .infobox > li > a.social-icon:hover, .infoboxmobile > li > a.social-icon:hover, .infoboxfooter > li > a.social-icon:hover {
@@ -996,7 +996,7 @@ ul.infobox li, ul.infoboxmobile li, ul.infoboxfooter li {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  padding: 0 0 0 1rem;
+  padding: 0 0 0 2rem;
  background: var(--black);
 }
 
