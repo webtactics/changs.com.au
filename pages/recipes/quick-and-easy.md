@@ -8,7 +8,7 @@ permalink: "/recipes/quick-and-easy/"
 eleventyNavigation:
   key: Quick and Easy
   parent: Recipes
-  order: 3
+  order: 4
 
 subtitle: "Don’t we all want it quick and easy? Here you can discover delectable Asian flavours with our collection of Quick and Easy Recipes. Perfect for every day!"
 ---

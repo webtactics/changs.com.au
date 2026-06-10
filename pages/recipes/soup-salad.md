@@ -8,7 +8,7 @@ permalink: "/recipes/soup-salad/"
 eleventyNavigation:
   key: Soup & Salad
   parent: Recipes
-  order: 2
+  order: 3
 
 subtitle: "Explore our soup & salad section: a medley of vibrant flavours & textures, offering nourishing recipes for every palate!"
 ---
