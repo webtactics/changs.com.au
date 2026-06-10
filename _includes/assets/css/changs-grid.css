@@ -1300,86 +1300,21 @@ ul.navbar-menu li ul a {
 }
 
 
-.navbar-menu ul a {
+ ul.navbar-menu ul a, ul.navbar-menu li .nav-section-header {
   color: var(--white);
   text-align: left;
   background-color: var(--black);
 }
 
-.navbar-menu ul a:hover, .navbar-menu ul a:focus {
+ ul.navbar-menu ul a:hover, ul.navbar-menu ul a:focus {
   background: var(--white);
   color: var(--black);
 }
 
-ul.navbar-menu li ul.second-level li a, ul.navbar-menu li .nav-section-header {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-    padding: 0 1rem;
-    font-size: 1rem;
-    width: 100%;
-    text-align: left;
-    text-decoration: none;
-    border-bottom: 1px solid var(--primary);
-    transition: background 300ms ease;
-  text-transform:none;
-    line-height:1rem;
-     height:3rem;
-    background: var(--white);
-  color: var(--text);
-  background: var(--white);
 
 
-  }
-
-  ul.navbar-menu li ul.second-level li a:hover, ul.navbar-menu li .nav-section-header:hover {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-    padding: 0 1rem;
-    font-size: 1rem;
-    width: 100%;
-    text-align: left;
-    text-decoration: none;
-    border-bottom: 1px solid var(--primary);
-    transition: background 300ms ease;
-  text-transform:none;
-    line-height:1rem;
-     height:3rem;
-  color: var(--primary);
-  background: var(--white);
-
-  }
 
 
-  .navbar ul.navbar-menu li.active-class  a ul.second-level li a  {
- color: var(--primary);
-  background: var(--white);
-}
-
-  .navbar ul.navbar-menu li.active-class  a ul.second-level li a:hover,  .navbar ul.navbar-menu li  a ul.second-level li.active-class a, .navbar ul.navbar-menu li  a ul.second-level li.active-class a:hover {
- color: var(--primary);
-  background: var(--white);
-}
-
-
-  .navbar ul.navbar-menu li  ul.second-level li.active-class a, .navbar ul.navbar-menu li  ul.second-level li.active-class a:hover {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-    padding: 0 1rem;
-    font-size: 1rem;
-    width: 100%;
-    text-align: left;
-    text-decoration: none;
-    border-bottom: 1px solid var(--primary);
-    transition: background 300ms ease;
-  text-transform:none;
-    line-height:1rem;
-     height:3rem;
-  color: var(--primary);
-  background: var(--white);
-  }
 
 
 
