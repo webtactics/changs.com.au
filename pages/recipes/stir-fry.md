@@ -11,5 +11,5 @@ eleventyNavigation:
 
 subtitle: "Whip up tantalising stir-fry dishes effortlessly! Explore our collection of Stir-fry Recipes for delicious meals in no time."
 ---
-{% set postslist = collections['Stir Frys'] | reverse  %} 
+{% set postslist = collections['Stir-Fry'] | reverse  %} 
 {% include "components/postslist-recipes-4-wide.njk" %}
