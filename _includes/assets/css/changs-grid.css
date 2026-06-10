@@ -1178,6 +1178,7 @@ ul.off-canvas-list > li.parent > a:hover {
   text-decoration: none;
   background: transparent;
   line-height: var(--navbottomheight);
+  text-transform: uppercase;
 }
 
 @media (max-width: 1150px) {
@@ -1295,19 +1296,23 @@ ul.second-level {
   
 
 ul.navbar-menu li ul a {
+      display: flex;
+    align-items: center;
+    justify-content: flex-start;
   text-transform: uppercase;
-
+     font-size: 1rem;
+     line-height:1rem;
+       height:3rem;
 }
 
 
  ul.navbar-menu ul a, ul.navbar-menu li .nav-section-header {
   color: var(--white);
-  text-align: left;
   background-color: var(--black);
 }
 
  ul.navbar-menu ul a:hover, ul.navbar-menu ul a:focus {
-  background: var(--white);
+  background: var(--red);
   color: var(--black);
 }
 
