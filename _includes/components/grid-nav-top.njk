@@ -1,7 +1,7 @@
 <nav class="childlist">
 {% set navPages = collections.all | eleventyNavigation %}
 {% macro renderNavListItem(entry) -%}
-<li{% if entry.url == page.url %} class="active-class"{% endif %}>
+<li{% if entry.children.length %} class="parent{% if entry.url == page.url %} active-class{% endif %}" aria-haspopup="true"{% elif entry.url == page.url %} class="active-class"{% endif %}>
 {% if entry.noLink %}
 <span class="nav-section-header">{{ entry.title }}</span>
 {% else %}
