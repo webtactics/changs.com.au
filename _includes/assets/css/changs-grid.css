@@ -1295,15 +1295,19 @@ ul.second-level {
   }
   
 
-ul.navbar-menu li ul a {
+ul.navbar-menu li ul li a {
       display: flex;
     align-items: center;
     justify-content: flex-start;
   text-transform: uppercase;
      font-size: 1rem;
-     line-height:1rem;
-       height:3rem;
+     line-height:2rem;
+       height: 2rem;
 }
+
+
+
+
 
 
  ul.navbar-menu ul a, ul.navbar-menu li .nav-section-header {
@@ -1883,83 +1887,19 @@ min-height: 300px;
 
 
 
- @media screen and (max-width: 1025px) {
-.content-left, .content-right, .grid-2-products .content-left, .grid-2-products .content-right {
-min-height: 10px;
-}
- }
-
-.content-image-right, .content-image-right img {
-  display: flex;
-  align-items:center;
-  justify-content: center;
-}
-.content-image-right {
-padding-top:4rem;
-  height: 600px;  
-}
-
-
-
-.left-image, .right-image {
-
-}
 
 
 
 
-.left-image img, .right-image img {
 
-aspect-ratio: 1920/953;
-width: 100%;
-height: auto;
 
-}
-
-.content .indent {
-  position: relative;
-  padding-left: 7rem;
-}
-
-.content .indent::before {
-  content: "";
-  width: 5.5rem;
-  height: 0.5rem;
-  display: block;
-  background: transparent url(https://ik.imagekit.io/webtactics/pmfresh/assets/rectangle_IuEasM-q3.svg?updatedAt=1763079970435) no-repeat left top;
-    background-size: auto;
-  background-size: 5.5rem 0.5rem;
-  position: absolute;
-  left: 0;
-  top: 0.4rem;
-}
 
 .content.ctabgcontainer .right-cta.fade-in .indent p {
   font-weight: 400;
   color:var(--black);
 }
 
-@media (max-width: 1024px) { 
 
-.content .indent {
-  position: relative;
-  padding-left: 3.5rem;
-}
-
-.content .indent::before {
-  content: "";
-  width: 3rem;
-  height: 0.5rem;
-  display: block;
-  background: transparent url(https://ik.imagekit.io/webtactics/pmfresh/assets/rectangle_IuEasM-q3.svg?updatedAt=1763079970435) no-repeat left top;
-    background-size: auto;
-  background-size: 3rem 0.5rem;
-  position: absolute;
-  left: 0;
-  top: 0.4rem;
-}
-
-}
 
 
 .contentwrapper {
