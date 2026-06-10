@@ -1226,16 +1226,16 @@ ul.navbar-menu li.active-class  a {
   justify-content: center;
   align-items: center;
   font-family: 'Roboto' , sans-serif;
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-style: normal;
   font-weight: 600;
   letter-spacing: 0.8px;
   text-transform: uppercase;
-  color: var(--white);
-  background: var(--black);
-  line-height: var(--navbottomheight);
-  height: var(--navbottomheight);
-  padding: 0 0 0 4rem;
+  color: var(--black);
+  background: var(--white);
+line-height: 1rem;
+ height: 3rem;
+padding: 0 1rem;
   cursor: default;
 }
 
