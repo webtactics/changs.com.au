@@ -1,17 +1,17 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Beef Recipes
+title: Chang's Dinner for Two Recipes
 class: recipes
-description: Tamari is a Japanese sauce made from fermented soybeans. Use ours to create authentic Asian cuisine to serve up in so many ways!
+description: "Create an intimate dining experience with our delectable dinner for two recipes. From romantic classics to adventurous dishes, savour every moment together. Or don’t and just make something simple – we have you covered either way!"
 date: 2023-01-04
-permalink: "recipes/main-ingredient/beef/"
+permalink: "recipes/dish-type/dinner-for-two/"
+
+subtitle: "Create an intimate dining experience with our delectable dinner for two recipes. From romantic classics to adventurous dishes, savour every moment together. Or don’t and just make something simple – we have you covered either way!"
+
+eleventyNavigation:
+  key: Dinner for Two
+  parent: Dish Type
 ---
-{% set postslist = collections['Beef'] | reverse  %} 
+
+{% set postslist = collections['Dinner for Two'] | reverse  %} 
 {% include "components/postslist-recipes-4-wide.njk" %}
-
-
-{% for post in collections.Beef %}
-<h3>Beef</h3>
-    <a href="{{ page.url }}">{{ post.data.title }}</a>
-{% endfor %}
-

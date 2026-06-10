@@ -1,13 +1,17 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Noodles Recipes
+title: Chang's Healthy Meals Recipes
 class: recipes
-description: Tamari is a Japanese sauce made from fermented soybeans. Use ours to create authentic Asian cuisine to serve up in so many ways!
+description: "Nourish your body with wholesome, balanced meals packed with nutrients and flavor. Explore our array of healthy recipes designed to fuel your well-being and satisfy your palate."
 date: 2023-01-04
-permalink: "recipes/main-ingredient/noodles/"
+permalink: "recipes/dish-type/healthy-meals/"
+
+subtitle: "Nourish your body with wholesome, balanced meals packed with nutrients and flavor. Explore our array of healthy recipes designed to fuel your well-being and satisfy your palate."
+
+eleventyNavigation:
+  key: Healthy Meals
+  parent: Dish Type
 ---
-Chang's Noodles Recipes
 
-# Thank you!
-
-
+{% set postslist = collections['Healthy meals'] | reverse  %} 
+{% include "components/postslist-recipes-4-wide.njk" %}

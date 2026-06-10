@@ -1,12 +1,17 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Lamb Recipes
+title: Chang's Light Bites Recipes
 class: recipes
-description: Tamari is a Japanese sauce made from fermented soybeans. Use ours to create authentic Asian cuisine to serve up in so many ways!
+description: "Discover delightful light bites recipes, perfect for snacking or entertaining. Explore our collection of flavourful, yet wholesome dishes to satisfy your cravings without weighing you down."
 date: 2023-01-04
-permalink: "recipes/main-ingredient/lamb/"
+permalink: "recipes/dish-type/light-bites/"
+
+subtitle: "Discover delightful light bites recipes, perfect for snacking or entertaining. Explore our collection of flavourful, yet wholesome dishes to satisfy your cravings without weighing you down."
+
+eleventyNavigation:
+  key: Light Bites
+  parent: Dish Type
 ---
-Chang's Lamb Recipes
 
-# Thank you!
-
+{% set postslist = collections['Light Meals'] | reverse  %} 
+{% include "components/postslist-recipes-4-wide.njk" %}
