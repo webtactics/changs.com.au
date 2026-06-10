@@ -1295,26 +1295,28 @@ ul.second-level {
   }
   
 
-ul.navbar-menu li ul.second-level li a {
-  display: flex;
-    align-items: center;
-    justify-content: flex-start;
-  text-transform: uppercase;
-     font-size: 1rem;
-     line-height:2rem;
-       height: 2rem;
+ul.navbar-menu li ul.second-level li a, ul.navbar-menu li .nav-section-header {
+display: flex;
+align-items: center;
+justify-content: flex-start;
+text-transform: uppercase;
+font-size: 1rem;
+line-height:3rem;
+height: 3rem;
+padding: 0 0 0 1rem;
+font-style: normal;
+font-weight: 400;
+letter-spacing: .8px;
+color: var(--white);
+background-color: var(--black);
+}
+
+ul.navbar-menu li ul.second-level li a:hover, ul.navbar-menu li ul.second-level li a:focus  {
+color: var(--primary);
+background-color: var(--white);
 }
 
 
- ul.navbar-menu ul a, ul.navbar-menu li .nav-section-header {
-  color: var(--white);
-  background-color: var(--black);
-}
-
- ul.navbar-menu ul a:hover, ul.navbar-menu ul a:focus {
-  color: var(--black);
-  background-color: var(--white);
-}
 
 
 
