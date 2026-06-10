@@ -1092,7 +1092,7 @@ ul.off-canvas-list li.has-children > .nav-section-header {
 }
 
 /* Accordion toggle */
-ul.off-canvas-list .nav-accordion-toggle {
+ul.off-canvas-list button.nav-accordion-toggle {
   position: absolute;
   top: 0;
   right: 0;
@@ -1102,6 +1102,12 @@ ul.off-canvas-list .nav-accordion-toggle {
   margin: 0;
   padding: 0;
   background: transparent;
+  cursor: pointer;
+}
+
+ul.off-canvas-list span.nav-section-header.nav-accordion-toggle {
+  position: relative;
+  display: block;
   cursor: pointer;
 }
 
@@ -1195,10 +1201,6 @@ ul.off-canvas-list > li.parent > a:hover {
   ul.off-canvas-list li ul.second li.has-children > a,
   ul.off-canvas-list li ul.second li.has-children > .nav-section-header {
     padding-right: 3rem;
-  }
-
-  .nav-section-header.nav-accordion-toggle {
-    cursor: pointer;
   }
 
   ul.off-canvas-list li ul.second li a:hover {
