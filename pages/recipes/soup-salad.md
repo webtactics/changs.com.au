@@ -2,7 +2,7 @@
 layout: layouts/grid-nohero.njk
 title: Chang's Soup & Salad Recipes
 class: recipes
-description: Explore our soup & salad section: a medley of vibrant flavours & textures, offering nourishing recipes for every palate!
+description: "Explore our soup & salad section: a medley of vibrant flavours & textures, offering nourishing recipes for every palate!"
 date: 2023-01-02
 permalink: "/recipes/soup-salad/"
 eleventyNavigation:
@@ -10,7 +10,7 @@ eleventyNavigation:
   parent: Recipes
 
 
-subtitle: Explore our soup & salad section: a medley of vibrant flavours & textures, offering nourishing recipes for every palate!
+subtitle: "Explore our soup & salad section: a medley of vibrant flavours & textures, offering nourishing recipes for every palate!"
 ---
 Chang's Soup & Salad Recipes
 
