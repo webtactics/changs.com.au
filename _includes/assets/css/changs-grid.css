@@ -1270,8 +1270,32 @@ ul.navbar-menu li.active-class  a {
 
 
 ul.navbar-menu li ul li {
- border-bottom: 1px solid var(--primarylight);
- line-height:50px;
+
+
+
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+    padding: 0 1rem;
+    font-size: 1rem;
+    width: 100%;
+    text-align: left;
+    text-decoration: none;
+    border-bottom: 1px solid var(--primary);
+    transition: background 300ms ease;
+  text-transform:none;
+    line-height:1rem;
+     height:3rem;
+    background: var(--white);
+  color: var(--text);
+  background: var(--white);
+
+
+
+
+
+
 }
 ul.navbar-menu li ul li:first-child {
   border-bottom: 1px solid var(--primarylight);
@@ -1317,9 +1341,26 @@ ul.second-level {
     background-color: var(--white);
   }
   
+ul.navbar-menu li ul.second-level li  {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+    padding: 0 1rem;
+    font-size: 1rem;
+    width: 100%;
+    text-align: left;
+    text-decoration: none;
+    border-bottom: 1px solid var(--primary);
+    transition: background 300ms ease;
+  text-transform:none;
+    line-height:1rem;
+     height:3rem;
+    background: var(--white);
+  color: var(--text);
+  background: var(--white);
 
 
-
+  }
 
 
 
