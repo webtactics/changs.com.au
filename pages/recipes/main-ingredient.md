@@ -8,9 +8,7 @@ permalink: "/recipes/main-ingredient/"
 eleventyNavigation:
   key: Main Ingredient
   parent: Recipes
+  noLink: true
 
 subtitle: "Our Main Ingredient section highlights key components, helping to guide you towards recipes containing available or desired ingredients."
 ---
-
-{% set postslist = collections['Recipes'] | reverse  %} 
-{% include "components/postslist-recipes-4-wide.njk" %}

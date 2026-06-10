@@ -1,7 +1,11 @@
 {% set navPages = collections.all | eleventyNavigation %}
   {% macro renderNavListItem(entry) -%}
   <li{% if entry.url == page.url %} class="menuactive"{% endif %}>
+    {% if entry.noLink %}
+    <span class="nav-section-header">{{ entry.title }}</span>
+    {% else %}
     <a href="{{ entry.url }}" title="{{ entry.title }}" alt="{{ entry.title }}">{{ entry.title }}</a>
+    {% endif %}
  {% if entry.url == "/contact/thank-you/" %}
 <li class="hide"><a href="/contact/thank-you/" title="" alt=""></a></li>
 {% endif %}

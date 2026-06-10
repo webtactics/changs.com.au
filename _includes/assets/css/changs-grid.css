@@ -1219,6 +1219,32 @@ ul.navbar-menu li.active-class  a {
   height: var(--navbottomheight);
 }
 
+/* Section header (non-clickable nav item with children) */
+.navbar-menu .nav-section-header,
+.off-canvas-list .nav-section-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto' , sans-serif;
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: var(--white);
+  background: var(--black);
+  line-height: var(--navbottomheight);
+  height: var(--navbottomheight);
+  padding: 0 0 0 4rem;
+  cursor: default;
+}
+
+@media (max-width: 1150px) {
+  .navbar-menu .nav-section-header {
+    padding: 0 0 0 2rem;
+  }
+}
+
 
 
 
