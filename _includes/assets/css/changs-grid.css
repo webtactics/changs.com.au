@@ -3501,7 +3501,23 @@ font-family: ProximaNova,sans-serif;
   min-height: 340px;
 }
 
-.redgradientcontent p, .redgradientaboutcontent p {
+
+
+.redgradientcontentwrapper h1 {
+font-family: 'Perpetua', sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  color: var(--white);
+
+
+}
+ 
+.redgradientcontenttextbox {
+  max-width: 80ch;
+  margin: 0 auto;
+}
+
+.redgradientcontenttextbox p {
   line-height: 150%;
   font-size: 1.35rem;
   color: var(--white);
@@ -3512,20 +3528,12 @@ font-family: ProximaNova,sans-serif;
   text-align: center;
 }
 
-.redgradientcontentwrapper h1 {
-font-family: 'Perpetua', sans-serif;
-  font-style: italic;
-  font-weight: 700;
-  color: var(--white);
-
-
-}
-
-.redgradientcontenttextbox {
-  max-width: 80ch;
-  margin: 0 auto;
-}
-
 .headerspace {
   height: var(--headerheight);
+}
+
+@media (max-width: 1300px) {
+.headerspace {
+  height: var(--mobilenavheight);
+}
 }
