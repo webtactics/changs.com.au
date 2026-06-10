@@ -1,11 +1,16 @@
 {% set navPages = collections.all | eleventyNavigation %}
   {% macro containsActive(entry) -%}
-  {%- if entry.url == page.url -%}1{%- endif -%}
-  {%- for child in entry.children -%}{{ containsActive(child) }}{%- endfor -%}
+  {%- if entry.url == page.url -%}1{%- else -%}
+  {%- set found = false -%}
+  {%- for child in entry.children -%}
+  {%- if containsActive(child) == "1" -%}{%- set found = true -%}{%- endif -%}
+  {%- endfor -%}
+  {%- if found -%}1{%- else -%}0{%- endif -%}
+  {%- endif -%}
   {%- endmacro %}
 
   {% macro renderNavListItem(entry) -%}
-  {% set isOpen = containsActive(entry) | trim %}
+  {% set isOpen = containsActive(entry) == "1" %}
   <li class="nav-item{% if entry.children.length %} has-children{% endif %}{% if isOpen %} open{% endif %}{% if entry.url == page.url %} menuactive{% endif %}">
     {% if entry.noLink %}
     <span class="nav-section-header{% if entry.children.length %} nav-accordion-toggle{% endif %}"{% if entry.children.length %} aria-expanded="{{ 'true' if isOpen else 'false' }}"{% endif %}>{{ entry.title }}</span>

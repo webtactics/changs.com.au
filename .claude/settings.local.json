@@ -13,7 +13,10 @@
       "Bash(Select-Object -ExpandProperty Name)",
       "Bash(grep \"\\\\.md$\")",
       "Bash(ls /usr/bin/python* /usr/local/bin/python* /opt/homebrew/bin/python* 2>/dev/null; which node 2>/dev/null)",
-      "Read(//usr/**)"
+      "Read(//usr/**)",
+      "Bash(npm install *)",
+      "Bash(npx @11ty/eleventy)",
+      "Bash(node -e ' *)"
     ]
   }
 }
