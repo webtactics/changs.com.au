@@ -27,6 +27,21 @@ module.exports = function (eleventyConfig) {
         return arr1.filter(item => arr2_ids.includes(item.url));
     });
 
+    // Combine two collections, removing duplicates and sorting by date (newest first)
+    eleventyConfig.addFilter("union", (arr1, arr2) => {
+        arr1 = arr1 || [];
+        arr2 = arr2 || [];
+
+        const seen = new Set();
+        return [...arr1, ...arr2]
+            .filter(item => {
+                if (seen.has(item.url)) return false;
+                seen.add(item.url);
+                return true;
+            })
+            .sort((a, b) => b.date - a.date);
+    });
+
 
   // Add support for maintenance-free post authors
   eleventyConfig.addCollection("authors", (collection) => {
