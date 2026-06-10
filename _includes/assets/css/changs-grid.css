@@ -1333,13 +1333,27 @@ ul.second-level {
 
 /* end second level */
 svg {
-  color : var(--primary);
+  color : var(--white);
 }
 
 svg:hover {
-  color : var(--black);
+  color : var(--primary);
 }
 
+
+ul.navbar-menu ul li.parent::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 1rem;
+  margin-top: -3px;
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 5px 0 5px 8px;
+  border-color: transparent transparent transparent var(--white);
+  transform: rotate(0deg);
+}
 
 
 /* end topnav */
