@@ -1767,7 +1767,7 @@ white-space: wrap;
   height: 4px;
   margin: 0;
   background: var(--black);
-  box-shadow: 0 12px 0 0 var(--black),0 24px 0 0 var(--black);
+  box-shadow: 0 12px 0 0 var(--black),0 24px 0 0 var(--white);
   -webkit-transition: all var(--animation-delay);
   -moz-transition: all var(--animation-delay);
   -ms-transition: all var(--animation-delay);
@@ -1777,7 +1777,7 @@ white-space: wrap;
 
 .hamburger:hover .hamburger-icon::before {
   background: var(--white);
-  box-shadow: 0 12px 0 0 var(--white),0 24px 0 0 var(--white);
+  box-shadow: 0 12px 0 0 var(--white),0 24px 0 0 var(--primary);
   -webkit-transition: all var(--animation-delay);
   -moz-transition: all var(--animation-delay);
   -ms-transition: all var(--animation-delay);
@@ -1802,8 +1802,8 @@ white-space: wrap;
 
 
 .toggle-nav:hover {
-  background-color: var(--primary);
-  color: var(--white);
+  background-color: var(--white);
+
 }
 
 .button {
