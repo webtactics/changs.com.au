@@ -2244,6 +2244,102 @@ select {
 /* CTA section
 ------------------------------------------------- */
 
+.cta-content {
+  padding: 8rem 0;
+  width: 100%;
+  position:relative;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  min-height: 500px;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+}
+
+
+.content.ctabgcontainer {
+  background-color: transparent;
+  width: calc(100vw - 1rem);
+  max-width: 1440px;
+  margin:0 auto;
+}
+
+
+
+.right-cta {
+  position: relative;
+  height: auto;
+  max-height: 500px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+
+
+}
+.right-cta .inner {
+  padding:2rem 1.5rem 1rem 1.5rem;
+  width: calc(100vw - 1rem);
+  max-width: 800px;
+  background: var(--white70);
+}
+
+ h3.cta-title {
+  font-size: 3rem;
+  line-height: 3rem;
+  font-weight: 700;
+  color: var(--black);
+  padding: 0 0 1.5rem 0;
+}
+
+
+
+a.resultspdf {
+  color: var(--white);
+  background-color: var(--black);
+  font-size: var(--h3sum);
+  border: none;
+  padding: .25rem 2rem;
+  white-space: wrap;
+  text-decoration-thickness: 0.5rem;
+  text-decoration-style: dotted;
+  text-decoration-color: var(--primary);
+  text-underline-offset: 1.4rem;
+ transition: all .6s;
+}
+
+@media (max-width: 1024px) { 
+
+a.resultspdf {
+  color: var(--white);
+  background-color: var(--black);
+  font-size: var(--h3summobile);
+  border: none;
+  padding: .25rem 0.5rem;
+  white-space: wrap;
+  text-decoration-thickness: 0.5rem;
+  text-decoration-style: dotted;
+  text-decoration-color: var(--primary);
+  text-underline-offset: 1.4rem;
+transition: all .6s;
+}
+}
+
+a.resultspdf:hover {
+  background-color: var(--primary);
+  color: var(--white);
+  border: none;
+  text-decoration-thickness: 0.5rem;
+  text-decoration-style: solid;
+  text-decoration-color: var(--black);
+  text-underline-offset: 1.4rem;
+  transition: all .6s;
+}
+
+
+
+
+
 
 
 /* Newsletter sign-up
