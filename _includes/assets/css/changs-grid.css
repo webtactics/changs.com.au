@@ -1622,70 +1622,22 @@ justify-content: left;
     padding:1rem 0;}
 
 
-.copyright {
-  float: right;
-  font-size: 1.25rem;
-  line-height: 1.25rem;
-  font-weight: 300;
-  margin-top: 1.25rem;
-  clear: right;
+
+
+.search-wrapper {
+  display: flex;
+  top:0;
+  right:0;
+  z-index: 5;
+display: flex;
+justify-content: center;
+align-items: center;
+  height: 74px;
+  width: 40px;
 }
 
-p.copyright {
-  color: var(--white);
-}
+.navbar {width:100%;}
 
-.infoboxfooter > li > a.social-icon svg {
-color : var(--white);
-}
-
-.infoboxfooter > li > a.social-icon svg:hover, .infoboxfooter > li > a:hover {
-  color : var(--black);
-  background-color: transparent;
-}
-
-
-  @media (max-width: 1050px) {
-
-    .footer {
-      display: block;
-      justify-content: center;
-      align-items: center;
-    width:100%;
-    
-  }
-
-.footerright {
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
-      flex-direction: column; /* This stacks the items vertically */
-}
-  
-     .footerrightbottomline p {
-      color: var(--white);
-      text-align: right;
-      padding:0 0 0 2rem;
-      font-size: 0.9rem;
-     }
-  }
-
-  @media (max-width: 700px) {
- .footernav {
-  display: grid;
-   grid-template-columns: repeat(1, 1fr); 
-    gap: 0;
-    margin: 0 auto;
-    width: 100%;
-    max-width: 670px;
-  padding: 0;
-   } 
-.footerright {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-      flex-direction: column; /* This stacks the items vertically */
-}
   }
 
 
@@ -1861,7 +1813,7 @@ white-space: wrap;
   z-index: 7;
 }
 
-@media screen and (max-width: 1025px) {
+@media screen and (max-width: 1024px) {
 .offcanvas {
   position: fixed;
   top: 0;
@@ -1911,7 +1863,7 @@ white-space: wrap;
 
  }
 
- @media screen and (max-width: 1025px) {
+ @media screen and (max-width: 1024px) {
   .toggle-nav,  .scrolled .toggle-nav {
      display: flex;
     justify-content: flex-start;
@@ -1960,7 +1912,7 @@ white-space: wrap;
 
 
 
- @media screen and (max-width: 1025px) {
+ @media screen and (max-width: 1024px) {
 
 
 .hamburger:hover .hamburger-icon::before {
