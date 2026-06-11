@@ -2654,6 +2654,12 @@ padding:0 2rem;
   min-height:300px;
 }
 
+.grid-3-wtb {
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0;
+  margin: 3rem 0;
+}
+
 .grid-2-mobilenav {
   grid-template-columns: 2fr 3fr;
   gap: 0;
@@ -2853,6 +2859,10 @@ font-style: normal;
 
   .linkwrapper {
     padding: 3rem 0;
+  }
+.grid-3-wtb {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 0;
   }
 
   .grid-committee  {
