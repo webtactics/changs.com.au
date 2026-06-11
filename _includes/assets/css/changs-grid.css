@@ -1687,14 +1687,70 @@ width: 100%;}
   padding: 2rem 0 0 0;
   margin: 0;
 }
+.wtbbox1 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: auto;
+  width: 100%;
+  background-color: var(--white);
+}
+
+img.coles {
+  aspect-ratio: 222/98;
+}
 
 
+.wtbbox2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  width: 100%;
+  background-color: var(--white);
+}
+img.woolworths {
+  aspect-ratio: 351/98;
+}
+.wtbbox3 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: auto;
+  width: 100%;
+  background-color: var(--white);
+}
 
+img.iga {
+  aspect-ratio: 151/98;
+}
 
-
-
-
-
+.wtbbox4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  width: 100%;
+  background-color: var(--white);
+  margin: 1rem auto;
+  width: calc(80vw - 2rem);
+  max-width: 600px;
+  background-color: transparent;
+  min-height: 100px;
+  text-align: center;
+}
+.wtbbox4 p {
+  font-size: 150%;
+  padding-bottom: 2rem;
+}
+.text-centerflex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
 /* content layout */
 
 
