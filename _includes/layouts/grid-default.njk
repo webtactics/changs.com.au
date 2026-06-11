@@ -233,13 +233,18 @@
       </div>
     {% endblock %}
 
-    {% block content %}
-    <div class="container">
-      <main class="content">
+{% block content %}
+
+<div class="container">
+
+    <main class="content">
+
         <div class="maincontent">{{ content | safe }}</div>
-      </main>
-    </div>
-    {% endblock %}
+		
+    </main>
+</div>
+
+{% endblock %}
 
     {% block content2 %}{% endblock %}
     {% block content3 %}{% endblock %}
