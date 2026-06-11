@@ -484,14 +484,10 @@ font-size: 3rem;
 
 h2.heading-text a:hover {
   text-decoration: none;
-  color: #7ed321;
-  background: -webkit-linear-gradient(left, #73B72B , #00B2C2);
-  background: -o-linear-gradient(right, #73B72B, #00B2C2);
-  background: -moz-linear-gradient(right, #73B72B, #00B2C2);
-  background: linear-gradient(to right, #73B72B , #00B2C2);
-    background-clip: border-box;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: var(--primary);
+  background: var(--white);
+  
+
 
 }
 
@@ -1145,42 +1141,42 @@ ul.off-canvas-list li.open > ul.second {
 
 
 ul.off-canvas-list li a:hover, ul.off-canvas-list li a:focus {
-    background: linear-gradient(90deg,#73b72b 0,#00b2c2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    background: var(--primary);
+  
+
   font-weight: bold;
   text-decoration: none;
 }
 
 ul.off-canvas-list > li.current > .nav-item-row > a, ul.off-canvas-list > li.menuactive > .nav-item-row > a {
-    background: linear-gradient(90deg,#73b72b 0,#00b2c2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    background: var(--primary);
+  
+
   font-weight: bold;
   text-decoration: none;
 }
 
 
   ul.off-canvas-list > li.menuparent.menuactive > a.menuparent.menuactive {
-    background: linear-gradient(90deg,#73b72b 0,#00b2c2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    background: var(--primary);
+  
+
   font-weight: bold;
   text-decoration: none;
 }
 
   ul.off-canvas-list > li.parent > a {
-    background: linear-gradient(90deg,#73b72b 0,#00b2c2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    background: var(--primary);
+  
+
   font-weight: bold;
   text-decoration: none;
 }
 
 ul.off-canvas-list > li.parent > a:hover {
-    background: linear-gradient(90deg,#73b72b 0,#00b2c2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    background: var(--primary);
+  
+
   font-weight: bold;
   text-decoration: none;
 }
@@ -1205,9 +1201,9 @@ ul.off-canvas-list > li.parent > a:hover {
 
   ul.off-canvas-list li ul.second li a:hover {
     display: block;
-    background: linear-gradient(90deg,#73b72b 0,#00b2c2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    background: var(--primary);
+  
+
    padding: 0.4rem 1.5rem;
    border-bottom: 1px solid var(--primarylight);
     transition: background 300ms ease;
@@ -1217,9 +1213,9 @@ ul.off-canvas-list > li.parent > a:hover {
 
   ul.off-canvas-list li ul.second li.menuactive a {
     display: block;
-    background: linear-gradient(90deg,#73b72b 0,#00b2c2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    background: var(--primary);
+  
+
    padding: 0.4rem 1.5rem;
    border-bottom: 1px solid var(--lightgrey);
     transition: background 300ms ease;
@@ -2209,13 +2205,9 @@ h3.emailboxh3 {
   padding: 0 0 0 4rem;
   text-decoration: none;
   color: var(--primary);
-  background: -webkit-linear-gradient(left, #73B72B , #00B2C2);
-  background: -o-linear-gradient(right, #73B72B, #00B2C2);
-  background: -moz-linear-gradient(right, #73B72B, #00B2C2);
-  background: linear-gradient(to right, #73B72B , #00B2C2);
-    background-clip: border-box;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+background: var(--white);
+  
+
   z-index: 2;
 
 }
@@ -3031,12 +3023,7 @@ textarea
 
  /* accordion
 ------------------------------------------------- */
-.nutritionservetitle {
-border-bottom: 1px solid var(--primary);
-    font-weight: 400;
-    padding:0.4rem 0;
-    font-size: 1rem;
-}
+
 
 .accordion-animation-wrapper {
   display: grid;
@@ -3075,10 +3062,7 @@ border-bottom: 1px solid var(--primary);
   margin: 2rem auto;
 }
 
-.contactpage .accordion {
-  width: auto;
-  margin: 4rem auto 2rem auto;
-}
+
 
 .accordion-item {
   border-top: 1px solid var(--primary);
@@ -3087,16 +3071,7 @@ border-bottom: 1px solid var(--primary);
   overflow: hidden;
 }
 
-.contactpage .accordion-item {
-  border-top: 1px solid var(--white);
-  border-bottom: 2px solid var(--white);
-  -webkit-transition: all var(--animation-delay);
-  -moz-transition: all var(--animation-delay);
-  -ms-transition: all var(--animation-delay);
-  -o-transition: all var(--animation-delay);
-  transition: all var(--animation-delay);
 
-}
 
 .accordion-item:hover {
   border-top: 1px solid var(--primary);
@@ -3133,18 +3108,7 @@ border-bottom: 1px solid var(--primary);
   font-size: 1.3rem;
 }
 
-.contactpage .accordion-trigger {
-  font-size: 1.8rem;
-    color: var(--white);
-    font-weight:600;
-    text-indent: 4rem;
-     background: var(--primary);
-  background: -moz-linear-gradient(left, var(--primary) 0%, var(--primaryright) 100%);
-  background: -webkit-linear-gradient(left, var(--primary) 0%,var(--primaryright) 100%);
-  background: linear-gradient(to right, var(--primary) 0%,var(--primaryright) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='var(--primary)', endColorstr='var(--primaryright)',GradientType=1 );
 
-}
 
  .accordion-trigger:hover, .accordion-trigger:active, .accordion-trigger:focus {
 
@@ -3156,14 +3120,9 @@ border-bottom: 1px solid var(--primary);
     transition: all 0.6s;
 
 text-decoration: none;
-  color: #7ed321;
-  background: -webkit-linear-gradient(left, #73B72B , #00B2C2);
-  background: -o-linear-gradient(right, #73B72B, #00B2C2);
-  background: -moz-linear-gradient(right, #73B72B, #00B2C2);
-  background: linear-gradient(to right, #73B72B , #00B2C2);
-    background-clip: border-box;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: var(--white);
+  background: var(--primary);
+
 }
 
 .accordion-trigger-input:focus-visible ~ .accordion-trigger {
@@ -3201,35 +3160,9 @@ text-decoration: none;
   transition: transform var(--transitionLength) var(--transitionTiming);
 }
 
-.contactpage .accordion-trigger::after {
-  display: block;
-  position: absolute;
-  right: 2rem;
-  top: 1.4rem;
-  content: '';
-  width: 1rem;
-  height: 1rem;
-  border: 0.4rem solid var(--white);
-  border-bottom: transparent;
-  border-left: transparent;
-  transform: rotate(135deg);
-  transition: transform var(--transitionLength) var(--transitionTiming);
-}
 
-.contactpage .accordion-trigger:hover::after { 
-  display: block;
-  position: absolute;
-  right: 2rem;
-  top: 1.4rem;
-  content: '';
-  width: 1rem;
-  height: 1rem;
-  border: 0.4rem solid var(--primarydark);
-  border-bottom: transparent;
-  border-left: transparent;
-  transform: rotate(135deg);
-  transition: transform var(--transitionLength) var(--transitionTiming);
-}
+
+
 
 
 
@@ -3250,9 +3183,7 @@ text-decoration: none;
   font-size: 0.9rem;
 }
 
-.contactpage .accordion-content {
-  font-size: 1.2rem;
-}
+
 
 
 .products-details .accordion-content {
@@ -3352,23 +3283,7 @@ span.contacttext {padding: 0 0.4rem;}
 
 
 /* Bottom */
-.contact.privacy .content-left .indent ul > li {
-font-family: ProximaNova,sans-serif;
-  font-style: normal;
-  font-weight: 300;
-  color: var(--text);
-  text-rendering: optimizeLegibility;
-  font-size: 1.2rem;
-  font-size: clamp(18px, 2vw + 1rem, 1.4rem);
-  line-height: 1.7rem;
-  margin: 0 0 1rem 0;
-  padding: 0;
-}
 
-.contact.privacy .content-left .indent li::marker {
-  color: var(--primary);
-  font-size: 1.5rem;
-}
 
 .hide { display: none;}
 
