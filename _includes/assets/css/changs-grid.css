@@ -509,6 +509,15 @@ text-decoration: none;
   padding: 0 0 1rem 0;
 }
 
+.content.home h3 {
+  font-size: 3rem;
+  font-family: 'Perpetua', sans-serif;
+  color: var(--primary);
+  text-align: center;
+  padding: 2rem 0 3rem 0;
+  margin: 0;
+}
+
 .content.contact .content h3 {
   line-height: 3rem;
   font-weight: 700;
