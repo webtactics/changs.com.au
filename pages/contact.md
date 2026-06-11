@@ -36,26 +36,23 @@ subtitle: "If you have any questions about our products or stockists, if you are
        
 
 <div class="changs-house">
-<img src="https://ik.imagekit.io/webtactics/changs-media/assets/icons/changs-bowl_pyS8wDFp1.png?updatedAt=1711837496199" alt="Chang's Flavours of Asia" title="Chang's Flavours of Asia" width="106px" height="79px"></div>  
-    <h3 class="text-center">Latest Recipes</h3>
+    <img src="https://ik.imagekit.io/webtactics/changs-media/assets/icons/changs-bowl_pyS8wDFp1.png?updatedAt=1711837496199" alt="Chang's Flavours of Asia" title="Chang's Flavours of Asia" width="106px" height="79px">
+</div>  
+<h3 class="text-center">Latest Recipes</h3>
           
- <!-- Start CGBlog Display Template -->
 
-  {% set postslist = collections['Recipes'] | reverse | limit(3)  %} 
+
+{% set postslist = collections['Recipes'] | reverse | limit(3)  %} 
 {% include "components/postslist-recipes-3-wide.njk" %}
 
 
-<!-- End CGBlog Display Template -->
   
-  
-  <div class="wtbbox4">
+<div class="wtbbox4">
     <div class="wtbboxwrapper">
-            
-<div class="text-centerflex">
-               
-<a href="/recipes/" class="button success" title="View all recipes" alt="View all recipes">View all recipes</a>
-              </div>
-            </div>
-          </div>
-  
-  </div>
+         <div class="text-centerflex">
+            <a href="/recipes/" class="button success" title="View all recipes" alt="View all recipes">View all recipes</a>
+        </div>
+    </div>
+</div>
+
+</div>
