@@ -12,7 +12,7 @@ subtitle: "If you have any questions about our products or stockists, if you are
 ---
 <div class="grid-2-thanks">
     <div class="content1">
-        <p>Before contacting us, you may like to visit our <a href="https://www.changs.com/products/">products page</a>.</p>
+        <p>Before contacting us, you may like to visit our <a href="/products/">products page</a>.</p>
         <p><strong>By phone</strong><br>
         <a title="Call our 1800 number" href="tel:+611800638363">1800 638 363</a><br>
         <a title="Call our head office" href="tel:+61297483490">02 9748 3490</a></p>
@@ -42,7 +42,7 @@ subtitle: "If you have any questions about our products or stockists, if you are
           
 
 
-{% set postslist = collections['Recipes'] | reverse | limit(3)  %} 
+{% set postslist = collections['Latest-Recipes'] | reverse | limit(3)  %} 
 {% include "components/postslist-recipes-3-wide.njk" %}
 
 
