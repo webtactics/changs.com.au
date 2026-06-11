@@ -1798,13 +1798,13 @@ img.iga {
 
 .container p a {
   line-height: inherit;
-  color: var(--black);
+  color: var(--primary);
   border-bottom: 2px dotted var(--primary);
   background-color: var(--white);
   text-transform: none;
   cursor: pointer;
   transition: all 0.4s ease-in-out;
-  padding:0 0.25rem;
+  padding:0;
 white-space: wrap;
 }
 
