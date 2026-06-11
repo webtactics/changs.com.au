@@ -1417,9 +1417,13 @@ svg:hover {
   color : var(--primary);
 }
 
+.social-contact svg {
+  color: var(--primary);
+}
 
-
-
+.social-contact svg:hover {
+  color: var(--black);
+}
 /* end topnav */
 
 
