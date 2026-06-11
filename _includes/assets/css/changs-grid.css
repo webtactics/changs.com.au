@@ -2701,6 +2701,11 @@ padding:0 2rem;
   gap: 3rem;
 }
 
+
+.grid-2-thanks {
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
 .grid-2x3 {
   grid-template-columns: 2fr 3fr;
 
@@ -3554,3 +3559,6 @@ font-family: 'Perpetua', sans-serif;
 }
 }
 
+.contentright {
+  text-align: right;
+}
