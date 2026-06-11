@@ -2481,7 +2481,7 @@ h3.news-title a:hover {
 }
 
 
-.recipessummary img:hover {
+.recipessummary:hover img {
   filter: brightness(110%);
   transition: all .2s ease-in-out;
  aspect-ratio: 4/3;
