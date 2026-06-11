@@ -885,11 +885,6 @@ a.logolink:hover {background-color: transparent;}
 transition: all 1s;}
 
 }
-  
-
-
-
-
 
 .navrightside {
   display: flex;
@@ -1282,7 +1277,6 @@ font-weight: 600;
 }
 
 
-
 .navbar  .navbar-menu  li  a:hover,
 .navbar  .navbar-menu > li  a:focus,
 ul.navbar-menu li.active-class  a {
@@ -1291,10 +1285,6 @@ ul.navbar-menu li.active-class  a {
      line-height: var(--navbottomheight);
   height: var(--navbottomheight);
 }
-
-
-
-
 
 
 .navbar-menu {
@@ -1433,6 +1423,15 @@ svg:hover {
 .social-contact svg:hover {
   color: var(--black);
 }
+
+.social-contact {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.social-contact > a {
+  padding-left: 1rem;
+}
+
 /* end topnav */
 
 
@@ -1804,7 +1803,9 @@ img.iga {
 }
 
 
-
+.content.home {
+  padding: 4rem 0;
+}
 
 
 
