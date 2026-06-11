@@ -2418,7 +2418,7 @@ background-color: rgba(0,0,0,0.30);
 }
 
 
-/* News
+/* recipes
 ------------------------------------------------- */
 
 
@@ -2436,24 +2436,6 @@ background-color: rgba(0,0,0,0.30);
  aspect-ratio: 8/6;
 }
 
-
-h3.news-title-no-link {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  color: var(--white);
-  background-color: var(--primary);
-  font-size: var(--h3sum);
-  line-height:1.1;
-  padding: var(--h3h4sumpadding);
-  white-space: normal;
-  transition: background-color .6s;
-  width: 100%;
-  margin: 0;
-  min-height: 80px;
-  border-bottom-left-radius: .5rem;
-  border-bottom-right-radius: .5rem;
-}
 
 h3.news-title {
   display: flex;
@@ -2490,6 +2472,63 @@ h3.news-title a:hover {
   background-color: var(--darkgreen);
   transition: background-color .6s;
 }
+
+
+.recipessummary img {
+  border-radius: .5rem;
+  width: 100%;
+  aspect-ratio: 4/3;
+}
+
+
+.recipessummary img:hover {
+  filter: brightness(110%);
+  transition: all .2s ease-in-out;
+ aspect-ratio: 4/3;
+}
+
+
+.recipessummary h3.recipes-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--black);
+  background-color: var(--white);
+  font-size: var(--h3sum);
+  padding: 0;
+  white-space: normal;
+  transition: background-color .6s;
+  width: 100%;
+  margin: 0;
+  min-height: 80px;
+}
+
+.recipessummary h3.recipes-title a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--black);
+  background-color: var(--white);
+  font-size: var(--h3sum);
+  padding: var(--h3h4sumpadding);
+  white-space: normal;
+  transition: background-color .6s;
+  width: 100%;
+  margin: 0;
+  min-height: 80px;
+}
+
+.recipessummary h3.recipes-title a:hover {
+  color: var(--primary);
+  background-color: var(--black);
+  transition: color .6s;
+}
+
+
+
+
+
+
 
 .postdetaildate {
   background-color: var(--white);
