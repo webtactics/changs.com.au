@@ -1751,6 +1751,10 @@ img.iga {
   padding: 0;
   width: 100%;
 }
+
+
+
+
 /* content layout */
 
 
@@ -2015,7 +2019,7 @@ button.success, .button.success {
   padding: 0.4rem 3rem;
   margin: 0;
   text-decoration: none;
-  -webkit-transition: all var( --transitionquick);
+  -webkit-transition: all 0.6s;
   -moz-transition: all 0.8s;
   -ms-transition: all 0.8s;
   -o-transition: all 0.8s;
@@ -2024,10 +2028,10 @@ button.success, .button.success {
 }
 
 button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
-  background-color: var(--white);
-  border: 0.3rem solid var(--white);
+  background-color: var(--black);
+  border: 0.3rem solid var(--black);
   border-radius: 20px;
-  color: var(--primary);
+  color: var(--white);
   -webkit-transition: all 0.8s;
   -moz-transition: all 0.8s;
   -ms-transition: all 0.8s;
