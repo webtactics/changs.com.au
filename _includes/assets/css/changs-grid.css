@@ -1118,18 +1118,19 @@ ul.off-canvas-list .nav-accordion-toggle::after {
   right: 1.2rem;
   width: 0.5rem;
   height: 0.5rem;
-  margin-top: -0.4rem;
+  margin-top: -0.25rem;
+  box-sizing: border-box;
   border: 2px solid var(--text);
   border-top: 0;
   border-left: 0;
   transform: rotate(45deg);
+  transform-origin: center;
   transition: transform 200ms ease;
 }
 
 ul.off-canvas-list li.open > .nav-accordion-toggle::after,
 ul.off-canvas-list li.open > a + .nav-accordion-toggle::after {
   transform: rotate(225deg);
-  margin-top: -0.2rem;
 }
 
 /* Accordion panels: collapsed by default, only top level visible */
