@@ -1069,7 +1069,7 @@ ul.off-canvas-list, ul.second {
   padding: 0;
 }
 
-ul.off-canvas-list li.nav-item {
+ul.off-canvas-list .nav-item-row {
   position: relative;
 }
 
@@ -1086,8 +1086,8 @@ ul.off-canvas-list li a {
   text-transform: none;
 }
 
-ul.off-canvas-list li.has-children > a,
-ul.off-canvas-list li.has-children > .nav-section-header {
+ul.off-canvas-list li.has-children > .nav-item-row > a,
+ul.off-canvas-list li.has-children > .nav-item-row > .nav-section-header {
   padding-right: 3rem;
 }
 
@@ -1128,8 +1128,7 @@ ul.off-canvas-list .nav-accordion-toggle::after {
   transition: transform 200ms ease;
 }
 
-ul.off-canvas-list li.open > .nav-accordion-toggle::after,
-ul.off-canvas-list li.open > a + .nav-accordion-toggle::after {
+ul.off-canvas-list li.open > .nav-item-row .nav-accordion-toggle::after {
   transform: rotate(225deg);
 }
 
@@ -1153,7 +1152,7 @@ ul.off-canvas-list li a:hover, ul.off-canvas-list li a:focus {
   text-decoration: none;
 }
 
-ul.off-canvas-list > li.current > a, ul.off-canvas-list > li.menuactive > a {
+ul.off-canvas-list > li.current > .nav-item-row > a, ul.off-canvas-list > li.menuactive > .nav-item-row > a {
     background: linear-gradient(90deg,#73b72b 0,#00b2c2 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -1199,8 +1198,8 @@ ul.off-canvas-list > li.parent > a:hover {
 
   }
 
-  ul.off-canvas-list li ul.second li.has-children > a,
-  ul.off-canvas-list li ul.second li.has-children > .nav-section-header {
+  ul.off-canvas-list li ul.second li.has-children > .nav-item-row > a,
+  ul.off-canvas-list li ul.second li.has-children > .nav-item-row > .nav-section-header {
     padding-right: 3rem;
   }
 

@@ -12,6 +12,7 @@
   {% macro renderNavListItem(entry) -%}
   {% set isOpen = containsActive(entry) == "1" %}
   <li class="nav-item{% if entry.children.length %} has-children{% endif %}{% if isOpen %} open{% endif %}{% if entry.url == page.url %} menuactive{% endif %}">
+    <div class="nav-item-row">
     {% if entry.noLink %}
     <span class="nav-section-header{% if entry.children.length %} nav-accordion-toggle{% endif %}"{% if entry.children.length %} aria-expanded="{{ 'true' if isOpen else 'false' }}"{% endif %}>{{ entry.title }}</span>
     {% else %}
@@ -20,6 +21,7 @@
     <button type="button" class="nav-accordion-toggle" aria-expanded="{{ 'true' if isOpen else 'false' }}" aria-label="Toggle {{ entry.title }} menu"></button>
     {% endif %}
     {% endif %}
+    </div>
  {% if entry.url == "/contact/thank-you/" %}
 <li class="hide"><a href="/contact/thank-you/" title="" alt=""></a></li>
 {% endif %}
