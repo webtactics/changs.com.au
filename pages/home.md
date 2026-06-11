@@ -5,9 +5,7 @@ description: "If you have any questions about our products or stockists, if you 
 date: 2026-06-10
 class: home
 permalink: /
-eleventyNavigation:
-  key: Home
-  hide: true
+
 
 
 subtitle: "If you have any questions about our products or stockists, if you are interested in stocking Chang's products or if you have an idea for a new Chang's product, please email or call us."
