@@ -1762,6 +1762,26 @@ img.iga {
 }
 
 
+@media (max-width: 800px) {
+
+  .wtbbox1,.wtbbox2, .wtbbox3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* content layout */
