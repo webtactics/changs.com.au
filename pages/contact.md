@@ -21,7 +21,7 @@ subtitle: "If you have any questions about our products or stockists, if you are
         </div>
 
 
-<div class="content home">
+<div class="content pad4">
        
 
 <div class="changs-house">
