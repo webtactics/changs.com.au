@@ -3,7 +3,9 @@
   {% block headmeta %} {% include "components/grid-head.njk" %} {% endblock %}
   {% block bodyclass %}
   <body class=" {{ class }} ">
-    {% endblock %} {% block offcanvas %}
+    {% endblock %}
+
+    {% block offcanvas %}
     <nav class="offcanvas">
       <div class="close-nav-wrapper">
         <button class="close-nav">Close Menu X</button>
@@ -112,6 +114,7 @@
       </div>
     </nav>
     {% endblock %}
+
     {% block header %}
     <header id="header" class="topbar headerwrapper">
       <div class="hamburger">
@@ -130,10 +133,10 @@
           >
             <img
               src="https://ik.imagekit.io/webtactics/changs-media/tr:w-260,h-69/Logo_8VlN-CEGY.png?updatedAt=1711437150532"
-              alt="Proudly Australian, and privately-owned, at PMFresh, we pride ourselves in our extensive experience and expertise in the fresh food industry."
-              title="Chang’s is more than just a brand with great products, it’s a lifelong passion to share our love for food and Asian cooking with Australians."
-              height="auto"
-              width="486px"
+              alt="Chang's Flavours of Asia"
+              title="Chang's Flavours of Asia"
+              height="69px"
+              width="260px"
             />
           </a>
         </div>
@@ -181,7 +184,7 @@
                   >
                     <path
                       d="M23,0H9C4,0,0,4,0,9v6v8c0,5,4,9,9,9h14c5,0,9-4,9-9v-8V9C32,4,28,0,23,0z M16,10c3.3,0,6,2.7,6,6s-2.7,6-6,6s-6-2.7-6-6
-	S12.7,10,16,10z M22,7c0-1.1,0.9-2,2-2s2,0.9,2,2s-0.9,2-2,2S22,8.1,22,7z"
+		S12.7,10,16,10z M22,7c0-1.1,0.9-2,2-2s2,0.9,2,2s-0.9,2-2,2S22,8.1,22,7z"
                     />
                   </svg>
                 </a>
@@ -196,7 +199,7 @@
                 >
               </li>
 
-             <li class="hide-for-small"><a class="text-icon smooth-scroll" href="#newsletter" class="text-icon hide-for-small" title="Join Chang's Flavours of Asia Newsletter">Sign up to our newsletter</a></li>
+              <li class="hide-for-small"><a class="text-icon smooth-scroll" href="#newsletter" class="text-icon hide-for-small" title="Join Chang's Flavours of Asia Newsletter">Sign up to our newsletter</a></li>
             </ul>
           </div>
           <div class="navrightsidebottomline hide-for-small">
@@ -209,89 +212,39 @@
 
       <div class="pad100"></div>
     </header>
-
     {% endblock %}
 
-   {% block headerspace %}
-	<div class="headerspace {{ class }}"></div>
-{% endblock %} 
+    {% block headerspace %}
+      <div class="headerspace {{ class }}"></div>
+    {% endblock %}
 
-    {% block hero %} {% include "components/grid-hero.njk" %} {% endblock %} 
+    {% block hero %} {% endblock %}
 
-
-
-
-{% block redgradient %}
-	<div class="redgradient">
-		<div class="redgradientcontent">
-			<div class="redgradientcontentwrapper">
-			<h1 style="text-align:center;" class="text-center white" >{{ title }}</h1>
-				<div class="redgradientcontenttextbox">
-			<p style="text-align:center;" class="text-center white"> {% if subtitle %}{{ subtitle }}{% else %}{{ description }}{% endif %}</p>
-			
-				</div>
-			</div>
-		</div>
-	</div>
- {% endblock %} 
-
-
-
-
-
-    {% block content %}
-    <div class="container">
-      <main class="content">
-       
-              <div class="maincontent">{{ content | safe }}</div>
-           
-        
-      </main>
-    </div>
-
-    {% endblock %} 
-    
-    {% block content2 %}{% endblock %} {% block content3 %}{%
-    endblock %} {% block ctacontent %}
-    <div
-      class="section cta-content"
-      style="background: url({% if ctaimage %}{{ ctaimage }}{% else %}https://ik.imagekit.io/webtactics/pmfresh/img/1920x953/home-slide-1-1920x953_G3eidXsMb.jpg{% endif %}/tr:w-1920,h-953) no-repeat center center;width:100%; background-size:cover;"
-    >
-      <div class="content ctabgcontainer">
-        <div class="right-cta fade-in">
-          <div class="inner">
-            <div class="text">
-              <div class="titlebox">
-                <h3 class="cta-title">
-                  {% if ctatitle %}{{ ctatitle }}{% else %}Our Philosophy.{%
-                  endif %}
-                </h3>
-              </div>
-
-              <div class="indent">
-                <p>
-                  {% if ctatext %}{{ ctatext }}{% else %}We bring the freshest
-                  and best quality Australian produce to our consumers while
-                  delivering fresh thinking in the food industry.{% endif %}
-                </p>
-                <div class="linkwrapper">
-                  <a
-                    class="resultspdf"
-                    href="{% if ctalink %}{{ ctalink }}{% else %}/about/our-philosophy/{% endif %}"
-                    title="{% if ctatitle %}{{ ctatitle }}{% else %}Our Philosophy.{% endif %}"
-                    alt="{% if ctatitle %}{{ ctatitle }}{% else %}Our Philosophy.{% endif %}"
-                    >Learn more &gt;</a
-                  >
-                </div>
-              </div>
+    {% block redgradient %}
+      <div class="redgradient">
+        <div class="redgradientcontent">
+          <div class="redgradientcontentwrapper">
+            <h1 style="text-align:center;" class="text-center white">{{ title }}</h1>
+            <div class="redgradientcontenttextbox">
+              <p style="text-align:center;" class="text-center white">{% if subtitle %}{{ subtitle }}{% else %}{{ description }}{% endif %}</p>
             </div>
           </div>
         </div>
       </div>
-    </div>
+    {% endblock %}
 
-    <div class="pad4rembothwhitebg"></div>
-    {% endblock %} {% block newsletter %}
+    {% block content %}
+    <div class="container">
+      <main class="content">
+        <div class="maincontent">{{ content | safe }}</div>
+      </main>
+    </div>
+    {% endblock %}
+
+    {% block content2 %}{% endblock %}
+    {% block content3 %}{% endblock %}
+
+    {% block newsletter %}
     <div
       class="section emailbg"
       style="background: url(https://ik.imagekit.io/webtactics/changs-media/assets/emailbg-1920x500-q80_iXS9Av4aF.jpg?updatedAt=1711759387818)
@@ -304,7 +257,7 @@
           <div id="newsletter">
             <h3 class="emailboxh3">Sign up to our newsletter</h3>
           </div>
-         <p class="black">Experience a feast for the senses!<br/>Sign up for Chang’s newsletter to savour delectable recipes, insightful content, exclusive offers, and gourmet inspirations.</p>
+          <p class="black">Experience a feast for the senses!<br/>Sign up for Chang’s newsletter to savour delectable recipes, insightful content, exclusive offers, and gourmet inspirations.</p>
 
           <form
             class="js-cm-form"
@@ -384,129 +337,108 @@
     </div>
     {% endblock %}
 
+    {% block wtb %}
+      <div class="section wtb">
+        <div class="content wtbbox">
+          <div class="changs-house">
+            <img
+              src="https://ik.imagekit.io/webtactics/changs-media/assets/icons/changs-house_TDHjAI3I5.png?updatedAt=1711837505969"
+              alt="Chang's Flavours of Asia"
+              title="Chang's Flavours of Asia"
+              width="79px"
+              height="124px"
+            />
+          </div>
 
+          <h3 class="red text-center">Where to find us</h3>
 
-{% block wtb %}
-	<div class="section wtb">
+          <div class="grid-3-wtb">
+            <div class="wtbbox1">
+              <a class="wtb-image" href="https://www.coles.com.au/brands/changs-3028503409" title="Buy Chang's Flavours of Asia @ Coles" alt="Buy Chang's Flavours of Asia @ Coles" target="_blank"><img src="https://ik.imagekit.io/webtactics/changs-media/assets/Coles_uvl4RvWPs.png?updatedAt=1711260670046" alt="Buy Chang's Flavours of Asia @ Coles" title="Buy Chang's Flavours of Asia @ Coles" height="98px" width="222px" class="coles"></a>
+            </div>
 
-	
+            <div class="wtbbox2">
+              <a class="wtb-image" href="https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s" title="Buy Chang's Flavours of Asia @ Woolworths" alt="Buy Chang's Flavours of Asia @ Woolworths" target="_blank"><img src="https://ik.imagekit.io/webtactics/changs-media/assets/woolworths_lrWT-TfFW.png?updatedAt=1711260670361" alt="Buy Chang's Flavours of Asia @ Woolworths" title="Buy Chang's Flavours of Asia @ Woolworths" height="98px" width="351px" class="woolworths"></a>
+            </div>
 
-			<div class="content wtbbox">
+            <div class="wtbbox3">
+              <a class="wtb-image" href="https://www.igashop.com.au/search/1?q=chang%27s" title="Buy Chang's Flavours of Asia @ IGA" alt="Buy Chang's Flavours of Asia @ IGA" target="_blank"><img src="https://ik.imagekit.io/webtactics/changs-media/assets/IGA_tURSJy7ve.png?updatedAt=1711260670327" alt="Buy Chang's Flavours of Asia @ IGA" title="Buy Chang's Flavours of Asia @ IGA" height="98px" width="151px" class="iga"></a>
+            </div>
+          </div>
 
-<div class="changs-house"><img src="https://ik.imagekit.io/webtactics/changs-media/assets/icons/changs-house_TDHjAI3I5.png?updatedAt=1711837505969" alt="Chang's Flavours of Asia" title="Chang's Flavours of Asia" width="79px" height="124px" ></div>  
+          <div class="wtbbox4">
+            <div class="wtbboxwrapper">
+              <div class="wtbbox4a">
+                <p class="black text-center">Find Chang’s in major supermarkets, and speciality & independent grocery stores.</p>
+              </div>
+              <div class="text-centerflex">
+                <a href="/contact/" class="button success" title="Learn more about where to buy Chang's" alt="Learn more about where to buy Chang's">Contact us to learn more</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endblock %}
 
+    {% block footer %}
+    <footer class="footernavwrapper">
+      <div class="footernav">
+        <div class="navwrapper">
+          <div class="logo">
+            <a href="/" title="Return to the homepage | Chang's Flavours of Asia" id="logo-footer">
+              <img src="https://ik.imagekit.io/webtactics/changs-media/tr:w-260,h-69/Logo_8VlN-CEGY.png?updatedAt=1711437150532" alt="Chang's Flavours of Asia" title="Chang's Flavours of Asia" height="59px" width="221px">
+            </a>
+          </div>
 
-		<h3 class="red text-center" >Where to find us</h3>
+          <div class="navrightside">
+            <div class="navrightupperspace"></div>
 
-			<div class="grid-3-wtb">
+            <div class="navrightsidetopline">
+              <ul class="infobox">
+                <li>
+                  <a class="social-icon" title="Follow us on Facebook" href="https://www.facebook.com/changsasianfood" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24">
+                      <path fill="currentColor" d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669c1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"></path>
+                    </svg>
+                  </a>
+                </li>
+                <li>
+                  <a class="social-icon" title="Follow us on Instagram" href="https://www.instagram.com/ChangsAsianFood/" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 14 14">
+                      <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M10.333 3.644a.25.25 0 1 1 0-.5m0 .5a.25.25 0 1 0 0-.5"></path>
+                        <path d="M.858 3.431A2.573 2.573 0 0 1 3.431.858h6.862a2.573 2.573 0 0 1 2.573 2.573v6.862a2.573 2.573 0 0 1-2.573 2.573H3.43a2.573 2.573 0 0 1-2.573-2.573V3.43Z"></path>
+                        <path d="M4.312 6.862a2.55 2.55 0 1 0 5.1 0a2.55 2.55 0 1 0-5.1 0"></path>
+                      </g>
+                    </svg>
+                  </a>
+                </li>
+                <li><a class="text-icon" href="{{metadata.url}}/contact" title="Contact Chang's Flavours of Asia">Contact</a></li>
+                <li class="hide-for-small"><a class="text-icon smooth-scroll" href="#newsletter" class="text-icon hide-for-small" title="Join Chang's Flavours of Asia Newsletter">Sign up to our newsletter</a></li>
+                <li><a class="text-icon" href="{{metadata.url}}/changs-tv " title="Great Asian Anyone Can Understand">Changs TV</a></li>
+                <li><a class="text-icon" href="/why-changs/" title="The story of Chang's Flavours of Asia">About</a></li>
+              </ul>
+            </div>
 
-				<div class="wtbbox1">
-					<a class="wtb-image" href="https://www.coles.com.au/brands/changs-3028503409" title="Buy Chang's Flavours of Asia @ Coles" alt="Buy Chang's Flavours of Asia @ Coles" target="_blank"><img src="https://ik.imagekit.io/webtactics/changs-media/assets/Coles_uvl4RvWPs.png?updatedAt=1711260670046" alt="Buy Chang's Flavours of Asia @ Coles" title="Buy Chang's Flavours of Asia @ Coles" height="98px" width="222px" class="coles"></a>
-				</div>
+            <div class="navrightsidebottomline">
+              <nav class="navbar">
+                <p>© Copyright 2004-2026 - Chang's Authentic Asian Cooking Est 1968</p>
+              </nav>
+            </div>
 
-				<div class="wtbbox2">
-					<a class="wtb-image" href="https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s" title="Buy Chang's Flavours of Asia @ Woolworths" alt="Buy Chang's Flavours of Asia @ Woolworths" target="_blank"><img src="https://ik.imagekit.io/webtactics/changs-media/assets/woolworths_lrWT-TfFW.png?updatedAt=1711260670361" alt="Buy Chang's Flavours of Asia @ Woolworths" title="Buy Chang's Flavours of Asia @ Woolworths" height="98px" width="351px" class="woolworths"></a>
-				</div>
+            <div class="navrightlowerspace"></div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    {% endblock %}
 
-				<div class="wtbbox3">
-					<a class="wtb-image" href="https://www.igashop.com.au/search/1?q=chang%27s" title="Buy Chang's Flavours of Asia @ IGA" alt="Buy Chang's Flavours of Asia @ IGA" target="_blank"><img src="https://ik.imagekit.io/webtactics/changs-media/assets/IGA_tURSJy7ve.png?updatedAt=1711260670327" alt="Buy Chang's Flavours of Asia @ IGA" title="Buy Chang's Flavours of Asia @ IGA" height="98px" width="151px" class="iga"></a>
-				</div>
+    {% block modal %}
+    <!-- Modal content -->
 
-			</div>
+    <!-- end Modal content -->
+    {% endblock %}
 
-
-
-			<div class="wtbbox4">
-				<div class="wtbboxwrapper">
-					<div class="wtbbox4a">
-						<p class="black text-center">Find Chang’s in major supermarkets, and speciality & independent grocery stores.</p>
-					</div>
-					<div class="text-centerflex">
-
-<a href="/contact/" class="button success" title="Learn more about where to buy Chang's" alt="Learn more about where to buy Chang's">Contact us to learn more</a>
-
-					</div>
-				</div>
-			</div>
-				
-			</div>
-		
-	</div>
-  {% endblock %}
-
-
-
-
-
-    
-   {% block footer %}
-<footer class="footernavwrapper"> 
-<div class="footernav">  
-
-<div class="navwrapper">
-			<div class="logo">
-				<a href="/" title="Return to the homepage | Chang's Flavours of Asia" id="logo-footer">
-				<img src="https://ik.imagekit.io/webtactics/changs-media/tr:w-260,h-69/Logo_8VlN-CEGY.png?updatedAt=1711437150532" alt="Chang's Flavours of Asia" title="Chang's Flavours of Asia" height="59px" width="221px">
-		 		</a>
-			</div>
-
-		<div class="navrightside">
-<div class="navrightupperspace"></div>
-
-
-<div class="navrightsidetopline">
-	<ul class="infobox">
-		<li><a class="social-icon" title="Follow us on Facebook" href="https://www.facebook.com/changsasianfood" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24">
-			<path fill="currentColor" d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669c1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"></path>
-		</svg></a>
-		</li>
-		<li><a class="social-icon" title="Follow us on Instagram" href="https://www.instagram.com/ChangsAsianFood/" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 14 14">
-			<g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-				<path d="M10.333 3.644a.25.25 0 1 1 0-.5m0 .5a.25.25 0 1 0 0-.5"></path>
-				<path d="M.858 3.431A2.573 2.573 0 0 1 3.431.858h6.862a2.573 2.573 0 0 1 2.573 2.573v6.862a2.573 2.573 0 0 1-2.573 2.573H3.43a2.573 2.573 0 0 1-2.573-2.573V3.43Z"></path>
-				<path d="M4.312 6.862a2.55 2.55 0 1 0 5.1 0a2.55 2.55 0 1 0-5.1 0"></path>
-			</g>
-		</svg></a>
-		</li>
-		<li><a class="text-icon" href="{{metadata.url}}/contact" title="Contact Chang's Flavours of Asia">Contact</a></li>
-		<li class="hide-for-small"><a class="text-icon smooth-scroll" href="#newsletter" class="text-icon hide-for-small" title="Join Chang's Flavours of Asia Newsletter">Sign up to our newsletter</a></li>
-		<li><a class="text-icon" href="{{metadata.url}}/changs-tv " title="Great Asian Anyone Can Understand">Changs TV</a></li>
-		<li><a class="text-icon" href="/why-changs/" title="The story of Chang's Flavours of Asia">About</a></li>
-	</ul>
-</div>
-
- 
-
-			<div class="navrightsidebottomline">
-				<nav class="navbar">
-				<p>© Copyright 2004-2026  - Chang's Authentic Asian Cooking Est 1968</p> 
-				</nav>
-			</div>
-
-			<div class="navrightlowerspace"></div>
-
-
-		</div>
-	</div>
-
-</div>
-</footer>
-{% endblock %}
-
-
-  {% block modal %}
-  <!-- Modal content -->
-
-
-  <!-- end Modal content -->
-
-{% endblock %}
-
-
-
-
-    
-    
     {% include "components/grid-js.njk" %}
   </body>
 </html>
