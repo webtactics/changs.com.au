@@ -1126,7 +1126,11 @@ ul.off-canvas-list .nav-accordion-toggle::after {
 
 ul.off-canvas-list li.open > .nav-item-row .nav-accordion-toggle::after {
   transform: rotate(225deg);
-    border: 2px solid var(--black);
+}
+
+
+.accordion-trigger-input:checked ~ .accordion-trigger::after {
+  transform: rotate(135deg) rotateX(180deg) rotateY(180deg) translateY(4px) translateX(-4px);
 }
 
 /* Accordion panels: collapsed by default, only top level visible */
