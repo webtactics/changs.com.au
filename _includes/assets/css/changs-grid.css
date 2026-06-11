@@ -2493,6 +2493,9 @@ h3.news-title a:hover {
   align-items: center;
   justify-content: center;
   font-family: 'Roboto' , sans-serif;
+  text-align: center;
+  font-weight: 500;
+  font-size: var(--h3sum);
   color: var(--black);
   background-color: var(--white);
   font-size: var(--h3sum);
@@ -2509,6 +2512,9 @@ h3.news-title a:hover {
   align-items: center;
   justify-content: center;
   font-family: 'Roboto' , sans-serif;
+  text-align: center;
+  font-weight: 500;
+  font-size: var(--h3sum);
   color: var(--black);
   background-color: var(--white);
   font-size: var(--h3sum);
