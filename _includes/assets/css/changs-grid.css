@@ -479,9 +479,6 @@ font-size: 3rem;
 .content-left-news .content h2 {padding: 0;margin:0;}
 
 
-
-
-
 h2.heading-text a:hover {
   text-decoration: none;
   color: var(--primary);
@@ -491,7 +488,7 @@ h2.heading-text a:hover {
 
 }
 
-
+a.smooth-scroll{scroll-behavior: smooth;}
 
 
 
