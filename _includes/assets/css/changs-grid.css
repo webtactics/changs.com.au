@@ -1429,84 +1429,197 @@ svg:hover {
 
 
 /* footer layout */
+/* footer layout */
 
-.footernavwrapper {
-  padding: 1rem;
-  margin:0;
+ .footernavwrapper .navwrapper,  .footernavwrapper .scrolled .navwrapper {
+  display: grid;
+  grid-template-columns:280px  1fr;
+  grid-template-areas:
+    "logo navrightside";
+    grid-template-rows: 160px;
+    margin: 0 auto;
+    z-index: 2;
+    width: calc(100vw - 1.25rem);
+    max-width: 1440px;
+    -webkit-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    -ms-transition: all 0.6s;
+    -o-transition: all 0.6s;
+    transition: all 0.6s;
+   } 
+
+   .footernavwrapper .logo, .footernavwrapper .scrolled .logo {
+    display: flex;
+    height: 160px;
+    justify-content: flex-start;
+    align-items: center;
+    -webkit-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    -ms-transition: all 0.6s;
+    -o-transition: all 0.6s;
+    transition: all 0.6s;
+  }
+  
+  .footernavwrapper  .navrightside {
+    display: flex;
+    height: 160px;
+    flex-direction: column;
+    -webkit-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    -ms-transition: all 0.6s;
+    -o-transition: all 0.6s;
+    transition: all 0.6s;
+  }
+  .footernavwrapper  .navrightupperspace {
+    text-align: right;
+    height: 64px;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s;
+  }
+  .footernavwrapper  .navrightsidetopline {
+    text-align: right;
+    height: 36px;
+    -webkit-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    -ms-transition: all 0.6s;
+    -o-transition: all 0.6s;
+    transition: all 0.6s;
+    padding:0;
+  }
+
+  .footernavwrapper  .navrightsidebottomline {
+    display: flex;
+    height: 30px;
+    justify-content: end;
+    align-items:flex-end;
+    text-align: right;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s;
+  }
+  .footernavwrapper  .navrightsidebottomline p {
+color: var(--white);
+text-align: right;
+font-size: 0.8rem;
+padding:0;
+margin:0;
+  }
+
+  .footernavwrapper  .navrightlowerspace {
+    text-align: right;
+    height: 20px;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s;
+  }
+
+  @media (max-width: 1400px) {
+    .footernavwrapper .navwrapper,  .footernavwrapper .scrolled .navwrapper {
+      width: calc(100vw - 2rem);
+      max-width: 1280px;
+       } 
+
+      }
+
+  @media (max-width: 1024px) {
+    .footernavwrapper .navwrapper,  .footernavwrapper .scrolled .navwrapper {
+      display: flex;
+      flex-direction: column;
+       } 
+
+       .footernavwrapper .logo, .footernavwrapper .scrolled .logo {
+
+        display: block;
+        max-width: 221px;
+        max-height: 59px;
+       height:59px;
+     margin:1rem auto;
+ 
+      }
+
+      .footernavwrapper .navrightupperspace {
+        height: 0px;
+      }
+
+      .footernavwrapper .navrightsidetopline {
+      text-align: left;
+      height: auto;
+      padding:0;
+    }
+    .footernavwrapper  .navrightsidebottomline p {
+      color: var(--white);
+      text-align: center;
+      font-size: 0.8rem;
+      padding:1rem 0;
+      margin:0;
+        }
+    .footernavwrapper .infobox > li > a.text-icon
+{  display: flex;
+  flex-direction: column;
+height:auto;
+padding: 0.25rem;
+justify-content: left;
+    align-items:flex-start;
+    line-height: 20px;}
+
+    .footernavwrapper .infobox > li > a.text-icon:hover {
+   display: flex;
+        flex-direction: column;
+      height:auto;
+      padding: 0.25rem;
+      justify-content: left;
+          align-items:flex-start;
+          line-height: 20px;
+          color: var(--primary);
   }
 
 
 
- .footernav {
-  display: grid;
-  grid-template-columns:1fr  1fr;
-    margin: 0 auto;
-    width: calc(100vw - 4rem);
-    max-width: 1440px;
-  padding: 40px 0 53px 0;
-   } 
+.footernavwrapper .infobox > li > a.social-icon {padding: 0.5rem;
+  justify-content: left;
+  align-items:flex-start;
+  flex-direction: row;
+  float: right;
 
-.footerleft {
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
-      flex-direction: column; /* This stacks the items vertically */
 }
 
-#get-in-touch-button {
- text-align: left;
-  text-decoration: none;
-  color: var(--white);
-  font-size: 1.375rem;
-  line-height: 1.875rem;
-  font-weight: 700;
-}
+    ul.infobox {
+      display: inline;
+      margin: 0px;
+      list-style-image: none;
+      list-style-position: inside;
+      list-style-type: none;
+      -webkit-margin-before: 0em;
+      -webkit-margin-after: 0em;
+      padding: 0;
+      float:none;
+    }
 
-#get-in-touch-button:hover {
-  color: var(--text);
-  background-color: transparent;
-}
-
-.footer-nav {
-  display: block;
-  float: left;
-  clear: left;
-}
-
-.footer-menu {
-  list-style: none;
-  padding-left: 75px;
-  position: relative;
-}
-
-.footer-menu::before {
-  content: "";
-  display: block;
-  width: 66px;
-  height: 5px;
-  background-color: var(--white);
-  position: absolute;
-  left: 0;
-  top: 9px;
-}
-.footer-menu li a {
-  text-decoration: none;
-  color: #ffffff;
-  font-weight: 300;
-  font-size: 20px;
-  line-height: 22px;
-}
-
- .footer-menu li a:hover, .footer-menu li.current-menu-item a, .footer-menu li.current-menu-parent a {
-  color: var(--text);
-  background-color: transparent;
-}
-
-.loaded *, .loaded {
-  -moz-transition: all 0.2s ease-in;
-  -webkit-transition: all 0.2s ease-in;
-  -o-transition: all 0.2s ease-in;
-}
+    ul.infobox li {
+      display: inline;
+      margin: 0;
+      padding: 0;
+      float: none;
+      text-align: center;
+    }
+    ul.infobox li.hide-for-small {
+      display: none;
+    }
+    .footernavwrapper .navrightsidebottomline 
+    {
+      display: flex;
+      height: auto;
+      justify-content: end;
+      align-items: center;
+      text-align:center;
+    padding:1rem 0;}
 
 
 .copyright {
