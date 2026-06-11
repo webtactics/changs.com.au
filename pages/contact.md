@@ -1,11 +1,17 @@
 ---
-layout: layouts/grid-default.njk
-title: Get in touch with Gloucester Thai Massage
-description: To book a massage please call Joy on 0411 447 704, use our booking page or email joy@gtmassage.com.au. Gloucester Thai Massage is located at Shop 2/78 Church St, Gloucester, 2422
-section: contact
-date: 2018-01-01
+layout: layouts/grid-nohero.njk
+title: We’d love to hear from you!
+description: "If you have any questions about our products or stockists, if you are interested in stocking Chang's products or if you have an idea for a new Chang's product, please email or call us."
+date: 2026-06-10
+class: contact
 permalink: /contact/
+eleventyNavigation:
+  key: Contact
+  hide: true
 
+
+subtitle: "If you have any questions about our products or stockists, if you are interested in stocking Chang's products or if you have an idea for a new Chang's product, please email or call us."
 ---
 
-
+{% set postslist = collections['Recipes'] | reverse  %} 
+{% include "components/postslist-recipes-4-wide.njk" %}

@@ -1,22 +1,17 @@
 ---
 layout: layouts/grid-home.njk
-title: Quality food. Fresh thinking.
-subtitle: Proudly Australian and privately-owned, at PMFresh, we pride ourselves in our extensive experience and expertise in the fresh food industry.
-
-
+title: "Bringing authentic Asian cooking to Aussie kitchens since 1968"
+description: "If you have any questions about our products or stockists, if you are interested in stocking Chang's products or if you have an idea for a new Chang's product, please email or call us."
+date: 2026-06-10
 class: home
-date: 2025-05-14
-description: Proudly Australian and privately-owned, at PMFresh, we pride ourselves in our extensive experience and expertise in the fresh food industry.
-image: https://ik.imagekit.io/webtactics/pmfresh/img/1920x953/home-slide-3-1920x953_E5WqheSSK.jpg
 permalink: /
+eleventyNavigation:
+  key: Home
+  hide: true
 
-ctatitle: About Us
-ctatext: Proudly Australian and privately-owned, we bring extensive experience and expertise in the fresh food industry.
-ctalink: /about/
-ctaimage: https://ik.imagekit.io/webtactics/pmfresh/img/1920x953/green-leaves-on-black-1920x953_akBBPwJ0yn.jpg
 
+subtitle: "If you have any questions about our products or stockists, if you are interested in stocking Chang's products or if you have an idea for a new Chang's product, please email or call us."
 ---
-
 
 
 
