@@ -14,4 +14,4 @@ subtitle: "Who doesn’t love chicken, turkey, or duck? We certainly do, and our
   
 ---
 {% set postslist = collections['Poultry'] | reverse  %} 
-{% include "components/postslist-recipes-4-wide.njk" %}
+{% include "components/postlist/postslist-recipes-4-wide.njk" %}

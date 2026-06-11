@@ -14,4 +14,4 @@ subtitle: "All the noodles you will ever need or want to create authentic Asian 
   
 ---
 {% set postslist = collections['Noodles'] | reverse  %} 
-{% include "components/postslist-recipes-4-wide.njk" %}
+{% include "components/postlist/postslist-recipes-4-wide.njk" %}

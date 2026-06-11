@@ -13,7 +13,7 @@ eleventyNavigation:
 All the noodles you will ever need or want to create authentic Asian cuisine to serve up in so many ways.
 
 {% set postslist = collections['Products'] | intersection(collections['Noodles']) %}
-{% include "components/postslist-products-4-wide.njk" %}
+{% include "components/postlist/postslist-products-4-wide.njk" %}
 
 
 

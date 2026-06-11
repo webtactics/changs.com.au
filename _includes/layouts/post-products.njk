@@ -218,7 +218,7 @@ section: post
 <div class="productcatagory content">
 <h3>Related Cooked & Chilled Products</h3>
 {% set postslist = collections['Cooked & Chilled']  | randomLimit(4, page.url)  %} 
-{% include "components/postslist-products-4-wide.njk" %}
+{% include "components/postlist/postslist-products-4-wide.njk" %}
 <div class="linkwrapper"><a class="resultspdf" href="/products/cooked-chilled/" title="Cooked Chilled" alt="Cooked Chilled">More Cooked & Chilled Products &gt;</a></div>
 </div>
 
@@ -227,7 +227,7 @@ section: post
 <div class="productcatagory content">
 <h3>Related Freshly Prepared Vegetable Products</h3>
 {% set postslist = collections['Freshly Prepared Vegetables'] | randomLimit(4, page.url)  %} 
-{% include "components/postslist-products-4-wide.njk" %}
+{% include "components/postlist/postslist-products-4-wide.njk" %}
 <div class="linkwrapper"><a class="resultspdf" href="/products/freshly-prepared-vegetables/" title="Freshly Prepared Vegetables" alt="Freshly Prepared Vegetables">More Freshly Prepared Vegetables &gt;</a></div>
 </div>
 
@@ -237,7 +237,7 @@ section: post
 <div class="productcatagory content">
 <h3>Related Leafy Salad Products</h3>
 {% set postslist = collections['Leafy Salads']  | randomLimit(4, page.url)  %} 
-{% include "components/postslist-products-4-wide.njk" %}
+{% include "components/postlist/postslist-products-4-wide.njk" %}
 <div class="linkwrapper"><a class="resultspdf" href="/products/leafy-salads/" title="Leafy Salads" alt="Leafy Salads">More Leafy Salads &gt;</a></div>
 </div>
 

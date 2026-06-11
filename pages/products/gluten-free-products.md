@@ -11,6 +11,6 @@ eleventyNavigation:
   order: 3
 ---
 {% set postslist = collections['Products'] | intersection(collections['Gluten Free']) %}
-{% include "components/postslist-products-4-wide.njk" %}
+{% include "components/postlist/postslist-products-4-wide.njk" %}
 
 

@@ -27,5 +27,5 @@ eleventyNavigation:
 ---
 
 {% set postslist = collections['Products']  %} 
-{% include "components/postslist-products-4-wide.njk" %}
+{% include "components/postlist/postslist-products-4-wide.njk" %}
 

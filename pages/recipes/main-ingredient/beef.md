@@ -17,7 +17,7 @@ eleventyNavigation:
   
 ---
 {% set postslist = collections['Beef'] | reverse  %} 
-{% include "components/postslist-recipes-4-wide.njk" %}
+{% include "components/postlist/postslist-recipes-4-wide.njk" %}
 
 
 {% for post in collections.Beef %}

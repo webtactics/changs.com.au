@@ -11,6 +11,6 @@ eleventyNavigation:
   order: 4
 ---
 {% set postslist = collections['Products'] | intersection(collections['Tamari']) %}
-{% include "components/postslist-products-4-wide.njk" %}
+{% include "components/postlist/postslist-products-4-wide.njk" %}
 
 

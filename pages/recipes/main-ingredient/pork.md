@@ -14,6 +14,6 @@ subtitle: "We love pork! We also love our pork recipes, that encourage you to ex
   
 ---
 {% set postslist = collections['Pork'] | reverse  %} 
-{% include "components/postslist-recipes-4-wide.njk" %}
+{% include "components/postlist/postslist-recipes-4-wide.njk" %}
 
 

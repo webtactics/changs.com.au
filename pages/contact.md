@@ -43,7 +43,7 @@ subtitle: "If you have any questions about our products or stockists, if you are
 
 
 {% set postslist = collections['Latest-Recipes'] | reverse | limit(3)  %} 
-{% include "components/postslist-recipes-3-wide.njk" %}
+{% include "components/postlist/postslist-recipes-3-wide.njk" %}
 
 
   

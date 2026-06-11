@@ -13,4 +13,4 @@ eleventyNavigation:
 subtitle: "Don’t we all want it quick and easy? Here you can discover delectable Asian flavours with our collection of Quick and Easy Recipes. Perfect for every day!"
 ---
 {% set postslist = collections['Quick and Easy'] | reverse  %} 
-{% include "components/postslist-recipes-4-wide.njk" %}
+{% include "components/postlist/postslist-recipes-4-wide.njk" %}

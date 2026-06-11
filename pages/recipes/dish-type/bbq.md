@@ -15,4 +15,4 @@ eleventyNavigation:
 ---
 
 {% set postslist = collections['BBQ'] | reverse  %} 
-{% include "components/postslist-recipes-4-wide.njk" %}
+{% include "components/postlist/postslist-recipes-4-wide.njk" %}

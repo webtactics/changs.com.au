@@ -14,4 +14,4 @@ subtitle: "Australian’s love lamb, and our recipes, noodles and sauces let you
   
 ---
 {% set postslist = collections['Lamb'] | reverse  %} 
-{% include "components/postslist-recipes-4-wide.njk" %}
+{% include "components/postlist/postslist-recipes-4-wide.njk" %}

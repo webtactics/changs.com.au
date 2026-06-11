@@ -14,4 +14,4 @@ subtitle: We have literally hundreds of authentic Asian and modern Australian me
 ---
 
 {% set postslist = collections['Recipes'] | reverse  %} 
-{% include "components/postslist-recipes-4-wide.njk" %}
+{% include "components/postlist/postslist-recipes-4-wide.njk" %}

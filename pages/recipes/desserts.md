@@ -14,6 +14,6 @@ subtitle: "Oh, come on, a little fun won’t hurt. Not just for the kids."
 ---
 
 {% set postslist = collections['Sweet Treats'] | union(collections['Scary Sweets']) %}
-{% include "components/postslist-recipes-4-wide.njk" %}
+{% include "components/postlist/postslist-recipes-4-wide.njk" %}
 
 Sweet Treats

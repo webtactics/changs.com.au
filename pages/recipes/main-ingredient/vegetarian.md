@@ -14,4 +14,4 @@ subtitle: "Vegetarian doesn’t mean missing out when it comes to taste on our V
   
 ---
 {% set postslist = collections['Vegetarian'] | reverse  %} 
-{% include "components/postslist-recipes-4-wide.njk" %}
+{% include "components/postlist/postslist-recipes-4-wide.njk" %}

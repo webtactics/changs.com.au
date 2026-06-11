@@ -65,6 +65,6 @@ section: post
 <div class="productcatagory content">
 <h3>More Recipes we like:</h3>
 {% set postslist = collections['Recipes']  |  randomLimit(4, page.url)  %} 
-{% include "components/postslist-recipes-4-wide.njk" %}
+{% include "components/postlist/postslist-recipes-4-wide.njk" %}
 <div class="linkwrapper"><a class="resultspdf" href="/products/recipes/" title="More Recipes" alt="More Recipes">More Recipes &gt;</a></div>
 </div>
