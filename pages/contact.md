@@ -31,3 +31,7 @@ subtitle: "If you have any questions about our products or stockists, if you are
         </div>
     </div>
 </div>
+
+
+<pagefind-modal-trigger></pagefind-modal-trigger>
+<pagefind-modal></pagefind-modal>
