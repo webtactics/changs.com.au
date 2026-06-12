@@ -3575,3 +3575,7 @@ font-family: 'Perpetua', sans-serif;
   clip: rect(0, 0, 0, 0);
   white-space: nowrap;
 }
+
+.search-icon a, .search-icon a:visited, .search-icon a:hover, .search-icon a:focus {
+  cursor: pointer;
+}
