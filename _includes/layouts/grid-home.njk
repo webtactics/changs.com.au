@@ -9,7 +9,8 @@
 
 {% block content %}
 <div class="container">
-	<main class="content">
+	<main class="content" data-pagefind-body>
+		<img src="{{ image or metadata.image }}" alt="" data-pagefind-meta="image[src]" style="display:none">
 
 
 	<div class="content-left-news">
