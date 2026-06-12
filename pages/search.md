@@ -17,7 +17,7 @@ eleventyExcludeFromCollections: true
 <script src="/pagefind/pagefind-ui.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', () => {
-    new PagefindUI({ element: "#search", showSubResults: true, showImages: false });
+    new PagefindUI({ element: "#search", showSubResults: true, showImages: false, pageSize: 15 });
     const query = new URLSearchParams(window.location.search).get('q');
     if (query) {
       const input = document.querySelector('#search .pagefind-ui__search-input');
