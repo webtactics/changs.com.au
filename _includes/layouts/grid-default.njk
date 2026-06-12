@@ -348,11 +348,18 @@
     <dialog id="my-modal" class="search-modal" aria-label="Search">
       <div class="modal-content">
         <button id="close-modal" class="modal-close" title="Close search" aria-label="Close search">&times;</button>
+
+<div class="modal-body">
+  <h3>Chang's Search Section</h3>
+      <p>This search field queries the website, products and recipes.</p>
+
+
         <form class="search-modal-form" role="search" action="/search/" method="get">
           <label for="modal-search-input" class="visually-hidden">Search</label>
           <input type="search" id="modal-search-input" name="q" placeholder="Search Chang's Flavours of Asia">
           <button type="submit" class="success">Search</button>
         </form>
+        </div>
       </div>
     </dialog>
     {% endblock %}

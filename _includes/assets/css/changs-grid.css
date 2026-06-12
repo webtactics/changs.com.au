@@ -3580,6 +3580,8 @@ font-family: 'Perpetua', sans-serif;
   display: flex;
   gap: 0.5rem;
   margin-top: 1rem;
+  justify-content: center;
+  align-items: center;
 }
 
 .search-modal-form input[type="search"] {
@@ -3588,6 +3590,7 @@ font-family: 'Perpetua', sans-serif;
   border: 1px solid var(--primary);
   border-radius: 4px;
   font-size: 1rem;
+  min-height:4rem;
 }
 
 .visually-hidden {
