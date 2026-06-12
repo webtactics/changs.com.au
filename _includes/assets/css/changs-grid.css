@@ -2803,10 +2803,18 @@ padding:0 2rem;
 }
 
 
+
+
 .grid-4-columns {
   grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
 }
+
+.grid-4-columns.recipes {
+column-gap: 3rem;
+row-gap: 1rem;
+}
+
 .grid-5-columns {
   grid-template-columns: repeat(5, 1fr);
   gap: 2rem;
