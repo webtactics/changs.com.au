@@ -3605,3 +3605,224 @@ font-family: 'Perpetua', sans-serif;
 .search-icon a, .search-icon a:visited, .search-icon a:hover, .search-icon a:focus {
   cursor: pointer;
 }
+
+
+/* homepage hero */
+
+.hero {
+  height: 70svh;
+  height: 70vh;
+  width: 100%;
+  position:relative;
+  top: 0;
+  left: 0;
+
+  overflow: hidden;
+ 
+}
+
+
+
+.hero img {
+ 
+  width: 100%;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+ 
+}
+
+
+@media (max-width: 1024px) {
+  .hero {
+    height: 80svh;
+    height: 80vh;
+    width: 100vw;
+    position:relative;
+    top: 0;
+    left: 0;
+ 
+  }
+  
+  
+  
+  .hero img {
+    height: 80svh;
+    height: 80vh;
+    width: 100vw;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+}
+
+.content.homeherobox {
+  position: relative;
+  background-color: transparent;
+  width: calc(80vw - 2rem);
+  max-width: 1000px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0 auto;
+  height: 0;
+  min-height: 0;
+  z-index: 0;
+  overflow:visible;
+ 
+  }
+
+
+.flex-caption {
+  background: var(--black40);
+  font-size: 14px;
+  top: 35vh;
+  left: 0px;
+  line-height: 18px;
+  padding: 0;
+  position: relative;
+  text-align: left;
+  width: calc(80vw - 2rem);
+  max-width: 500px;
+  margin: 0;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  z-index: 1;
+
+  animation-name: fadein;
+  animation-duration: 2s;
+ 
+
+}
+
+@keyframes fadein {
+  from {opacity:0;}
+  to {opacity:1;}
+}
+
+
+
+
+.flex-captionh1box {
+
+padding: 2rem;
+  color: var(--white);
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+
+}
+
+.flex-caption h1 {font-size:3rem;
+padding:0;margin:0;}
+
+
+.flex-captionwhitebox { 
+  background: var(--white);
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+  padding:2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.homecards .flex-captionwhitebox { 
+ 
+  padding:1rem;
+
+}
+
+
+
+.flex-captionbutton {display:flex; justify-content: flex-end;align-items: center;}
+
+
+.flex-captionp {max-width: 240px;}
+
+.content.redgradientcontent .homecards .flex-captionp {
+  max-width: 100%;
+  margin:1rem 0;
+min-height: 5.8rem;}
+
+.flex-captionp p {font-size:24px;font-weight: 500;color: var(--black);}
+
+.content.redgradientcontent .homecards .flex-captionp p {font-size:20px;font-weight: 500;color: var(--black);
+  text-align: left;}
+
+.flex-captionprodlink {display:flex;justify-content: flex-start;align-items: center;}
+.flex-captionprodlink a {color: var(--text);text-decoration: none;font-weight: 400;font-size: 20px;}
+.flex-captionprodlink a:hover {color: var(--primary);text-decoration: none;}
+
+.homecards .flex-captionprodlink a {color: var(--text);text-decoration: none;font-weight: 400;font-size: 14px;}
+
+.homecards .flex-captionprodlink a:hover {color: var(--primary);}
+
+.homecards img {
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+  width: 100%;
+}
+
+.homecards img:hover {
+  filter: brightness(110%);
+  transition: all 0.2s ease-in-out;
+  width: 100%;
+}
+
+@media (max-width: 1024px) {
+
+  .flex-caption {
+    background: var(--black40);
+    font-size: 14px;
+    bottom: 54vh;
+    left: 0px;
+    line-height: 18px;
+    padding: 0;
+    width: 100%;
+    max-width: 800px;
+    margin: 0;
+  
+  }
+}
+
+@media (max-width: 800px) {
+
+  .content.homeherobox {
+    position: relative;
+    background-color: transparent;
+    width: calc(100vw - 2rem);
+    max-width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    min-height: auto;
+    padding:0;
+}
+
+
+  .flex-caption {
+top: 35vh;
+position: relative;
+    text-align: left;
+    width: calc(100vw - 2rem);
+    max-width: 800px;
+    margin: 0;
+  
+  }
+
+  .flex-captionh1box, .flex-captionwhitebox {
+  padding: 1rem;}
+
+}
+@media (max-width: 500px) {
+
+.flex-caption {
+top: 35vh;
+
+  
+  }
+}

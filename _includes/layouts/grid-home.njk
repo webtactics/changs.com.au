@@ -1,67 +1,55 @@
 {% extends "layouts/grid-default.njk" %}
 
 
-{% block bodyclass %}<body class=" {{ class }}" >{% endblock %}
+{% block hero %}
+ 
+{% include "components/grid-hero.njk" %}
+
+{% endblock %}
+
+    {% block redgradient %}
+      <div class="redgradient">
+        <div class="redgradientcontent">
+          <div class="redgradientcontentwrapper">
+            <h1 style="text-align:center;" class="text-center white">{{ title }}</h1>
+            <div class="redgradientcontenttextbox">
+              <p style="text-align:center;" class="text-center white">{% if subtitle %}{{ subtitle }}{% else %}{{ description }}{% endif %}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endblock %}
 
 
 
 
 
-{% block content %}
+
+{% block content2 %}
+
 <div class="container">
-	<main class="content" data-pagefind-body>
-		<img src="{{ image or metadata.image }}" alt="" data-pagefind-meta="image[src]" style="display:none">
 
+	<div class="content home">
 
-	<div class="content-left-news">
+		<div class="changs-house">
+    		<img src="https://ik.imagekit.io/webtactics/changs-media/assets/icons/changs-bowl_pyS8wDFp1.png?updatedAt=1711837496199" alt="Chang's Flavours of Asia" title="Chang's Flavours of Asia" width="106px" height="79px">
+		</div>
 
-		<div class="text">
-    		<div class="titlebox fade-in"><h2 class="heading-text">{{ subtitle }}</h2></div>
-      			{{ content | safe }}
+		<h3 class="text-center">Latest Recipes</h3>
+          
+		{% set postslist = collections['Latest-Recipes'] | reverse | limit(3)  %} 
+		{% include "components/postlist/postslist-recipes-3-wide.njk" %}
+
+		<div class="wtbbox4">
+    		<div class="wtbboxwrapper">
+         		<div class="text-centerflex">
+            		<a href="/recipes/" class="button success" title="View all recipes" alt="View all recipes">View all recipes</a>
+        		</div>
+    		</div>
 		</div>
 
 	</div>
 
-        
-<div class="eightypercentborder"></div>
-
-<div class="two-colum-wrapper">	
-
-<div class="content who-we-serve"><div class="indent has-title"><h2 class="heading-text"><a href="/products/whats-in-season/" title="What's in Season." alt="What's in Season.">What's in Season.</a></h2></div></div>
-
-
-
-
-    <div class="newswrapper fade-in">
-	    {%- set postslist = collections['In Season'] | reverse | limit(4) -%} 
-	    {% include "components/postlist/postslist-products-4-wide-no-link.njk" %}
-    </div>
-	<div class="linkwrapper"><a class="resultspdf" href="/products/" title="All Products" alt="All Products">All Products &gt;</a></div>
 </div>
-
-
-<div class="two-colum-wrapper">	
-  <div class="content who-we-serve"><div class="indent has-title"><h2 class="heading-text"><a href="/about/news/" title="Latest News." alt="Latest News.">Fresh Thinking Recipes.</a></h2></div></div>
-
-    <div class="newswrapper fade-in">
-	    {%- set postslist = collections['Recipes'] | limit(3) -%} 
-	    {% include "components/postlist/postslist-recipes-3-wide.njk" %}
-    </div>
-	<div class="linkwrapper"><a class="resultspdf" href="/products/recipes/" title="Fresh Thinking Recipes." alt="Fresh Thinking Recipes.">Recipes &gt;</a></div>
-</div>
-
-
-
-
-
-
-	</main>
-</div>
-
-
 
 {% endblock %}
-
-
-
-
