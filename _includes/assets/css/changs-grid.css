@@ -1416,11 +1416,11 @@ svg:hover {
   color : var(--primary);
 }
 
-.social-contact svg {
+.social-contact svg, .infoboxmobile svg {
   color: var(--primary);
 }
 
-.social-contact svg:hover {
+.social-contact svg:hover, .infoboxmobile svg:hover {
   color: var(--black);
 }
 
