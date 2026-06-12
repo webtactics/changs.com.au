@@ -1,16 +1,16 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Search
+title: Search Results
 metatitle: Search - Chang's Authentic Asian Cooking
-description: Search Chang's Flavours of Asia
+description: "We hope you enjoy exploring our collection of authentic Asian products and recipes. If you have any questions or need assistance, please don't hesitate to contact us. Happy cooking!"
 date: 2026-06-12
 class: search
 permalink: /search/
 eleventyExcludeFromCollections: true
+
+
+subtitle: "We hope you enjoy exploring our collection of authentic Asian products and recipes. If you have any questions or need assistance, please don't hesitate to contact us. Happy cooking!"
 ---
-
-<div class="pad8rem"></div>
-
 <div id="search"></div>
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
