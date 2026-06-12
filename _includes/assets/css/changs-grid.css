@@ -2278,6 +2278,27 @@ select {
   min-height: 300px;
 }
 
+.emailbox h3 {
+  color: var(--primary);
+  text-transform: none;
+  font-size: 3rem;
+  font-family: 'Perpetua', sans-serif;
+  text-align: left;
+  padding: 0.5rem;
+  margin: 0;
+  background: var(--white20);
+}
+
+.emailbox p {
+  color: var(--black);
+  font-size: 20px;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  padding: 0.5rem;
+  margin: 0;
+  background: var(--white20);
+}
 
 
 .emailbgrowlefttop {
@@ -2313,40 +2334,8 @@ select {
   font-size: 14px;
   height: 40px;
 }
-h3.emailboxh3 {
-  font-weight: 700;
-  font-size: 2rem;
-  line-height: 2rem;
-  position: relative;
-  z-index: 10;
-  letter-spacing: -2px;
-  padding: 0 0 0 4rem;
-  text-decoration: none;
-  color: var(--primary);
-background: var(--white);
-  
-
-  z-index: 2;
-
-}
-
-h3.emailboxh3::before {
-  content: "";
-  display: block;
-  position: absolute;
-  left: 0rem;
-top: 0.75rem;
-  width: 3rem;
-  height: .35rem;
-  background-color: var(--white);
 
 
-}
-
-.newslettertitlebg {
-background-color: rgba(0,0,0,0.30);
-
-}
 
 
 /* recipes
