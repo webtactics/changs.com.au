@@ -2696,7 +2696,10 @@ padding:0 2rem;
   grid-template-columns: 3fr 2fr;
   gap: 3rem;
 }
-
+.grid-2-flex-caption {
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
 
 .grid-2-thanks {
   grid-template-columns: 1fr 1fr;
