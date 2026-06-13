@@ -47,7 +47,7 @@
 
   --transitionLength: 0.4s;
   --transitionTiming: ease;
-  --transitionquick: 0.6s;
+  --transitionquick: var(--animation-delay);
   --transitionslow: 1s;
 
 
@@ -1450,11 +1450,11 @@ svg:hover {
     z-index: 2;
     width: calc(100vw - 1.25rem);
     max-width: 1440px;
-    -webkit-transition: all 0.6s;
-    -moz-transition: all 0.6s;
-    -ms-transition: all 0.6s;
-    -o-transition: all 0.6s;
-    transition: all 0.6s;
+    -webkit-transition: all var(--animation-delay);
+    -moz-transition: all var(--animation-delay);
+    -ms-transition: all var(--animation-delay);
+    -o-transition: all var(--animation-delay);
+    transition: all var(--animation-delay);
    } 
 
    .footernavwrapper .logo, .footernavwrapper .scrolled .logo {
@@ -1462,22 +1462,22 @@ svg:hover {
     height: 160px;
     justify-content: flex-start;
     align-items: center;
-    -webkit-transition: all 0.6s;
-    -moz-transition: all 0.6s;
-    -ms-transition: all 0.6s;
-    -o-transition: all 0.6s;
-    transition: all 0.6s;
+    -webkit-transition: all var(--animation-delay);
+    -moz-transition: all var(--animation-delay);
+    -ms-transition: all var(--animation-delay);
+    -o-transition: all var(--animation-delay);
+    transition: all var(--animation-delay);
   }
   
   .footernavwrapper  .navrightside {
     display: flex;
     height: 160px;
     flex-direction: column;
-    -webkit-transition: all 0.6s;
-    -moz-transition: all 0.6s;
-    -ms-transition: all 0.6s;
-    -o-transition: all 0.6s;
-    transition: all 0.6s;
+    -webkit-transition: all var(--animation-delay);
+    -moz-transition: all var(--animation-delay);
+    -ms-transition: all var(--animation-delay);
+    -o-transition: all var(--animation-delay);
+    transition: all var(--animation-delay);
   }
   .footernavwrapper  .navrightupperspace {
     text-align: right;
@@ -1491,11 +1491,11 @@ svg:hover {
   .footernavwrapper  .navrightsidetopline {
     text-align: right;
     height: 36px;
-    -webkit-transition: all 0.6s;
-    -moz-transition: all 0.6s;
-    -ms-transition: all 0.6s;
-    -o-transition: all 0.6s;
-    transition: all 0.6s;
+    -webkit-transition: all var(--animation-delay);
+    -moz-transition: all var(--animation-delay);
+    -ms-transition: all var(--animation-delay);
+    -o-transition: all var(--animation-delay);
+    transition: all var(--animation-delay);
     padding:0;
   }
 
@@ -2068,13 +2068,13 @@ button.success, .button.success {
   padding: 0.4rem 3rem;
   margin: 0;
   text-decoration: none;
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.8s;
-  -ms-transition: all 0.8s;
-  -o-transition: all 0.8s;
-  transition: all 0.8s;
+  -webkit-transition: all var(--animation-delay);
+  -moz-transition: all var(--animation-delay);
+  -ms-transition: all var(--animation-delay);
+  -o-transition: all var(--animation-delay);
+  transition: all var(--animation-delay);
   cursor: pointer;
-    text-decoration: none;
+  text-decoration: none;
 }
 
 button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
@@ -2082,14 +2082,20 @@ button.success:hover, button.success:focus, .button.success:hover, .button.succe
   border: 0.3rem solid var(--black);
   border-radius: 20px;
   color: var(--white);
-  -webkit-transition: all 0.8s;
-  -moz-transition: all 0.8s;
-  -ms-transition: all 0.8s;
-  -o-transition: all 0.8s;
-  transition: all 0.8s;
+  -webkit-transition: all var(--animation-delay);
+  -moz-transition: all var(--animation-delay);
+  -ms-transition: all var(--animation-delay);
+  -o-transition: all var(--animation-delay);
+  transition: all var(--animation-delay);
   cursor: pointer;
-    text-decoration: none;
+  text-decoration: none;
 }
+
+
+button.success.home, .button.success.home {
+  padding: 0.6rem 3rem;
+}
+
 
 .close-nav-wrapper {
   display: flex;
@@ -3322,11 +3328,11 @@ textarea
  .accordion-trigger:hover, .accordion-trigger:active, .accordion-trigger:focus {
 
    transition: box-shadow var(--transitionLength) var(--transitionTiming);
-  -webkit-transition: all 0.6s;
-    -moz-transition: all 0.6s;
-    -ms-transition: all 0.6s;
-    -o-transition: all 0.6s;
-    transition: all 0.6s;
+  -webkit-transition: all var(--animation-delay);
+    -moz-transition: all var(--animation-delay);
+    -ms-transition: all var(--animation-delay);
+    -o-transition: all var(--animation-delay);
+    transition: all var(--animation-delay);
 
 text-decoration: none;
   color: var(--white);
