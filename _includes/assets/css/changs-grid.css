@@ -2097,6 +2097,14 @@ button.success.home, .button.success.home {
   font-size: 1.25rem;
 }
 
+@media (max-width: 800px) {
+button.success.home, .button.success.home {
+  
+    border-radius: 40px;
+    margin: 1rem 0 0 0;
+    width: 100%;
+  }
+}
 
 .close-nav-wrapper {
   display: flex;
