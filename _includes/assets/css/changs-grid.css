@@ -3709,7 +3709,7 @@ font-family: 'Perpetua', sans-serif;
 .flex-caption {
   background: var(--black40);
   font-size: 14px;
-  top: 23vh;
+  top: 22vh;
   left: 0px;
   line-height: 18px;
   padding: 0;
@@ -3732,8 +3732,6 @@ font-family: 'Perpetua', sans-serif;
   from {opacity:0;}
   to {opacity:1;}
 }
-
-
 
 
 .flex-captionh1box {
@@ -3759,11 +3757,10 @@ padding:0;margin:0;}
 }
 
 .homecards .flex-captionwhitebox { 
- 
-  padding:1rem;
+
+padding:1rem;
 
 }
-
 
 
 .flex-captionbutton {display:flex; justify-content: flex-end;align-items: center;}
