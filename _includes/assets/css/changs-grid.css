@@ -2110,6 +2110,15 @@ padding: 3rem 1rem;}
 /* Select box 
 ------------------------------------------------- */
 
+.content.selectnavbox {
+  margin: 0 auto;
+  padding: 3rem 0 0 0;
+  width: calc(96vw - 1rem);
+  max-width: 1000px;
+  background-color: transparent;
+  min-height: 200px;
+}
+
 select {
  
   margin: 0 0 1rem;
@@ -2419,34 +2428,7 @@ h4.sum-title a:hover {
   border-bottom-right-radius: .5rem;
 }
 
-/* Who we serve
-------------------------------------------------- */
-.content-who-we-serve {
-  padding: 0 0 12rem 0;
-  background-color: var(--white);
-}
 
-.clients .client {
-  float: left;
-  width: 33.3333%;
-  background-color: #f2f2f2;
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.clients .client:nth-child(2n) {
-  background-color: #d8d8d8;
-}
-.clients .client img {
-margin:0 auto;
-}
-
-@media (min-width: 1921px) { 
-.clients .client {
-  width: 20%;
-}
-}
 
 /* ============================================================
    SECTION: WHO WE SERVE

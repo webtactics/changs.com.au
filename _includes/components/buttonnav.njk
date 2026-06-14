@@ -25,6 +25,20 @@
     {title: "Lamb", url: "/recipes/main-ingredient/lamb/"},
     {title: "Beef", url: "/recipes/main-ingredient/beef/"}
   ],
+  poultry: [
+    {title: "Poultry", url: "/recipes/main-ingredient/poultry/"},
+    {title: "Chicken", url: "/recipes/main-ingredient/poultry-recipes/chicken/"},
+    {title: "Duck", url: "/recipes/main-ingredient/poultry-recipes/duck/"},
+    {title: "Turkey", url: "/recipes/main-ingredient/poultry-recipes/turkey/"}
+  ],
+  seasonal: [
+    {title: "Seasonal", url: "/recipes/seasonal/"},
+    {title: "Festive", url: "/recipes/seasonal/festive/"},
+    {title: "Spring", url: "/recipes/seasonal/spring/"},
+    {title: "Summer", url: "/recipes/seasonal/summer/"},
+    {title: "Autumn", url: "/recipes/seasonal/autumn/"},
+    {title: "Winter", url: "/recipes/seasonal/winter/"}
+  ],
   dishtype: [
     {title: "Dinner for Two", url: "/recipes/dish-type/dinner-for-two/"},
     {title: "Sweet Treats", url: "/recipes/dish-type/sweet-treats/"},
@@ -45,10 +59,14 @@
 
 {% if url.startsWith("/products/") %}
   {% set navItems = buttonnavGroups.products %}
+{% elif url.startsWith("/recipes/main-ingredient/poultry") %}
+  {% set navItems = buttonnavGroups.poultry %}
 {% elif url.startsWith("/recipes/main-ingredient/") %}
   {% set navItems = buttonnavGroups.mainingredient %}
 {% elif url.startsWith("/recipes/dish-type/") %}
   {% set navItems = buttonnavGroups.dishtype %}
+{% elif url.startsWith("/recipes/seasonal") %}
+  {% set navItems = buttonnavGroups.seasonal %}
 {% elif url.startsWith("/why-changs/") %}
   {% set navItems = buttonnavGroups.whychangs %} 
 {% elif url.startsWith("/recipes/") %}
@@ -71,7 +89,7 @@
     </div>
   </div>
 
-  <div class="selectnavbox hide-for-large">
+<div class="content selectnavbox hide-for-large">
     <div class="selectboxwrapper hide-for-large">
       <p>Check out our section below, or narrow your search using one of the selector options.</p>
       <div class="selectbox">
