@@ -927,7 +927,7 @@ ul.off-canvas-list span.nav-section-header.nav-accordion-toggle {
 ul.off-canvas-list .nav-accordion-toggle::after {
   content: '';
   position: absolute;
-  top: 50%;
+  top: 20%;
   right: 1.2rem;
   width: 0.8rem;
   height: 0.8rem;
