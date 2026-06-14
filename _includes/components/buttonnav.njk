@@ -65,7 +65,7 @@
     <div class="buttonnav hide-for-small">
       <div class="buttonnavwrapper">
         {% for item in navItems %}
-        <button class="{% if url == item.url %}currentpage{% endif %}"><a class="{% if url == item.url %}currentpage{% endif %}" href="{{ item.url }}">{{ item.title }}</a></button>
+        <button class="{% if url == item.url %}currentpage{% endif %}"><a class="{% if url == item.url %}currentpage{% endif %}" href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></button>
         {% endfor %}
       </div>
     </div>
