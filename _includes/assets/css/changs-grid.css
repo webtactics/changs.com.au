@@ -1198,13 +1198,7 @@ color: var(--primary);
 background-color: var(--white);
 }
 
-ul.navbar-menu li.parent.active-class ul.second-level li a {
-font-size: 1rem;
-line-height:3rem;
-height: 3rem;
-color: var(--white);
-background-color: var(--black);
-}
+
 
 ul.navbar-menu li.parent.active-class ul.second-level li.active-class a, ul.navbar-menu li.parent.active-class ul.second-level li.active-class a:hover {
 font-size: 1rem;
@@ -1212,6 +1206,14 @@ line-height:3rem;
 height: 3rem;
 color: var(--primary);
 background-color: var(--white);
+}
+
+ul.navbar-menu li.parent.active-class ul.second-level li a {
+font-size: 1rem;
+line-height:3rem;
+height: 3rem;
+color: var(--white);
+background-color: var(--black);
 }
 
   @media (max-width: 1300px) {
