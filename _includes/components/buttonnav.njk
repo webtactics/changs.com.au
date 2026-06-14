@@ -9,7 +9,7 @@
   ],
   recipes: [
     {title: "Main Ingredient", url: "/recipes/main-ingredient/"},
-    {title: "Soup & Salad", url: "/recipes/soup/"},
+    {title: "Soup & Salad", url: "/recipes/soup-salad/"},
     {title: "Quick and Easy", url: "/recipes/quick-and-easy/"},
     {title: "Stir-fry", url: "/recipes/stir-fry/"},
     {title: "Main Meals", url: "/recipes/main-meals/"},
@@ -18,28 +18,12 @@
   ],
   mainingredient: [
     {title: "Vegetarian", url: "/recipes/main-ingredient/vegetarian/"},
-    {title: "Noodles", url: "/recipes/main-ingredient/noodles-ingredient/"},
+    {title: "Noodles", url: "/recipes/main-ingredient/noodles/"},
     {title: "Seafood", url: "/recipes/main-ingredient/seafood/"},
-    {title: "Poultry", url: "/recipes/main-ingredient/poultry-recipes/"},
+    {title: "Poultry", url: "/recipes/main-ingredient/poultry/"},
     {title: "Pork", url: "/recipes/main-ingredient/pork/"},
     {title: "Lamb", url: "/recipes/main-ingredient/lamb/"},
     {title: "Beef", url: "/recipes/main-ingredient/beef/"}
-  ],
-  whychangs: [
-    {title: "About Us", url: "/why-changs/"},
-    {title: "Sustainability", url: "/why-changs/sustainability/"},
-    {title: "Privacy Policy", url: "/why-changs/privacy-policy/"}
-  ],
-  changstv: [
-    {title: "Chang's TV", url: "/changstv/"},
-    {title: "Products", url: "/products/"},
-    {title: "Recipes", url: "/recipes/"}
-  ],
-  poultry: [
-    {title: "Poultry Recipes", url: "/recipes/main-ingredient/poultry-recipes/"},
-    {title: "Chicken", url: "/recipes/main-ingredient/poultry-recipes/chicken/"},
-    {title: "Duck", url: "/recipes/main-ingredient/poultry-recipes/duck/"},
-    {title: "Turkey", url: "/recipes/main-ingredient/poultry-recipes/turkey/"}
   ],
   dishtype: [
     {title: "Dinner for Two", url: "/recipes/dish-type/dinner-for-two/"},
@@ -48,36 +32,26 @@
     {title: "Healthy Meals", url: "/recipes/dish-type/healthy-meals/"},
     {title: "Dairy Free", url: "/recipes/dish-type/dairy-free/"},
     {title: "Starters", url: "/recipes/dish-type/starters/"},
-    {title: "BBQ", url: "/recipes/dish-type/bbq/"},
-    {title: "Festive", url: "/recipes/seasonal/festive/"},
-    {title: "Spring", url: "/recipes/seasonal/spring/"},
-    {title: "Summer", url: "/recipes/seasonal/summer/"},
-    {title: "Autumn", url: "/recipes/seasonal/autumn/"},
-    {title: "Winter", url: "/recipes/seasonal/winter/"}
+    {title: "BBQ", url: "/recipes/dish-type/bbq/"}
+  ],
+  whychangs: [
+    {title: "About Us", url: "/why-changs/"},
+    {title: "Sustainability", url: "/why-changs/sustainability/"},
+    {title: "Privacy Policy", url: "/why-changs/privacy-policy/"}
   ]
 } %}
 
-{% set alias = page.fileSlug %}
+{% set url = page.url %}
 
-{% if alias in ["recipes","products","noodles","sauces","gluten-free-products","tamari-wheat-free-sauces","wheat-free-sauces"] %}
-  {% if alias == "recipes" %}
-    {% set navItems = buttonnavGroups.recipes %}
-  {% else %}
-    {% set navItems = buttonnavGroups.products %}
-  {% endif %}
-{% elif alias in ["main-ingredient","vegetarian","noodles-ingredient","noodles-ingredients","seafood","pork","lamb","beef","super-lo-cal"] %}
-  {% set navItems = buttonnavGroups.mainingredient %}
-{% elif alias in ["why-changs","sustainability","privacy-policy"] %}
-  {% set navItems = buttonnavGroups.whychangs %}
-{% elif alias == "changstv" %}
-  {% set navItems = buttonnavGroups.changstv %}
-{% elif alias in ["poultry-recipes","duck","turkey","chicken"] %}
-  {% set navItems = buttonnavGroups.poultry %}
-{% elif alias in ["dinner-for-two","sweet-treats","light-bites","healthy-meals","dairy-free","starters","bbq","festive","spring","summer","autumn","winter"] %}
-  {% set navItems = buttonnavGroups.dishtype %}
-{% elif page.url.startsWith("/products/") %}
+{% if url.startsWith("/products/") %}
   {% set navItems = buttonnavGroups.products %}
-{% elif page.url.startsWith("/recipes/") %}
+{% elif url.startsWith("/recipes/main-ingredient/") %}
+  {% set navItems = buttonnavGroups.mainingredient %}
+{% elif url.startsWith("/recipes/dish-type/") %}
+  {% set navItems = buttonnavGroups.dishtype %}
+{% elif url.startsWith("/why-changs/") %}
+  {% set navItems = buttonnavGroups.whychangs %}
+{% elif url.startsWith("/recipes/") %}
   {% set navItems = buttonnavGroups.recipes %}
 {% else %}
   {% set navItems = [] %}
@@ -85,13 +59,13 @@
 
 {% if navItems.length %}
 {% set currentInGroup = false %}
-{% for item in navItems %}{% if page.url == item.url %}{% set currentInGroup = true %}{% endif %}{% endfor %}
+{% for item in navItems %}{% if url == item.url %}{% set currentInGroup = true %}{% endif %}{% endfor %}
 <div class="container">
   <div class="content buttonnavbox hide-for-small">
     <div class="buttonnav hide-for-small">
       <div class="buttonnavwrapper">
         {% for item in navItems %}
-        <button class="{% if page.url == item.url %}currentpage{% endif %}"><a class="{% if page.url == item.url %}currentpage{% endif %}" href="{{ item.url }}">{{ item.title }}</a></button>
+        <button class="{% if url == item.url %}currentpage{% endif %}"><a class="{% if url == item.url %}currentpage{% endif %}" href="{{ item.url }}">{{ item.title }}</a></button>
         {% endfor %}
       </div>
     </div>
@@ -104,7 +78,7 @@
         <select name="forma" onchange="location = this.value;">
           <option disabled="disabled" {% if not currentInGroup %}selected="selected"{% endif %} value="">-- Select Section --</option>
           {% for item in navItems %}
-          <option value="{{ item.url }}" {% if page.url == item.url %}selected="selected"{% endif %}>{{ item.title }}</option>
+          <option value="{{ item.url }}" {% if url == item.url %}selected="selected"{% endif %}>{{ item.title }}</option>
           {% endfor %}
         </select>
       </div>
