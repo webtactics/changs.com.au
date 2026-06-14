@@ -42,7 +42,7 @@
 
 
   --transitionTiming: ease;
-  --transition03: 0.03s;
+  --transition03: 300ms;
   --transition06: 0.6s;
   --transitionslow: 1s;
 
@@ -939,7 +939,7 @@ ul.off-canvas-list .nav-accordion-toggle::after {
   transform: rotate(45deg);
   transform-origin: center;
   transition: transform var(--transition03) ease;
-  background: var(--black);
+  background: transparent;
 }
 
 ul.off-canvas-list li.open > .nav-item-row .nav-accordion-toggle::after {
