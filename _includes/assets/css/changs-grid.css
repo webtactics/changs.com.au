@@ -1375,6 +1375,7 @@ margin:0;
       }
 
       .footernavwrapper .navrightsidetopline {
+         display: block;
       text-align: left;
       height: auto;
       padding:0;
