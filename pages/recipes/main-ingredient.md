@@ -1,8 +1,8 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Main Ingredients Recipes
+title: "Main Ingredient Section"
 class: recipes
-description: All the noodles you will ever need or want to create authentic Asian cuisine to serve up in so many ways.
+description: "Our Main Ingredient section highlights key components, helping to guide you towards recipes containing available or desired ingredients."
 date: 2023-01-01
 permalink: "/recipes/main-ingredient/"
 eleventyNavigation:
@@ -13,3 +13,5 @@ eleventyNavigation:
 
 subtitle: "Our Main Ingredient section highlights key components, helping to guide you towards recipes containing available or desired ingredients."
 ---
+{% set postslist = collections['Recipes'] | reverse  %} 
+{% include "components/postlist/postslist-recipes-4-wide.njk" %}
