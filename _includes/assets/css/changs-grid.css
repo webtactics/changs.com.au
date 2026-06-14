@@ -3665,12 +3665,17 @@ min-height: 5.8rem;}
   border-top-left-radius: 0.5rem;
   border-top-right-radius: 0.5rem;
   width: 100%;
+   aspect-ratio: 400 / 267;
 }
 
 .homecards img:hover {
   filter: brightness(110%);
   transition: all var(--transition06) ease-in-out;
   width: 100%;
+}
+
+img.homeboximg {
+  aspect-ratio: 400 / 267;
 }
 
 @media (max-width: 1024px) {
