@@ -2276,30 +2276,18 @@ h3.news-title a:hover {
   width: 100%;
   aspect-ratio: 4/3;
 }
- .recipessummary .radiussum3image img {
+
+ .recipessummary .radiussum3image img.home3img,  .recipessummary .radiussum4image img.home4img {
   border-radius: .5rem;
   width: 100%;
   aspect-ratio: 500/333;
 }
- .recipessummary .radiussum3image img.home3img {
-  border-radius: .5rem;
-  width: 100%;
-  aspect-ratio: 500/333;
-}
 
+ .recipessummary:hover .radiussum3image img.home3img,  .recipessummary:hover .radiussum4image img.home4img {
 
-
- .recipessummary .radiussum4image img {
-  border-radius: .5rem;
-  width: 100%;
-  aspect-ratio: 400/267;
-}
-
-
-.recipessummary:hover img {
   filter: brightness(110%);
   transition: all .2s ease-in-out;
- aspect-ratio: 4/3;
+  aspect-ratio: 500/333;
 }
 
 
