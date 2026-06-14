@@ -2601,8 +2601,14 @@ padding:0 2rem;
   grid-template-columns: repeat(auto-fill, minmax(min(var(--grid-auto-fill-4-min-col-size), 100%), 1fr));
 
 }
+
+.grid-4-homeboxes {
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+}
+
 .grid-4-prod-detail {
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: repeat(4, 1fr);
   gap: 0;
   padding: 0.5rem 0;
   border-bottom: 1px solid var(--primary);
@@ -2613,7 +2619,7 @@ padding:0 2rem;
 }
 
 .grid-4-footer {
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
   justify-items: end;
 }
