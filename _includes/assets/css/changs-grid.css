@@ -1198,7 +1198,13 @@ color: var(--primary);
 background-color: var(--white);
 }
 
-
+ul.navbar-menu li.parent.active-class ul.second-level li a {
+font-size: 1rem;
+line-height:3rem;
+height: 3rem;
+color: var(--white);
+background-color: var(--black);
+}
 
   @media (max-width: 1300px) {
 ul.second-level {
