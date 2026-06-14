@@ -2776,6 +2776,19 @@ font-style: normal;
     gap: 0;
   }
 
+  .grid-3-columns.recipes {
+    display: grid;
+    grid: auto / auto-flow max-content;
+    grid-gap: 1rem;
+    align-items: center;
+    overflow-x: auto;
+    scroll-snap-type: x proximity;
+    scroll-snap-align: center;
+  }
+
+
+
+
   .grid-committee  {
     grid-template-columns: repeat(1, 1fr);
     gap: 0.25rem;
