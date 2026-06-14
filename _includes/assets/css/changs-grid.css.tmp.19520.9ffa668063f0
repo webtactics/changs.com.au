@@ -1242,7 +1242,14 @@ color: var(--white);
 background-color: var(--black);
 }
 
+  @media (max-width: 1300px) {
+ul.second-level {
+    width: 10rem;
+    font-size: 0.9rem;
+  }
 
+
+}
 
 ul.navbar-menu ul li.parent::after {
   content: '';
@@ -3081,10 +3088,6 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
 
 
 
-/* ============================================================
-   SECTION: USEFUL LINKS & MAPS
-   ============================================================ */
-
 /* Useful links */
 
 .map {
@@ -3119,10 +3122,6 @@ ul  li.taggs a:hover, ul  li.taggs  a:focus {
   height: 100% !important;
 
 }
-
-/* ============================================================
-   SECTION: CONTACT FORM & ACCORDION
-   ============================================================ */
 
 /* Contact Form */
 form {
@@ -3372,10 +3371,6 @@ span.contacttext {padding: 0 0.4rem;}
 
 
 
-/* ============================================================
-   SECTION: SCROLL FADE-IN ANIMATIONS
-   ============================================================ */
-
 /* Fade-in from-left */
 
 .fade-in {transform: translateY(4rem);opacity: 0;transition-property: transform, opacity;transition-duration: 1s;transition-timing-function: linear;}
@@ -3411,10 +3406,6 @@ span.contacttext {padding: 0 0.4rem;}
 
 
 
-/* ============================================================
-   SECTION: VISIBILITY UTILITIES
-   ============================================================ */
-
 /* Bottom */
 
 
@@ -3434,11 +3425,7 @@ span.contacttext {padding: 0 0.4rem;}
   }
 
 
-  /* ============================================================
-   SECTION: RED GRADIENT / ABOUT SECTIONS
-   ============================================================ */
-
-.redgradient {
+  .redgradient {
   position: relative;
   margin: 0;
   background-repeat: repeat;
@@ -3548,10 +3535,6 @@ font-family: 'Perpetua', sans-serif;
 
 
 
-/* ============================================================
-   SECTION: SEARCH MODAL & MISC HEADER UTILITIES
-   ============================================================ */
-
 .headerspace {
   height: var(--headerheight);
 }
@@ -3625,10 +3608,6 @@ font-family: 'Perpetua', sans-serif;
   cursor: pointer;
 }
 
-
-/* ============================================================
-   SECTION: HOMEPAGE HERO
-   ============================================================ */
 
 /* homepage hero */
 
@@ -3851,10 +3830,6 @@ top: 35vh;
   
   }
 }
-/* ============================================================
-   SECTION: BUTTON NAV
-   ============================================================ */
-
 .content.buttonnavbox {
   margin: 0 auto;
   padding: 4rem 0 0 0;
