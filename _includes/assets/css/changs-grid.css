@@ -675,14 +675,14 @@ a.logolink:hover {background-color: transparent;}
 
 @media screen and (max-width: 1024px) {
 
-  .logo {
+  .logo,  .scrolled .logo {
     
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     height: var(--mobilenavheight);
     width: auto;
-  text-align: right;
+  text-align: center;
     -webkit-transition: all var( --transition06);
     -moz-transition: all var( --transition06);
     -ms-transition: all var( --transition06);
@@ -690,25 +690,13 @@ a.logolink:hover {background-color: transparent;}
     transition: all var( --transition06);
   }
   
-   .scrolled .logo {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    height: var(--mobilenavheight);
-    width:221px;
-  text-align: right;
-    -webkit-transition: all var( --transition06);
-    -moz-transition: all var( --transition06);
-    -ms-transition: all var( --transition06);
-    -o-transition: all var( --transition06);
-    transition: all var( --transition06);
-   }
+
 
   .logo img, .scrolled .logo img  {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
-    align-content: end;
+    align-content: center;
     max-width: 221px;
   }
 
