@@ -2881,6 +2881,7 @@ font-style: normal;
     .grid-4-homeboxes {
       grid-template-columns: repeat(1, 1fr);
       gap: 1rem;
+      margin: 2rem auto;
     }
 
     .grid-2-flex-caption, .grid-2-about {
