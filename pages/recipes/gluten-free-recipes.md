@@ -1,6 +1,6 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Gluten Free & Gluten Free Variation Recipes
+title: Gluten Free & Gluten Free Variation Recipes
 class: recipes
 description: "Gluten Free recipes, that aren't just for the gluten-free."
 date: 2023-01-04

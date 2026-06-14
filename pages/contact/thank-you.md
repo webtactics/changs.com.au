@@ -1,10 +1,12 @@
 ---
-title: Thank you for contacting us!
-description: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.description will be used instead.
+title: Thank you for joining Chang's Gang
+description: "You’ve just signed up for our (mostly) monthly email newsletter where we share generally easy to make and fun recipe ideas, product news, exclusive competitions and more!"
 date: 2017-01-01T00:00:00.000Z
 eleventyNavigation:
   key: Thanks
   parent: Contact
+
+subtitle: "You’ve just signed up for our (mostly) monthly email newsletter where we share generally easy to make and fun recipe ideas, product news, exclusive competitions and more!"
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 

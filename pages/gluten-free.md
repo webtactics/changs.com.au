@@ -1,12 +1,13 @@
 ---
 layout: layouts/grid-default.njk
-title: Chang's Gluten Free Products and Recipes
+title: Gluten Free Products and Recipes
 description: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.description will be used instead.
 section: gluten-free
 date: 2023-01-01
 permalink: /gluten-free/
 eleventyExcludeFromCollections: true
 
+subtitle: "Whether you choose to avoid gluten for lifestyle or health reasons, going gluten-free doesn’t mean missing out."
 ---
 
 

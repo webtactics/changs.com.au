@@ -1,6 +1,6 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Desserts & Sweet Treats!
+title: Desserts & Sweet Treats!
 class: recipes
 description: "Oh, come on, a little fun won’t hurt. Not just for the kids."
 date: 2023-01-04

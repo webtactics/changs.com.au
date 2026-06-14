@@ -1,8 +1,8 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Seafood Recipes
+title: Seafood Recipes
 class: recipes
-description: "Thinking seafood recipes, think, Chang’s Seafood Recipes, with all you need to create authentic Asian cuisine."
+description: "Think seafood recipes, think, Chang’s Seafood Recipes, with all you need to create authentic Asian cuisine."
 date: 2023-01-04
 permalink: "recipes/main-ingredient/seafood/"
 eleventyNavigation:
@@ -10,7 +10,7 @@ eleventyNavigation:
   parent: Main Ingredient
   order: 5
 
-subtitle: "Thinking seafood recipes, think, Chang’s Seafood Recipes, with all you need to create authentic Asian cuisine."
+subtitle: "Think seafood recipes, think, Chang’s Seafood Recipes, with all you need to create authentic Asian cuisine."
   
 ---
 {% set postslist = collections['Seafood'] | reverse  %} 

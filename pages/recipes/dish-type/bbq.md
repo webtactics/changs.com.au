@@ -1,6 +1,6 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's BBQ Recipes
+title: BBQ Recipes
 class: recipes
 description: "Fire up the BBQ and savour the flavour with our mouthwatering BBQ recipes. Elevate your outdoor dining experience with our irresistible dishes."
 date: 2023-01-04

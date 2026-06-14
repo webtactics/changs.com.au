@@ -1,6 +1,6 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Healthy Meals Recipes
+title: Healthy Meals
 class: recipes
 description: "Nourish your body with wholesome, balanced meals packed with nutrients and flavor. Explore our array of healthy recipes designed to fuel your well-being and satisfy your palate."
 date: 2023-01-04

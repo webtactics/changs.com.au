@@ -1,6 +1,6 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Sweet Treats
+title: Sweet Treats
 class: recipes
 description: "It’s not just kids who love Sweet Treats! Explore our collection of desserts, perfect for satisfying cravings and adding a touch of sweetness to any occasion."
 date: 2023-01-04

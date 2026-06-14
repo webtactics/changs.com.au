@@ -1,13 +1,13 @@
 ---
 layout: layouts/grid-nohero-about.njk
 title: "Sustainability"
-description: Chang’s and its parent company, Cypress & Sons, are committed to high standards of environmental responsibility."
+description: "Chang’s and its parent company, Cypress & Sons, are committed to high standards of environmental responsibility."
 date: 2026-06-10
 class: about
 permalink: /why-changs/sustainability/
 
 
-subtitle: Chang’s and its parent company, Cypress & Sons, are committed to high standards of environmental responsibility."
+subtitle: "Chang’s and its parent company, Cypress & Sons, are committed to high standards of environmental responsibility."
 ---
 <div class="grid-5-2">
     <div class="content1 blackh2">

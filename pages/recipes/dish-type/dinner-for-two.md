@@ -1,6 +1,6 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Dinner for Two Recipes
+title: Dinner for two
 class: recipes
 description: "Create an intimate dining experience with our delectable dinner for two recipes. From romantic classics to adventurous dishes, savour every moment together. Or don’t and just make something simple – we have you covered either way!"
 date: 2023-01-04

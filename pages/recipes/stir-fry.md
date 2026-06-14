@@ -1,8 +1,8 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Stir Fry Recipes
+title: Stir-fry Recipes
 class: recipes
-description: Tamari is a Japanese sauce made from fermented soybeans. Use ours to create authentic Asian cuisine to serve up in so many ways!
+description: "Whip up tantalising stir-fry dishes effortlessly! Explore our collection of Stir-fry Recipes for delicious meals in no time."
 date: 2023-01-04
 permalink: "/recipes/stir-fry/"
 eleventyNavigation:

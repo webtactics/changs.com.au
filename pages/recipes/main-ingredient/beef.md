@@ -2,12 +2,12 @@
 layout: layouts/grid-nohero.njk
 title: Chang's Beef Recipes
 class: recipes
-description: Tamari is a Japanese sauce made from fermented soybeans. Use ours to create authentic Asian cuisine to serve up in so many ways!
+description: "Savor the rich flavours of Asia with our tantalising beef recipes. From stir-fries to noodle bowls, elevate your meals with Chang’s."
 date: 2023-01-04
 permalink: "recipes/main-ingredient/beef/"
 
 
-subtitle: "Discover the rich and savory world of beef with our collection of delicious recipes. From hearty stews to sizzling stir-fries, explore a variety of dishes that showcase the versatility of beef in every bite."
+subtitle: "Savor the rich flavours of Asia with our tantalising beef recipes. From stir-fries to noodle bowls, elevate your meals with Chang’s."
 
 
 eleventyNavigation:

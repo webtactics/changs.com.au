@@ -1,6 +1,6 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Lamb Recipes
+title: Lamb Recipes
 class: recipes
 description: "Australian’s love lamb, and our recipes, noodles and sauces let you try lamb dishes from updates to tradition to completely new ways of looking at lamb."
 date: 2023-01-04

@@ -1,6 +1,6 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Quick and Easy Recipes
+title: Quick and Easy Recipes
 class: recipes
 description: Our Quick and Easy Recipes section has heaps of easy Asian meal ideas to try at home!
 date: 2023-01-04

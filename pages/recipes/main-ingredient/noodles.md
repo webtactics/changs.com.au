@@ -1,6 +1,6 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Noodles Recipes
+title: Noodles Recipes
 class: recipes
 description: "All the noodles you will ever need or want to create authentic Asian and modern Australian cuisine to delight family and friends."
 date: 2023-01-04

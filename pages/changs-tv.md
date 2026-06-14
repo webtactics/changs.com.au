@@ -9,6 +9,8 @@ permalink: /changs-tv/
 eleventyNavigation:
   key: Chang's TV
   order: 3
+
+subtitle: "Need some Chang’s cooking inspiration? Try our any of our simple recipes or product ideas below."
 ---
 
 <div class="mobile-nav-search-wrapper">

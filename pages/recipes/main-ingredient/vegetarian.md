@@ -1,6 +1,6 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Vegetarian Recipes
+title: Vegetarian Recipes
 class: recipes
 description: "Vegetarian doesn’t mean missing out when it comes to taste on our Vegetarian Recipes section! Filled with vegetarian recipes that are nutritious, delicious, quick and simple!"
 date: 2023-01-04

@@ -1,6 +1,6 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Starters Recipes
+title: Starters Recipes
 class: recipes
 description: "Appetizers, Hors d'oeuvres, Entrées, Antipasti, Starters, Small plates, Tapas, Snacks, Amuse-bouche, Finger foods, Canapés, call them what you will, but start here!"
 date: 2023-01-04

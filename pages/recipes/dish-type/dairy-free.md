@@ -1,6 +1,6 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Dairy-Free Recipes
+title: Dairy free recipes
 class: recipes
 description: "Explore our dairy-free recipes for delicious alternatives without compromising taste. Dairy free does not mean dull!."
 date: 2023-01-04

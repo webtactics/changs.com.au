@@ -1,6 +1,6 @@
 ---
 layout: layouts/grid-nohero.njk
-title: Chang's Poultry Recipes
+title: Poultry Recipes
 class: recipes
 description: "Who doesn’t love chicken, turkey, or duck? We certainly do, and our Poultry Recipes section offers something for every occasion, whether you're cooking for a family dinner or entertaining guests."
 date: 2023-01-04
