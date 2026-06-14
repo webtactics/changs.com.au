@@ -3454,6 +3454,61 @@ font-family: 'Perpetua', sans-serif;
   text-align: center;
 }
 
+.redgradientaboutcontent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 500px;
+  background-color: transparent;
+  min-height: 340px;
+}
+
+.aboutcontent {
+  display: grid;
+  grid-template-columns: 4fr 3fr;
+  margin: 0 auto;
+  padding: 0;
+  width: calc(100vw - 2rem);
+  max-width: 1280px;
+  background-color: transparent;
+}
+
+@media (max-width: 800px) {
+  .aboutcontent {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 0 auto;
+    padding: 0;
+    width: calc(100vw - 2rem);
+    max-width: 1280px;
+    background-color: transparent;
+  }
+}
+
+.redgradientimgwrapper {
+  display: flex;
+  align-items: flex-end;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 548px;
+  background-color: transparent;
+  position: relative;
+}
+
+.redgradientimgwrapper img {
+  position: relative;
+  bottom: 0;
+  right: 0;
+    max-width: 517px;
+  aspect-ratio: 517 / 326;
+  width: 100%;
+}
+
+
+
+
 .headerspace {
   height: var(--headerheight);
 }
