@@ -2254,14 +2254,20 @@ h3.news-title a:hover {
   width: 100%;
   aspect-ratio: 4/3;
 }
- .recipessummary .radiussum3image {
+ .recipessummary .radiussum3image img {
+  border-radius: .5rem;
+  width: 100%;
+  aspect-ratio: 500/333;
+}
+ .recipessummary .radiussum3image img.home3img {
   border-radius: .5rem;
   width: 100%;
   aspect-ratio: 500/333;
 }
 
 
- .recipessummary .radiussum4image {
+
+ .recipessummary .radiussum4image img {
   border-radius: .5rem;
   width: 100%;
   aspect-ratio: 400/267;
