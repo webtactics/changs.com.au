@@ -10,10 +10,6 @@
   --grid-auto-fill-3-min-col-size: 300px;
   --grid-auto-fill-4-min-col-size: 250px;
 
---animation-duration: 0.4s;
-
---animation-delay: 0.6s;
---animation-delay-fast: 0.3s;
 
 --nav-height:54px;
 
@@ -45,9 +41,9 @@
   --green: hsla(144, 80%, 22%, 1);
 
 
-  --transitionLength: 0.4s;
   --transitionTiming: ease;
-  --transitionquick: var(--animation-delay);
+  --transition03: 0.3s;
+  --transition06: 0.6s;
   --transitionslow: 1s;
 
 
@@ -118,28 +114,6 @@
 
 
   
-  @keyframes slide-out {
-    0% {
-      transform: translateX(0%);
-    }
-  
-    100% {
-      opacity: 0;
-      transform: translateX(calc(50% * var(--direction, 1)));
-    }
-  }
-  
-  @keyframes slide-in {
-    0% {
-      opacity: 0;
-      transform: translateX(calc(-50% * var(--direction, 1)));
-    }
-  
-    100% {
-      transform: translateX(0%);
-    }
-  }
-
 
 
 
@@ -164,146 +138,9 @@
 
 
 
-@keyframes slideInFromLeft {
-  from {
-    transform: translateX(-100%); /* Start completely off-screen to the left */
-    opacity: 0; /* Optional: Start with element invisible */
-  }
-  to {
-    transform: translateX(0); /* End at its natural position */
-    opacity: 1; /* Optional: End with element fully visible */
-  }
-}
-
-.Slide-in-left {
-  animation-name: slideInFromLeft; /* Name of the keyframe animation */
-  animation-duration: 1s; /* How long the animation takes */
-  animation-timing-function: ease-out; /* How the animation progresses (e.g., starts fast, slows down) */
-  animation-fill-mode: forwards; /* Ensures the element stays in its final state after animation */
-  /* Other animation properties can be added here, like animation-delay, animation-iteration-count, etc. */
-  height: 100vh;
-  width: 40vw;
-  min-width: 500px;
-  position: relative;
-  left:0;
-  bottom: 0;
-}
-
-@media (max-width: 1500px) {
-.Slide-in-left {
-  width: 46vw;
-    }
-.tagpage .Slide-in-left {
-  width: 66vw;
-    }
-  }
-
-@media (max-width: 1024px) {
-    .tagpage .Slide-in-left {
-        width: 86vw;
-    }
-}
-
-
-.hero .Slide-in-left img {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-  left:0;
-  bottom: 0;
-  object-fit:fill;
-  text-align: right;
-  margin: 0 0 auto;
-}
-
-.Slide-in-left h2 {
-  color: var(--white);
-  font-weight: 700;
-  font-size: 3.5rem;
-  line-height: 3.5rem;
-  position: relative;
-  z-index: 10;
-  letter-spacing: -2px;
-  padding: 80vh 0 0 8rem;
-}
-
-
-.Slide-in-left h2::before {
-  content: "";
-  display: block;
-  position: absolute;
-  left: 2rem;
-  top: 83vh;
-  width: 4rem;
-  height: 0.5rem;
-  background-color: var(--white);
-}
-
-
-.tagpage .Slide-in-left h2 {
-  color: var(--white);
-  font-weight: 700;
-  font-size: 3rem;
-  line-height: 3rem;
-  position: relative;
-  z-index: 10;
-  letter-spacing: -2px;
-  padding: 75vh 0 0 8rem;
-}
-
-
-.tagpage .Slide-in-left h2::before {
-  content: "";
-  display: block;
-  position: absolute;
-  left: 2rem;
-  top: 77vh;
-  width: 4rem;
-  height: 0.5rem;
-  background-color: var(--white);
-}
-
-
-@media (max-width: 600px) {
-
-.Slide-in-left {
-  width: 100vw;
-  min-width: 100%;
-}
-
-.Slide-in-left h2 {
-  padding: 60vh 0 0 5rem;
-
-    }
-
-  .Slide-in-left h2::before  {
-  left: 1rem;
-  top: 63vh;
-  width: 3rem;
-  height: 0.5rem;
-
-  }
-.tagpage .Slide-in-left h2 {
-  padding: 60vh 0 0 3rem;
-
-    }
-
- .tagpage .Slide-in-left h2::before {
-  left: 0.5rem;
- top: 63vh;
-  width: 2rem;
-  height: 0.5rem;
-
-  }
-
-
-
-
-}
-
 a:hover .slide-in-image img {
   transform: scale(1.05);
-  transition: transform 0.5s ease;
+  transition: transform var(--transition06) ease;
 }
  
 .herotitlebox {
@@ -411,20 +248,20 @@ a img {border: 0;}
 
 a {
 color: var(--primary);
--webkit-transition: all var(--animation-delay);
-  -moz-transition: all var(--animation-delay);
-  -ms-transition: all var(--animation-delay);
-  -o-transition: all var(--animation-delay);
-  transition: all var(--animation-delay);
+-webkit-transition: all var(--transition06);
+  -moz-transition: all var(--transition06);
+  -ms-transition: all var(--transition06);
+  -o-transition: all var(--transition06);
+  transition: all var(--transition06);
 }
 
 a:hover {
 background: var(--white);
-  -webkit-transition: all var(--animation-delay);
-  -moz-transition: all var(--animation-delay);
-  -ms-transition: all var(--animation-delay);
-  -o-transition: all var(--animation-delay);
-  transition: all var(--animation-delay);}
+  -webkit-transition: all var(--transition06);
+  -moz-transition: all var(--transition06);
+  -ms-transition: all var(--transition06);
+  -o-transition: all var(--transition06);
+  transition: all var(--transition06);}
 
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p {
@@ -600,11 +437,11 @@ color: var(--black);
   "hamburger navwrapper pad100";
 grid-template-rows: var(--headerheight);
     z-index: 3;
--webkit-transition: all var( --transitionquick);
-  -moz-transition: all var( --transitionquick);
-  -ms-transition: all var( --transitionquick);
-  -o-transition: all var( --transitionquick);
-  transition: all var( --transitionquick);
+-webkit-transition: all var( --transition06);
+  -moz-transition: all var( --transition06);
+  -ms-transition: all var( --transition06);
+  -o-transition: all var( --transition06);
+  transition: all var( --transition06);
 }  
 
 
@@ -615,11 +452,11 @@ grid-template-rows: var(--headerheight);
   "hamburger navwrapper pad100";
     grid-template-rows: var(--mobilenavheight);
     z-index: 3;
-    -webkit-transition: all var( --transitionquick);
-  -moz-transition: all var( --transitionquick);
-  -ms-transition: all var( --transitionquick);
-  -o-transition: all var( --transitionquick);
-  transition: all var( --transitionquick);
+    -webkit-transition: all var( --transition06);
+  -moz-transition: all var( --transition06);
+  -ms-transition: all var( --transition06);
+  -o-transition: all var( --transition06);
+  transition: all var( --transition06);
 
 } 
 
@@ -651,11 +488,11 @@ background-color: var(--black);
     padding: 0;
     top: 0px;
     z-index: 3;
-    -webkit-transition: all var( --transitionquick);
-  -moz-transition: all var( --transitionquick);
-  -ms-transition: all var( --transitionquick);
-  -o-transition: all var( --transitionquick);
-  transition: all var( --transitionquick);
+    -webkit-transition: all var( --transition06);
+  -moz-transition: all var( --transition06);
+  -ms-transition: all var( --transition06);
+  -o-transition: all var( --transition06);
+  transition: all var( --transition06);
   height: var(--headerheight);
 
 
@@ -665,11 +502,11 @@ background-color: var(--black);
   
   .topbar.scrolled {
    
-    -webkit-transition: all var( --transitionquick);
-  -moz-transition: all var( --transitionquick);
-  -ms-transition: all var( --transitionquick);
-  -o-transition: all var( --transitionquick);
-  transition: all var( --transitionquick);
+    -webkit-transition: all var( --transition06);
+  -moz-transition: all var( --transition06);
+  -ms-transition: all var( --transition06);
+  -o-transition: all var( --transition06);
+  transition: all var( --transition06);
   height: var(--navbottomheight); 
 
  
@@ -684,11 +521,11 @@ background-color: var(--black);
     justify-content: flex-start;
     align-items: center;
     height: var(--headerheight);
-    -webkit-transition: all var(--animation-delay);
-    -moz-transition: all var(--animation-delay);
-    -ms-transition: all var(--animation-delay);
-    -o-transition: all var(--animation-delay);
-    transition: all var(--animation-delay);
+    -webkit-transition: all var(--transition06);
+    -moz-transition: all var(--transition06);
+    -ms-transition: all var(--transition06);
+    -o-transition: all var(--transition06);
+    transition: all var(--transition06);
    
   }
 
@@ -697,11 +534,11 @@ background-color: var(--black);
        justify-content: flex-start;
     align-items: center;
     height: var(--navbottomheight); 
-    -webkit-transition: all var(--animation-delay);
-    -moz-transition: all var(--animation-delay);
-    -ms-transition: all var(--animation-delay);
-    -o-transition: all var(--animation-delay);
-    transition: all var(--animation-delay);
+    -webkit-transition: all var(--transition06);
+    -moz-transition: all var(--transition06);
+    -ms-transition: all var(--transition06);
+    -o-transition: all var(--transition06);
+    transition: all var(--transition06);
   
   }
 
@@ -715,11 +552,11 @@ background-color: var(--black);
     z-index: 2;
     width: 100%;
     max-width: 1440px;
-    -webkit-transition: all var( --transitionquick);
-    -moz-transition: all var( --transitionquick);
-    -ms-transition: all var( --transitionquick);
-    -o-transition: all var( --transitionquick);
-    transition: all var( --transitionquick);
+    -webkit-transition: all var( --transition06);
+    -moz-transition: all var( --transition06);
+    -ms-transition: all var( --transition06);
+    -o-transition: all var( --transition06);
+    transition: all var( --transition06);
    } 
 
 .scrolled  .navwrapper {
@@ -729,11 +566,11 @@ background-color: var(--black);
         "logo navrightside";
         grid-template-rows: var(--navbottomheight); 
           margin: 0 auto;
-        -webkit-transition: all var( --transitionquick);
-    -moz-transition: all var( --transitionquick);
-    -ms-transition: all var( --transitionquick);
-    -o-transition: all var( --transitionquick);
-    transition: all var( --transitionquick);
+        -webkit-transition: all var( --transition06);
+    -moz-transition: all var( --transition06);
+    -ms-transition: all var( --transition06);
+    -o-transition: all var( --transition06);
+    transition: all var( --transition06);
    } 
    
 
@@ -758,11 +595,11 @@ background-color: var(--black);
       justify-content: flex-start;
     align-items: center;
     height: var(--mobilenavheight);
-    -webkit-transition: all var(--animation-delay);
-    -moz-transition: all var(--animation-delay);
-    -ms-transition: all var(--animation-delay);
-    -o-transition: all var(--animation-delay);
-    transition: all var(--animation-delay);
+    -webkit-transition: all var(--transition06);
+    -moz-transition: all var(--transition06);
+    -ms-transition: all var(--transition06);
+    -o-transition: all var(--transition06);
+    transition: all var(--transition06);
 
   }
 
@@ -777,11 +614,11 @@ background-color: var(--black);
   height: var(--headerheight);
  justify-content: flex-start;
   align-items: center;
-  -webkit-transition: all var( --transitionquick);
-  -moz-transition: all var( --transitionquick);
-  -ms-transition: all var( --transitionquick);
-  -o-transition: all var( --transitionquick);
-  transition: all var( --transitionquick);
+  -webkit-transition: all var( --transition06);
+  -moz-transition: all var( --transition06);
+  -ms-transition: all var( --transition06);
+  -o-transition: all var( --transition06);
+  transition: all var( --transition06);
   padding:0;
 }
 
@@ -789,11 +626,11 @@ background-color: var(--black);
     height: var(--navbottomheight); 
  justify-content: flex-start;
   align-items: center;
-    -webkit-transition: all var( --transitionquick);
-    -moz-transition: all var( --transitionquick);
-    -ms-transition: all var( --transitionquick);
-    -o-transition: all var( --transitionquick);
-    transition: all var( --transitionquick);
+    -webkit-transition: all var( --transition06);
+    -moz-transition: all var( --transition06);
+    -ms-transition: all var( --transition06);
+    -o-transition: all var( --transition06);
+    transition: all var( --transition06);
      padding:0;
  }
 
@@ -804,11 +641,11 @@ background-color: var(--black);
   align-items: center;
       max-width: 260px;
   aspect-ratio: 260 / 69;
-    -webkit-transition: all var( --transitionquick);
-    -moz-transition: all var( --transitionquick);
-    -ms-transition: all var( --transitionquick);
-    -o-transition: all var( --transitionquick);
-    transition: all var( --transitionquick);
+    -webkit-transition: all var( --transition06);
+    -moz-transition: all var( --transition06);
+    -ms-transition: all var( --transition06);
+    -o-transition: all var( --transition06);
+    transition: all var( --transition06);
     height:auto;
     animation-timing-function: ease-out; 
   
@@ -822,11 +659,11 @@ background-color: var(--black);
   align-items: center;
   max-width:220px;
   aspect-ratio: 260 / 69;
-  -webkit-transition: all var( --transitionquick);
-  -moz-transition: all var( --transitionquick);
-  -ms-transition: all var( --transitionquick);
-  -o-transition: all var( --transitionquick);
-  transition: all var( --transitionquick);
+  -webkit-transition: all var( --transition06);
+  -moz-transition: all var( --transition06);
+  -ms-transition: all var( --transition06);
+  -o-transition: all var( --transition06);
+  transition: all var( --transition06);
   height:auto;
   animation-timing-function: ease-out; 
   }
@@ -844,13 +681,13 @@ a.logolink:hover {background-color: transparent;}
     justify-content: flex-end;
     align-items: center;
     height: var(--mobilenavheight);
-    width:221px;
+    width: auto;
   text-align: right;
-    -webkit-transition: all var( --transitionquick);
-    -moz-transition: all var( --transitionquick);
-    -ms-transition: all var( --transitionquick);
-    -o-transition: all var( --transitionquick);
-    transition: all var( --transitionquick);
+    -webkit-transition: all var( --transition06);
+    -moz-transition: all var( --transition06);
+    -ms-transition: all var( --transition06);
+    -o-transition: all var( --transition06);
+    transition: all var( --transition06);
   }
   
    .scrolled .logo {
@@ -860,11 +697,11 @@ a.logolink:hover {background-color: transparent;}
     height: var(--mobilenavheight);
     width:221px;
   text-align: right;
-    -webkit-transition: all var( --transitionquick);
-    -moz-transition: all var( --transitionquick);
-    -ms-transition: all var( --transitionquick);
-    -o-transition: all var( --transitionquick);
-    transition: all var( --transitionquick);
+    -webkit-transition: all var( --transition06);
+    -moz-transition: all var( --transition06);
+    -ms-transition: all var( --transition06);
+    -o-transition: all var( --transition06);
+    transition: all var( --transition06);
    }
 
   .logo img, .scrolled .logo img  {
@@ -872,7 +709,8 @@ a.logolink:hover {background-color: transparent;}
     justify-content: flex-end;
     align-items: center;
     align-content: end;
-    max-width: 221px;}
+    max-width: 221px;
+  }
 
 }
 
@@ -880,22 +718,22 @@ a.logolink:hover {background-color: transparent;}
   display: flex;
   height: var(--headerheight);
   flex-direction: column;
-  -webkit-transition: all var(--animation-delay);
-  -moz-transition: all var(--animation-delay);
-  -ms-transition: all var(--animation-delay);
-  -o-transition: all var(--animation-delay);
-  transition: all var(--animation-delay);
+  -webkit-transition: all var(--transition06);
+  -moz-transition: all var(--transition06);
+  -ms-transition: all var(--transition06);
+  -o-transition: all var(--transition06);
+  transition: all var(--transition06);
 }
 
  .scrolled .navrightside {
   display: flex;
   height: var(--navbottomheight); 
   flex-direction: column;
-  -webkit-transition: all var(--animation-delay);
-  -moz-transition: all var(--animation-delay);
-  -ms-transition: all var(--animation-delay);
-  -o-transition: all var(--animation-delay);
-  transition: all var(--animation-delay);
+  -webkit-transition: all var(--transition06);
+  -moz-transition: all var(--transition06);
+  -ms-transition: all var(--transition06);
+  -o-transition: all var(--transition06);
+  transition: all var(--transition06);
 
  }
 
@@ -905,21 +743,21 @@ a.logolink:hover {background-color: transparent;}
     justify-content:flex-end;
   align-items: center;
   height: var(--navtopheight);
-  -webkit-transition: all var( --transitionquick);
-  -moz-transition: all var( --transitionquick);
-  -ms-transition: all var( --transitionquick);
-  -o-transition: all var( --transitionquick);
-  transition: all var( --transitionquick);
+  -webkit-transition: all var( --transition06);
+  -moz-transition: all var( --transition06);
+  -ms-transition: all var( --transition06);
+  -o-transition: all var( --transition06);
+  transition: all var( --transition06);
   padding:8px 0 0 0;
  }
 
 .scrolled .navrightsidetopline {height:0px;
 
-  -webkit-transition: all var( --transitionquick);
-  -moz-transition: all var( --transitionquick);
-  -ms-transition: all var( --transitionquick);
-  -o-transition: all var( --transitionquick);
-  transition: all var( --transitionquick);
+  -webkit-transition: all var( --transition06);
+  -moz-transition: all var( --transition06);
+  -ms-transition: all var( --transition06);
+  -o-transition: all var( --transition06);
+  transition: all var( --transition06);
   padding:0;
   z-index: -10;
 
@@ -931,11 +769,11 @@ a.logolink:hover {background-color: transparent;}
   text-align: right;
   height: var(--navbottomheight); 
   line-height: var(--navbottomheight); 
-  -webkit-transition: all 0.2s;
-  -moz-transition: all 0.2s;
-  -ms-transition: all 0.2s;
-  -o-transition: all 0.2s;
-  transition: all 0.2s;
+  -webkit-transition: all var(--transition06);
+  -moz-transition: all var(--transition06);
+  -ms-transition: all var(--transition06);
+  -o-transition: all var(--transition06);
+  transition: all var(--transition06);
 background-color: var(--black);
   display: flex;
     justify-content:flex-end;
@@ -1066,7 +904,7 @@ ul.off-canvas-list li a {
   background: var(--white);
  padding: 0.5rem;
   border-bottom: 1px solid var(--lightgrey);
-  transition: background 300ms ease;
+  transition: background var(--transition03) ease;
   font-weight: normal;
  font-size: 0.9rem;
   text-decoration: none;
@@ -1103,8 +941,8 @@ ul.off-canvas-list .nav-accordion-toggle::after {
   position: absolute;
   top: 50%;
   right: 1.2rem;
-  width: 0.5rem;
-  height: 0.5rem;
+  width: 0.8rem;
+  height: 0.8rem;
   margin-top: -0.25rem;
   box-sizing: border-box;
   border: 2px solid var(--primary);
@@ -1112,7 +950,8 @@ ul.off-canvas-list .nav-accordion-toggle::after {
   border-left: 0;
   transform: rotate(45deg);
   transform-origin: center;
-  transition: transform 200ms ease;
+  transition: transform var(--transition03) ease;
+  background: var(--black);
 }
 
 ul.off-canvas-list li.open > .nav-item-row .nav-accordion-toggle::after {
@@ -1185,7 +1024,7 @@ ul.off-canvas-list > li.parent > a:hover {
     background: var(--white);
    padding: 0.4rem 1.5rem;
     border-bottom: 1px solid var(--primarylight);
-    transition: background 300ms ease;
+    transition: background var(--transition03) ease;
     font-weight: normal;
     font-size: 90%;
 
@@ -1203,7 +1042,7 @@ ul.off-canvas-list > li.parent > a:hover {
 
    padding: 0.4rem 1.5rem;
    border-bottom: 1px solid var(--primarylight);
-    transition: background 300ms ease;
+    transition: background var(--transition03) ease;
     font-weight: normal;
     font-size: 90%;
   }
@@ -1214,7 +1053,7 @@ ul.off-canvas-list > li.parent > a:hover {
     background: var(--white);
    padding: 0.4rem 1.5rem;
    border-bottom: 1px solid var(--lightgrey);
-    transition: background 300ms ease;
+    transition: background var(--transition03) ease;
     font-weight: normal;
     font-size: 90%;
 
@@ -1440,11 +1279,11 @@ svg:hover {
     z-index: 2;
     width: calc(100vw - 1.25rem);
     max-width: 1440px;
-    -webkit-transition: all var(--animation-delay);
-    -moz-transition: all var(--animation-delay);
-    -ms-transition: all var(--animation-delay);
-    -o-transition: all var(--animation-delay);
-    transition: all var(--animation-delay);
+    -webkit-transition: all var(--transition06);
+    -moz-transition: all var(--transition06);
+    -ms-transition: all var(--transition06);
+    -o-transition: all var(--transition06);
+    transition: all var(--transition06);
    } 
 
    .footernavwrapper .logo, .footernavwrapper .scrolled .logo {
@@ -1452,40 +1291,40 @@ svg:hover {
     height: 160px;
     justify-content: flex-start;
     align-items: center;
-    -webkit-transition: all var(--animation-delay);
-    -moz-transition: all var(--animation-delay);
-    -ms-transition: all var(--animation-delay);
-    -o-transition: all var(--animation-delay);
-    transition: all var(--animation-delay);
+    -webkit-transition: all var(--transition06);
+    -moz-transition: all var(--transition06);
+    -ms-transition: all var(--transition06);
+    -o-transition: all var(--transition06);
+    transition: all var(--transition06);
   }
   
   .footernavwrapper  .navrightside {
     display: flex;
     height: 160px;
     flex-direction: column;
-    -webkit-transition: all var(--animation-delay);
-    -moz-transition: all var(--animation-delay);
-    -ms-transition: all var(--animation-delay);
-    -o-transition: all var(--animation-delay);
-    transition: all var(--animation-delay);
+    -webkit-transition: all var(--transition06);
+    -moz-transition: all var(--transition06);
+    -ms-transition: all var(--transition06);
+    -o-transition: all var(--transition06);
+    transition: all var(--transition06);
   }
   .footernavwrapper  .navrightupperspace {
     text-align: right;
     height: 64px;
-    -webkit-transition: all 0.2s;
-    -moz-transition: all 0.2s;
-    -ms-transition: all 0.2s;
-    -o-transition: all 0.2s;
-    transition: all 0.2s;
+    -webkit-transition: all var(--transition06);
+    -moz-transition: all var(--transition06);
+    -ms-transition: all var(--transition06);
+    -o-transition: all var(--transition06);
+    transition: all var(--transition06);
   }
   .footernavwrapper  .navrightsidetopline {
     text-align: right;
     height: 36px;
-    -webkit-transition: all var(--animation-delay);
-    -moz-transition: all var(--animation-delay);
-    -ms-transition: all var(--animation-delay);
-    -o-transition: all var(--animation-delay);
-    transition: all var(--animation-delay);
+    -webkit-transition: all var(--transition06);
+    -moz-transition: all var(--transition06);
+    -ms-transition: all var(--transition06);
+    -o-transition: all var(--transition06);
+    transition: all var(--transition06);
     padding:0;
   }
 
@@ -1495,11 +1334,11 @@ svg:hover {
     justify-content: end;
     align-items:flex-end;
     text-align: right;
-    -webkit-transition: all 0.2s;
-    -moz-transition: all 0.2s;
-    -ms-transition: all 0.2s;
-    -o-transition: all 0.2s;
-    transition: all 0.2s;
+    -webkit-transition: all var(--transition06);
+    -moz-transition: all var(--transition06);
+    -ms-transition: all var(--transition06);
+    -o-transition: all var(--transition06);
+    transition: all var(--transition06);
   }
   .footernavwrapper  .navrightsidebottomline p {
 color: var(--white);
@@ -1512,11 +1351,11 @@ margin:0;
   .footernavwrapper  .navrightlowerspace {
     text-align: right;
     height: 20px;
-    -webkit-transition: all 0.2s;
-    -moz-transition: all 0.2s;
-    -ms-transition: all 0.2s;
-    -o-transition: all 0.2s;
-    transition: all 0.2s;
+    -webkit-transition: all var(--transition06);
+    -moz-transition: all var(--transition06);
+    -ms-transition: all var(--transition06);
+    -o-transition: all var(--transition06);
+    transition: all var(--transition06);
   }
 
   @media (max-width: 1400px) {
@@ -1906,7 +1745,7 @@ text-decoration: none;
   height: 100%;
   background-color: var(--white);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-  transition: left var(--animation-delay-fast) ease-in-out;
+  transition: left var(--transition06) ease-in-out;
   z-index: 7;
 }
 
@@ -1917,7 +1756,7 @@ text-decoration: none;
   left: -350px;
   width: 80vw;
   max-width: 300px;
-  transition: left var(--animation-delay-fast) ease-in-out;
+  transition: left var(--transition06) ease-in-out;
 
 }}
 
@@ -1947,11 +1786,11 @@ text-decoration: none;
   border: none;
   width: 50px;
   height: 54px;
-  -webkit-transition: all var(--animation-delay);
-  -moz-transition: all var(--animation-delay);
-  -ms-transition: all var(--animation-delay);
-  -o-transition: all var(--animation-delay);
-  transition: all var(--animation-delay);
+  -webkit-transition: all var(--transition06);
+  -moz-transition: all var(--transition06);
+  -ms-transition: all var(--transition06);
+  -o-transition: all var(--transition06);
+  transition: all var(--transition06);
   z-index: 3;
   padding: 10px;
 }
@@ -1990,21 +1829,21 @@ text-decoration: none;
   margin: 0;
  background: var(--white);
   box-shadow: 0 12px 0 0 var(--white),0 24px 0 0 var(--white);
-  -webkit-transition: all var(--animation-delay);
-  -moz-transition: all var(--animation-delay);
-  -ms-transition: all var(--animation-delay);
-  -o-transition: all var(--animation-delay);
-  transition: all var(--animation-delay);
+  -webkit-transition: all var(--transition06);
+  -moz-transition: all var(--transition06);
+  -ms-transition: all var(--transition06);
+  -o-transition: all var(--transition06);
+  transition: all var(--transition06);
 }
 
 .hamburger:hover .hamburger-icon::before {
   background: var(--primary);
   box-shadow: 0 12px 0 0 var(--primary),0 24px 0 0 var(--primary);
-  -webkit-transition: all var(--animation-delay);
-  -moz-transition: all var(--animation-delay);
-  -ms-transition: all var(--animation-delay);
-  -o-transition: all var(--animation-delay);
-  transition: all var(--animation-delay);
+  -webkit-transition: all var(--transition06);
+  -moz-transition: all var(--transition06);
+  -ms-transition: all var(--transition06);
+  -o-transition: all var(--transition06);
+  transition: all var(--transition06);
 }
 
 
@@ -2058,11 +1897,11 @@ button.success, .button.success {
   padding: 0.4rem 3rem;
   margin: 0;
   text-decoration: none;
-  -webkit-transition: all var(--animation-delay);
-  -moz-transition: all var(--animation-delay);
-  -ms-transition: all var(--animation-delay);
-  -o-transition: all var(--animation-delay);
-  transition: all var(--animation-delay);
+  -webkit-transition: all var(--transition06);
+  -moz-transition: all var(--transition06);
+  -ms-transition: all var(--transition06);
+  -o-transition: all var(--transition06);
+  transition: all var(--transition06);
   cursor: pointer;
   text-decoration: none;
 }
@@ -2072,11 +1911,11 @@ button.success:hover, button.success:focus, .button.success:hover, .button.succe
   border: 0.3rem solid var(--black);
   border-radius: 1.25rem;
   color: var(--white);
-  -webkit-transition: all var(--animation-delay);
-  -moz-transition: all var(--animation-delay);
-  -ms-transition: all var(--animation-delay);
-  -o-transition: all var(--animation-delay);
-  transition: all var(--animation-delay);
+  -webkit-transition: all var(--transition06);
+  -moz-transition: all var(--transition06);
+  -ms-transition: all var(--transition06);
+  -o-transition: all var(--transition06);
+  transition: all var(--transition06);
   cursor: pointer;
   text-decoration: none;
 }
@@ -2269,10 +2108,10 @@ select {
   background-repeat: no-repeat;
   background-size: 9px 6px;
   padding-right: 1.5rem;
-  -webkit-transition: border-color .25s ease-in-out,-webkit-box-shadow .5s;
-  transition: border-color .25s ease-in-out,-webkit-box-shadow .5s;
-  transition: box-shadow .5s,border-color .25s ease-in-out;
-  transition: box-shadow .5s,border-color .25s ease-in-out,-webkit-box-shadow .5s;
+  -webkit-transition: border-color var(--transition03) ease-in-out,-webkit-box-shadow .5s;
+  transition: border-color var(--transition03) ease-in-out,-webkit-box-shadow .5s;
+  transition: box-shadow .5s,border-color var(--transition03) ease-in-out;
+  transition: box-shadow .5s,border-color var(--transition03) ease-in-out,-webkit-box-shadow .5s;
 
   cursor: pointer;
   padding: 0.25rem;
@@ -3116,7 +2955,7 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
 }
 .taggedimg img:hover {
   filter: brightness(110%);
-  transition: all 0.2s ease-in-out;
+  transition: all var(--transition06) ease-in-out;
 
 }
 
@@ -3143,7 +2982,7 @@ ul  li.taggs a, ul  li.taggs a:visited {
   background: var(--darkgreen);
  padding: 0.25rem 0.5rem;
   border:none;
-  transition: background 300ms ease;
+  transition: background var(--transition03) ease;
   font-weight: normal;
  font-size: 0.9rem;
   text-decoration: none;
@@ -3243,7 +3082,7 @@ textarea
   display: grid;
   grid-template-rows: 0fr;
   overflow: hidden;
-  transition: grid-template-rows var(--transitionLength) var(--transitionTiming);
+  transition: grid-template-rows var(--transition06) var(--transitionTiming);
 }
 
 
@@ -3258,13 +3097,13 @@ textarea
 .accordion-transform-wrapper {
   transform: translateY(-100%);
   visibility: hidden;
-  transition: transform var(--transitionLength) var(--transitionTiming), visibility 0s var(--transitionLength) var(--transitionTiming);
+  transition: transform var(--transition06) var(--transitionTiming), visibility 0s var(--transition06) var(--transitionTiming);
 }
 
 .accordion-trigger-input:checked ~ .accordion-animation-wrapper .accordion-transform-wrapper {
   transform: translateY(0);
   visibility: visible;
-  transition: transform var(--transitionLength) var(--transitionTiming), visibility 0s linear;
+  transition: transform var(--transition06) var(--transitionTiming), visibility 0s linear;
 }
 /* Margins inside the container will throw animation height calculations off, better use paddings */
 .accordion-content * {
@@ -3290,11 +3129,11 @@ textarea
 .accordion-item:hover {
   border-top: 1px solid var(--primary);
   border-bottom: 2px solid var(--primary);
-  -webkit-transition: all var(--animation-delay);
-  -moz-transition: all var(--animation-delay);
-  -ms-transition: all var(--animation-delay);
-  -o-transition: all var(--animation-delay);
-  transition: all var(--animation-delay);
+  -webkit-transition: all var(--transition06);
+  -moz-transition: all var(--transition06);
+  -ms-transition: all var(--transition06);
+  -o-transition: all var(--transition06);
+  transition: all var(--transition06);
 
 }
 
@@ -3315,7 +3154,7 @@ textarea
   display: block;
   position: relative;
     padding: 1rem 0.4rem;
-  transition: box-shadow var(--transitionLength) var(--transitionTiming);
+  transition: box-shadow var(--transition06) var(--transitionTiming);
   z-index: 1;
   cursor: pointer;
   color: var(--black);
@@ -3326,12 +3165,12 @@ textarea
 
  .accordion-trigger:hover, .accordion-trigger:active, .accordion-trigger:focus {
 
-   transition: box-shadow var(--transitionLength) var(--transitionTiming);
-  -webkit-transition: all var(--animation-delay);
-    -moz-transition: all var(--animation-delay);
-    -ms-transition: all var(--animation-delay);
-    -o-transition: all var(--animation-delay);
-    transition: all var(--animation-delay);
+   transition: box-shadow var(--transition06) var(--transitionTiming);
+  -webkit-transition: all var(--transition06);
+    -moz-transition: all var(--transition06);
+    -ms-transition: all var(--transition06);
+    -o-transition: all var(--transition06);
+    transition: all var(--transition06);
 
 text-decoration: none;
   color: var(--white);
@@ -3356,7 +3195,7 @@ text-decoration: none;
   border-bottom: transparent;
   border-left: transparent;
   transform: rotate(135deg);
-  transition: transform var(--transitionLength) var(--transitionTiming);
+  transition: transform var(--transition06) var(--transitionTiming);
 }
 
 .accordion-trigger:hover::after {  
@@ -3371,7 +3210,7 @@ text-decoration: none;
   border-bottom: transparent;
   border-left: transparent;
   transform: rotate(135deg);
-  transition: transform var(--transitionLength) var(--transitionTiming);
+  transition: transform var(--transition06) var(--transitionTiming);
 }
 
 
@@ -3387,7 +3226,7 @@ text-decoration: none;
 
 .accordion-trigger-input:checked ~ .accordion-trigger {
  box-shadow: 0 1px 2px var(--primary);
- transition: box-shadow calc(var(--transitionLength) / 4) var(--transitionTiming);
+ transition: box-shadow calc(var(--transition06) / 4) var(--transitionTiming);
 }
 
 
@@ -3472,7 +3311,7 @@ span.contacttext {padding: 0 0.4rem;}
 
 .from-left.appear a:hover img,.from-right.appear a:hover img {
   filter: brightness(110%);
-  transition: all 0.2s ease-in-out;
+  transition: all var(--transition06) ease-in-out;
 }
 
 
@@ -3793,7 +3632,7 @@ min-height: 5.8rem;}
 
 .homecards img:hover {
   filter: brightness(110%);
-  transition: all 0.2s ease-in-out;
+  transition: all var(--transition06) ease-in-out;
   width: 100%;
 }
 
