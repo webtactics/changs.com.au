@@ -2,76 +2,72 @@
 
 
 
-
-
 {% block bodyclass %}<body class="about {{ class }}" >{% endblock %}
 
+ {% block hero %}
+ {% endblock %}
+
+
+  {% block redgradient %}
+        <div class="redgradient">
+          <div class="content aboutcontent">
+          <div class="content redgradientaboutcontent">
+            <div class="redgradientcontentwrapper">
+          <h1 style="text-align:center;" class="text-center white">{{ title }}</h1>
+            <div class="redgradientcontenttextbox">
+              <p style="text-align:center;" class="text-center white">{% if subtitle %}{{ subtitle }}{% else %}{{ description }}{% endif %}</p>
+            
+              </div>
+            </div>
+          </div>
+            <div class="redgradientimgwrapper">
+            <div class="polaroid"><img src="https://ik.imagekit.io/webtactics/changs-media/assets/elaine-patrick-polaroids_4BdpQo2H0.png?updatedAt=1711853114223" alt="Chang's Flavours of Asia" title="Chang's Flavours of Asia" width="517px" height="auto" ></div> 
+          </div>
+
+
+          </div>
+        </div>
+    {% endblock %}
 
 
 
+	{% block content %}
+        <div class="container">
+        <main class="content   content1280">
 
-{% block content %}
-<div class="container">
-	<main class="content" data-pagefind-body>
-		<img src="{{ image or metadata.image }}" alt="" data-pagefind-meta="image[src]" style="display:none">
-
-
-<div class="grid-2-products">
-
-	<div class="content-left">
-
-		<div class="text">
-    		<div class="titlebox fade-in"><h2 class="heading-text">{{ subtitle }}</h2></div>
-      			<div class="indent">
-					{{ content | safe }}
-				</div>
-		</div>
-
-	</div>
-
-	<div class="content-right">
- 		<div class="right-image slide-in from-right">
-				<img src="{% if rightimage %}{{ rightimage }}{% else %}https://ik.imagekit.io/webtactics/pmfresh/img/1920x953/salad-green-leaves-1920x953_a3O8dDt0j.jpg{% endif %}/tr:w-700,h-348" alt="{% if subtitle %}{{ subtitle }}{% else %}{{ title }}{% endif %}" title="{% if subtitle %}{{ subtitle }}{% else %}{{ title }}{% endif %}" width="700px" height="348px">
-		</div>
-	</div>                
-
-</div>
-<div class="pad8rem"></div>
-<div class="grid-2-products">
-
-	<div class="content-left">
-		<div class="left-image slide-in from-left">
-			<img src="{% if leftimage %}{{ leftimage }}{% else %}https://ik.imagekit.io/webtactics/pmfresh/img/pages/about/about-us-left-1-900x600_OWoL5rA4x-.jpg{% endif %}/tr:w-700,h-348" alt="{% if subtitle %}{{ subtitle }}{% else %}{{ title }}{% endif %}" title="{% if subtitle %}{{ subtitle }}{% else %}{{ title }}{% endif %}" width="700px" height="348px">
-		</div>
-	</div>
-
-	<div class="content-right">
-
-		<div class="text">
-			<div class="titlebox fade-in">
-				<h2 class="heading-text">Message from our CEO.</h2>
-			</div>
-
-			<div class="indent">
-				<p>Our people, customers and suppliers are key in our success as we continually strive to be Australia’s #1 Fresh Salad manufacturer. We are focused on delivering consistent growth in today’s fast-paced, ever-changing market environment.</p>
-				<p>To achieve our vision, we must meet the demands from our customers that best serve theirs.</p>
-				<p>We continually focus our strengths to deliver high quality, efficient service with safe food that meets the taste and convenience demanded by today’s consumers whilst leading in product development and innovation.</p>
-				<p><strong>Mike Fielden</strong>, PMFresh CEO</p>
-			</div>
-		</div>
-
-	</div>          
-
-</div>
-
-
-	</main>
-</div>
+        <div class="changs-about top"><img src="https://ik.imagekit.io/webtactics/changs-media/assets/icons/our-story_nBAiVKLMW.png?updatedAt=1711837464312" alt="Chang's Flavours of Asia" title="Chang's Flavours of Asia" width="101px" height="100px" ></div> 
 
 
 
-{% endblock %}
+        <h2 class="text-center">Our Story</h2>
+        <div class="grid-2-about">
+        <div class="content1">
+{{ content | safe }}
+        </div>
 
+        <div class="content2">
+    <p>We believe meals are not simply about mouthwatering food, they’re about family, friends, stories, love and laughter.</p>
+<p>Over the past 50 years, Chang’s has become an Australian household name – with special thanks, of course, going to the famous Chang’s Crispy Noodle Salad. This all-time classic remains a staple at summer BBQs, meals and parties around the country. Many people have created their own take on this dish of course, but we reckon the original is still the best!</p>
+        </div>
+        </div>
 
+        <div class="changs-about"><img src="https://ik.imagekit.io/webtactics/changs-media/assets/icons/our-products_5atKYxMtw.png?updatedAt=1711837514233" alt="Chang's Flavours of Asia" title="Chang's Flavours of Asia" width="116px" height="86px" ></div> 
 
+        <h2 class="text-center">Our Products</h2>
+        <div class="grid-2-about">
+        <div class="content3">
+        <p>We are passionate about providing high-quality Asian noodles and sauces to Australian homes to help bring your favourite Asian dishes to life.</p>
+<p>We have a huge range of <a href="/products/noodles/" title="Changs Noodles products">noodles</a> and <a href="/products/sauces/" title="Changs Sauces products">sauces</a> available at your local supermarket – check out our <a href="/products/" title="Changs Sauces products">full range here.</a></p>
+<p>We were also one of the first grocery manufacturers to offer gluten-free alternatives, and today, all Chang’s sauces are free of gluten plus we have a tamari range for those with more serious wheat allergies.</p>
+        </div>
 
+        <div class="content4">
+     <p>If there is an Asian noodle or sauce variety you feel we’re missing, we’d love for you to let us know. You can email us at <a href="mailto:service@changs.com">service@changs.com</a></p>
+        </div>
+        </div>
+
+        </main>
+
+         
+        </div>
+    {% endblock %}
