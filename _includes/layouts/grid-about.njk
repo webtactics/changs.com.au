@@ -10,8 +10,8 @@
 
   {% block redgradient %}
         <div class="redgradient">
-          <div class="content aboutcontent">
-          <div class="content redgradientaboutcontent">
+          <div class="aboutcontent">
+          <div class="redgradientaboutcontent">
             <div class="redgradientcontentwrapper">
           <h1 style="text-align:center;" class="text-center white">{{ title }}</h1>
             <div class="redgradientcontenttextbox">
@@ -28,6 +28,49 @@
           </div>
         </div>
     {% endblock %}
+
+
+
+ {% block pagenav %}
+
+<div class="container">
+		<div class="content buttonnavbox hide-for-small">
+			<div class="buttonnav hide-for-small">
+				 
+							
+<div class="buttonnavwrapper">
+<button class=" currentpage"><a class=" currentpage" href="/why-changs/">About Us</a></button>
+<button><a href="/why-changs/sustainability/">Sustainability</a></button>
+<button><a href="/why-changs/privacy-policy/">Privacy Policy</a></button>
+</div>
+										</div>
+		</div>
+
+		<div class="content selectnavbox hide-for-large">
+		
+			<div class="selectboxwrapper hide-for-large">
+			<p>Check out our section below, or narrow your search using one of the selector options.</p>
+			 
+						
+  
+<div class="selectbox">
+	<select name="forma" onchange="location = this.value;">
+		<option disabled="disabled" selected="selected" value="">-- Select Section --</option>
+		<option value="/why-changs/">About Us</option>
+		<option value="/why-changs/sustainability/">Sustainability</option>
+		<option value="/why-changs/privacy-policy/">Privacy Policy</option>
+	</select>
+</div>
+
+		</div>
+		</div>
+
+	</div>
+
+
+{% endblock %}
+
+
 
 
 
