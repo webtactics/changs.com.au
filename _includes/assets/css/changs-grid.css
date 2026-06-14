@@ -3814,11 +3814,14 @@ top: 35vh;
 
   .buttonnavwrapper a:hover {
     text-decoration: none;
-    color: var(--white);}
+    color: var(--white);
+    background-color: var(--primary);
+  }
 
-    .buttonnavwrapper a.currentpage {
+    .buttonnavwrapper a.currentpage,  .buttonnavwrapper a.currentpage:hover {
       text-decoration: none;
-      color: var(--white);} 
+      color: var(--white);
+      background-color: var(--primary);} 
 
 .buttonnavwrapper > button {
   padding: 15px 20px;
@@ -3838,7 +3841,7 @@ transition-duration: 0.2s;
 }
 
 
-.buttonnavwrapper > button.currentpage {
+.buttonnavwrapper > button.currentpage, .buttonnavwrapper > button.currentpage:hover {
   text-decoration: none;
   background-color: var(--primary);
   color: var(--white);
