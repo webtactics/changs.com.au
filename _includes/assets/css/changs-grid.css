@@ -3417,8 +3417,13 @@ span.contacttext {padding: 0 0.4rem;}
 
 .redgradientcontent.home {
   padding: 4rem 0;
-  width: calc(100vw - 4rem);
+  width: calc(100vw - 2rem);
   max-width: 1440px;
+}
+@media (max-width: 1024px) {
+.redgradientcontent.home {
+  padding: 2rem 0;
+}
 }
 
 .redgradientcontentwrapper h1 {
