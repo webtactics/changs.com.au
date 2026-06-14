@@ -1286,6 +1286,14 @@ svg:hover {
     transition: all var(--transition06);
   }
   
+   .footernavwrapper .logo a, .footernavwrapper .scrolled .logo a,    .footernavwrapper .logo a:hover, .footernavwrapper .scrolled .logo a:hover {
+background: var(--black);
+text-decoration: none;
+
+   }
+
+
+
   .footernavwrapper  .navrightside {
     display: flex;
     height: 160px;
