@@ -2561,6 +2561,10 @@ padding:0 2rem;
   gap: 1rem;
 }
 
+
+.grid-2-about {
+  grid-template-columns: 1fr 1fr;gap: 3rem;
+}
 .grid-2-thanks {
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
