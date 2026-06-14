@@ -2576,7 +2576,7 @@ padding:0 2rem;
   grid-template-columns: 3fr 2fr;
   gap: 3rem;
 }
-.grid-2-sponsor, .grid-2x1 {
+.grid-2x1 {
   grid-template-columns: 2fr 1fr;
   gap: 2rem;
 }
@@ -2785,16 +2785,18 @@ font-style: normal;
     overflow-x: auto;
     scroll-snap-type: x proximity;
     scroll-snap-align: center;
+    text-align: center;
   }
 
 
 
-
-  .grid-committee  {
-    grid-template-columns: repeat(1, 1fr);
-    gap: 0.25rem;
+  .grid-3-columns.recipes .recipesummarypage {
+    text-align: center;
+    scroll-snap-align: start;
   }
-.committee-member {margin-bottom: 1rem;}
+
+
+
 
   .grid-8-gallery {
     grid-template-columns: repeat(3, 1fr);
