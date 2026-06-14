@@ -3395,7 +3395,11 @@ span.contacttext {padding: 0 0.4rem;}
   min-height: 340px;
 }
 
-
+.redgradientcontent.home {
+  padding: 4rem 0;
+  width: calc(100vw - 4rem);
+  max-width: 1440px;
+}
 
 .redgradientcontentwrapper h1 {
 font-family: 'Perpetua', sans-serif;
