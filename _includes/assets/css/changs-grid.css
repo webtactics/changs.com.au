@@ -2570,7 +2570,10 @@ padding:0 2rem;
    border-bottom: 1px solid var(--primary);
    margin-top:0.1rem;
 }
-
+.grid-2-homeboxes {
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+}
 
 .grid-2-news {
   grid-template-columns: 3fr 2fr;
