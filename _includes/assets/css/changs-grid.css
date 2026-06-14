@@ -927,10 +927,10 @@ ul.off-canvas-list span.nav-section-header.nav-accordion-toggle {
 ul.off-canvas-list .nav-accordion-toggle::after {
   content: '';
   position: absolute;
-  top: 20%;
+  top: 35%;
   right: 1.2rem;
-  width: 0.8rem;
-  height: 0.8rem;
+  width: 1rem;
+  height: 1rem;
   margin-top: -0.25rem;
   box-sizing: border-box;
   border: 2px solid var(--primary);
