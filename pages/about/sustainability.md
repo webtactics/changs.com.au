@@ -1,5 +1,5 @@
 ---
-layout: layouts/grid-nohero.njk
+layout: layouts/grid-nohero-about.njk
 title: "Sustainability"
 description: Chang’s and its parent company, Cypress & Sons, are committed to high standards of environmental responsibility."
 date: 2026-06-10
