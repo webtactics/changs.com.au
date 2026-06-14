@@ -2621,7 +2621,6 @@ padding:0 2rem;
 .grid-4-homeboxes {
   grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
-  margin-bottom:1rem;
 }
 
 .grid-4-prod-detail {
@@ -3644,14 +3643,14 @@ padding:1rem;
 
 .flex-captionp {max-width: 240px;}
 
-.content.redgradientcontent .homecards .flex-captionp {
+.redgradientcontent .homecards .flex-captionp {
   max-width: 100%;
   margin:1rem 0;
 min-height: 5.8rem;}
 
 .flex-captionp p {font-size:24px;font-weight: 500;color: var(--black);}
 
-.content.redgradientcontent .homecards .flex-captionp p {font-size:20px;font-weight: 500;color: var(--black);
+.redgradientcontent .homecards .flex-captionp p {font-size:20px;font-weight: 500;color: var(--black);
   text-align: left;}
 
 .flex-captionprodlink {display:flex;justify-content: flex-start;align-items: center;}
