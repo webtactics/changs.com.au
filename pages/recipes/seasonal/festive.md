@@ -8,10 +8,7 @@ permalink: "recipes/seasonal/festive/"
 
 subtitle: "Infuse your festivities with Chang’s Asian flair! Explore our vibrant collection of festive recipes inspired by Asian cuisine, adding exotic flavours to your celebrations."
 
-eleventyNavigation:
-  key: Festive
-  parent: Seasonal
-  order: 1
+
 ---
 
 {% set postslist = collections['Festive'] | union(collections['Christmas']) | union(collections['Chinese New Year']) | reverse  %} 
