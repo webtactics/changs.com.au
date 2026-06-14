@@ -5,7 +5,6 @@ description: "Our privacy policy is a statement that explains in simple language
 date: 2026-06-10
 class: about
 permalink: /why-changs/privacy-policy/
-eleventyExcludeFromCollections: true
 
 
 subtitle: "Our privacy policy is a statement that explains in simple language how Chang’s handles your personal information."

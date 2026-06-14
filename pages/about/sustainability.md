@@ -5,7 +5,6 @@ description: Chang’s and its parent company, Cypress & Sons, are committed to 
 date: 2026-06-10
 class: about
 permalink: /why-changs/sustainability/
-eleventyExcludeFromCollections: true
 
 
 subtitle: Chang’s and its parent company, Cypress & Sons, are committed to high standards of environmental responsibility."
