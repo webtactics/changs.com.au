@@ -39,9 +39,9 @@
 				 
 							
 <div class="buttonnavwrapper">
-<button class=" currentpage"><a class=" currentpage" href="/why-changs/">About Us</a></button>
-<button><a href="/why-changs/sustainability/">Sustainability</a></button>
-<button><a href="/why-changs/privacy-policy/">Privacy Policy</a></button>
+<button class="{% if page.url == '/why-changs/' %} currentpage{% endif %}"><a class="{% if page.url == '/why-changs/' %} currentpage{% endif %}" href="/why-changs/">About Us</a></button>
+<button class="{% if page.url == '/why-changs/sustainability/' %} currentpage{% endif %}"><a class="{% if page.url == '/why-changs/sustainability/' %} currentpage{% endif %}" href="/why-changs/sustainability/">Sustainability</a></button>
+<button class="{% if page.url == '/why-changs/privacy-policy/' %} currentpage{% endif %}"><a class="{% if page.url == '/why-changs/privacy-policy/' %} currentpage{% endif %}" href="/why-changs/privacy-policy/">Privacy Policy</a></button>
 </div>
 										</div>
 		</div>
@@ -55,10 +55,10 @@
   
 <div class="selectbox">
 	<select name="forma" onchange="location = this.value;">
-		<option disabled="disabled" selected="selected" value="">-- Select Section --</option>
-		<option value="/why-changs/">About Us</option>
-		<option value="/why-changs/sustainability/">Sustainability</option>
-		<option value="/why-changs/privacy-policy/">Privacy Policy</option>
+		<option disabled="disabled" {% if page.url != '/why-changs/' and page.url != '/why-changs/sustainability/' and page.url != '/why-changs/privacy-policy/' %}selected="selected"{% endif %} value="">-- Select Section --</option>
+		<option value="/why-changs/" {% if page.url == '/why-changs/' %}selected="selected"{% endif %}>About Us</option>
+		<option value="/why-changs/sustainability/" {% if page.url == '/why-changs/sustainability/' %}selected="selected"{% endif %}>Sustainability</option>
+		<option value="/why-changs/privacy-policy/" {% if page.url == '/why-changs/privacy-policy/' %}selected="selected"{% endif %}>Privacy Policy</option>
 	</select>
 </div>
 
