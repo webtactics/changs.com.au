@@ -2,24 +2,21 @@
 
 
 
+{% block bodyclass %}<body class="nohero {{ class }}" >{% endblock %}
 
-
+ {% block hero %}
+ {% endblock %}
 
 {% block content %}
+
 <div class="container">
-	<main class="content" data-pagefind-body>
-		<img src="{{ image or metadata.image }}" alt="" data-pagefind-meta="image[src]" style="display:none">
+<div class="pad4rem"></div>
+    <main class="content" data-pagefind-body>
+        <img src="{{ image or metadata.image }}" alt="" data-pagefind-meta="image[src]" style="display:none">
 
-{{ content | safe }}
-			
-
-	</main>
+        <div class="maincontent">{{ content | safe }}</div>
+		
+    </main>
 </div>
 
-
-
 {% endblock %}
-
-
-
-
