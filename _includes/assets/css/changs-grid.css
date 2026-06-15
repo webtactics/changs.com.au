@@ -1242,6 +1242,15 @@ color: var(--white);
 background-color: var(--black);
 }
 
+ul.navbar-menu li.parent.active-class ul.second-level li a:hover,
+ul.navbar-menu li.parent.active-class ul.second-level li a:focus {
+font-size: 1rem;
+line-height:3rem;
+height: 3rem;
+color: var(--primary);
+background-color: var(--white);
+}
+
 
 
 ul.navbar-menu ul li.parent::after {
@@ -2116,7 +2125,7 @@ padding: 3rem 1rem;}
   width: calc(96vw - 1rem);
   max-width: 1000px;
   background-color: transparent;
-  min-height: 200px;
+  min-height: 100px;
 }
 
 select {
@@ -3842,6 +3851,7 @@ top: 35vh;
   padding: 4rem 0 0 0;
   width: calc(80vw - 1rem);
   max-width: 1000px;
+  min-height: 50px;
 }
 
 .buttonnavwrapper {
