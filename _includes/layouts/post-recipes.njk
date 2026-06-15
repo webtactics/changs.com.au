@@ -4,57 +4,129 @@ section: post
 ---
 
 
+<div class="grid-2-detail-default">
 
-<div class="detailwrapper recipes">
-  <article>
-    <div class="grid-2-news">
-
-      <div class="item postdetail">
-
-        <div class="detailcontent">
-
-          <h2>{{ title }}</h2>
-
-
-          <div class="recipedetailserveprepdifficultbox">
-             {% if preptime %}<div class="recipedetailserveprepdifficult"><span class="reddetail">Preparation time:</span>{{ preptime }}</div>{% endif %}
-                {% if cookingtime %}<div class="recipedetailserveprepdifficult"><span class="reddetail">Cooking time:</span>{{ cookingtime }}</div>{% endif %}
-                  {% if serves %}<div class="recipedetailserveprepdifficult"><span class="reddetail">Serves:</span>{{ serves }}</div>{% endif %}
-                  </div>
-             
-
-
-
-        {% if ingredients %}
-            <div class="column">{{ ingredients | safe }}</div>
-            {% endif %}
-            {% if method %}
-            <div class="column last">
-              <h3>Method</h3>
-              {{ method | safe }}
-            </div>
-            {% endif %}
-            {% if not ingredients and not method %}
-            {{ content | safe }}
-            {% endif %}
-
-
-
-
-
+<div class="recipedetailtitle hide-for-large padsmall">
+<h1>{{ title }}</h1>
 </div>
-      </div>
-        
-      <div class="sidebarwrapper">
-        <div class="postnewsimage">
-          <img src="{{ image }}/tr:w-600,h-400" alt="{{ title }}" title="{{ title }}" width="600px" height="auto" class="postlistimg">
-        </div>
-      </div>
 
+<div class="CGBlogDetailImage">
+<img class="lightbox-image" src="{{ image }}/tr:w-750,h-1000" alt="{{ title }}" title="{{ title }}" />
+</div>
+
+<div class="recipes-ingredients padsmall">
+
+<div class="recipedetailtitle show-for-large hide-for-small">
+<h1>{{ title }}</h1>
+</div>
+
+<div class="recipedetailserveprepdifficultbox">
+{% if serves %}
+  <div class="recipedetailserveprepdifficult">
+      <span class="reddetail">Serves:</span>{{ serves }}
   </div>
-
-  </article>
+{% endif %}
+{% if makes %}
+  <div class="recipedetailserveprepdifficult">
+      <span class="reddetail">Makes:</span>{{ makes }}
+  </div>
+{% endif %}
+{% if preptime %}
+  <div class="CGBlogDetailSummary">
+    <span class="reddetail">Preparation time:</span>{{ preptime }}
+  </div>
+{% endif %}
+{% if cookingtime %}
+  <div class="CGBlogDetailSummary">
+    <span class="reddetail">Cooking time:</span>{{ cookingtime }}
+  </div>
+{% endif %}
+{% if marinating %}
+  <div class="CGBlogDetailSummary">
+    <span class="reddetail">Marinating time:</span>{{ marinating }}
+  </div>
+{% endif %}
+{% if difficulty %}
+  <div class="CGBlogDetailSummary">
+    <span class="reddetail">Difficulty:</span>{{ difficulty }}
+ </div>
+{% endif %}
 </div>
+
+{% if content %}
+<div class="CGBlogDetailContent recipelist">
+{{ content | safe }}
+</div>
+{% endif %}
+
+
+</div>
+</div>
+<!-- method below -->
+
+<div class="recipes-ingredients padsmall">
+{% if method %}
+<div class="CGBlogMethod recipelist">
+{{ method | safe }}
+</div>
+{% endif %}
+
+
+{# if products is set #}
+{% if products %}
+
+  <div class="related recipelist pad2remtopbottom">
+  <h3>Relevant products</h3>
+  <div id="relevant-products" class="relevant-products">
+   {{ products | safe }}
+   </div>
+   </div>
+
+{% endif %}
+
+
+
+{% if video %}
+<div class="CGBlogvideo recipelist pad2remtopbottom">
+<div class="recipesvideocontent">
+<h3>Making {{ title }} in 30 seconds!</h3>
+  {{ video | safe }}
+  </div>
+</div>
+
+{% endif %}
+{% if youtube %}
+<div class="recipesvideocontent large pad2remtopbottom">
+<div class="embed-responsive embed-responsive-16by9">
+ <iframe id="video" class="embed-responsive-item" src="{{ youtube }}"  frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+
+{% endif %}
+
+
+
+
+{% if gallery4 %}
+<section class="sliderWrapper recipeslider noprint recipelist pad2remtopbottom">
+
+<div class="recipegallery">
+<h3>{{ headinggallery4 }}</h3>
+{# Gallery template="LISSE" dir=gallery4 - needs Nunjucks gallery include #}
+</div>
+
+</section>
+{% endif %}
+    
+</div>
+
+
+
+
+
+
+
+
 
 
 {% include "components/global/tagged.html" %}
