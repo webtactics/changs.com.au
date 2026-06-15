@@ -3819,11 +3819,12 @@ top: 35vh;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 2rem;
+  column-gap: 2rem;
+  row-gap: 1rem;
 }
 
 .buttonnavwrapper > button {
-  padding: 0;
+  padding: 0 0.5rem;
   margin: 1rem 0;
   background-color: var(--white);
   font-family: Roboto;
