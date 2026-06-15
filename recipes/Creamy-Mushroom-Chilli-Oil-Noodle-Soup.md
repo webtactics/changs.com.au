@@ -1,7 +1,7 @@
 ﻿---
 title: "Creamy Mushroom Chilli Oil Noodle Soup"
 status: published
-date: 2026-04-14
+date: 2026-04-14-11:00:00
 description: "A rich, creamy, umami-packed bowl layered with silky noodles, caramelised mushroom ‘mince’, and a fragrant chilli oil finish. Deeply comforting with just the right amount of heat."
 permalink: "/recipes/Creamy-Mushroom-Chilli-Oil-Noodle-Soup/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Creamy-Mushroom-Chilli-Oil-Noodle-Soup/Creamy-Mushroom-Chilli-Oil-Noodle-Soup.jpg
