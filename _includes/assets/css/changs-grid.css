@@ -2438,24 +2438,6 @@ h4.sum-title a:hover {
 .recipes .column {
   margin-bottom: 4rem;
 }
-.recipedetailserveprepdifficultbox {
-padding:0 0 2.5rem 6rem;
-  position: relative;
-}
-.recipedetailserveprepdifficultbox::before {
-  content: "";
-  width: 4.5rem;
-  height: .5rem;
-  display: block;
-  background: transparent url(https://ik.imagekit.io/webtactics/pmfresh/assets/rectangle_IuEasM-q3.svg?updatedAt=1763079970435) no-repeat left top;
-    background-size: auto;
-  background-size: auto;
-  background-size: 4.5rem .5rem;
-  position: absolute;
-  left: 0;
-  top: .4rem;
-}
-
 
 
 .reddetail {
