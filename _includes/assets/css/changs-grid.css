@@ -1929,7 +1929,7 @@ button.success, .button.success {
   align-items: center;
   background-color: var(--primary);
   border: 0.3rem solid var(--primary);
-  border-radius: 1.25rem;
+  border-radius: 20px;
   color: var(--white);
   font-size: 1rem;
   padding: 0.4rem 3rem;
@@ -1943,6 +1943,7 @@ button.success, .button.success {
   cursor: pointer;
   text-decoration: none;
 }
+
 
 button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
   background-color: var(--black);
@@ -1960,8 +1961,10 @@ button.success:hover, button.success:focus, .button.success:hover, .button.succe
 
 
 button.success.home, .button.success.home {
-  padding: 0.8rem 3rem;
-  font-size: 1.25rem;
+justify-content: flex-end;
+  padding: 0.6rem 2rem;
+  border-radius: 40px;
+  font-size: 20px;
 }
 
 @media (max-width: 800px) {
