@@ -9,17 +9,15 @@ pagination:
     - post
     - posts
 permalink: /tagged/{{ tag }}/
-layout: layouts/grid-tagged.njk
+layout: layouts/grid-nohero.njk
 class: tagpage
 eleventyComputed:
-  title: "Articles & Posts Tagged “{{ tag }}”"
+  title: "Products & Recipes Tagged “{{ tag }}”"
   metaDescription: "All Products, Recipes and News tagged with “{{ tag }}”"
-  description: "All Products, Recipes and News tagged with “{{ tag }}”"
+  description: "Products and Recipes tagged with “{{ tag }}”"
 ---
 
 
 
 {% set postslist = collections[tag] | reverse %}
 {% include "components/postlist/postslist-tagged.njk" %}
-
-
