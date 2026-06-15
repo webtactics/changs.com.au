@@ -2149,10 +2149,10 @@ select {
   background-repeat: no-repeat;
   background-size: 9px 6px;
   padding-right: 1.5rem;
-  -webkit-transition: border-color var(--transition03) ease-in-out,-webkit-box-shadow .5s;
-  transition: border-color var(--transition03) ease-in-out,-webkit-box-shadow .5s;
-  transition: box-shadow .5s,border-color var(--transition03) ease-in-out;
-  transition: box-shadow .5s,border-color var(--transition03) ease-in-out,-webkit-box-shadow .5s;
+  -webkit-transition: border-color var(--transition03) ease-in-out,-webkit-box-shadow var(--transition03);
+  transition: border-color var(--transition03) ease-in-out,-webkit-box-shadow var(--transition03);
+  transition: box-shadow var(--transition03),border-color var(--transition03) ease-in-out;
+  transition: box-shadow var(--transition03),border-color var(--transition03) ease-in-out,-webkit-box-shadow var(--transition03);
 
   cursor: pointer;
   padding: 0.25rem;
