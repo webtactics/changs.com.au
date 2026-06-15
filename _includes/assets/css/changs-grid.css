@@ -1632,7 +1632,7 @@ img.iga {
 }
 .text-centerflex {
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   align-items: center;
   margin: 0;
   padding: 0;
