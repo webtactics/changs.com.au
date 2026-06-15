@@ -1688,7 +1688,7 @@ img.iga {
   padding: 4rem 0;
 }
 
-
+.content.detail { padding: 8rem 0;}
 
 .container p a {
   line-height: inherit;
@@ -2026,10 +2026,6 @@ button.blogdetail, .button.blogdetail {margin:0;}
 .hide { display: none;}
 
 li.hide { display: none;}
-
-
-
-
 
 
 

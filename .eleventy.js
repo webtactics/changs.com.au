@@ -27,13 +27,34 @@ module.exports = function (eleventyConfig) {
         return arr1.filter(item => arr2_ids.includes(item.url));
     });
 
-    // Find products whose title matches one of the given tags (e.g. a recipe's product tags)
+    // Find products whose title matches one of the given tags (e.g. a recipe's product tags).
+    // Tags don't always match a product title exactly (eg. "Hoisin Sauce" vs "Original Hoisin Sauce"),
+    // so also match when one fully contains the other - guarded by a minimum length so short,
+    // generic tags like "Style" or "Pork" can't accidentally match unrelated products.
     eleventyConfig.addFilter("productsFromTags", (products, tags) => {
         if (!products || !tags || tags.length === 0) {
             return [];
         }
 
-        return products.filter(product => tags.includes(product.data.title));
+        const MIN_MATCH_LENGTH = 8;
+
+        return products.filter(product => {
+            const title = product.data.title.toLowerCase();
+
+            return tags.some(tag => {
+                const normalizedTag = tag.toLowerCase();
+
+                if (normalizedTag === title) {
+                    return true;
+                }
+
+                if (normalizedTag.length < MIN_MATCH_LENGTH || title.length < MIN_MATCH_LENGTH) {
+                    return false;
+                }
+
+                return title.includes(normalizedTag) || normalizedTag.includes(title);
+            });
+        });
     });
 
     // Combine two collections, removing duplicates and sorting by date (newest first)
