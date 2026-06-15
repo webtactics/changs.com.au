@@ -2521,6 +2521,12 @@ padding:0 2rem;
   min-height:300px;
 }
 
+
+.grid-2-detail-default {
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+
 .grid-2-products-categories {
   grid-template-columns: 1fr 1fr;
   gap: 5rem;
