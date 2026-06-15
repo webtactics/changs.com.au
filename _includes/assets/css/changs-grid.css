@@ -3842,15 +3842,13 @@ top: 35vh;
   padding: 4rem 0 0 0;
   width: calc(80vw - 1rem);
   max-width: 1000px;
-  background-color: transparent;
-  min-height: 200px;
 }
 
 .buttonnavwrapper {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 1rem;
+  gap: 2rem;
 }
 
 .buttonnavwrapper > button {
@@ -3861,7 +3859,7 @@ top: 35vh;
   border-radius: 40px;
   border: 3px solid var(--primary);
   overflow: hidden;
-  transition: background-color 0.4s ease, color 0.4s ease;
+  transition: background-color var( --transition06  ) ease, color var(--transition06) ease;
 }
 
 .buttonnavwrapper > button a {
@@ -3875,7 +3873,7 @@ top: 35vh;
   font-weight: 600;
   line-height: normal;
   letter-spacing: 0.8px;
-  transition: background-color 0.4s ease, color 0.4s ease;
+  transition: background-color var(--transition06) ease, color var(--transition06) ease;
 }
 
 .buttonnavwrapper > button:hover,
