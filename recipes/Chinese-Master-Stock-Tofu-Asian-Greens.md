@@ -34,7 +34,7 @@ method: |
   </ol>
 tags:
   - "Vegetables"
-  - "Style"
+
   - "Slow Cooking"
   - "Vegetarian"
   - "Occasions"

@@ -36,7 +36,7 @@ tags:
   - "Lamb"
   - "Noodles"
   - "Stir-Fry"
-  - "Style"
+
   - "Main Meals"
   - "Spring"
   - "Original Oyster Sauce"

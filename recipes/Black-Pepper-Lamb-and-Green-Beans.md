@@ -33,7 +33,7 @@ tags:
   - "Lamb"
   - "Gluten-Free"
   - "Stir-Fry"
-  - "Style"
+
   - "Kid Friendly"
   - "Occasions"
   - "Dairy Free"

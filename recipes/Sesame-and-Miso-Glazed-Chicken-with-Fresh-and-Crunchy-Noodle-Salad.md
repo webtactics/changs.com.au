@@ -40,7 +40,7 @@ method: |
 tags:
   - "Chicken"
   - "Noodles"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Occasions"

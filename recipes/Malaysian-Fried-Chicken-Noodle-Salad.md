@@ -43,7 +43,7 @@ method: |
 tags:
   - "Chicken"
   - "Noodles"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Slow Cooking"
   - "Noodles Style"

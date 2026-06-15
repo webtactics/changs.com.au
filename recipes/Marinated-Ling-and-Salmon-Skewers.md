@@ -31,7 +31,7 @@ tags:
   - "BBQ"
   - "Seafood"
   - "Gluten-Free"
-  - "Style"
+
   - "Kid Friendly"
   - "Occasions"
   - "Healthy Meals"

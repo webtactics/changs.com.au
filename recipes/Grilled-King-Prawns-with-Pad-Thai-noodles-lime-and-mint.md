@@ -35,7 +35,7 @@ tags:
   - "BBQ"
   - "Seafood"
   - "Noodles"
-  - "Style"
+
   - "Occasions"
   - "Quick and Easy"
   - "Summer"

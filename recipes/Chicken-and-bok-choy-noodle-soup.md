@@ -28,7 +28,7 @@ method: |
 tags:
   - "Chicken"
   - "Noodles"
-  - "Style"
+
   - "Soups"
   - "Occasions"
   - "Healthy Meals"

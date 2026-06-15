@@ -31,7 +31,7 @@ tags:
   - "Seafood"
   - "Noodles"
   - "Stir-Fry"
-  - "Style"
+
   - "Occasions"
   - "Dinner for Two"
   - "Main Meals"

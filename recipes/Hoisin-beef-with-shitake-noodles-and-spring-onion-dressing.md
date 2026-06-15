@@ -40,7 +40,7 @@ tags:
   - "Beef"
   - "Noodles"
   - "Stir-Fry"
-  - "Style"
+
   - "Occasions"
   - "Healthy Meals"
   - "Gluten Free Variation"

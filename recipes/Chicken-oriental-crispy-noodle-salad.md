@@ -30,7 +30,7 @@ method: |
 tags:
   - "Chicken"
   - "Noodles"
-  - "Style"
+
   - "Healthy Meals"
   - "Dinner for Two"
   - "Spring"

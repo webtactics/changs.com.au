@@ -37,7 +37,7 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Style"
+
   - "Sauces and condiments"
   - "Occasions"
   - "Main Meals"

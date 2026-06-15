@@ -43,7 +43,7 @@ method: |
 tags:
   - "BBQ"
   - "Lamb"
-  - "Style"
+
   - "Kid Friendly"
   - "Occasions"
   - "Dairy Free"

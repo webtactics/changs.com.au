@@ -33,7 +33,7 @@ method: |
 tags:
   - "Beef"
   - "Gluten-Free"
-  - "Style"
+
   - "Finger Food"
   - "Kid Friendly"
   - "Occasions"

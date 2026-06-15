@@ -42,7 +42,7 @@ tags:
   - "Vegetables"
   - "Noodles"
   - "Stir-Fry"
-  - "Style"
+
   - "Kid Friendly"
   - "Vegetarian"
   - "Occasions"

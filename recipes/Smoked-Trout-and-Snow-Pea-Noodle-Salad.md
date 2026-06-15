@@ -42,7 +42,7 @@ tags:
   - "Noodles"
   - "Super Lo-Cal"
   - "Gluten-Free"
-  - "Style"
+
   - "Occasions"
   - "Healthy Meals"
   - "Dairy Free"

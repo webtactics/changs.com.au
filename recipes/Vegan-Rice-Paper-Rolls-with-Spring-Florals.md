@@ -40,7 +40,7 @@ tags:
   - "Vegetables"
   - "Noodles"
   - "Gluten-Free"
-  - "Style"
+
   - "Vegetarian"
   - "Occasions"
   - "Healthy Meals"

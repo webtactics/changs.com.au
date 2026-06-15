@@ -41,7 +41,7 @@ method: |
 tags:
   - "Seafood"
   - "Noodles"
-  - "Style"
+
   - "Noodles Style"
   - "Occasions"
   - "Healthy Meals"

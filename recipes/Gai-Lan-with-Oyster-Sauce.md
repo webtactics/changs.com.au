@@ -28,7 +28,7 @@ method: |
   TIP: For an authentic Yum Cha experience, cut the Gai Lan after boiling or steaming.</ol>
 tags:
   - "Vegetables"
-  - "Style"
+
   - "Vegetarian"
   - "Occasions"
   - "Light Meals"

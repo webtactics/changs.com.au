@@ -35,7 +35,7 @@ method: |
   </ol>
 tags:
   - "Pork"
-  - "Style"
+
   - "Noodles Style"
   - "Occasions"
   - "Dinner for Two"

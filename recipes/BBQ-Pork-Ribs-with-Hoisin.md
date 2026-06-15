@@ -45,7 +45,7 @@ tags:
   - "BBQ"
   - "Pork"
   - "Gluten-Free"
-  - "Style"
+
   - "Occasions"
   - "Dairy Free"
   - "Main Meals"

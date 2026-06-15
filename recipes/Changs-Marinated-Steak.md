@@ -38,7 +38,7 @@ tags:
   - "BBQ"
   - "Beef"
   - "Gluten-Free"
-  - "Style"
+
   - "Kid Friendly"
   - "Occasions"
   - "Healthy Meals"

@@ -37,7 +37,7 @@ tags:
   - "BBQ"
   - "Pork"
   - "Noodles"
-  - "Style"
+
   - "Occasions"
   - "Main Meals"
   - "Family Dinners"

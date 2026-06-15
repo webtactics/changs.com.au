@@ -29,7 +29,7 @@ tags:
   - "BBQ"
   - "Vegetables"
   - "Noodles"
-  - "Style"
+
   - "Sides"
   - "Vegetarian"
   - "Occasions"

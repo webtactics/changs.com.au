@@ -36,7 +36,7 @@ method: |
   </ol>
 tags:
   - "Pork"
-  - "Style"
+
   - "Kid Friendly"
   - "Occasions"
   - "Christmas"

@@ -42,7 +42,7 @@ method: |
   </ol>
 tags:
   - "Pork"
-  - "Style"
+
   - "Occasions"
   - "Dairy Free"
   - "Main Meals"

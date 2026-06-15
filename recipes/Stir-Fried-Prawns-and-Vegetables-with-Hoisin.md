@@ -38,7 +38,7 @@ tags:
   - "Seafood"
   - "Gluten-Free"
   - "Stir-Fry"
-  - "Style"
+
   - "Occasions"
   - "Healthy Meals"
   - "Dairy Free"

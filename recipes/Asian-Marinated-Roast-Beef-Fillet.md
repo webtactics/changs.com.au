@@ -50,7 +50,7 @@ tags:
   - "BBQ"
   - "Beef"
   - "Noodles"
-  - "Style"
+
   - "Occasions"
   - "Summer"
   - "Christmas"

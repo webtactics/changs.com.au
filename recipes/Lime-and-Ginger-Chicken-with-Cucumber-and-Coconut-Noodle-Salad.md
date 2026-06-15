@@ -39,7 +39,7 @@ tags:
   - "Chicken"
   - "Noodles"
   - "Gluten-Free"
-  - "Style"
+
   - "Kid Friendly"
   - "Noodles Style"
   - "Occasions"

@@ -43,7 +43,7 @@ tags:
   - "Chicken"
   - "Seafood"
   - "Noodles"
-  - "Style"
+
   - "Noodles Style"
   - "Soups"
   - "Healthy Meals"

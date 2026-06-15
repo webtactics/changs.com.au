@@ -51,7 +51,7 @@ tags:
   - "BBQ"
   - "Chicken"
   - "Gluten-Free"
-  - "Style"
+
   - "Kid Friendly"
   - "Occasions"
   - "Healthy Meals"

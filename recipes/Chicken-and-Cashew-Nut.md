@@ -36,7 +36,7 @@ tags:
   - "Chicken"
   - "Noodles"
   - "Stir-Fry"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Occasions"
   - "Dairy Free"

@@ -29,7 +29,7 @@ method: |
 tags:
   - "Vegetables"
   - "Noodles"
-  - "Style"
+
   - "Vegetarian"
   - "Occasions"
   - "Healthy Meals"

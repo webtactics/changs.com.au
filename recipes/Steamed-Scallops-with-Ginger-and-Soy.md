@@ -32,7 +32,7 @@ tags:
   - "Seafood"
   - "Gluten-Free"
   - "Stir-Fry"
-  - "Style"
+
   - "Noodles Style"
   - "Occasions"
   - "Healthy Meals"

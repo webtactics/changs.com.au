@@ -33,7 +33,7 @@ tags:
   - "Noodles"
   - "Super Lo-Cal"
   - "Gluten-Free"
-  - "Style"
+
   - "Noodles Style"
   - "Soups"
   - "Occasions"

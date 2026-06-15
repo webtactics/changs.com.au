@@ -27,7 +27,7 @@ method: |
 tags:
   - "Pork"
   - "Noodles"
-  - "Style"
+
   - "Noodles Style"
   - "Soups"
   - "Occasions"

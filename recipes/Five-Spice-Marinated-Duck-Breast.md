@@ -32,7 +32,7 @@ method: |
   <li>Transfer a Maryland portion and six cherries to four, shallow bowls and serve with steamed Asian greens and rice or noodles.</li>
   </ol>
 tags:
-  - "Style"
+
   - "Duck"
   - "Sauces and condiments"
   - "Occasions"

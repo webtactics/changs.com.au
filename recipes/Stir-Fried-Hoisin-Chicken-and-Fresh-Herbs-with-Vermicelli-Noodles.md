@@ -40,7 +40,7 @@ tags:
   - "Noodles"
   - "Gluten-Free"
   - "Stir-Fry"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Kid Friendly"
   - "Noodles Style"

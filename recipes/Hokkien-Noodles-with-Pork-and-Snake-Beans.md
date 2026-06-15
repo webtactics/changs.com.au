@@ -33,7 +33,7 @@ tags:
   - "Pork"
   - "Noodles"
   - "Stir-Fry"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Occasions"

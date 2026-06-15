@@ -37,7 +37,7 @@ method: |
 tags:
   - "Beef"
   - "Noodles"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Occasions"

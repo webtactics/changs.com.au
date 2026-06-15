@@ -41,7 +41,7 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Style"
+
   - "Occasions"
   - "Healthy Meals"
   - "Dairy Free"

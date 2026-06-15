@@ -31,7 +31,7 @@ method: |
   </ol>
 tags:
   - "Noodles"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Kid Friendly"
   - "Occasions"

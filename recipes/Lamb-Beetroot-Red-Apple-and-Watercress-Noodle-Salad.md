@@ -35,7 +35,7 @@ method: |
 tags:
   - "Lamb"
   - "Noodles"
-  - "Style"
+
   - "Kid Friendly"
   - "Noodles Style"
   - "Occasions"

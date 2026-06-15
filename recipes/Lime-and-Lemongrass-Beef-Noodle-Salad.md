@@ -35,7 +35,7 @@ method: |
 tags:
   - "Beef"
   - "Noodles"
-  - "Style"
+
   - "Noodles Style"
   - "Occasions"
   - "Dairy Free"

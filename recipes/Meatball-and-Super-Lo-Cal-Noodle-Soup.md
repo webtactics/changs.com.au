@@ -51,7 +51,7 @@ tags:
   - "Noodles"
   - "Super Lo-Cal"
   - "Gluten-Free"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Soups"

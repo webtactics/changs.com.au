@@ -36,7 +36,7 @@ method: |
   </ol>
 tags:
   - "Noodles"
-  - "Style"
+
   - "Turkey"
   - "Slow Cooking"
   - "Occasions"

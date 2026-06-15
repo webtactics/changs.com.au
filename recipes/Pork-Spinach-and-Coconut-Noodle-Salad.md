@@ -35,7 +35,7 @@ method: |
 tags:
   - "Pork"
   - "Noodles"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Occasions"

@@ -49,7 +49,7 @@ tags:
   - "Beef"
   - "Noodles"
   - "Gluten-Free"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Finger Food"
   - "Noodles Style"

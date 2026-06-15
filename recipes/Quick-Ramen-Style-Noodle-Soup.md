@@ -36,7 +36,7 @@ method: |
   <p>Note: you can substitute the fresh shitake mushrooms with dried, but soak them in very hot or boiling water for 20 minutes then discard stems</p>
 tags:
   - "Noodles"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Soups"

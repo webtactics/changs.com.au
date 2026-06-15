@@ -41,7 +41,7 @@ tags:
   - "BBQ"
   - "Pork"
   - "Gluten-Free"
-  - "Style"
+
   - "Kid Friendly"
   - "Occasions"
   - "Healthy Meals"

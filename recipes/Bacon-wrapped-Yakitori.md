@@ -37,7 +37,7 @@ method: |
 tags:
   - "BBQ"
   - "Pork"
-  - "Style"
+
   - "Occasions"
   - "Christmas"
   - "Special Occasion"

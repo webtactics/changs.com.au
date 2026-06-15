@@ -37,7 +37,7 @@ tags:
   - "Pork"
   - "Gluten-Free"
   - "Stir-Fry"
-  - "Style"
+
   - "Kid Friendly"
   - "Occasions"
   - "Dairy Free"

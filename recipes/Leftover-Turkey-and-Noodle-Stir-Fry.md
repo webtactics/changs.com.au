@@ -35,7 +35,7 @@ method: |
 tags:
   - "Noodles"
   - "Stir-Fry"
-  - "Style"
+
   - "Turkey"
   - "Noodles Ingredient"
   - "Occasions"

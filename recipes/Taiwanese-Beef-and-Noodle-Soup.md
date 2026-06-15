@@ -47,7 +47,7 @@ tags:
   - "Beef"
   - "Noodles"
   - "Gluten-Free"
-  - "Style"
+
   - "Soups"
   - "Occasions"
   - "Healthy Meals"

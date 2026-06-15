@@ -42,7 +42,7 @@ method: |
 tags:
   - "Vegetables"
   - "Noodles"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Kid Friendly"
   - "Sides"

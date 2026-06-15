@@ -39,7 +39,7 @@ tags:
   - "Noodles"
   - "Gluten-Free"
   - "Stir-Fry"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Occasions"

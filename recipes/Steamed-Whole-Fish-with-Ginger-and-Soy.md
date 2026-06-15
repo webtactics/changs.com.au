@@ -42,7 +42,7 @@ method: |
 tags:
   - "Seafood"
   - "Gluten-Free"
-  - "Style"
+
   - "Sauces and condiments"
   - "Occasions"
   - "Healthy Meals"

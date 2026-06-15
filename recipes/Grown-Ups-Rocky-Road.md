@@ -29,7 +29,7 @@ method: |
   </ol>
 tags:
   - "Noodles"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Finger Food"
   - "Kid Friendly"

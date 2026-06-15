@@ -50,7 +50,7 @@ tags:
   - "Super Lo-Cal"
   - "Gluten-Free"
   - "Stir-Fry"
-  - "Style"
+
   - "Noodles Style"
   - "Occasions"
   - "Healthy Meals"

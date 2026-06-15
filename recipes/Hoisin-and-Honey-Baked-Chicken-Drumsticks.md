@@ -31,7 +31,7 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Style"
+
   - "Finger Food"
   - "Kid Friendly"
   - "Occasions"

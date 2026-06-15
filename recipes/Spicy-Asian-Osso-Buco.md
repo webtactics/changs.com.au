@@ -36,7 +36,7 @@ method: |
   </ol>
 tags:
   - "Gluten-Free"
-  - "Style"
+
   - "Slow Cooking"
   - "Soups"
   - "Occasions"

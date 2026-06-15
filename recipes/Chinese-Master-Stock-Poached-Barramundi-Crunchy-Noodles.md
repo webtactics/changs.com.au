@@ -32,7 +32,7 @@ method: |
 tags:
   - "Seafood"
   - "Noodles"
-  - "Style"
+
   - "Sauces and condiments"
   - "Occasions"
   - "Healthy Meals"

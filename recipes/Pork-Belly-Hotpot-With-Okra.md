@@ -36,7 +36,7 @@ method: |
 tags:
   - "Pork"
   - "Gluten-Free"
-  - "Style"
+
   - "Soups"
   - "Occasions"
   - "Healthy Meals"

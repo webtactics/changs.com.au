@@ -35,7 +35,7 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Style"
+
   - "Occasions"
   - "Christmas"
   - "Festive"

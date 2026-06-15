@@ -1,5 +1,5 @@
 ﻿---
-title: "Original Hoisin Sauce"
+title: "Chang's Original Hoisin Sauce"
 status: published
 date: 2026-05-15
 description: "Perfect for glazes, marinades, a stir-fry or simply as a dipping sauce."

@@ -49,7 +49,7 @@ tags:
   - "Beef"
   - "Noodles"
   - "Stir-Fry"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Kid Friendly"
   - "Occasions"

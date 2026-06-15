@@ -40,7 +40,7 @@ tags:
   - "BBQ"
   - "Lamb"
   - "Gluten-Free"
-  - "Style"
+
   - "Kid Friendly"
   - "Occasions"
   - "Healthy Meals"

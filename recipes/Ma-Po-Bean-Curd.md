@@ -40,7 +40,7 @@ method: |
 tags:
   - "Pork"
   - "Gluten-Free"
-  - "Style"
+
   - "Slow Cooking"
   - "Soups"
   - "Occasions"

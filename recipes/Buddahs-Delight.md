@@ -42,7 +42,7 @@ method: |
   </ol>
 tags:
   - "Vegetables"
-  - "Style"
+
   - "Vegetarian"
   - "Soups"
   - "Occasions"

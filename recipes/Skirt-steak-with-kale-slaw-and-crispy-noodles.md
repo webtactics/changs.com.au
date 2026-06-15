@@ -31,7 +31,7 @@ tags:
   - "Beef"
   - "Noodles"
   - "Stir-Fry"
-  - "Style"
+
   - "Occasions"
   - "Main Meals"
   - "Summer"

@@ -34,7 +34,7 @@ method: |
 tags:
   - "Vegetables"
   - "Noodles"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Vegetarian"

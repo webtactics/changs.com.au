@@ -41,7 +41,7 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Style"
+
   - "Finger Food"
   - "Kid Friendly"
   - "Sides"

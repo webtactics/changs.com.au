@@ -34,7 +34,7 @@ method: |
   <p>Note: use ice-cream squares if preferred.</p>
 tags:
   - "Noodles"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Sweet Treats"
   - "Summer"

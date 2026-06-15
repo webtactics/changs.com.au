@@ -55,7 +55,7 @@ method: |
 tags:
   - "Chicken"
   - "Gluten-Free"
-  - "Style"
+
   - "Slow Cooking"
   - "Occasions"
   - "Healthy Meals"

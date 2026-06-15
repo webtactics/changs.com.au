@@ -39,7 +39,7 @@ tags:
   - "Super Lo-Cal"
   - "Gluten-Free"
   - "Stir-Fry"
-  - "Style"
+
   - "Kid Friendly"
   - "Noodles Style"
   - "Occasions"

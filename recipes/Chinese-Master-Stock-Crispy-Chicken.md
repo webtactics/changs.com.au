@@ -40,7 +40,7 @@ method: |
 tags:
   - "Chicken"
   - "Noodles"
-  - "Style"
+
   - "Sauces and condiments"
   - "Slow Cooking"
   - "Occasions"

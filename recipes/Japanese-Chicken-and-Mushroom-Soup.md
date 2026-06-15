@@ -36,7 +36,7 @@ tags:
   - "Noodles"
   - "Super Lo-Cal"
   - "Gluten-Free"
-  - "Style"
+
   - "Soups"
   - "Occasions"
   - "Healthy Meals"

@@ -32,7 +32,7 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Style"
+
   - "Finger Food"
   - "Occasions"
   - "Dairy Free"

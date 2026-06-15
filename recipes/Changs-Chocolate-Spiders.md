@@ -29,7 +29,7 @@ method: |
   <li>They can be kept in freezer for even longer time.</li>
   </ol>
 tags:
-  - "Style"
+
   - "Kid Friendly"
   - "Occasions"
   - "Quick and Easy"

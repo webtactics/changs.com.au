@@ -47,7 +47,7 @@ method: |
 tags:
   - "Vegetables"
   - "Noodles"
-  - "Style"
+
   - "Noodles Ingredient"
   - "Sides"
   - "Vegetarian"

@@ -80,7 +80,7 @@ method: |
 tags:
   - "Seafood"
   - "Gluten-Free"
-  - "Style"
+
   - "Finger Food"
   - "Occasions"
   - "Dairy Free"

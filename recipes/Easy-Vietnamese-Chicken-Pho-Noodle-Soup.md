@@ -41,7 +41,7 @@ method: |
 tags:
   - "Chicken"
   - "Gluten-Free"
-  - "Style"
+
   - "Soups"
   - "Occasions"
   - "Healthy Meals"

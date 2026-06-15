@@ -30,7 +30,7 @@ tags:
   - "BBQ"
   - "Chicken"
   - "Gluten-Free"
-  - "Style"
+
   - "Finger Food"
   - "Kid Friendly"
   - "Occasions"

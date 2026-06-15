@@ -24,7 +24,7 @@ ingredients: |
   <li>&frac12; Chinese roast duck &ndash; available from Chinese BBQ restaurants</li>
   <li>1 Lebanese cucumber, cut into 4 cm long batons</li>
   <li>4 spring onions, white and pale green parts only, halved lengthways and cut into 4 cm lengths</li>
-  <li>2/3 cup <a title="Chang's Hoisin Sauce" href="/products/Changs-Hoisin-Sauce/">Chang's Hoisin Sauce</a></li>
+  <li>2/3 cup <a title="Chang's Hoisin Sauce" href="/products/changs-original-hoisin-sauce/">Chang's Hoisin Sauce</a></li>
   </ul>
 method: |
   <h3>Method:</h3>
@@ -36,7 +36,7 @@ method: |
   <li>Transfer the fritters to serving plates and top with the duck slices, cucumber and spring onion, spooning a little Chang&rsquo;s Hoisin sauce over the top and serving more in a small bowl separately.</li>
   </ol>
 tags:
-  - "Style"
+
   - "Duck"
   - "Finger Food"
   - "Sides"
@@ -54,5 +54,5 @@ tags:
   - "Entertaining"
   - "Festive"
   - "Poultry"
-  - "Hoisin Sauce"
+  - "Original Hoisin Sauce"
 ---

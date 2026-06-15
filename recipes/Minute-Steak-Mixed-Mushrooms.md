@@ -34,7 +34,7 @@ tags:
   - "BBQ"
   - "Beef"
   - "Gluten-Free"
-  - "Style"
+
   - "Occasions"
   - "Healthy Meals"
   - "Dairy Free"
