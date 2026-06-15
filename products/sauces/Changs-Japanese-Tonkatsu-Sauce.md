@@ -31,6 +31,7 @@ nutrition:
 tags:
   - "Gluten Free Product"
   - "Sauces"
+  - "Chang's Japanese Tonkatsu Sauce"
 ---
 
 Tasty favourite in Japan for fried pork cutlets, but equally delicious with potato wedges and chicken nuggets. Try it with your favourite bbq meats and sausages.

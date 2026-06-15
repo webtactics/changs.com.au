@@ -14,6 +14,7 @@ tags:
   - "Gluten Free Product"
   - "Sauces"
   - "Tamari"
+  - "Chang's Tamari Oyster Sauce"
 ---
 
 Chang’s introduce Gluten, Wheat and MSG free Oyster and Hoisin Sauce. Use as marinade for stir fried beef, pork or chicken. Also great as dipping sauces.

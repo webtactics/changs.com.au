@@ -31,6 +31,7 @@ nutrition:
 tags:
   - "Gluten Free Product"
   - "Sauces"
+  - "Chang's Savoury Black Bean Stir Fry Sauce"
 ---
 
 Black bean sauce is an essential ingredient in the Cantonese dish “Beef in Black bean sauce”. It adds a unique flavour to stir-fry beef, pork casserole and steamed fish.
