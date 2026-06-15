@@ -50,6 +50,7 @@
   --transition06: 0.6s;
   --transitionslow: 1s;
 
+ --radius: 0.8rem;
 
   --headerheight: 120px;
   --navtopheight: 40px;
@@ -2267,18 +2268,18 @@ h3.news-title a {
 h3.news-title a:hover {
   color: var(--white);
   background-color: var(--green);
-  transition: background-color .6s;
+  transition: background-color var(--transition06);
 }
 
 
 .recipessummary img {
-  border-radius: .5rem;
+  border-radius: var(--radius);
   width: 100%;
   aspect-ratio: 4/3;
 }
 
  .recipessummary .radiussum3image img.home3img,  .recipessummary .radiussum4image img.home4img {
-  border-radius: .5rem;
+  border-radius: var(--radius);
   width: 100%;
   aspect-ratio: 500/333;
 }
@@ -2330,7 +2331,7 @@ h3.news-title a:hover {
 .recipessummary h3.recipes-title a:hover {
   color: var(--primary);
   background-color: var(--white);
-  transition: all .6s;
+  transition: all var(--transition06);
 }
 
 
@@ -2372,8 +2373,8 @@ h4.sum-title {
   width: 100%;
   display: block;
   margin: 0;
-  border-bottom-left-radius: .5rem;
-  border-bottom-right-radius: .5rem;
+  border-bottom-left-radius: var(--radius);
+  border-bottom-right-radius: var(--radius);
 }
 
 h4.sum-title a {
@@ -2387,15 +2388,15 @@ h4.sum-title a {
   width: 100%;
   display: block;
   margin: 0;
-  border-bottom-left-radius: .5rem;
-  border-bottom-right-radius: .5rem;
+  border-bottom-left-radius: var(--radius);
+  border-bottom-right-radius: var(--radius);
 }
 h4.sum-title a:hover {
   color: var(--white);
   background-color: var(--green);
   transition: background-color .6s;
-  border-bottom-left-radius: .5rem;
-  border-bottom-right-radius: .5rem;
+  border-bottom-left-radius: var(--radius);
+  border-bottom-right-radius: var(--radius);
 }
 
 
