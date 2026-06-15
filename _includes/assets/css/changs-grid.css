@@ -3649,6 +3649,7 @@ font-family: 'Perpetua', sans-serif;
   min-height: 0;
   z-index: 0;
   overflow:visible;
+  padding:0;
  
   }
 
@@ -3656,7 +3657,7 @@ font-family: 'Perpetua', sans-serif;
 .flex-caption {
   background: var(--black40);
   font-size: 14px;
-  top: 22.5vh;
+  top: 35vh;
   left: 0px;
   line-height: 18px;
   padding: 0;
