@@ -1962,7 +1962,7 @@ button.success:hover, button.success:focus, .button.success:hover, .button.succe
 
 button.success.home, .button.success.home {
 justify-content: flex-end;
-  padding: 0.6rem 2rem;
+  padding: 0.7rem 2rem;
   border-radius: 40px;
   font-size: 20px;
 }
