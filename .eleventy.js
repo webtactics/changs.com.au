@@ -27,6 +27,15 @@ module.exports = function (eleventyConfig) {
         return arr1.filter(item => arr2_ids.includes(item.url));
     });
 
+    // Find products whose title matches one of the given tags (e.g. a recipe's product tags)
+    eleventyConfig.addFilter("productsFromTags", (products, tags) => {
+        if (!products || !tags || tags.length === 0) {
+            return [];
+        }
+
+        return products.filter(product => tags.includes(product.data.title));
+    });
+
     // Combine two collections, removing duplicates and sorting by date (newest first)
     eleventyConfig.addFilter("union", (arr1, arr2) => {
         arr1 = arr1 || [];

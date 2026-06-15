@@ -53,11 +53,19 @@ section: post
 {% endif %}
 </div>
 
+{% if ingredients %}
+<div class="CGBlogDetailContent recipelist">
+{{ ingredients | safe }}
+</div>
+{% endif %}
+
 {% if content %}
 <div class="CGBlogDetailContent recipelist">
 {{ content | safe }}
 </div>
 {% endif %}
+
+
 
 
 </div>
@@ -72,13 +80,14 @@ section: post
 {% endif %}
 
 
-{# if products is set #}
-{% if products %}
+{% set relatedProducts = collections.Products | productsFromTags(tags) %}
+{% if relatedProducts.length %}
 
   <div class="related recipelist pad2remtopbottom">
   <h3>Relevant products</h3>
   <div id="relevant-products" class="relevant-products">
-   {{ products | safe }}
+   {% set postslist = relatedProducts %}
+   {% include "components/postlist/postslist-products-4-wide.njk" %}
    </div>
    </div>
 
@@ -117,14 +126,8 @@ section: post
 
 </section>
 {% endif %}
-    
+
 </div>
-
-
-
-
-
-
 
 
 
