@@ -3809,7 +3809,7 @@ top: 35vh;
 
 .content.buttonnavbox {
   margin: 0 auto;
-  padding: 4rem 0 0 0;
+  padding: 4rem 0;
   width: calc(80vw - 1rem);
   max-width: 1000px;
   min-height: 50px;
