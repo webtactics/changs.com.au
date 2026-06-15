@@ -55,8 +55,8 @@ tags:
   - "Autumn"
   - "Spring"
   - "Soup and Salad"
-  - "Soy Sauce Light"
-  - "Long Life Noodles"
-  - "Organic Ramen Noodles"
-  - "Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Soy Sauce Light"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Organic Ramen Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

@@ -33,9 +33,9 @@ nutrition:
   SodiumAvgQuantityPerServing: "967.5mg"
   SodiumAvgQuantityPer100g: "3870mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
-  - "Original Hoisin Sauce"
+  - "Chang's Original Hoisin Sauce"
 ---
 
 Skip boring tomato sauce and take Chang’s Hoisin Sauce to your BBQ or dinner table. Hoisin in Chinese means “Delicious as Seafood, started as a dipping sauce for roast pork in Canton and was later used as a spread on lettuce for San Choi Bow. Also is ideal as a marinade.

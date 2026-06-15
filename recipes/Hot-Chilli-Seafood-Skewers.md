@@ -50,7 +50,7 @@ tags:
   - "Summer"
   - "Spring"
   - "Summer BBQ"
-  - "Gluten Free Fried Noodles"
-  - "Crispy Noodle Salad Dressing"
-  - "Original Fried Noodles"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Original Fried Noodles"
 ---

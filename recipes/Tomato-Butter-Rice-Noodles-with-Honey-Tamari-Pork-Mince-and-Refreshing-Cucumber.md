@@ -41,6 +41,6 @@ tags:
   - "Soups"
   - "Main Meals"
   - "Soup and Salad"
-  - "Vermicelli Rice Noodles"
-  - "Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Vermicelli Rice Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

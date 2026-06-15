@@ -44,7 +44,7 @@ tags:
   - "Christmas"
   - "Festive"
   - "Poultry"
-  - "Hokkien Noodles"
-  - "Original Oyster Sauce"
-  - "Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Hokkien Style Shelf Fresh Noodles"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

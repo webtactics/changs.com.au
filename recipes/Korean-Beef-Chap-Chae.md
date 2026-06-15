@@ -47,7 +47,8 @@ method: |
 tags:
   - "Beef"
   - "Noodles"
-  - "Super Lo-Cal"
+  - "Chang's Traditional Super Lo-Cal Noodles"
+  - "Chang's Super Lo-Cal Wide Noodles"
   - "Gluten-Free"
   - "Stir-Fry"
 
@@ -64,8 +65,8 @@ tags:
   - "Summer"
   - "Autumn"
   - "Spring"
-  - "Traditional Super Lo-Cal Noodles"
-  - "Super Lo-Cal Wide Noodles"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Sesame Oil"
+
+
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
 ---

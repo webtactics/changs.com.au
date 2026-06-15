@@ -40,8 +40,8 @@ tags:
   - "Main Meals"
   - "Summer"
   - "Spring"
-  - "Original Hoisin Sauce"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Sesame Oil"
-  - "Wok-Ready Noodles"
+  - "Chang's Original Hoisin Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
+  - "Chang's Wok-Ready Noodles"
 ---

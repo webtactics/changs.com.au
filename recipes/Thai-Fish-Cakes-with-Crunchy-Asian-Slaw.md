@@ -43,7 +43,7 @@ tags:
   - "Main Meals"
   - "Quick and Easy"
   - "Spring"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Crunchy Fried Noodles"
-  - "Original Fried Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Crunchy Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

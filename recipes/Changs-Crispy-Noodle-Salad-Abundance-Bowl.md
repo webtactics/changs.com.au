@@ -43,8 +43,8 @@ tags:
   - "Entertaining"
   - "Salad"
   - "Soup and Salad"
-  - "Original Fried Noodles"
-  - "Gluten Free Fried Noodles"
-  - "Crunchy Fried Noodles"
-  - "Crispy Noodle Salad Dressing"
+  - "Chang's Original Fried Noodles"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Crunchy Fried Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
 ---

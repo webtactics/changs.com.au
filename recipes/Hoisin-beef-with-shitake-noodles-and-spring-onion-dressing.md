@@ -48,7 +48,7 @@ tags:
   - "Quick and Easy"
   - "Summer"
   - "Spring"
-  - "Hokkien Noodles"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Sesame Oil"
+  - "Chang's Hokkien Style Shelf Fresh Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
 ---

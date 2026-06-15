@@ -43,6 +43,6 @@ tags:
   - "Main Meals"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Master Stock"
-  - "Sesame Oil"
+  - "Chang's Master Stock"
+  - "Chang's Sesame Oil"
 ---

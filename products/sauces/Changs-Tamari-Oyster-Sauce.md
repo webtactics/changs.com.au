@@ -1,5 +1,5 @@
 ﻿---
-title: "Tamari Oyster Sauce"
+title: "Chang's Tamari Oyster Sauce"
 status: published
 date: 2026-05-15
 description: "A gluten-, wheat- and MSG-free oyster sauce. A staple for your favourite stir-fry!"
@@ -11,7 +11,7 @@ gtin: "9300777092439"
 allergen: "Gluten Free, Nut Free"
 ingredients: "Water, soya beans, thickener (modified corn starch), sugar, garlic, salt"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
   - "Tamari"
 ---

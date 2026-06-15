@@ -1,5 +1,5 @@
 ﻿---
-title: "Vermicelli Rice  Noodles"
+title: "Chang's Vermicelli Rice Noodles"
 status: published
 date: 2026-05-15
 description: "Versatile rice noodles for all your favourite Asian dishes."
@@ -32,9 +32,9 @@ nutrition:
   SodiumAvgQuantityPerServing: "2.5mg"
   SodiumAvgQuantityPer100g: "4mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Noodles"
-  - "Vermicelli Rice Noodles"
+  - "Chang's Vermicelli Rice Noodles"
 ---
 
 Rice noodles are a delicious and light alternative to wheat noodles or spaghetti. Serve hot or cold with a stir-fry, soup or salad. Chang’s Rice Noodles are gluten-free and 99% fat free with no artificial colours or flavourings, packed with four individual portions.

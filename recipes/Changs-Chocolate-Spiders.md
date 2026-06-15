@@ -36,5 +36,5 @@ tags:
   - "Sweet Treats"
   - "Summer"
   - "Scary Sweets"
-  - "Original Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

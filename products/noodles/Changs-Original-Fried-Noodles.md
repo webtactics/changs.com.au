@@ -1,5 +1,5 @@
 ﻿---
-title: "Original Fried Noodles"
+title: "Chang's Original Fried Noodles"
 status: published
 date: 2026-05-15
 description: "Our famous original fried noodles! Ready to eat thin, short, straight crunchy fried noodles made with wheat flour and fried in cottonseed oil."
@@ -36,7 +36,7 @@ nutrition:
 tags:
   - "Noodles"
   - "ChangsTV"
-  - "Original Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---
 
 Our famous Original Fried Noodles - use in salads and soups for that extra crunch! Chang's Original Fried Noodles are cooked in cottonseed oil.

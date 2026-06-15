@@ -53,7 +53,7 @@ tags:
   - "Summer BBQ"
   - "Salad"
   - "Soup and Salad"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Sesame Oil"
-  - "Crunchy Fried Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
+  - "Chang's Crunchy Fried Noodles"
 ---

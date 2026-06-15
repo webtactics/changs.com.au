@@ -1,5 +1,5 @@
 ﻿---
-title: "Original Fish Sauce"
+title: "Chang's Original Fish Sauce"
 status: published
 date: 2026-05-15
 description: "A naturally brewed sauce made from fresh anchovies and salt, Fish Sauce is used extensively in Thai and Vietnamese cooking. Fish Sauce adds a unique delicious savoury flavour to your soups, stews, stir-fries, curries, dressings and as a dipping sauce."
@@ -31,9 +31,9 @@ nutrition:
   SodiumAvgQuantityPerServing: "1800mg"
   SodiumAvgQuantityPer100g: "9000mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
-  - "Original Fish Sauce"
+  - "Chang's Original Fish Sauce"
 ---
 
 A naturally brewed sauce made from fresh anchovies and salt, Fish Sauce is used extensively in Thai and Vietnamese cooking. Fish Sauce adds a unique delicious savoury flavour to your soups, stews, stir-fries, curries, dressings and as a dipping sauce.

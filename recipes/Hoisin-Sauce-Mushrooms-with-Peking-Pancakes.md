@@ -48,6 +48,6 @@ tags:
   - "Main Meals"
   - "Quick and Easy"
   - "Spring"
-  - "Original Hoisin Sauce"
-  - "Sesame Oil"
+  - "Chang's Original Hoisin Sauce"
+  - "Chang's Sesame Oil"
 ---

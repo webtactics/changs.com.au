@@ -1,5 +1,5 @@
 ﻿---
-title: "Japanese Tonkatsu Sauce"
+title: "Chang's Japanese Tonkatsu Sauce"
 status: published
 date: 2026-05-15
 description: "Dipping sauce. See label for recipes. Try with your favourite BBQ meats and sausages."
@@ -29,7 +29,7 @@ nutrition:
   SodiumAvgQuantityPerServing: "2929mg"
   SodiumAvgQuantityPer100g: "4000mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
 ---
 

@@ -47,7 +47,8 @@ method: |
   <li>Prepare the meal prep bowls by adding tahini dressing to the bottom, then peas, red pepper, roasted broccoli, baked tofu, noodles, and a sprinkle of sesame seeds.</li>
   </ol>
 tags:
-  - "Super Lo-Cal"
+  - "Chang's Traditional Super Lo-Cal Noodles"
+  - "Chang's Super Lo-Cal Wide Noodles"
   - "Gluten-Free"
   - "Vegetarian"
   - "Healthy Meals"
@@ -59,8 +60,8 @@ tags:
   - "Summer"
   - "Autumn"
   - "Spring"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Super Lo-Cal Wide Noodles"
-  - "Traditional Super Lo-Cal Noodles"
-  - "Sesame Oil"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+
+
+  - "Chang's Sesame Oil"
 ---

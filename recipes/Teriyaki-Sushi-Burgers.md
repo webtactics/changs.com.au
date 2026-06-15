@@ -41,6 +41,6 @@ tags:
   - "Summer"
   - "Autumn"
   - "Spring"
-  - "Japanese Teriyaki Sauce (280ml)"
-  - "Japanese Teriyaki Sauce"
+  - "Chang's Japanese Teriyaki Sauce"
+
 ---

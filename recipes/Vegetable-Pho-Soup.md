@@ -62,8 +62,8 @@ tags:
   - "Autumn"
   - "Spring"
   - "Soup and Salad"
-  - "Original Fish Sauce"
-  - "Original Hoisin Sauce"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Thai Style Rice Noodles"
+  - "Chang's Original Fish Sauce"
+  - "Chang's Original Hoisin Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Thai Style Rice Noodles"
 ---

@@ -63,8 +63,8 @@ tags:
   - "Spring"
   - "Salad"
   - "Soup and Salad"
-  - "Original Fried Noodles"
-  - "Crispy Noodle Salad Dressing"
-  - "Sesame Oil"
-  - "Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Fried Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Sesame Oil"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

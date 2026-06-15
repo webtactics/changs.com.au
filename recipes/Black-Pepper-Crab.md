@@ -57,8 +57,8 @@ tags:
   - "Special Occasion"
   - "Entertaining"
   - "Festive"
-  - "Original Oyster Sauce"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Soy Sauce Dark"
-  - "Long Life Noodles"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Soy Sauce Dark"
+  - "Chang's Gluten Free Fried Noodles"
 ---

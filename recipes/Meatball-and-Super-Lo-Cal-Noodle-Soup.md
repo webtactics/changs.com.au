@@ -49,7 +49,8 @@ tags:
   - "Beef"
   - "Pork"
   - "Noodles"
-  - "Super Lo-Cal"
+  - "Chang's Traditional Super Lo-Cal Noodles"
+  - "Chang's Super Lo-Cal Wide Noodles"
   - "Gluten-Free"
 
   - "Noodles Ingredient"
@@ -67,8 +68,8 @@ tags:
   - "Winter"
   - "Autumn"
   - "Soup and Salad"
-  - "Original Hoisin Sauce"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Traditional Super Lo-Cal Noodles"
-  - "Super Lo-Cal Wide Noodles"
+  - "Chang's Original Hoisin Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+
+
 ---

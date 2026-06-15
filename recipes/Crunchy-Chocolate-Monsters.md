@@ -39,5 +39,5 @@ tags:
   - "Easter"
   - "Festive"
   - "Scary Sweets"
-  - "Original Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

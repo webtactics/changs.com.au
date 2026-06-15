@@ -57,6 +57,6 @@ tags:
   - "Spring"
   - "Summer BBQ"
   - "Entertaining"
-  - "Sesame Oil"
-  - "Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

@@ -42,6 +42,6 @@ tags:
   - "Summer BBQ"
   - "Chinese New Year"
   - "Festive"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Sesame Oil"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
 ---

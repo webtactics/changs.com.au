@@ -58,7 +58,7 @@ tags:
   - "Spring"
   - "Chinese New Year"
   - "Festive"
-  - "Long Life Noodles"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Original Oyster Sauce"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Oyster Sauce"
 ---

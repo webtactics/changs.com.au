@@ -34,7 +34,8 @@ method: |
 tags:
   - "Chicken"
   - "Noodles"
-  - "Super Lo-Cal"
+  - "Chang's Traditional Super Lo-Cal Noodles"
+  - "Chang's Super Lo-Cal Wide Noodles"
   - "Gluten-Free"
 
   - "Soups"
@@ -56,7 +57,7 @@ tags:
   - "Spring"
   - "Poultry"
   - "Soup and Salad"
-  - "Traditional Super Lo-Cal Noodles"
-  - "Super Lo-Cal Wide Noodles"
-  - "Gluten Free Tamari Light Soy Sauce"
+
+
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

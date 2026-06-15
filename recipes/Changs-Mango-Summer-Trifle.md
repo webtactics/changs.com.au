@@ -36,5 +36,5 @@ tags:
   - "Kids"
   - "Entertaining"
   - "Festive"
-  - "Crunchy Fried Noodles"
+  - "Chang's Crunchy Fried Noodles"
 ---

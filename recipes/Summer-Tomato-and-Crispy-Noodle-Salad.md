@@ -46,5 +46,5 @@ tags:
   - "Entertaining"
   - "Salad"
   - "Soup and Salad"
-  - "Original Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

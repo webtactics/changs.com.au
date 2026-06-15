@@ -56,7 +56,7 @@ tags:
   - "Entertaining"
   - "Easter"
   - "Festive"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Original Hoisin Sauce"
-  - "Vermicelli Rice Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Hoisin Sauce"
+  - "Chang's Vermicelli Rice Noodles"
 ---

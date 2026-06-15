@@ -38,5 +38,5 @@ tags:
   - "Summer"
   - "Spring"
   - "Summer BBQ"
-  - "Long Life Noodles"
+  - "Chang's Gluten Free Fried Noodles"
 ---

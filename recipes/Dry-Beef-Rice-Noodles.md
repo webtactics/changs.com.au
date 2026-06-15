@@ -64,8 +64,8 @@ tags:
   - "Winter"
   - "Autumn"
   - "Kids"
-  - "Thai Style Rice Noodles"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Soy Sauce Dark"
-  - "Sesame Oil"
+  - "Chang's Thai Style Rice Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Soy Sauce Dark"
+  - "Chang's Sesame Oil"
 ---

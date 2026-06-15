@@ -55,7 +55,7 @@ tags:
   - "Salad"
   - "Poultry"
   - "Soup and Salad"
-  - "Sesame Oil"
-  - "Crunchy Fried Noodles"
-  - "Crispy Noodle Salad Dressing"
+  - "Chang's Sesame Oil"
+  - "Chang's Crunchy Fried Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
 ---

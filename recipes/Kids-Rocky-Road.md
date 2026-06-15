@@ -37,5 +37,5 @@ tags:
   - "Sweet Treats"
   - "Christmas"
   - "Festive"
-  - "Original Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

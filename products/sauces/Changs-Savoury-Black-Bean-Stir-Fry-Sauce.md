@@ -1,5 +1,5 @@
 ﻿---
-title: "Savoury Black Bean Stir Fry Sauce"
+title: "Chang's Savoury Black Bean Stir Fry Sauce"
 status: published
 date: 2026-05-15
 description: "Black bean sauce is an essential ingredient in the Cantonese dish &ldquo;Beef in Black bean sauce&rdquo;. It adds a unique flavour to stir-fry beef, pork casserole and steamed fish."
@@ -29,7 +29,7 @@ nutrition:
   SodiumAvgQuantityPerServing: "1675mg"
   SodiumAvgQuantityPer100g: "3350Mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
 ---
 

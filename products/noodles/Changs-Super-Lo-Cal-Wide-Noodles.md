@@ -1,5 +1,5 @@
 ﻿---
-title: "Super Lo-Cal Wide Noodles"
+title: "Chang's Super Lo-Cal Wide Noodles"
 status: published
 date: 2026-05-15
 description: "Traditional Super Lo-Cal Wide Noodles are crafted from the soluble fibre found in the Konjac root. Low in calories and incredibly filling, Super Lo-Cal Wide Noodles are suitable for a low-carb diet."
@@ -32,9 +32,9 @@ nutrition:
   SodiumAvgQuantityPerServing: "<5mg"
   SodiumAvgQuantityPer100g: "<5mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Noodles"
-  - "Super Lo-Cal Wide Noodles"
+  - "Chang's Super Lo-Cal Wide Noodles"
 ---
 
 Super Lo-Cal Wide Noodles are crafted from the soluble fibre found in the Konjac root. Low in calories and incredibly filling, Super Lo-Cal Wide Noodles are suitable for a low-carb diet. A single serving contains fewer carbs than an average slice of bread. Popular in Japan, Super Lo-Cal Wide Noodles noodles readily absorb the flavours of the sauce or soup. Super Lo-Cal Wide Noodles are quick and easy to prepare—just rinse in water, add to your meal, and enjoy!

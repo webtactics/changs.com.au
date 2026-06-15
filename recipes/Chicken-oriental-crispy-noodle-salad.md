@@ -40,5 +40,5 @@ tags:
   - "Salad"
   - "Poultry"
   - "Soup and Salad"
-  - "Original Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

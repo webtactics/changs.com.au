@@ -58,6 +58,6 @@ tags:
   - "Entertaining"
   - "Festive"
   - "Poultry"
-  - "Original Fried Noodles"
-  - "Sesame Oil"
+  - "Chang's Original Fried Noodles"
+  - "Chang's Sesame Oil"
 ---

@@ -35,5 +35,5 @@ tags:
   - "Kid Friendly"
   - "Gluten Free Variation"
   - "Sweet Treats"
-  - "Gluten Free Fried Noodles"
+  - "Chang's Gluten Free Fried Noodles"
 ---

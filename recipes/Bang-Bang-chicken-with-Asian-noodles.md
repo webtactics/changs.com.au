@@ -39,6 +39,6 @@ tags:
   - "Summer"
   - "Spring"
   - "Poultry"
-  - "Long Life Noodles"
-  - "Crispy Noodle Salad Dressing"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
 ---

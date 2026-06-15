@@ -47,5 +47,5 @@ tags:
   - "Quick and Easy"
   - "Winter"
   - "Spring"
-  - "Vermicelli Rice Noodles"
+  - "Chang's Vermicelli Rice Noodles"
 ---

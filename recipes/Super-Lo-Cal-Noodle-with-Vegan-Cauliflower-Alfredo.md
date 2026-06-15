@@ -54,5 +54,5 @@ tags:
   - "Spring"
   - "Kids"
   - "Soup and Salad"
-  - "Super Lo-Cal Wide Noodles"
+  - "Chang's Super Lo-Cal Wide Noodles"
 ---

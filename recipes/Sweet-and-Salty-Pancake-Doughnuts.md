@@ -48,6 +48,6 @@ tags:
   - "Kids"
   - "Easter"
   - "Festive"
-  - "Gluten Free Fried Noodles"
-  - "Original Fried Noodles"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

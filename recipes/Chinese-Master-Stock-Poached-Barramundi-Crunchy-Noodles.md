@@ -39,6 +39,6 @@ tags:
   - "Dinner for Two"
   - "Winter"
   - "Summer"
-  - "Master Stock"
-  - "Crunchy Fried Noodles"
+  - "Chang's Master Stock"
+  - "Chang's Crunchy Fried Noodles"
 ---

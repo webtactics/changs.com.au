@@ -1,5 +1,5 @@
 ﻿---
-title: "Soy Sauce Light"
+title: "Chang's Soy Sauce Light"
 status: published
 date: 2026-05-15
 description: "A lighter version of our classic dark soy, perfect for use in cooking or as a dipping sauce."
@@ -12,9 +12,9 @@ allergen: "Gluten Free"
 ingredients: "Water, soy bean extract, wheat extract, salt"
 igalink: "https://www.igashop.com.au/product/changs-light-soy-sauce-96514"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
-  - "Soy Sauce Light"
+  - "Chang's Soy Sauce Light"
 ---
 
 Soy Sauce Light is naturally brewed to have authentic aroma and taste. Its light colour allows cooking with the taste of soy sauce without the dark colour. It is especially suitable used as dipping sauce for seafood, sashimi and sushi.

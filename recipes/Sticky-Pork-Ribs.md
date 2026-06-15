@@ -46,5 +46,5 @@ tags:
   - "Spring"
   - "Summer BBQ"
   - "Entertaining"
-  - "Japanese Teriyaki Sauce"
+  - "Chang's Japanese Teriyaki Sauce"
 ---

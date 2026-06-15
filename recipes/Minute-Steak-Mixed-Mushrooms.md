@@ -49,5 +49,5 @@ tags:
   - "Autumn"
   - "Spring"
   - "Summer BBQ"
-  - "Original Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

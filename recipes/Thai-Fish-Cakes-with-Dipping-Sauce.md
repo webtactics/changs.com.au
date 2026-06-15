@@ -49,6 +49,6 @@ tags:
   - "Gluten-Free"
   - "Main Meals"
   - "Quick and Easy"
-  - "Original Fish Sauce"
-  - "Original Oyster Sauce"
+  - "Chang's Original Fish Sauce"
+  - "Chang's Original Oyster Sauce"
 ---

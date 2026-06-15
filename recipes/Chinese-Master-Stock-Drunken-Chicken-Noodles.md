@@ -42,8 +42,8 @@ tags:
   - "Family Dinners"
   - "Winter"
   - "Poultry"
-  - "Master Stock"
-  - "Hokkien Noodles"
-  - "Egg Noodles"
-  - "Sesame Oil"
+  - "Chang's Master Stock"
+  - "Chang's Hokkien Style Shelf Fresh Noodles"
+  - "Chang's Egg Noodles"
+  - "Chang's Sesame Oil"
 ---

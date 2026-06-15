@@ -47,9 +47,9 @@ tags:
   - "Autumn"
   - "Spring"
   - "Soup and Salad"
-  - "Long Life Noodles"
-  - "Sesame Oil"
-  - "Original Oyster Sauce"
-  - "Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Sesame Oil"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
 
 ---

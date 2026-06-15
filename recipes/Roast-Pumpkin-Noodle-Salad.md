@@ -45,6 +45,6 @@ tags:
   - "Summer BBQ"
   - "Christmas"
   - "Soup and Salad"
-  - "Crunchy Fried Noodles"
-  - "Crispy Noodle Salad Dressing"
+  - "Chang's Crunchy Fried Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title: "Gluten Free Tamari Light Soy Sauce"
+title: "Chang's Gluten Free Tamari Light Soy Sauce"
 status: published
 date: 2026-05-15
 description: "Soy Sauce can be used as a flavouring marinade, table sauce or dipping sauce. Marinade any meat, poultry, vegetables and seafood to enhance your favourite dishes."
@@ -33,10 +33,10 @@ nutrition:
   SodiumAvgQuantityPerServing: "1420mg"
   SodiumAvgQuantityPer100g: "7100mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
   - "Tamari"
-  - "Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---
 
 Soy Sauce can be used as a flavouring marinade, table sauce or dipping sauce. Marinade any meat, poultry, vegetables and seafood to enhance your favourite dishes. “Light” means the colour is lighter.

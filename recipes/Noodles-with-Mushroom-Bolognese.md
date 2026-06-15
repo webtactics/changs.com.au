@@ -46,7 +46,7 @@ tags:
   - "Summer"
   - "Autumn"
   - "Spring"
-  - "Long Life Noodles"
-  - "Sesame Oil"
-  - "Soy Sauce Light"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Sesame Oil"
+  - "Chang's Soy Sauce Light"
 ---

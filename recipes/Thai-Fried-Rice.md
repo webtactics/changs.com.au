@@ -47,6 +47,6 @@ tags:
   - "Vegetarian"
   - "Quick and Easy"
   - "Summer"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Original Fish Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Fish Sauce"
 ---

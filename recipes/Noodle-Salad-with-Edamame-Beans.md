@@ -51,8 +51,8 @@ tags:
   - "Salad"
   - "Festive"
   - "Soup and Salad"
-  - "Long Life Noodles"
-  - "Crispy Noodle Salad Dressing"
-  - "Original Fried Noodles"
-  - "Sesame Oil"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Original Fried Noodles"
+  - "Chang's Sesame Oil"
 ---

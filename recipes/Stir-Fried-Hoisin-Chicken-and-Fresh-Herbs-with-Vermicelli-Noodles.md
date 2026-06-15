@@ -60,6 +60,6 @@ tags:
   - "Kids"
   - "Entertaining"
   - "Poultry"
-  - "Vermicelli Rice Noodles"
-  - "Original Hoisin Sauce"
+  - "Chang's Vermicelli Rice Noodles"
+  - "Chang's Original Hoisin Sauce"
 ---

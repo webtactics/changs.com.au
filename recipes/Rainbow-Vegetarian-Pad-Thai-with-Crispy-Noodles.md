@@ -64,7 +64,7 @@ tags:
   - "Spring"
   - "Salad"
   - "Soup and Salad"
-  - "Original Fried Noodles"
-  - "Thai Style Rice Noodles"
-  - "Sesame Oil"
+  - "Chang's Original Fried Noodles"
+  - "Chang's Thai Style Rice Noodles"
+  - "Chang's Sesame Oil"
 ---

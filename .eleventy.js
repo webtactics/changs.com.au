@@ -28,31 +28,39 @@ module.exports = function (eleventyConfig) {
     });
 
     // Find products whose title matches one of the given tags (e.g. a recipe's product tags).
-    // Tags don't always match a product title exactly (eg. "Hoisin Sauce" vs "Original Hoisin Sauce"),
-    // so also match when one fully contains the other - guarded by a minimum length so short,
-    // generic tags like "Style" or "Pork" can't accidentally match unrelated products.
+    // All product tags now start with "Chang's" so we use word-set matching for those:
+    // every word in the tag must appear in the product title (e.g. "Chang's Hoisin Sauce"
+    // matches "Chang's Original Hoisin Sauce" and "Chang's Tamari Hoisin Sauce").
+    // Non-Chang's tags fall back to exact or substring matching (length-gated to prevent
+    // short generic tags like "Style" from accidentally matching product titles).
     eleventyConfig.addFilter("productsFromTags", (products, tags) => {
         if (!products || !tags || tags.length === 0) {
             return [];
         }
 
-        const MIN_MATCH_LENGTH = 8;
+        const MIN_SUBSTRING_LENGTH = 8;
 
         return products.filter(product => {
-            const title = product.data.title.toLowerCase();
+            const titleLower = product.data.title.toLowerCase();
+            const titleWords = new Set(titleLower.split(/\s+/));
 
             return tags.some(tag => {
-                const normalizedTag = tag.toLowerCase();
+                const tagLower = tag.toLowerCase();
 
-                if (normalizedTag === title) {
-                    return true;
+                // For "Chang's ..." tags use word-set matching: every tag word in title
+                if (tagLower.startsWith("chang’s ")) {
+                    return tagLower.split(/\s+/).every(word => titleWords.has(word));
                 }
 
-                if (normalizedTag.length < MIN_MATCH_LENGTH || title.length < MIN_MATCH_LENGTH) {
-                    return false;
+                // Exact match
+                if (tagLower === titleLower) return true;
+
+                // Substring match for longer specific phrases (avoids single-word false positives)
+                if (tagLower.length >= MIN_SUBSTRING_LENGTH && titleLower.length >= MIN_SUBSTRING_LENGTH) {
+                    return titleLower.includes(tagLower) || tagLower.includes(titleLower);
                 }
 
-                return title.includes(normalizedTag) || normalizedTag.includes(title);
+                return false;
             });
         });
     });

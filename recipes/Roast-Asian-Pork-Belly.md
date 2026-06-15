@@ -44,7 +44,7 @@ tags:
   - "Sunday Feasts"
   - "Christmas"
   - "Festive"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Original Hoisin Sauce"
-  - "Sesame Oil"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Hoisin Sauce"
+  - "Chang's Sesame Oil"
 ---

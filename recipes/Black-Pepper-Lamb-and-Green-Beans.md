@@ -45,5 +45,5 @@ tags:
   - "Family Dinners"
   - "Summer"
   - "Spring"
-  - "Chinese Black Pepper Sauce"
+  - "Chang's Chinese Black Pepper Sauce"
 ---

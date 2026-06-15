@@ -56,7 +56,7 @@ method: |
 tags:
   - "Chicken"
   - "Vegetables"
-  - "Super Lo-Cal"
+  - "Chang's Super Lo-Cal Wide Noodles"
   - "Noodles Ingredient"
   - "Vegetarian"
   - "Healthy Meals"
@@ -70,6 +70,6 @@ tags:
   - "Spring"
   - "Poultry"
   - "Soup and Salad"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Super Lo-Cal Wide Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+
 ---

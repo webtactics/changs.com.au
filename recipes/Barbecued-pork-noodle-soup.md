@@ -36,6 +36,6 @@ tags:
   - "Autumn"
   - "Spring"
   - "Soup and Salad"
-  - "Vermicelli Rice Noodles"
-  - "Master Stock"
+  - "Chang's Vermicelli Rice Noodles"
+  - "Chang's Master Stock"
 ---

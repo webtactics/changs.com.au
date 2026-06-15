@@ -34,7 +34,7 @@ tags:
   - "Winter"
   - "Autumn"
   - "Spring"
-  - "Long Life Noodles"
-  - "Sesame Oil"
-  - "Crispy Noodle Salad Dressing"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Sesame Oil"
+  - "Chang's Crispy Noodle Salad Dressing"
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title: "Black Bean Sauce"
+title: "Chang's Black Bean Sauce"
 status: published
 date: 2026-05-15
 description: "A traditional Cantonese sauce that is versatile enough to use with beef, pork and fish."
@@ -20,7 +20,7 @@ nutrition:
   SugarsAvgQuantityPer100g: "17.3g"
   SodiumAvgQuantityPer100g: "5573mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
 
 

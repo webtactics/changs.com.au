@@ -1,5 +1,5 @@
 ﻿---
-title: "Japanese Ponzu Sauce"
+title: "Chang's Japanese Ponzu Sauce"
 status: published
 date: 2026-05-15
 description: "A sweet and tangy citrus based soy sauce."
@@ -11,7 +11,7 @@ gtin: "9300777092538"
 allergen: "Gluten Free"
 ingredients: "Citron juice, sugar, water, natural brewed soy sauce (soy bean, water, salt, wheat flour), rice vinegar, rice white wine, corn starch, spices"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
 ---
 

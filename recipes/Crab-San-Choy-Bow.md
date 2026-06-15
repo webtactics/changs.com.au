@@ -46,7 +46,7 @@ tags:
   - "Summer"
   - "Spring"
   - "Soup and Salad"
-  - "Crispy Noodle Salad Dressing"
-  - "Original Fried Noodles"
-  - "Gluten Free Fried Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Original Fried Noodles"
+  - "Chang's Gluten Free Fried Noodles"
 ---

@@ -30,5 +30,5 @@ tags:
   - "Noodles Ingredient"
   - "Sweet Treats"
   - "Scary Sweets"
-  - "Original Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

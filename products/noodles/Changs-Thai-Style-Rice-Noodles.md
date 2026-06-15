@@ -1,5 +1,5 @@
 ﻿---
-title: "Thai Style Rice Noodles"
+title: "Chang's Thai Style Rice Noodles"
 status: published
 date: 2026-05-15
 description: "A flat and wide rice noodle, popularised by use in Pad Thai recipes; Just soak and add Thai Style Rice Noodles to your favourite recipes."
@@ -31,9 +31,9 @@ nutrition:
   SodiumAvgQuantityPerServing: "10mg"
   SodiumAvgQuantityPer100g: "13mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Noodles"
-  - "Thai Style Rice Noodles"
+  - "Chang's Thai Style Rice Noodles"
 ---
 
 A flat and wide rice noodle, popularised by use in Pad Thai recipes. Just soak and add Thai Style Rice Noodles to your favourite recips. No artificial flavours, colours or preservatives Gluten Free.

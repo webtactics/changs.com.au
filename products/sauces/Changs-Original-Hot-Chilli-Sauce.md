@@ -1,5 +1,5 @@
 ﻿---
-title: "Original Hot Chilli Sauce"
+title: "Chang's Original Hot Chilli Sauce"
 status: published
 date: 2026-05-15
 description: "Who doesn't love a spicy chilli sauce? And a gluten-free one at that!"
@@ -27,9 +27,9 @@ nutrition:
   FatSaturatedAvgQuantityPerServing: "0.0g"
   FatSaturatedAvgQuantityPer100g: "0.0g"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
-  - "Original Hot Chilli Sauce"
+  - "Chang's Original Hot Chilli Sauce"
 ---
 
 Who doesn't love a spicy chilli sauce? And a gluten-free one at that! Chang's Original Hot Chilli Sauce is the most desirable of accompaniments, perfect for any occasion. Dip in it, pour it on, add it to soups, spice up marinades, BBQ and seafood sauces or even salad dressings! One of our favourite uses to create a mind-blowing grilled cheese and chilli sandwich. Divine.

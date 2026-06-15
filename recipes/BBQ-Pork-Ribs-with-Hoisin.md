@@ -56,7 +56,7 @@ tags:
   - "Autumn"
   - "Spring"
   - "Summer BBQ"
-  - "Original Hoisin Sauce"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Soy Sauce Dark"
+  - "Chang's Original Hoisin Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Soy Sauce Dark"
 ---

@@ -58,6 +58,6 @@ tags:
   - "Salad"
   - "Poultry"
   - "Soup and Salad"
-  - "Sesame Oil"
-  - "Original Fried Noodles"
+  - "Chang's Sesame Oil"
+  - "Chang's Original Fried Noodles"
 ---

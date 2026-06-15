@@ -37,5 +37,5 @@ tags:
   - "Main Meals"
   - "Quick and Easy"
   - "Winter"
-  - "Long Life Noodles"
+  - "Chang's Gluten Free Fried Noodles"
 ---

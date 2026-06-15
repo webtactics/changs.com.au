@@ -68,8 +68,8 @@ tags:
   - "Main Meals"
   - "Poultry"
   - "Protein"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Sesame Oil"
-  - "Super Lo-Cal Wide Noodles"
-  - "Thai Style Rice Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
+  - "Chang's Super Lo-Cal Wide Noodles"
+  - "Chang's Thai Style Rice Noodles"
 ---

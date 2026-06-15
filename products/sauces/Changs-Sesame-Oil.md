@@ -1,5 +1,5 @@
 ﻿---
-title: "Sesame Oil"
+title: "Chang's Sesame Oil"
 status: published
 date: 2026-05-15
 description: "Chang&rsquo;s Sesame Oil gives a delicate flavour to meats, chicken, vegetable and noodles. Add towards the end of cooking for best results. Available in the cooking oil aisle at your favourite supermarket and selected independent food stores."
@@ -32,9 +32,9 @@ nutrition:
   SodiumAvgQuantityPerServing: "0g"
   SodiumAvgQuantityPer100g: "0g"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
-  - "Sesame Oil"
+  - "Chang's Sesame Oil"
 ---
 
 Chang’s Sesame Oil gives a delicate flavour to meats, chicken, vegetable and noodles. Add towards the end of cooking for best results. Available in the cooking oil aisle at your favourite supermarket and selected independent food stores.

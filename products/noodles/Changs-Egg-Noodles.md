@@ -1,5 +1,5 @@
 ﻿---
-title: "Egg Noodles"
+title: "Chang's Egg Noodles"
 status: published
 date: 2026-05-15
 description: "Healthy, versatile egg noodles for use in a stir-fry, soups and salads."
@@ -29,7 +29,7 @@ nutrition:
   SodiumAvgQuantityPer100g: "84mg"
 tags:
   - "Noodles"
-  - "Egg Noodles"
+  - "Chang's Egg Noodles"
 ---
 
 Chang’s Egg Noodles are made using egg whites only, which imparts an extra silky texture. Versatile in a stir-fry, soups and even salads, Chang’s noodles carry the Heart Foundation Tick of approval for contributing to a balanced diet. Each pack of noodles contains three portions.

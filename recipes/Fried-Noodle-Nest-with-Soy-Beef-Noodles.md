@@ -44,7 +44,7 @@ tags:
   - "Quick and Easy"
   - "Family Dinners"
   - "Autumn"
-  - "Long Life Noodles"
-  - "Original Fried Noodles"
-  - "Sesame Oil"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
+  - "Chang's Sesame Oil"
 ---

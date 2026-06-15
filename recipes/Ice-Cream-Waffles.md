@@ -37,5 +37,5 @@ tags:
   - "Autumn"
   - "Spring"
   - "Kids"
-  - "Gluten Free Fried Noodles"
+  - "Chang's Gluten Free Fried Noodles"
 ---

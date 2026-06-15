@@ -1,5 +1,5 @@
 ﻿---
-title: "Chinese Black Pepper Sauce"
+title: "Chang's Chinese Black Pepper Sauce"
 status: published
 date: 2026-05-15
 description: "Authentic Cantonese flavour for all meat and fish dishes."
@@ -11,9 +11,9 @@ gtin: "9300777092972"
 allergen: "Gluten Free"
 ingredients: "Water, sugar, refined salt, black pepper, rice wine, garlic, onion, tomato paste, corn starch 1422, soy bean, citric acid, caramel colour (150a) flavour enhancer (621), spices"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
-  - "Chinese Black Pepper Sauce"
+  - "Chang's Chinese Black Pepper Sauce"
 ---
 
 Authentic black pepper sauce originating from Cantonese cuisine, made popular by Chinese restaurants around the world. Can be used with all meats and firm white fish. Now gluten free.

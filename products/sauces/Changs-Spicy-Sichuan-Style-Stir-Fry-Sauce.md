@@ -1,5 +1,5 @@
 ﻿---
-title: "Spicy Sichuan Style Stir Fry Sauce"
+title: "Chang's Spicy Sichuan Style Stir Fry Sauce"
 status: published
 date: 2026-05-15
 description: "Chang's range of sauces makes cooking a delicious, quick dinner easy for everyone. This Spicy Sichuan style sauce is a great addition to stir-fries."
@@ -29,7 +29,7 @@ nutrition:
   SodiumAvgQuantityPerServing: "1995mg"
   SodiumAvgQuantityPer100g: "3990Mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
 ---
 

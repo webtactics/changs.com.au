@@ -42,6 +42,6 @@ tags:
   - "Main Meals"
   - "Quick and Easy"
   - "Summer"
-  - "Fish Sauce"
-  - "Tamari Light Soy Sauce"
+  - "Chang's Original Fish Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

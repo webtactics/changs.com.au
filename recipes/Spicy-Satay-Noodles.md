@@ -37,8 +37,8 @@ tags:
   - "Winter"
   - "Spring"
   - "Soup and Salad"
-  - "Thai Style Rice Noodles"
-  - "Long Life Noodles"
-  - "Sesame Oil"
-  - "Original Hoisin Sauce"
+  - "Chang's Thai Style Rice Noodles"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Sesame Oil"
+  - "Chang's Original Hoisin Sauce"
 ---

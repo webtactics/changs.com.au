@@ -1,5 +1,5 @@
 ﻿---
-title: "Original Oyster Sauce"
+title: "Chang's Original Oyster Sauce"
 status: published
 date: 2026-05-15
 description: "Traditional sauce particularly popular for use with a stir-fry."
@@ -32,10 +32,10 @@ nutrition:
   SodiumAvgQuantityPerServing: "1000mg"
   SodiumAvgQuantityPer100g: "4000mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
   - "ChangsTV"
-  - "Original Oyster Sauce"
+  - "Chang's Original Oyster Sauce"
 ---
 
 Chang’s Oyster Sauce is a traditional sauce widely used in Cantonese cooking. Complex flavours make it suitable for stir-fried beef, pork or chicken as well as being very tasty as a dipping sauce for steamed fish. Chang’s Oyster Sauce is gluten free.

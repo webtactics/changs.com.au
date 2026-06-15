@@ -55,6 +55,6 @@ tags:
   - "Family Dinners"
   - "Winter"
   - "Poultry"
-  - "Kecap Manis Sweet Soy Sauce"
-  - "Tamari Light Soy Sauce"
+  - "Chang's Kecap Manis Sweet Soy Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

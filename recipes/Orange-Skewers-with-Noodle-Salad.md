@@ -65,7 +65,7 @@ tags:
   - "Kids"
   - "Festive"
   - "Poultry"
-  - "Soy Sauce"
-  - "Original Fried Noodles"
-  - "Gluten Free Fried Noodles"
+  - "Chang's Soy Sauce Dark"
+  - "Chang's Original Fried Noodles"
+  - "Chang's Gluten Free Fried Noodles"
 ---

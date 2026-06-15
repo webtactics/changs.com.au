@@ -37,7 +37,7 @@ method: |
 tags:
   - "Chicken"
   - "Noodles"
-  - "Super Lo-Cal"
+  - "Chang's Super Lo-Cal"
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Noodles Style"

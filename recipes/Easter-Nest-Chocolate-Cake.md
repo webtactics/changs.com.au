@@ -70,5 +70,5 @@ tags:
   - "Noodles Ingredient"
   - "Sweet Treats"
   - "Autumn"
-  - "Original Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

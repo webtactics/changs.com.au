@@ -51,8 +51,8 @@ tags:
   - "Summer BBQ"
   - "Kids"
   - "Festive"
-  - "Thai Style Rice Noodles"
-  - "Soy Sauce Dark"
-  - "Original Oyster Sauce"
-  - "Sesame Oil"
+  - "Chang's Thai Style Rice Noodles"
+  - "Chang's Soy Sauce Dark"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Sesame Oil"
 ---

@@ -60,6 +60,6 @@ tags:
   - "Summer"
   - "Autumn"
   - "Spring"
-  - "Traditional Super Lo-Cal Noodles"
-  - "Fish Sauce"
+  - "Chang's Traditional Super Lo-Cal Noodles"
+  - "Chang's Original Fish Sauce"
 ---

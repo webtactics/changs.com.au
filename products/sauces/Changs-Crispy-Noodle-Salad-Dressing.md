@@ -1,5 +1,5 @@
 ﻿---
-title: "Crispy Noodle Salad Dressing"
+title: "Chang's Crispy Noodle Salad Dressing"
 status: published
 date: 2026-05-15
 description: "The perfect dressing for your fried noodle salad. Gluten Free. No artificial colours or preservatives."
@@ -33,10 +33,10 @@ nutrition:
   SodiumAvgQuantityPerServing: "216mg"
   SodiumAvgQuantityPer100g: "1800mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
   - "ChangsTV"
-  - "Crispy Noodle Salad Dressing"
+  - "Chang's Crispy Noodle Salad Dressing"
 ---
 
 A ready-made dressing to add to your favourite Asian salad.

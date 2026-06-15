@@ -44,10 +44,10 @@ tags:
   - "Winter"
   - "Autumn"
   - "Poultry"
-  - "Long Life Noodles"
-  - "Thai Style Rice Noodles"
-  - "Japanese Teriyaki Sauce (280ml)"
-  - "Tamari Light Soy Sauce"
-  - "Sesame Oil"
-  - "Japanese Teriyaki Sauce"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Thai Style Rice Noodles"
+  - "Chang's Japanese Teriyaki Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
+
 ---

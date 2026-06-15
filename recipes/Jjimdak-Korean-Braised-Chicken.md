@@ -61,8 +61,8 @@ tags:
   - "Autumn"
   - "Spring"
   - "Poultry"
-  - "Crispy Noodle Salad Dressing"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Original Oyster Sauce"
-  - "Sesame Oil"
+  - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Sesame Oil"
 ---

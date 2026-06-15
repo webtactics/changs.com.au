@@ -50,7 +50,7 @@ tags:
   - "Family Dinners"
   - "Winter"
   - "Poultry"
-  - "Master Stock"
-  - "Long Life Noodles"
-  - "Crispy Noodle Salad Dressing"
+  - "Chang's Master Stock"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
 ---

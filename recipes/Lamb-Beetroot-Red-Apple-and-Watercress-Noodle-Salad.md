@@ -52,7 +52,7 @@ tags:
   - "Salad"
   - "Festive"
   - "Soup and Salad"
-  - "Crispy Noodle Salad Dressing"
-  - "Sesame Oil"
-  - "Original Fried Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Sesame Oil"
+  - "Chang's Original Fried Noodles"
 ---

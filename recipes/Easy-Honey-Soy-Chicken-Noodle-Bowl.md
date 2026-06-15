@@ -58,8 +58,8 @@ tags:
   - "Poultry"
   - "Soup and Salad"
   - "Protein"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Original Oyster Sauce"
-  - "Traditional Super Lo-Cal Wide Noodles"
-  - "Sesame Oil"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Super Lo-Cal Wide Noodles"
+  - "Chang's Sesame Oil"
 ---

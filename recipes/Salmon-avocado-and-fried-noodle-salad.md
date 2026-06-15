@@ -38,5 +38,5 @@ tags:
   - "Salad"
   - "Festive"
   - "Soup and Salad"
-  - "Original Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

@@ -55,7 +55,7 @@ tags:
   - "Winter"
   - "Poultry"
   - "Soup and Salad"
-  - "Original Oyster Sauce"
-  - "Master Stock"
-  - "Long Life Noodles"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Master Stock"
+  - "Chang's Gluten Free Fried Noodles"
 ---

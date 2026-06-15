@@ -39,8 +39,8 @@ tags:
 
   - "Main Meals"
   - "Spring"
-  - "Original Oyster Sauce"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Sesame Oil"
-  - "Traditional Super Lo-Cal Noodles"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
+  - "Chang's Traditional Super Lo-Cal Noodles"
 ---

@@ -45,6 +45,6 @@ tags:
   - "Chinese New Year"
   - "Special Occasion"
   - "Festive"
-  - "Original Hoisin Sauce"
-  - "Long Life Noodles"
+  - "Chang's Original Hoisin Sauce"
+  - "Chang's Gluten Free Fried Noodles"
 ---

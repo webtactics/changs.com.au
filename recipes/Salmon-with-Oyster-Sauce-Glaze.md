@@ -43,6 +43,6 @@ tags:
   - "Gluten-Free"
   - "Main Meals"
   - "Winter"
-  - "Original Oyster Sauce"
-  - "Sesame Oil"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Sesame Oil"
 ---

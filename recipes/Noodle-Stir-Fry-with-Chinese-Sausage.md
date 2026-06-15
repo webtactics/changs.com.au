@@ -43,8 +43,8 @@ tags:
   - "Winter"
   - "Autumn"
   - "Spring"
-  - "Long Life Noodles"
-  - "Sesame Oil"
-  - "Original Oyster Sauce"
-  - "Soy Sauce Dark"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Sesame Oil"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Soy Sauce Dark"
 ---

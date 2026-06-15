@@ -56,8 +56,8 @@ tags:
   - "Spring"
   - "Summer BBQ"
   - "Christmas"
-  - "Soy Sauce Dark"
-  - "Original Hoisin Sauce"
-  - "Sesame Oil"
-  - "Soy Sauce"
+  - "Chang's Soy Sauce Dark"
+  - "Chang's Original Hoisin Sauce"
+  - "Chang's Sesame Oil"
+
 ---

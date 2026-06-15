@@ -1,5 +1,5 @@
 ﻿---
-title: "Soy Sauce Dark"
+title: "Chang's Soy Sauce Dark"
 status: published
 date: 2026-05-15
 description: "An authentic, naturally brewed dark soy."
@@ -11,9 +11,9 @@ gtin: "93777148"
 allergen: "Gluten Free"
 ingredients: "Water, soya bean extract, wheat flour, salt, caramel colour (150)"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
-  - "Soy Sauce Dark"
+  - "Chang's Soy Sauce Dark"
 ---
 
 Classic soy sauce naturally brewed to have authentic aroma and taste. It can be used in cooking and as a table sauce.

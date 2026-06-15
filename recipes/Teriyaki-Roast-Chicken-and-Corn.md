@@ -46,6 +46,6 @@ tags:
   - "Summer BBQ"
   - "Festive"
   - "Poultry"
-  - "Japanese Teriyaki Sauce"
-  - "Sesame Oil"
+  - "Chang's Japanese Teriyaki Sauce"
+  - "Chang's Sesame Oil"
 ---

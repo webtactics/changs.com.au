@@ -38,5 +38,5 @@ tags:
   - "Easter"
   - "Festive"
   - "Scary Sweets"
-  - "Crunchy Fried Noodles"
+  - "Chang's Crunchy Fried Noodles"
 ---

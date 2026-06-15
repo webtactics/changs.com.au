@@ -1,5 +1,5 @@
 ﻿---
-title: "Crunchy Fried Noodles"
+title: "Chang's Crunchy Fried Noodles"
 status: published
 date: 2026-05-15
 description: "Ready to eat flat, short crunchy fried noodles made with wheat flour and fried in cottonseed oil. So good you can eat them out of the packet!"
@@ -36,7 +36,7 @@ nutrition:
   SodiumAvgQuantityPer100g: "946mg"
 tags:
   - "Noodles"
-  - "Crunchy Fried Noodles"
+  - "Chang's Crunchy Fried Noodles"
 ---
 
 Authentic Asian cooking, Chang’s Crunchy Noodles can be eaten straight out the packet. Alternatively they can be added to soups, stews, casseroles or salads. Great with dips or in party snack mixes, Chang’s Crunchy Noodles are really versatile and add crunch to any dish.

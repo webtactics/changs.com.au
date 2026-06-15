@@ -46,6 +46,6 @@ tags:
   - "Spring"
   - "Summer BBQ"
   - "Kids"
-  - "Long Life Noodles"
-  - "Original Oyster Sauce"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Oyster Sauce"
 ---

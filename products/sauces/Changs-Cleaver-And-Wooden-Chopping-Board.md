@@ -1,5 +1,5 @@
 ﻿---
-title: "Cleaver and wooden chopping board"
+title: "Chang's Cleaver and wooden chopping board"
 status: published
 date: 2026-05-15
 description: "This brilliantly sharp Chang's Cleaver, made from Damascus steel, and accompanying Chang's wooden chopping board can by yours for only $299.00"

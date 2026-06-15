@@ -40,6 +40,6 @@ tags:
   - "Summer"
   - "Spring"
   - "Poultry"
-  - "Crunchy Fried Noodles"
-  - "Crispy Noodle Salad Dressing"
+  - "Chang's Crunchy Fried Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
 ---

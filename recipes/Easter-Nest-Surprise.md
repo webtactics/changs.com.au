@@ -38,5 +38,5 @@ tags:
   - "Autumn"
   - "Easter"
   - "Festive"
-  - "Original Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

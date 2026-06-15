@@ -57,7 +57,7 @@ tags:
   - "Special Occasion"
   - "Entertaining"
   - "Festive"
-  - "Vermicelli Rice Noodles"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Sesame Oil"
+  - "Chang's Vermicelli Rice Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
 ---

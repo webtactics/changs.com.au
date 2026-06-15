@@ -33,7 +33,7 @@ method: |
 tags:
   - "Seafood"
   - "Noodles"
-  - "Super Lo-Cal"
+  - "Chang's Super Lo-Cal"
   - "Gluten-Free"
   - "Noodles Ingredient"
   - "Spring"

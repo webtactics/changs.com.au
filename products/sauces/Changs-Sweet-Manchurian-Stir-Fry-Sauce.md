@@ -1,5 +1,5 @@
 ﻿---
-title: "Sweet Manchurian Stir Fry Sauce"
+title: "Chang's Sweet Manchurian Stir Fry Sauce"
 status: published
 date: 2026-05-15
 description: "Chang's Sweet Manchurian Stir Fry Sauce: Indulge in a delightful fusion of sweet and savory flavors for your stir-fry adventures. Try it now!"
@@ -29,7 +29,7 @@ nutrition:
   SodiumAvgQuantityPerServing: "1420mg"
   SodiumAvgQuantityPer100g: "2840mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
 ---
 

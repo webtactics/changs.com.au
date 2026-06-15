@@ -40,7 +40,7 @@ method: |
 tags:
   - "Seafood"
   - "Noodles"
-  - "Super Lo-Cal"
+  - "Chang's Traditional Super Lo-Cal Noodles"
   - "Gluten-Free"
 
   - "Occasions"
@@ -57,8 +57,8 @@ tags:
   - "Spring"
   - "Salad"
   - "Soup and Salad"
-  - "Traditional Super Lo-Cal Noodles"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Sesame Oil"
-  - "Crispy Noodle Salad Dressing"
+
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
+  - "Chang's Crispy Noodle Salad Dressing"
 ---

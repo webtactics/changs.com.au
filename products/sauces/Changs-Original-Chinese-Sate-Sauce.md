@@ -1,5 +1,5 @@
 ﻿---
-title: "Original Chinese Sate Sauce"
+title: "Chang's Original Chinese Sate Sauce"
 status: published
 date: 2026-05-15
 description: "This is the original sate sauce made in the Chiuchow area in southern China. Later passed to Malaysia and Singapore by Chinese migrants."
@@ -30,7 +30,7 @@ nutrition:
   SodiumAvgQuantityPerServing: "500mg"
   SodiumAvgQuantityPer100g: "3500mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
 ---
 

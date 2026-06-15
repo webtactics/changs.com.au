@@ -57,6 +57,6 @@ tags:
   - "Autumn"
   - "Spring"
   - "Poultry"
-  - "Super Lo-Cal Wide Noodles"
-  - "Original Oyster Sauce"
+  - "Chang's Super Lo-Cal Wide Noodles"
+  - "Chang's Original Oyster Sauce"
 ---

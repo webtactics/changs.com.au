@@ -65,8 +65,8 @@ tags:
   - "Summer BBQ"
   - "Salad"
   - "Soup and Salad"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Original Fish Sauce"
-  - "Sesame Oil"
-  - "Vermicelli Rice Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Fish Sauce"
+  - "Chang's Sesame Oil"
+  - "Chang's Vermicelli Rice Noodles"
 ---

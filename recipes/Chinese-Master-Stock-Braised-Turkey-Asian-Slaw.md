@@ -45,7 +45,7 @@ tags:
   - "Family Dinners"
   - "Winter"
   - "Poultry"
-  - "Master Stock"
-  - "Crispy Noodle Salad Dressing"
-  - "Original Fried Noodles"
+  - "Chang's Master Stock"
+  - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Original Fried Noodles"
 ---

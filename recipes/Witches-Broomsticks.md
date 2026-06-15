@@ -32,5 +32,5 @@ tags:
   - "Noodles Style"
   - "Sweet Treats"
   - "Scary Sweets"
-  - "Original Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

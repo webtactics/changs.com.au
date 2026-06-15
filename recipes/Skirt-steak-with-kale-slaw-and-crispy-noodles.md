@@ -37,6 +37,6 @@ tags:
   - "Summer"
   - "Spring"
   - "Summer BBQ"
-  - "Crispy Noodle Salad Dressing"
-  - "Original Fried Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Original Fried Noodles"
 ---

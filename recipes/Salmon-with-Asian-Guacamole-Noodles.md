@@ -57,5 +57,5 @@ tags:
   - "Dinner for Two"
   - "Main Meals"
   - "Autumn"
-  - "Vermicelli Rice Noodles"
+  - "Chang's Vermicelli Rice Noodles"
 ---

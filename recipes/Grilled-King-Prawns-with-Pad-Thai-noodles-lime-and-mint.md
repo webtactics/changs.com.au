@@ -41,5 +41,5 @@ tags:
   - "Summer"
   - "Spring"
   - "Summer BBQ"
-  - "Sesame Oil"
+  - "Chang's Sesame Oil"
 ---

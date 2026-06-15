@@ -42,5 +42,5 @@ tags:
   - "Chinese New Year"
   - "Festive"
   - "Poultry"
-  - "Original Hoisin Sauce"
+  - "Chang's Original Hoisin Sauce"
 ---

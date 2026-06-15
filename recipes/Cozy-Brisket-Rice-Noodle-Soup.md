@@ -104,9 +104,9 @@ tags:
   - "Winter"
   - "Autumn"
   - "Soup and Salad"
-  - "Original Fish Sauce"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Original Oyster Sauce"
-  - "Vermicelli Rice Noodles"
+  - "Chang's Original Fish Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Vermicelli Rice Noodles"
   - "Latest-Recipes"
 ---

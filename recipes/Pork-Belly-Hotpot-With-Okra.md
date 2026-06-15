@@ -50,5 +50,5 @@ tags:
   - "Special Occasion"
   - "Festive"
   - "Soup and Salad"
-  - "Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

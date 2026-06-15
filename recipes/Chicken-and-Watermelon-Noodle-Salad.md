@@ -54,7 +54,7 @@ tags:
   - "Salad"
   - "Poultry"
   - "Soup and Salad"
-  - "Sesame Oil"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Crispy Noodle Salad Dressing"
+  - "Chang's Sesame Oil"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Crispy Noodle Salad Dressing"
 ---

@@ -43,7 +43,7 @@ tags:
   - "Main Meals"
   - "Poultry"
   - "Soup and Salad"
-  - "Traditional Super Lo-Cal Noodles"
-  - "Sesame Oil"
-  - "Original Hoisin Sauce"
+  - "Chang's Traditional Super Lo-Cal Noodles"
+  - "Chang's Sesame Oil"
+  - "Chang's Original Hoisin Sauce"
 ---

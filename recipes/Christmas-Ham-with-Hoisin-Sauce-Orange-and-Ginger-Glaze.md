@@ -39,5 +39,5 @@ tags:
   - "Special Occasion"
   - "Entertaining"
   - "Festive"
-  - "Original Hoisin Sauce"
+  - "Chang's Original Hoisin Sauce"
 ---

@@ -45,7 +45,7 @@ tags:
   - "Main Meals"
   - "Dinner for Two"
   - "Soup and Salad"
-  - "Long Life Noodles"
-  - "Sesame Oil"
-  - "Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Sesame Oil"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

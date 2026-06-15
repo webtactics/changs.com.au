@@ -54,5 +54,5 @@ tags:
   - "Chinese New Year"
   - "Festive"
   - "Poultry"
-  - "Original Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

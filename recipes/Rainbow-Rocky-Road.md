@@ -43,6 +43,6 @@ tags:
   - "Entertaining"
   - "Easter"
   - "Festive"
-  - "Original Fried Noodles"
-  - "Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
+  - "Chang's Gluten Free Fried Noodles"
 ---

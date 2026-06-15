@@ -47,8 +47,8 @@ tags:
   - "Spring"
   - "Entertaining"
   - "Festive"
-  - "Vermicelli Rice Noodles"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Original Oyster Sauce"
-  - "Sesame Oil"
+  - "Chang's Vermicelli Rice Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Sesame Oil"
 ---

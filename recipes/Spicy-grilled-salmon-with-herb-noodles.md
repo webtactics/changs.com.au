@@ -58,8 +58,8 @@ tags:
   - "Autumn"
   - "Spring"
   - "Summer BBQ"
-  - "Thai Style Rice Noodles"
-  - "Sesame Oil"
-  - "Original Fish Sauce"
-  - "Original Oyster Sauce"
+  - "Chang's Thai Style Rice Noodles"
+  - "Chang's Sesame Oil"
+  - "Chang's Original Fish Sauce"
+  - "Chang's Original Oyster Sauce"
 ---

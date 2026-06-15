@@ -38,8 +38,8 @@ tags:
   - "Soups"
   - "Winter"
   - "Soup and Salad"
-  - "Long Life Noodles"
-  - "Wok-Ready Noodles"
-  - "Soy Sauce Dark"
-  - "Sesame Oil"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Wok-Ready Noodles"
+  - "Chang's Soy Sauce Dark"
+  - "Chang's Sesame Oil"
 ---

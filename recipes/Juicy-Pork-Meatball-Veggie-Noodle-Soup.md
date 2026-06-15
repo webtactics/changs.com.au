@@ -76,7 +76,7 @@ tags:
   - "Quick and Easy"
   - "Family Dinners"
   - "Soup and Salad"
-  - "Original Fish Sauce"
-  - "Super Lo-Cal Wide Noodles"
+  - "Chang's Original Fish Sauce"
+  - "Chang's Super Lo-Cal Wide Noodles"
   - "Latest-Recipes"
 ---

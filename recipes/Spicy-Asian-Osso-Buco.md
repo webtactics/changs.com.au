@@ -52,6 +52,6 @@ tags:
   - "Entertaining"
   - "Festive"
   - "Soup and Salad"
-  - "Original Oyster Sauce"
-  - "Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

@@ -52,7 +52,7 @@ tags:
   - "Autumn"
   - "Spring"
   - "Summer BBQ"
-  - "Original Oyster Sauce"
-  - "Sesame Oil"
-  - "Long Life Noodles"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Sesame Oil"
+  - "Chang's Gluten Free Fried Noodles"
 ---

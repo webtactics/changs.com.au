@@ -35,6 +35,6 @@ tags:
   - "Healthy Meals"
   - "Quick and Easy"
   - "Poultry"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Original Fried Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Fried Noodles"
 ---

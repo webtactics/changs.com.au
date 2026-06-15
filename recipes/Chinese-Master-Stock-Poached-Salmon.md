@@ -40,6 +40,6 @@ tags:
   - "Main Meals"
   - "Family Dinners"
   - "Winter"
-  - "Master Stock"
-  - "Crispy Noodle Salad Dressing"
+  - "Chang's Master Stock"
+  - "Chang's Crispy Noodle Salad Dressing"
 ---

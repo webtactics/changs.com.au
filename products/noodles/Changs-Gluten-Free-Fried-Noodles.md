@@ -1,5 +1,5 @@
 ﻿---
-title: "Gluten Free Fried Noodles"
+title: "Chang's Gluten Free Fried Noodles"
 status: published
 date: 2026-05-15
 description: "Ready to eat short, thin, crunchy fried noodles made with rice flour and fried in cottonseed oil. Gluten-free fried noodles for salads and spiders!"
@@ -33,9 +33,9 @@ nutrition:
   SodiumAvgQuantityPerServing: "213mg"
   SodiumAvgQuantityPer100g: "850mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Noodles"
-  - "Gluten Free Fried Noodles"
+  - "Chang's Gluten Free Fried Noodles"
 ---
 
 Chang’s introduces its Gluten Free Fried Noodle to its range so now people following a gluten-free diet can enjoy our famous Oriental Fried Noodle Salad or Chocolate Spiders. Sold in a convenient 100g packet.

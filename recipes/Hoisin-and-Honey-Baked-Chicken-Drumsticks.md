@@ -40,7 +40,7 @@ tags:
   - "Kids"
   - "Festive"
   - "Poultry"
-  - "Original Hoisin Sauce"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Sesame Oil"
+  - "Chang's Original Hoisin Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
 ---

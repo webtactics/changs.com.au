@@ -38,5 +38,5 @@ tags:
   - "Kids"
   - "Entertaining"
   - "Festive"
-  - "Gluten Free Fried Noodles"
+  - "Chang's Gluten Free Fried Noodles"
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title: "Kecap Manis Sweet Soy Sauce"
+title: "Chang's Kecap Manis Sweet Soy Sauce"
 status: published
 date: 2026-05-15
 description: "Naturally brewed...ideal for a bbq marinade"
@@ -29,9 +29,9 @@ nutrition:
   SodiumAvgQuantityPerServing: "1258mg"
   SodiumAvgQuantityPer100g: "6290mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
-  - "Kecap Manis Sweet Soy Sauce"
+  - "Chang's Kecap Manis Sweet Soy Sauce"
 ---
 
 A tasty sweet soy sauce to add to meals or for dipping.

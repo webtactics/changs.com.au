@@ -89,7 +89,7 @@ tags:
   - "Christmas"
   - "Easter"
   - "Festive"
-  - "Original Fish Sauce"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Sesame Oil"
+  - "Chang's Original Fish Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
 ---

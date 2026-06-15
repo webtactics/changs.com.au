@@ -1,5 +1,5 @@
 ﻿---
-title: "Delicious Mongolian Style Stir Fry Sauce"
+title: "Chang's Delicious Mongolian Style Stir Fry Sauce"
 status: published
 date: 2026-05-15
 description: "Chang's range of sauces make cooking a delicious, quick dinner easy for everyone. This Mongolian style sauce is a great addition to stir fries."
@@ -29,7 +29,7 @@ nutrition:
   SodiumAvgQuantityPerServing: "1970mg"
   SodiumAvgQuantityPer100g: "3940mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
 ---
 

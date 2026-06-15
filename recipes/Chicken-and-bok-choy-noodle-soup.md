@@ -35,7 +35,7 @@ tags:
   - "Light Meals"
   - "Poultry"
   - "Soup and Salad"
-  - "Long Life Noodles"
-  - "Master Stock"
-  - "Sesame Oil"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Master Stock"
+  - "Chang's Sesame Oil"
 ---

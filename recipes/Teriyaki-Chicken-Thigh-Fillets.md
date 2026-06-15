@@ -54,7 +54,7 @@ tags:
   - "Spring"
   - "Summer BBQ"
   - "Poultry"
-  - "Japanese Teriyaki Sauce"
-  - "Sesame Oil"
-  - "Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Japanese Teriyaki Sauce"
+  - "Chang's Sesame Oil"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title: "Tamari Black Bean Sauce"
+title: "Chang's Tamari Black Bean Sauce"
 status: published
 date: 2026-05-15
 description: "Black bean sauce is an essential ingredient in the Cantonese dish &ldquo;Beef in Black bean sauce&rdquo;. It adds a unique flavour to stir-fry beef, pork casserole and steamed fish."
@@ -29,7 +29,7 @@ nutrition:
   SodiumAvgQuantityPerServing: "500mg"
   SodiumAvgQuantityPer100g: "3500mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
   - "Tamari"
 ---

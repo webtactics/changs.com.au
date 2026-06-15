@@ -43,5 +43,5 @@ tags:
   - "Summer BBQ"
   - "Christmas"
   - "Festive"
-  - "Crunchy Fried Noodles"
+  - "Chang's Crunchy Fried Noodles"
 ---

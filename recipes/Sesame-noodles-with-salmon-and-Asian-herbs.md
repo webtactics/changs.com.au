@@ -44,7 +44,7 @@ tags:
   - "Quick and Easy"
   - "Summer"
   - "Spring"
-  - "Egg Noodles"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Sesame Oil"
+  - "Chang's Egg Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
 ---

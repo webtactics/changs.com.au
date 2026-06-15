@@ -42,5 +42,5 @@ tags:
   - "Noodles Ingredient"
   - "Quick and Easy"
   - "Sweet Treats"
-  - "Original Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

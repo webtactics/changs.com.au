@@ -1,5 +1,5 @@
 ﻿---
-title: "Japanese Yakitori Sauce"
+title: "Chang's Japanese Yakitori Sauce"
 status: published
 date: 2026-05-15
 description: "Yakitori is a popular Japanese finger-food, made with tender pieces of chicken threaded on wooden skewers and marinated with Obento Yakitori Sauce, then barbequed over an open flame."
@@ -29,7 +29,7 @@ nutrition:
   SodiumAvgQuantityPerServing: "2870mg"
   SodiumAvgQuantityPer100g: "1920mg"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Sauces"
 ---
 

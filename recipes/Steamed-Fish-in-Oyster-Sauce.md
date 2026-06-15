@@ -66,7 +66,7 @@ tags:
   - "Autumn"
   - "Spring"
   - "Summer BBQ"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Original Oyster Sauce"
-  - "Sesame Oil"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Sesame Oil"
 ---

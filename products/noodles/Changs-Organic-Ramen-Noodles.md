@@ -1,5 +1,5 @@
 ﻿---
-title: "Organic Ramen Noodles"
+title: "Chang's Organic Ramen Noodles"
 status: published
 date: 2026-05-15
 description: "Ramen is a Japanese name for traditional Chinese-style noodles (stretched noodles). It is often used in stir-fries and soups."
@@ -30,7 +30,7 @@ nutrition:
   SodiumAvgQuantityPer100g: "410mg"
 tags:
   - "Noodles"
-  - "Organic Ramen Noodles"
+  - "Chang's Organic Ramen Noodles"
 ---
 
 Ramen is a Japanese name for traditional Chinese-style noodles (stretched noodles). It is often used in stir-fries and soups.

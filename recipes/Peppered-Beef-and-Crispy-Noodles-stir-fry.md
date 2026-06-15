@@ -33,7 +33,7 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Original Hoisin Sauce"
-  - "Original Fried Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Hoisin Sauce"
+  - "Chang's Original Fried Noodles"
 ---

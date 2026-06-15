@@ -46,6 +46,6 @@ tags:
   - "Winter"
   - "Autumn"
   - "Chinese New Year"
-  - "Master Stock"
-  - "Original Fish Sauce"
+  - "Chang's Master Stock"
+  - "Chang's Original Fish Sauce"
 ---

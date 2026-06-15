@@ -44,7 +44,7 @@ tags:
   - "BBQ"
   - "Seafood"
   - "Noodles"
-  - "Super Lo-Cal"
+  - "Chang's Traditional Super Lo-Cal Noodles"
   - "Gluten-Free"
 
   - "Noodles Style"
@@ -60,7 +60,7 @@ tags:
   - "Summer"
   - "Spring"
   - "Summer BBQ"
-  - "Traditional Super Lo-Cal Noodles"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Sesame Oil"
+
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
 ---

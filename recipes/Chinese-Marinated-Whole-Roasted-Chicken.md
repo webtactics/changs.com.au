@@ -48,7 +48,7 @@ tags:
   - "Special Occasion"
   - "Festive"
   - "Poultry"
-  - "Original Oyster Sauce"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Sesame Oil"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
 ---

@@ -39,6 +39,6 @@ tags:
   - "Occasions"
   - "Christmas"
   - "Festive"
-  - "Gluten Free Tamari Light Soy Sauce"
-  - "Original Oyster Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Oyster Sauce"
 ---

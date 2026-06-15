@@ -1,5 +1,5 @@
 ﻿---
-title: "Wok-Ready Noodles"
+title: "Chang's Wok-Ready Noodles"
 status: published
 date: 2026-05-15
 description: "Your favourite noodles without the fuss."
@@ -27,9 +27,9 @@ nutrition:
   SodiumAvgQuantityPerServing: "Less than 5g"
   SodiumAvgQuantityPer100g: "Less than 5g"
 tags:
-  - "Gluten Free"
+  - "Gluten Free Product"
   - "Noodles"
-  - "Wok-Ready Noodles"
+  - "Chang's Wok-Ready Noodles"
 ---
 
 Chang’s Wok-Ready noodles are 99% fat free and convenient for quick meals. No soaking or boiling required, just add straight to a stir fry for instant perfect results every time. Available in the Pasta aisle at your favourite Supermarket and selected independent Food Stores.

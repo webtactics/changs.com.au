@@ -50,7 +50,7 @@ tags:
   - "Summer"
   - "Autumn"
   - "Spring"
-  - "Japanese Teriyaki Sauce (280ml)"
-  - "Tamari Light Soy Sauce"
-  - "Japanese Teriyaki Sauce"
+  - "Chang's Japanese Teriyaki Sauce"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+
 ---
