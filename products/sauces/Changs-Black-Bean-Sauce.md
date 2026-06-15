@@ -22,7 +22,7 @@ nutrition:
 tags:
   - "Gluten Free Product"
   - "Sauces"
-
+  - "Chang's Black Bean Sauce"
 
 ---
 
