@@ -1267,6 +1267,9 @@ ul.navbar-menu ul li.parent::after {
   transform: rotate(0deg);
 }
 
+ul.navbar-menu ul li.parent.active-class::after {
+  border-color: transparent transparent transparent var(--red);
+}
 
 /* end second level */
 svg {
