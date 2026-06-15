@@ -2320,7 +2320,7 @@ h3.news-title a:hover {
   font-size: var(--h3sum);
   color: var(--black);
   background-color: var(--white);
-  padding: var(--h3h4sumpadding);
+  padding: 0.25rem 0;
   white-space: normal;
   transition: all .6s;
   width: 100%;
