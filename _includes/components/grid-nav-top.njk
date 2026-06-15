@@ -1,7 +1,8 @@
 <nav class="childlist">
 {% set navPages = collections.all | eleventyNavigation %}
+{% macro hasActiveDescendant(entry) %}{% for child in entry.children %}{% if child.url == page.url or (hasActiveDescendant(child) | trim | length > 0) %}1{% endif %}{% endfor %}{% endmacro %}
 {% macro renderNavListItem(entry) -%}
-{% set isActive = entry.url == page.url or (entry.url != '/' and page.url.startsWith(entry.url)) %}
+{% set isActive = entry.url == page.url or (entry.url != '/' and page.url.startsWith(entry.url)) or (hasActiveDescendant(entry) | trim | length > 0) %}
 <li{% if entry.children.length %} class="parent{% if isActive %} active-class{% endif %}" aria-haspopup="true"{% elif isActive %} class="active-class"{% endif %}>
 {% if entry.noLink %}
 <span class="nav-section-header">{{ entry.title }}</span>
