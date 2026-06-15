@@ -1216,7 +1216,7 @@ color: var(--white);
 background-color: var(--black);
 }
 
-ul.navbar-menu li ul.second-level li a:hover, ul.navbar-menu li ul.second-level li a:focus, ul.navbar-menu li ul.second-level li.active-class a,  ul.navbar-menu li ul.second-level li.active-class a:hover {
+ul.navbar-menu li ul.second-level li a:hover, ul.navbar-menu li ul.second-level li a:focus, ul.navbar-menu li ul.second-level li.active-class > a,  ul.navbar-menu li ul.second-level li.active-class > a:hover {
 font-size: 1rem;
 line-height:3rem;
 height: 3rem;
@@ -1226,7 +1226,7 @@ background-color: var(--white);
 
 
 
-ul.navbar-menu li.parent.active-class ul.second-level li.active-class a, ul.navbar-menu li.parent.active-class ul.second-level li.active-class a:hover {
+ul.navbar-menu li.parent.active-class ul.second-level li.active-class > a, ul.navbar-menu li.parent.active-class ul.second-level li.active-class > a:hover {
 font-size: 1rem;
 line-height:3rem;
 height: 3rem;
