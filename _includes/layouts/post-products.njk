@@ -299,7 +299,7 @@ section: post
 
 
     {# Buy from buttons — show based on which retailers are flagged true #}
-    {% if coles and woolworths and iga %}
+    {% if coleslink and woolworthslink and igalink %}
     <div class="buyfromwrapper pad2remboth">
       <p><strong>Buy now at</strong></p>
       <div class="grid-3-buttons">
@@ -316,7 +316,7 @@ section: post
       <p>Available at <a href="{% if coleslink %}{{ coleslink }}{% else %}https://www.coles.com.au/brands/changs-3028503409{% endif %}" title="Buy {{ title }} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a>, <a href="{% if woolworthslink %}{{ woolworthslink }}{% else %}https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s{% endif %}" title="Buy {{ title }} at Woolworths" target="_blank" class="supermarketlink"><span>Woolworths</span></a> and <a href="{% if igalink %}{{ igalink }}{% else %}https://www.igashop.com.au/search/1?q=chang%27s{% endif %}" title="Buy {{ title }} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a> stores.</p>
     </div>
 
-    {% elif not coles and not woolworths and iga %}
+    {% elif not coleslink and not woolworthslink and igalink %}
     <div class="buyfromwrapper pad2remboth">
       <p><strong>Buy now at</strong></p>
       <div class="grid-3-buttons">
@@ -327,7 +327,7 @@ section: post
       <p>Available at <a href="{% if igalink %}{{ igalink }}{% else %}https://www.igashop.com.au/search/1?q=chang%27s{% endif %}" title="Buy {{ title }} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a> stores.</p>
     </div>
 
-    {% elif not coles and woolworths and not iga %}
+    {% elif not coleslink and woolworthslink and not igalink %}
     <div class="buyfromwrapper pad2remboth">
       <p><strong>Buy now at</strong></p>
       <div class="grid-3-buttons">
@@ -338,7 +338,7 @@ section: post
       <p>Available at <a href="{% if woolworthslink %}{{ woolworthslink }}{% else %}https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s{% endif %}" title="Buy {{ title }} at Woolworths" target="_blank" class="supermarketlink"><span>Woolworths</span></a> stores.</p>
     </div>
 
-    {% elif coles and not woolworths and not iga %}
+    {% elif coleslink and not woolworthslink and not igalink %}
     <div class="buyfromwrapper pad2remboth">
       <p><strong>Buy now at</strong></p>
       <div class="grid-3-buttons">
@@ -349,7 +349,7 @@ section: post
       <p>Available at <a href="{% if coleslink %}{{ coleslink }}{% else %}https://www.coles.com.au/brands/changs-3028503409{% endif %}" title="Buy {{ title }} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a> stores.</p>
     </div>
 
-    {% elif coles and not woolworths and iga %}
+    {% elif coleslink and not woolworthslink and igalink %}
     <div class="buyfromwrapper pad2remboth">
       <p><strong>Buy now at</strong></p>
       <div class="grid-3-buttons">
@@ -363,7 +363,7 @@ section: post
       <p>Available at <a href="{% if coleslink %}{{ coleslink }}{% else %}https://www.coles.com.au/brands/changs-3028503409{% endif %}" title="Buy {{ title }} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a> and <a href="{% if igalink %}{{ igalink }}{% else %}https://www.igashop.com.au/search/1?q=chang%27s{% endif %}" title="Buy {{ title }} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a> stores.</p>
     </div>
 
-    {% elif coles and woolworths and not iga %}
+    {% elif coleslink and woolworthslink and not igalink %}
     <div class="buyfromwrapper pad2remboth">
       <p><strong>Buy now at</strong></p>
       <div class="grid-3-buttons">
