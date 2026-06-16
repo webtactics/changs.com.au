@@ -1650,6 +1650,13 @@ img.iga {
   background-color: var(--white);
   min-height: 200px;
 }
+@media (max-width: 1024px) {
+  .content.detail {
+    width: 100%;
+    padding: 0 0 6rem 0;
+  }
+}
+
 
 .container p a {
   line-height: inherit;
