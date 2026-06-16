@@ -21,6 +21,6 @@ eleventyNavigation:
 
 ---
 
-{% set postslist = collections['Products']  | sortAlphabetically %}
+{% set postslist = collections['Products'] | sortAlphabetically("title") %}
 {% include "components/postlist/postslist-products-4-wide.njk" %}
 
