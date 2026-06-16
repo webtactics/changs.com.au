@@ -12,7 +12,7 @@ eleventyNavigation:
 
 subtitle: "Chang’s sauces help create authentic Asian and modern Australian cuisine to elevate and simplify cooking."
 ---
-{% set postslist = collections['Products'] | intersection(collections['Sauces']) %}
+{% set postslist = collections['Sauces'] | sortAlphabetically("title") %}
 {% include "components/postlist/postslist-products-4-wide.njk" %}
 
 

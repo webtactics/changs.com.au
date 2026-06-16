@@ -12,7 +12,7 @@ eleventyNavigation:
 
 subtitle: "All our Gluten Free products are independently tested – and don’t worry, even if you see ‘Wheat Starch’ listed as an ingredient, the gluten has been extracted from it. If the label says, ‘Gluten Free’, you can be worry free!"
 ---
-{% set postslist = collections['Products'] | intersection(collections['Gluten Free']) %}
+{% set postslist = collections['Products'] | intersection(collections['Gluten Free Product']) | sortAlphabetically("title") %}
 {% include "components/postlist/postslist-products-4-wide.njk" %}
 
 

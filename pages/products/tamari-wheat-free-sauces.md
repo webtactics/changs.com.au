@@ -12,7 +12,7 @@ eleventyNavigation:
 
 subtitle: "Traditional soy sauce typically contains wheat, whilst Tamari is a wider class of soy sauce and is made from fermented soybeans and no (or very little) wheat."
 ---
-{% set postslist = collections['Products'] | intersection(collections['Tamari']) %}
+{% set postslist = collections['Products'] | intersection(collections['Tamari']) | sortAlphabetically("title") %}
 {% include "components/postlist/postslist-products-4-wide.njk" %}
 
 
