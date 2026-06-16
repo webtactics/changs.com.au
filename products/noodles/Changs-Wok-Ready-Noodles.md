@@ -4,8 +4,8 @@ status: published
 date: 2026-05-15
 description: "Your favourite noodles without the fuss."
 permalink: "/products/Changs-Wok-Ready-Noodles/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Wok-Ready-Noodles/Wok-Ready-Noodles-1200x1200.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Wok-Ready-Noodles/Wok-Ready-Noodles-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Wok-Ready-Noodles/Changs-Wok-Ready-Noodles-1200x1200.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Wok-Ready-Noodles/Changs-Wok-Ready-Noodles-300x200.jpg
 prodsize: "200g"
 gluten_free: true
 gtin: "9300777092705"
@@ -29,10 +29,7 @@ nutrition:
 
 galleryimages:
   - url: Changs-Wok-Ready-Noodles/Changs-Wok-Ready-Noodles-gallery-1.jpg
-    alt: "Chang's Wok-Ready Noodles"
   - url: Changs-Wok-Ready-Noodles/Changs-Wok-Ready-Noodles-gallery-2.jpg
-    alt: "Chang's Wok-Ready Noodles"
-
 
 
 tags:
@@ -43,5 +40,8 @@ tags:
 
 
 ---
+Chang’s Wok-Ready Noodles are 99% fat free and convenient for quick meals.
 
-Chang’s Wok-Ready noodles are 99% fat free and convenient for quick meals. No soaking or boiling required, just add straight to a stir fry for instant perfect results every time. Available in the Pasta aisle at your favourite Supermarket and selected independent Food Stores.
+No soaking or boiling required, just add straight to a stir fry for instant perfect results every time.
+
+Available in the Pasta aisle at your favourite Supermarket and selected independent Food Stores.

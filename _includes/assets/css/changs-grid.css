@@ -3465,6 +3465,10 @@ textarea
   margin-top: 0;
 }
 
+.detail .recipedetailtitle h1 {
+  margin-top: 0;
+}
+
 
 
 .accordion-item {

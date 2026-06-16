@@ -31,9 +31,19 @@ nutrition:
   SugarsAvgQuantityPer100g: "25.5g"
   SodiumAvgQuantityPerServing: "440mg"
   SodiumAvgQuantityPer100g: "2200mg"
+
+
+galleryimages:
+  - url: Changs-Japanese-Teriyaki-Sauce/Changs-Japanese-Teriyaki-Sauce-280ml-gallery-1.jpg
+  - url: Changs-Japanese-Teriyaki-Sauce/Changs-Japanese-Teriyaki-Sauce-280ml-gallery-2.jpg
+  - url: Changs-Japanese-Teriyaki-Sauce/Changs-Japanese-Teriyaki-Sauce-280ml-gallery-3.jpg
+
+
 tags:
   - "Gluten Free Product"
   - "Chang's Japanese Teriyaki Sauce"
 ---
 
-Teriyaki Sauce can be used as a marinade, table sauce and in stir fries for your meats, poultry, vegetables and seafood to enhance your favourite dishes. Our Japanese Teriyaki Sauce brings both taste and lustre to your grill, BBQ or pan fry.
+Teriyaki Sauce can be used as a marinade, table sauce and in stir fries for your meats, poultry, vegetables and seafood to enhance your favourite dishes.
+
+Our Japanese Teriyaki Sauce brings both taste and lustre to your grill, BBQ or pan fry!
