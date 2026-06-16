@@ -2226,7 +2226,7 @@ select {
 /* recipes
 ------------------------------------------------- */
 
-h3.news-title {
+h3.sum-title {
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -2241,7 +2241,7 @@ h3.news-title {
   min-height: 80px;
 }
 
-h3.news-title a {
+h3.sum-title a {
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -2256,7 +2256,7 @@ h3.news-title a {
   min-height: 80px;
 }
 
-h3.news-title a:hover {
+h3.sum-title a:hover {
   color: var(--white);
   background-color: var(--green);
   transition: background-color var(--transition06);
@@ -2307,7 +2307,20 @@ img.producthome4img {
    aspect-ratio: 1/1;
 }
 
-.recipessummary h3.recipes-title, .changssummary h3.sum-title {
+img.recipehome4img {
+  border-radius: var(--radius);
+  width: 100%;
+  aspect-ratio: 500/333;
+}
+
+.changssummary:hover img.recipehome4img {
+   filter: brightness(110%);
+  transition: all .2s ease-in-out;
+  aspect-ratio: 500/333;
+}
+
+
+.changssummary h3.sum-title {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2325,7 +2338,7 @@ img.producthome4img {
   min-height: 80px;
 }
 
-.recipessummary h3.recipes-title a, .changssummary h3.sum-title a {
+.changssummary h3.sum-title a {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2343,7 +2356,7 @@ img.producthome4img {
   min-height: 80px;
 }
 
-.recipessummary h3.recipes-title a:hover, .changssummary h3.sum-title a:hover {
+.changssummary h3.sum-title a:hover {
   color: var(--primary);
   background-color: var(--white);
   transition: all var(--transition06);
