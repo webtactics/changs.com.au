@@ -432,7 +432,7 @@ section: post
 
   <div class="recipes-from-products pad2remboth">
     <h4>Recipes featuring Chang's {{ title }}</h4>
-    {% set postslist = collections[title] %}
+    {% set postslist = collections[title] | limit(12) %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}
   </div>
 
