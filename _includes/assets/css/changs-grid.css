@@ -2545,12 +2545,6 @@ line-height: 1.5rem;
 }
 
 
-.DetailImage {order: 1;
-  object-fit: contain;
-margin-bottom: 2rem;}
-.recipes-ingredients {order: 2;}
-
-
 
 
 .CGBlogMethod {max-width:120ch;}
