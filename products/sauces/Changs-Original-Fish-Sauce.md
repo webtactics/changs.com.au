@@ -30,6 +30,16 @@ nutrition:
   SugarsAvgQuantityPer100g: "<0.1g"
   SodiumAvgQuantityPerServing: "1800mg"
   SodiumAvgQuantityPer100g: "9000mg"
+
+
+galleryimages:
+  - url: Changs-Original-Fish-Sauce/Changs-Original-Fish-Sauce-gallery-1.jpg
+  - url: Changs-Original-Fish-Sauce/Changs-Original-Fish-Sauce-gallery-2.jpg
+  - url: Changs-Original-Fish-Sauce/Changs-Original-Fish-Sauce-gallery-3.jpg
+
+
+
+
 tags:
   - "Gluten Free Product"
   - "Chang's Original Fish Sauce"

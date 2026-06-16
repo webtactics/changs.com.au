@@ -36,11 +36,9 @@ nutrition:
 
 galleryimages:
   - url: Changs-Tamari-Light-Soy-Sauce/Changs-Tamari-Light-Soy-Sauce-280ml-gallery-1.jpg
-    alt: "Chang's Gluten Free Tamari Light Soy Sauce"
   - url: Changs-Tamari-Light-Soy-Sauce/Changs-Tamari-Light-Soy-Sauce-280ml-gallery-2.jpg
-    alt: "Chang's Gluten Free Tamari Light Soy Sauce"
   - url: Changs-Tamari-Light-Soy-Sauce/Changs-Tamari-Light-Soy-Sauce-280ml-gallery-3.jpg
-    alt: "Chang's Gluten Free Tamari Light Soy Sauce"
+
 
 
 tags:
