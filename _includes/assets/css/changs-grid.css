@@ -2411,10 +2411,288 @@ h4.sum-title a:hover {
 }
 
 
+
+
+  /* CGBlog Details 
+------------------------------------------------- */
+
+    .recipedetailtitle h1 {
+      margin: 2rem 0;
+      color: var(--black);
+      text-transform: none;
+      font-size: 30px;
+      font-family: 'Roboto' , sans-serif;
+      min-height: 10px;
+      font-style: normal;
+      font-weight: 500;
+    }
+
+@media (max-width: 800px) {
+  .recipedetailtitle h1 {
+    margin: 2rem 0 1rem 0;
+  }
+}
+.recipedetailserveprepdifficultbox {
+
+font-size: 1rem;
+color: var(--black);
+margin: 0 0 20px 0;
+}
+
 .reddetail {
   color: var(--primary);
-  padding: 0 0.8rem 0 0;
+  padding: 0 10px 0 0;
 }
+
+.recipes-ingredients .recipelist h3 {
+  margin: 0 0 2rem 0;
+  color: var(--primary);
+  text-transform: none;
+  font-size: 1.5rem;
+  font-family: 'Roboto' , sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.recipes-ingredients .recipelist h4 {
+  margin: 15px 0 10px 0;
+  color: var(--primary);
+  text-transform: none;
+  font-size: 1.3rem;
+  font-family: 'Roboto' , sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.recipelist ul {
+  margin-left: 0px;
+  list-style-image: none;
+  list-style-position: inside;
+  list-style-type: none;
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0em;
+  padding: 0;
+}
+
+
+.recipelist ol ul.method {
+list-style-type: square;
+}
+.recipelist ol ul.method li::marker {
+  color: var(--primary);
+  font-size: 1.5em;
+list-style-type: square;
+}
+
+.recipelist ul > li {
+  border-top: 1px solid var(--pink);
+  padding: 5px 0;
+}
+
+
+.recipelist ol ul.method li {
+  border: none;
+  padding: 5px 0;
+}
+
+.recipelist ul ul {
+list-style-type: square;
+}
+.recipelist ul ul li::marker {
+  color: var(--primary);
+  font-size: 1.5em;
+list-style-type: square;
+}
+
+.recipelist ul > li, .CGBlogMethod ol > li {
+font-family: 'Roboto' , sans-serif;
+font-style: normal;
+font-weight: normal;
+color: var(--black);
+text-rendering: optimizeLegibility;
+font-size: 1rem;
+font-size: clamp(16px, 2vw + 1rem, 1.1rem);
+line-height: 1.5rem;
+}
+
+.content .recipelist a, .content .recipelist p a {
+  color: var(--primary);
+  border: none;
+  text-transform: none;
+  background-color: transparent;
+  padding: 2px;
+}
+
+.content .recipelist a:hover, .content .recipelist p a:hover {
+  color: var(--white);
+  border: none;
+  text-transform: none;
+  background-color: var(--primary);
+
+}
+.content .recipelist .relevant-products a:hover, .content .recipelist .galleryimgwrapper a:hover {
+  background-color: transparent;
+}
+
+
+.CGBlogDetailImage {order: 1;
+  object-fit: contain;
+margin-bottom: 2rem;}
+.recipes-ingredients {order: 2;}
+
+
+
+
+.CGBlogMethod {max-width:120ch;}
+
+
+.CGBlogMethod ol {
+  list-style-type: none;
+  list-style-type: decimal !ie; /*IE 7- hack*/
+   list-style-position: inside;
+  margin: 0;
+  margin-left: 1.6em;
+  padding: 0;
+  counter-reset: li-counter;
+}
+
+.CGBlogMethod ol > li{
+position: relative;
+margin-top: 2px;
+margin-bottom: 10px;
+padding-left: 1em;
+padding-bottom: 0.25em;
+}
+
+.CGBlogMethod ol > li:before {
+position: absolute;
+top: 0;
+left: -1em;
+font-size: 1.1em;
+line-height: 0.94;
+text-align: center;
+color: var(--primary);
+background-color: #FFFFFF;
+content: counter(li-counter);
+counter-increment: li-counter;
+padding:3px 6px 6px 6px;
+}
+
+.productsumrecipeimage {padding:0rem;}
+
+.recipesvideocontent {max-width: 800px;}
+.recipesvideocontent.large {max-width: 1000px;
+padding: 2rem 0;}
+
+
+.related .productssummary h4 {
+  margin: 15px 0 10px 0;
+  color: var(--black);
+  text-transform: none;
+  font-size: 20px;
+  font-family: 'Roboto' , sans-serif;
+  min-height: 10px;
+  text-align: center;
+}
+
+.related .productssummary h4 a {
+  margin: 15px 0 10px 0;
+  color: var(--black);
+  text-transform: none;
+  font-size: 20px;
+  font-family: 'Roboto' , sans-serif;
+  min-height: 10px;
+  text-align: center;
+  border:none
+}
+.related .productssummary h4 a:hover {
+  margin: 15px 0 10px 0;
+  color: var(--primary);
+  text-transform: none;
+  font-size: 20px;
+  font-family: 'Roboto' , sans-serif;
+  min-height: 10px;
+  text-align: center;
+  border:none
+}
+
+.productsumrecipeimage img:hover {
+  filter: brightness(110%);
+  transition: all 0.2s ease-in-out;
+}
+
+
+/* start button product */
+
+button.product, .button.product {
+
+display:flex;
+justify-content:center;
+align-items:center;
+
+  background-color: var(--white);
+  border: 0.4rem solid var(--black);
+  border-radius: 16px;
+  color: var(--white);
+  font-size: 1rem;
+  padding: 0.5rem 3rem;
+  margin:0;
+  text-decoration:none;
+  -webkit-transition: all 0.8s ease-in-out;
+  -moz-transition: all 0.8s ease-in-out;
+  -ms-transition: all 0.8s ease-in-out;
+  -o-transition: all 0.8s ease-in-out;
+  transition: all 0.8s ease-in-out;
+  cursor: pointer;
+ box-shadow: none; /* No shadow initially */
+
+  
+}
+button.product.coles, .button.product.coles { border: 0.4rem solid var(--coles);}
+button.product.woolworths, .button.product.woolworths { border: 0.4rem solid var(--woolworths);}
+button.product.iga, .button.product.iga { border: 0.4rem solid var(--iga);}
+
+button.product a, .button.product a {
+  color: var(--white);
+  text-decoration: none;
+}
+
+
+button.product:hover, button.product:focus, .button.product:hover, .button.product:focus {
+  background-color: var(--white);
+  border: 0.4rem solid var(--black);
+  border-radius: 16px;
+  color: var(--white);
+  -webkit-transition: all 0.8s ease-in-out;
+  -moz-transition: all 0.8s ease-in-out;
+  -ms-transition: all 0.8s ease-in-out;
+  -o-transition: all 0.8s ease-in-out;
+  transition: all 0.8s ease-in-out;
+  cursor: pointer;
+   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4); 
+}
+
+button.product img,  .button.product img,  {
+ -webkit-transition: all 0.8s ease-in-out;
+  -moz-transition: all 0.8s ease-in-out;
+  -ms-transition: all 0.8s ease-in-out;
+  -o-transition: all 0.8s ease-in-out;
+  transition: all 0.8s ease-in-out;
+}
+
+button.product img:hover, button.product img:focus, .button.product img:hover, .button.product img:focus {
+filter: brightness(110%);
+ -webkit-transition: all 0.8s ease-in-out;
+  -moz-transition: all 0.8s ease-in-out;
+  -ms-transition: all 0.8s ease-in-out;
+  -o-transition: all 0.8s ease-in-out;
+  transition: all 0.8s ease-in-out;
+}
+
+/* end button product */
+
+
+
 
 /* ============================================================
    SECTION: GRID UTILITIES & LAYOUT HELPERS
@@ -2515,6 +2793,12 @@ padding:0 2rem;
   column-gap: 5rem;
   row-gap: 0;
   min-height:300px;
+}
+
+.grid-3-buttons {
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  margin: 1rem 0 2rem 0;
 }
 
 .grid-3-wtb {
@@ -2786,7 +3070,10 @@ font-style: normal;
     font-weight: normal;
   }
 
- 
+  .grid-3-buttons {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
 
   .grid-3-recipes-home {
     display: grid;
