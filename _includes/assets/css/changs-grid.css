@@ -3461,6 +3461,10 @@ textarea
   margin: 2rem auto;
 }
 
+.detail .accordion {
+  margin-top: 0;
+}
+
 
 
 .accordion-item {

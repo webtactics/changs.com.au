@@ -19,7 +19,8 @@
       "Bash(node -e ' *)",
       "Bash(grep -o 'ul\\\\.navbar-menu[^{]*{[^}]*}' /tmp/turkey.html | head -50)",
       "Read(//tmp/**)",
-      "Bash(grep -o 'class=\"navbar-menu\"[^x]*<li class=\"search-icon\"' /tmp/turkey.html | head -c 4000)"
+      "Bash(grep -o 'class=\"navbar-menu\"[^x]*<li class=\"search-icon\"' /tmp/turkey.html | head -c 4000)",
+      "WebFetch(domain:www.changs.com.au)"
     ]
   }
 }
