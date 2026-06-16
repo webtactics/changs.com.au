@@ -436,7 +436,7 @@ section: post
 
   <div class="recipes-from-products pad2remboth">
     <h4>Recipes featuring Chang's {{ title }}</h4>
-    {% set postslist = collections[title] | reverse | limit(16) %}
+    {% set postslist = collections[title] | intersection(collections['Recipes']) | reverse | limit(16) %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}
   </div>
 
