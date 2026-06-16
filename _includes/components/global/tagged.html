@@ -4,7 +4,7 @@
   <ul>
 {% for tag in tags %}
   {%- if tag != "post" -%}
-    {% set tagUrl %}/tagged/{{ tag | slug }}/{% endset %}
+    {% set tagUrl %}/tagged/{{ tag | safeSlug }}/{% endset %}
    <li class="taggs"><a href="{{ tagUrl | url }}" rel="tag" title="{{ tag }}" alt="{{ tag }}">{{ tag }}</a></li>
   {%- endif -%}
 {% endfor %}

@@ -8,7 +8,7 @@ pagination:
     - nav
     - post
     - posts
-permalink: /tagged/{{ tag | slug }}/
+permalink: /tagged/{{ tag | safeSlug }}/
 layout: layouts/grid-tagged.njk
 class: tagpage
 eleventyComputed:

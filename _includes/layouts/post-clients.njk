@@ -20,7 +20,7 @@ section: post
   <ul>
 {% for tag in tags %}
   {%- if tag != "post" -%}
-    {% set tagUrl %}/tagged/{{ tag | slug }}/{% endset %}
+    {% set tagUrl %}/tagged/{{ tag | safeSlug }}/{% endset %}
    <li><a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a></li>
   {%- endif -%}
 {% endfor %}

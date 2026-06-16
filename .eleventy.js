@@ -132,6 +132,11 @@ module.exports = function (eleventyConfig) {
   });
 
       // limit filter for arrays
+eleventyConfig.addFilter("safeSlug", (str) => {
+  if (!str) return '';
+  return str.replace(/['"]/g, '').replace(/[^a-z0-9]+/gi, '-').replace(/^-|-$/g, '').toLowerCase();
+});
+
 eleventyConfig.addFilter("limit", function (arr, limit) {
   if (!Array.isArray(arr)) {
     return [];
