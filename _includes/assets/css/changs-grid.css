@@ -1631,7 +1631,7 @@ img.iga {
   font-size: 150%;
   padding-bottom: 2rem;
 }
-.text-centerflex {
+.text-rightflex {
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -1639,7 +1639,14 @@ img.iga {
   padding: 0;
   width: 100%;
 }
-
+.text-centerflex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
 
 @media (max-width: 800px) {
 
