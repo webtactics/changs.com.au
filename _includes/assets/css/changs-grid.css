@@ -2634,6 +2634,36 @@ padding: 2rem 0;}
   font-style: normal;
   font-weight: 500;
 }
+
+
+/* Gallery
+------------------------------------------------- */
+
+.CGBlogDetailImage {position:relative;}
+
+.galleryimgwrapper {margin:0;padding:0;display:flex;flex-wrap:wrap;justify-content:center;}
+
+   .galleryimgwrapper-link img {
+border-radius: 0.8rem;
+  -webkit-transition: all 0.5s ease-in-out;
+      -moz-transition: all 0.5s ease-in-out;
+      -o-transition: all 0.5s ease-in-out;
+      transition: all 0.5s ease-in-out;}
+
+    .galleryimgwrapper-link img:hover {
+      filter: brightness(120%);
+      border-radius: 0.8rem;
+      box-shadow: 0 0.15rem 0.4rem #555555;
+      -webkit-transition: all 0.5s ease-in-out;
+      -moz-transition: all 0.5s ease-in-out;
+      -o-transition: all 0.5s ease-in-out;
+      transition: all 0.5s ease-in-out;
+   
+  }
+
+
+
+
 /* start button product */
 
 button.product, .button.product {
