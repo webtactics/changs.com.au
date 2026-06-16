@@ -147,6 +147,15 @@ eleventyConfig.addFilter("limit", function (arr, limit) {
 
 eleventyConfig.addFilter("exclude", (arr, exclude) => arr.filter(el => el !== exclude));
 
+eleventyConfig.addFilter("sortAlphabetically", (arr, key) => {
+  if (!Array.isArray(arr)) return arr;
+  return arr.slice().sort((a, b) => {
+    const valA = (key ? (a.data?.[key] ?? a[key]) : a) ?? '';
+    const valB = (key ? (b.data?.[key] ?? b[key]) : b) ?? '';
+    return String(valA).localeCompare(String(valB));
+  });
+});
+
 
 eleventyConfig.addFilter("randomLimit", (arr, limit, currPage) => {
   // Filters out current page
