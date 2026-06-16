@@ -12,9 +12,9 @@ permalink: /tagged/{{ tag | safeSlug }}/
 layout: layouts/grid-tagged.njk
 class: tagpage
 eleventyComputed:
-  title: "Products & Recipes Tagged “{{ tag }}”"
-  metaDescription: "All Products, Recipes and News tagged with “{{ tag }}”"
-  description: "Products and Recipes tagged with “{{ tag }}”"
+  title: “Products & Recipes Tagged “{{ tag | safe }}””
+  metaDescription: “All Products, Recipes and News tagged with “{{ tag | safe }}””
+  description: “Products and Recipes tagged with “{{ tag | safe }}””
 ---
 
 
