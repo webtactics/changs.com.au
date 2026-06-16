@@ -30,7 +30,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "3350Mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Savoury Black Bean Stir Fry Sauce"
 ---
 

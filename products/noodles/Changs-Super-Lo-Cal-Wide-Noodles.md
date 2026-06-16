@@ -33,7 +33,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "<5mg"
 tags:
   - "Gluten Free Product"
-  - "Noodles"
   - "Chang's Super Lo-Cal Wide Noodles"
 ---
 

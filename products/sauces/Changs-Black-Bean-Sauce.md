@@ -21,7 +21,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "5573mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Black Bean Sauce"
 
 ---

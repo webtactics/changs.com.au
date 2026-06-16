@@ -30,7 +30,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "4000mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Japanese Tonkatsu Sauce"
 ---
 

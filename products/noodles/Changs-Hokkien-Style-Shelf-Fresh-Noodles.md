@@ -29,7 +29,6 @@ nutrition:
   SodiumAvgQuantityPerServing: "454mg"
   SodiumAvgQuantityPer100g: "227mg"
 tags:
-  - "Noodles"
   - "Chang's Hokkien Style Shelf Fresh Noodles"
 ---
 

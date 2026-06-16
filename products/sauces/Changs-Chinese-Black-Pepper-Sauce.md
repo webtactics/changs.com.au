@@ -12,7 +12,6 @@ allergen: "Gluten Free"
 ingredients: "Water, sugar, refined salt, black pepper, rice wine, garlic, onion, tomato paste, corn starch 1422, soy bean, citric acid, caramel colour (150a) flavour enhancer (621), spices"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Chinese Black Pepper Sauce"
 ---
 

@@ -32,7 +32,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "9000mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Original Fish Sauce"
 ---
 

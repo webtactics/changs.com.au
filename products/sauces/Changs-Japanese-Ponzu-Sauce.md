@@ -12,7 +12,6 @@ allergen: "Gluten Free"
 ingredients: "Citron juice, sugar, water, natural brewed soy sauce (soy bean, water, salt, wheat flour), rice vinegar, rice white wine, corn starch, spices"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Japanese Ponzu Sauce"
 ---
 

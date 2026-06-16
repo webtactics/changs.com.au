@@ -30,7 +30,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "3990Mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Spicy Sichuan Style Stir Fry Sauce"
 ---
 

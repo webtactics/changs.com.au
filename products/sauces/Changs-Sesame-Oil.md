@@ -33,7 +33,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "0g"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Sesame Oil"
 ---
 

@@ -34,7 +34,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "850mg"
 tags:
   - "Gluten Free Product"
-  - "Noodles"
   - "Chang's Gluten Free Fried Noodles"
 ---
 

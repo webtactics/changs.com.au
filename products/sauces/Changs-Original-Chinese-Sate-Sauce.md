@@ -31,7 +31,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "3500mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Original Chinese Sate Sauce"
 ---
 

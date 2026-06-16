@@ -34,7 +34,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "3870mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Original Hoisin Sauce"
 ---
 

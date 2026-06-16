@@ -10,7 +10,6 @@ gluten_free: true
 ingredients: "Water, shaoxing wine, naturally brewed soy sauce, (soya bean, water, salt, wheat flour), brown sugar, garlic, ginger, vinegar, sorghum liqueur, star anise, cinnamon, fennel"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Master Stock"
 ---
 

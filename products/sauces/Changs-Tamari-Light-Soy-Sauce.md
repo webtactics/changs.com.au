@@ -34,7 +34,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "7100mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Tamari"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

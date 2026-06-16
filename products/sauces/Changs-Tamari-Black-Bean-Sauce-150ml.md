@@ -30,7 +30,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "3500mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Tamari"
   - "Chang's Tamari Black Bean Sauce"
 ---

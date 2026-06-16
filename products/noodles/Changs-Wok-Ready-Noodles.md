@@ -28,7 +28,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "Less than 5g"
 tags:
   - "Gluten Free Product"
-  - "Noodles"
   - "Chang's Wok-Ready Noodles"
 ---
 

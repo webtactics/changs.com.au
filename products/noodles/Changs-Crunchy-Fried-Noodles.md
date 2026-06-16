@@ -35,7 +35,6 @@ nutrition:
   SodiumAvgQuantityPerServing: "237mg"
   SodiumAvgQuantityPer100g: "946mg"
 tags:
-  - "Noodles"
   - "Chang's Crunchy Fried Noodles"
 ---
 

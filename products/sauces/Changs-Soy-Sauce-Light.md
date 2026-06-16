@@ -13,7 +13,6 @@ ingredients: "Water, soy bean extract, wheat extract, salt"
 igalink: "https://www.igashop.com.au/product/changs-light-soy-sauce-96514"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Soy Sauce Light"
 ---
 

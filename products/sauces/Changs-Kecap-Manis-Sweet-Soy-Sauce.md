@@ -30,7 +30,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "6290mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Kecap Manis Sweet Soy Sauce"
 ---
 

@@ -12,7 +12,6 @@ allergen: "Gluten Free, Nut Free"
 ingredients: "Water, soya beans, thickener (modified corn starch), sugar, garlic, salt"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Tamari"
   - "Chang's Tamari Oyster Sauce"
 ---

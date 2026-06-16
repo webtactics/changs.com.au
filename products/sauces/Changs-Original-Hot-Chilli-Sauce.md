@@ -28,7 +28,6 @@ nutrition:
   FatSaturatedAvgQuantityPer100g: "0.0g"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Original Hot Chilli Sauce"
 ---
 

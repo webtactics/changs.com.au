@@ -30,7 +30,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "3940mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Delicious Mongolian Style Stir Fry Sauce"
 ---
 

@@ -34,7 +34,6 @@ nutrition:
   SodiumAvgQuantityPerServing: "238mg"
   SodiumAvgQuantityPer100g: "953mg"
 tags:
-  - "Noodles"
   - "ChangsTV"
   - "Chang's Original Fried Noodles"
 ---

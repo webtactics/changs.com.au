@@ -32,7 +32,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "13mg"
 tags:
   - "Gluten Free Product"
-  - "Noodles"
   - "Chang's Thai Style Rice Noodles"
 ---
 

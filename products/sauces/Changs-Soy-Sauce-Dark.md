@@ -12,7 +12,6 @@ allergen: "Gluten Free"
 ingredients: "Water, soya bean extract, wheat flour, salt, caramel colour (150)"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Soy Sauce Dark"
 ---
 

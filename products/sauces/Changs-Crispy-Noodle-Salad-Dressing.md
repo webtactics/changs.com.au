@@ -34,7 +34,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "1800mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "ChangsTV"
   - "Chang's Crispy Noodle Salad Dressing"
 ---

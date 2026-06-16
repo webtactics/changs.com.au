@@ -30,7 +30,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "2840mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Sweet Manchurian Stir Fry Sauce"
 ---
 

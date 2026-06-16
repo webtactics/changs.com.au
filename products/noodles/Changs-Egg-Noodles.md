@@ -28,7 +28,6 @@ nutrition:
   SodiumAvgQuantityPerServing: "57mg"
   SodiumAvgQuantityPer100g: "84mg"
 tags:
-  - "Noodles"
   - "Chang's Egg Noodles"
 ---
 

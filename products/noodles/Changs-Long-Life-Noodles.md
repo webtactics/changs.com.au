@@ -13,7 +13,6 @@ coleslink: "https://www.coles.com.au/product/chang's-long-life-noodles-250g-4980
 woolworthslink: "https://www.woolworths.com.au/shop/productdetails/94986/chang-s-noodles-long-life"
 igalink: "https://www.igashop.com.au/product/changs-long-life-noodles-92560"
 tags:
-  - "Noodles"
   - "Chang's Long Life Noodles"
 ---
 

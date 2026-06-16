@@ -33,7 +33,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "2200mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Japanese Teriyaki Sauce"
 ---
 

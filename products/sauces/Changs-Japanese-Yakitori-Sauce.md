@@ -30,7 +30,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "1920mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "Chang's Japanese Yakitori Sauce"
 ---
 

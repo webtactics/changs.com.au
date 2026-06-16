@@ -33,7 +33,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "4000mg"
 tags:
   - "Gluten Free Product"
-  - "Sauces"
   - "ChangsTV"
   - "Chang's Original Oyster Sauce"
 ---

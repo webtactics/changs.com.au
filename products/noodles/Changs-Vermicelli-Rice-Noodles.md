@@ -33,7 +33,6 @@ nutrition:
   SodiumAvgQuantityPer100g: "4mg"
 tags:
   - "Gluten Free Product"
-  - "Noodles"
   - "Chang's Vermicelli Rice Noodles"
 ---
 

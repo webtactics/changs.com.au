@@ -30,7 +30,6 @@ nutrition:
   SodiumAvgQuantityPerServing: "287mg"
   SodiumAvgQuantityPer100g: "410mg"
 tags:
-  - "Noodles"
   - "Chang's Organic Soba Noodles"
 ---
 
