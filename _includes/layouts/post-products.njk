@@ -401,12 +401,16 @@ section: post
     </div>
     {% endif %}
 
-    {% if gallery %}
-    <div class="pad2remboth">
+
+
+{% if galleryimages %}
+ <div class="gallery">
+  <div class="pad2remboth">
       <p><strong>Chang's {{ title }} Product Gallery</strong></p>
-      {# Gallery shortcode: {{ gallery }} #}
-    </div>
-    {% endif %}
+{% include "components/gallery-products.njk" %}
+</div>
+</div>
+{% endif %}
 
     {% if lowercontent %}
     <div class="pad2remboth">

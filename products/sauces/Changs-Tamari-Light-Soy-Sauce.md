@@ -32,10 +32,25 @@ nutrition:
   SugarsAvgQuantityPer100g: "<0.1g"
   SodiumAvgQuantityPerServing: "1420mg"
   SodiumAvgQuantityPer100g: "7100mg"
+
+
+galleryimages:
+  - url: Changs-Tamari-Light-Soy-Sauce/Changs-Tamari-Light-Soy-Sauce-280ml-gallery-1.jpg
+    alt: "Chang's Gluten Free Tamari Light Soy Sauce"
+  - url: Changs-Tamari-Light-Soy-Sauce/Changs-Tamari-Light-Soy-Sauce-280ml-gallery-2.jpg
+    alt: "Chang's Gluten Free Tamari Light Soy Sauce"
+  - url: Changs-Tamari-Light-Soy-Sauce/Changs-Tamari-Light-Soy-Sauce-280ml-gallery-3.jpg
+    alt: "Chang's Gluten Free Tamari Light Soy Sauce"
+
+
 tags:
   - "Gluten Free Product"
   - "Tamari"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+
+
+
+
 ---
 
 Soy Sauce can be used as a flavouring marinade, table sauce or dipping sauce. Marinade any meat, poultry, vegetables and seafood to enhance your favourite dishes. “Light” means the colour is lighter.

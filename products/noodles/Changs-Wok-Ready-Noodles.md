@@ -26,9 +26,22 @@ nutrition:
   SugarsAvgQuantityPer100g: "Less than 1g"
   SodiumAvgQuantityPerServing: "Less than 5g"
   SodiumAvgQuantityPer100g: "Less than 5g"
+
+galleryimages:
+  - url: Changs-Wok-Ready-Noodles/Changs-Wok-Ready-Noodles-gallery-1.jpg
+    alt: "Chang's Wok-Ready Noodles"
+  - url: Changs-Wok-Ready-Noodles/Changs-Wok-Ready-Noodles-gallery-2.jpg
+    alt: "Chang's Wok-Ready Noodles"
+
+
+
 tags:
   - "Gluten Free Product"
   - "Chang's Wok-Ready Noodles"
+
+
+
+
 ---
 
 Chang’s Wok-Ready noodles are 99% fat free and convenient for quick meals. No soaking or boiling required, just add straight to a stir fry for instant perfect results every time. Available in the Pasta aisle at your favourite Supermarket and selected independent Food Stores.
