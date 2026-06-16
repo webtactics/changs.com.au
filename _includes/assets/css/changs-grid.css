@@ -763,8 +763,8 @@ a.logolink:hover {background-color: transparent;}
   -ms-transition: all var( --transition06);
   -o-transition: all var( --transition06);
   transition: all var( --transition06);
-  padding:0;
-  margin-top:8px;
+  padding:16px 0 0 0;
+
  }
 
 .scrolled .navrightsidetopline {height:0px;
