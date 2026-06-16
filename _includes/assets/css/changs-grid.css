@@ -2415,15 +2415,15 @@ h4.sum-title a:hover {
 
   /* Product Details 
 ------------------------------------------------- */
-.details .recipes-ingredients {order: 1;}
+.detail .recipes-ingredients {order: 1;}
 
-.details .DetailImage {order: 2;
+.detail .DetailImage {order: 2;
 object-fit: contain;
 margin-bottom: 2rem;}
 
 @media (max-width: 1024px) {
-  .details .DetailImage {order: 1;}
-  .details .recipes-ingredients {order: 2;}
+  .detail .DetailImage {order: 1;}
+  .detail .recipes-ingredients {order: 2;}
 }
 
     .recipedetailtitle h1 {
