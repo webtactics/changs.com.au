@@ -27,7 +27,7 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Healthy Meals"
   - "Light Meals"
   - "Dinner for Two"

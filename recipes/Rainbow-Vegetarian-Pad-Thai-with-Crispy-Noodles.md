@@ -47,10 +47,9 @@ method: |
   </ol>
 tags:
   - "Vegetables"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Gluten-Free"
   - "Stir-Fry"
-  - "Noodles Ingredient"
   - "Vegetarian"
   - "Light Meals"
   - "Main Meals"

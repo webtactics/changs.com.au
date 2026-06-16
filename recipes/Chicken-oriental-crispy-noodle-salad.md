@@ -29,7 +29,7 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Noodles"
+  - "Noodles Ingredient"
 
   - "Healthy Meals"
   - "Dinner for Two"

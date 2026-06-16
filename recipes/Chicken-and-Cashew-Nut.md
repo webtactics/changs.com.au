@@ -34,10 +34,9 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Stir-Fry"
 
-  - "Noodles Ingredient"
   - "Occasions"
   - "Dairy Free"
   - "Gluten Free Variation"

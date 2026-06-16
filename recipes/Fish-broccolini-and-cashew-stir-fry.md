@@ -29,7 +29,7 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Stir-Fry"
 
   - "Occasions"

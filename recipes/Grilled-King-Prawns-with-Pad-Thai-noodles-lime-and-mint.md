@@ -34,7 +34,7 @@ method: |
 tags:
   - "BBQ"
   - "Seafood"
-  - "Noodles"
+  - "Noodles Ingredient"
 
   - "Occasions"
   - "Quick and Easy"

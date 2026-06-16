@@ -35,7 +35,7 @@ method: |
   <li>Divide turkey between four serving plates or shallow bowls, ladle over a little of the hot stock and serve with the coleslaw.</li>
   </ol>
 tags:
-  - "Noodles"
+  - "Noodles Ingredient"
 
   - "Turkey"
   - "Slow Cooking"

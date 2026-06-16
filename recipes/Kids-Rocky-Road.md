@@ -27,9 +27,8 @@ method: |
   <li>Once set, cut the Rocky Road into pieces about 2cm square.</li>
   </ol>
 tags:
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Finger Food"
   - "Kid Friendly"
   - "Noodles Style"

@@ -42,7 +42,7 @@ method: |
 tags:
   - "Chicken"
   - "Seafood"
-  - "Noodles"
+  - "Noodles Ingredient"
 
   - "Noodles Style"
   - "Soups"

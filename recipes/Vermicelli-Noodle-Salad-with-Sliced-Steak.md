@@ -54,7 +54,6 @@ method: |
 tags:
   - "BBQ"
   - "Beef"
-  - "Noodles"
   - "Noodles Ingredient"
   - "Main Meals"
   - "Quick and Easy"

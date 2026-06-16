@@ -36,10 +36,9 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Noodles"
-  - "Chang's Super Lo-Cal"
-  - "Gluten-Free"
   - "Noodles Ingredient"
+  - "Chang's Super Lo-Cal Wide Noodles"
+  - "Gluten-Free"
   - "Noodles Style"
   - "Soups"
   - "Poultry"

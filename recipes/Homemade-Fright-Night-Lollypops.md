@@ -29,9 +29,8 @@ method: |
   <li>While mixture is still warm, press a lollypop stick into the centre of each circle and scatter with noodles, pressing in gently.</li>
   </ol>
 tags:
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Kid Friendly"
   - "Occasions"
   - "Sweet Treats"

@@ -31,9 +31,8 @@ method: |
   <li>Stand at room temperature for 1 hour, or until cool.</li>
   </ol>
 tags:
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Finger Food"
   - "Kid Friendly"
   - "Occasions"

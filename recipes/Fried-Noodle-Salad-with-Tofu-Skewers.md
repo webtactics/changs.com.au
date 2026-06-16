@@ -45,9 +45,8 @@ method: |
 tags:
   - "BBQ"
   - "Vegetables"
-  - "Noodles"
-  - "Gluten-Free"
   - "Noodles Ingredient"
+  - "Gluten-Free"
   - "Vegetarian"
   - "Healthy Meals"
   - "Gluten Free Variation"

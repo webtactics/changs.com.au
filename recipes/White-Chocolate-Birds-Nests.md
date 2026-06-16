@@ -28,9 +28,8 @@ method: |
   <li>Place three Easter eggs into each nest, and dust lightly with icing sugar.</li>
   </ol>
 tags:
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Kid Friendly"
   - "Occasions"
   - "Sweet Treats"

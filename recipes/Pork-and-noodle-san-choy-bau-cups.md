@@ -28,7 +28,7 @@ method: |
   </ol>
 tags:
   - "Pork"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Stir-Fry"
   - "Kid Friendly"
   - "Dinner for Two"

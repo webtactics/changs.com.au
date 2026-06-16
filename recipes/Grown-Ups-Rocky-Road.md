@@ -28,9 +28,8 @@ method: |
   <li>Remove the Rocky Road from the container, and slice into pieces with a heavy kitchen knife.</li>
   </ol>
 tags:
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Finger Food"
   - "Kid Friendly"
   - "Occasions"

@@ -38,7 +38,7 @@ method: |
   </ol>
   <p><em>For a regular pancake doughnut (not GF), any pancake mixture can be used with this recipe and our <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/" target="_blank" rel="noopener">Chang's Original Fried Noodles</a> can be used instead of our <a title="Chang's Gluten Free Fried Noodles" href="/products/Gluten-Free-Fried-Noodles/" target="_blank" rel="noopener">Chang's Gluten Free Fried Noodles</a>.</em></p>
 tags:
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Quick and Easy"
   - "Sweet Treats"
   - "Winter"

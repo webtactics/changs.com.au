@@ -24,7 +24,7 @@ method: |
   <p>Great party snack served with Changs Hoisin Sauce</p>
   <p><strong>Tip</strong><br /> As an alternative to five spice powder, try tossing Changs Crunchy Noodles with a little chilli powder or smoky paprika.</p>
 tags:
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Quick and Easy"
   - "Spring"
   - "Summer BBQ"

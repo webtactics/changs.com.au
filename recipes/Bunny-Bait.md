@@ -29,9 +29,8 @@ method: |
   <li>Break into pieces to serve</li>
   </ol>
 tags:
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Kid Friendly"
   - "Occasions"
   - "Sweet Treats"

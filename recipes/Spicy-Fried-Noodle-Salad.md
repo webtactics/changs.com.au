@@ -31,7 +31,6 @@ method: |
   <li>Add Chang&rsquo;s Fried Noodles to salad. Serve immediately.</li>
   </ol>
 tags:
-  - "Noodles"
   - "Noodles Ingredient"
   - "Noodles Style"
   - "Gluten Free Variation"

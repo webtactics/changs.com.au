@@ -37,7 +37,7 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Gluten-Free"
 
   - "Kid Friendly"

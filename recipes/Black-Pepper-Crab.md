@@ -40,7 +40,7 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles"
+  - "Noodles Ingredient"
 
   - "Noodles Style"
   - "Occasions"

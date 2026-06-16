@@ -27,9 +27,8 @@ method: |
   <li>Allow to set on trays.</li>
   </ol>
 tags:
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Kid Friendly"
   - "Occasions"
   - "Sweet Treats"

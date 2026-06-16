@@ -47,10 +47,9 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Stir-Fry"
 
-  - "Noodles Ingredient"
   - "Kid Friendly"
   - "Occasions"
   - "Healthy Meals"

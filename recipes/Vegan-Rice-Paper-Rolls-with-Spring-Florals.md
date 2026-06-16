@@ -38,7 +38,7 @@ method: |
   </ol>
 tags:
   - "Vegetables"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Gluten-Free"
 
   - "Vegetarian"

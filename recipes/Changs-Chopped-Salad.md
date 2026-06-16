@@ -41,9 +41,8 @@ method: |
   </ol>
 tags:
   - "Vegetables"
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Kid Friendly"
   - "Sides"
   - "Noodles Style"

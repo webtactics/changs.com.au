@@ -40,11 +40,10 @@ method: |
   </ol>
 tags:
   - "Vegetables"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Chang's Traditional Super Lo-Cal Noodles"
   - "Chang's Super Lo-Cal Wide Noodles"
   - "Gluten-Free"
-  - "Noodles Ingredient"
   - "Noodles Style"
   - "Vegetarian"
   - "Light Meals"

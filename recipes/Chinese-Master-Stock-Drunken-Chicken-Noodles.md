@@ -33,7 +33,7 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Noodles Style"
   - "Light Meals"
   - "Dinner for Two"

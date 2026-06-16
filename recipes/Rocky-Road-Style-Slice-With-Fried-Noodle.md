@@ -25,9 +25,8 @@ method: |
   <li>Spoon mixture into the pan and set aside for 2 hr or until chocolate is set &ndash; if it is extremely hot, chill in the refrigerator until set. Cut into pieces to serve.</li>
   </ol>
 tags:
-  - "Noodles"
-  - "Gluten-Free"
   - "Noodles Ingredient"
+  - "Gluten-Free"
   - "Kid Friendly"
   - "Noodles Style"
   - "Sweet Treats"

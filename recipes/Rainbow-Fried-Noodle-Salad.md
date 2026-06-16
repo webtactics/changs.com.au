@@ -38,7 +38,6 @@ method: |
   </ol>
 tags:
   - "Vegetables"
-  - "Noodles"
   - "Noodles Ingredient"
   - "Vegetarian"
   - "Healthy Meals"

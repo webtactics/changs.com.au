@@ -47,10 +47,9 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Gluten-Free"
 
-  - "Noodles Ingredient"
   - "Finger Food"
   - "Noodles Style"
   - "Occasions"

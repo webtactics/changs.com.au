@@ -28,9 +28,8 @@ method: |
   <li>Set aside 1 hour or until firm.</li>
   </ol>
 tags:
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Kid Friendly"
   - "Occasions"
   - "Sweet Treats"

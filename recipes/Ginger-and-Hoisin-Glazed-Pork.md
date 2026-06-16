@@ -36,7 +36,7 @@ method: |
 tags:
   - "BBQ"
   - "Pork"
-  - "Noodles"
+  - "Noodles Ingredient"
 
   - "Occasions"
   - "Main Meals"

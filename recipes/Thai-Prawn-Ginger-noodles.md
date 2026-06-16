@@ -32,10 +32,9 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles"
-  - "Chang's Super Lo-Cal"
-  - "Gluten-Free"
   - "Noodles Ingredient"
+  - "Chang's Traditional Super Lo-Cal Noodles"
+  - "Gluten-Free"
   - "Spring"
   - "Summer BBQ"
 ---

@@ -28,9 +28,8 @@ method: |
   <li>Cut into 16 bars.</li>
   </ol>
 tags:
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Kid Friendly"
   - "Occasions"
   - "Sweet Treats"

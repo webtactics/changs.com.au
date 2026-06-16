@@ -91,9 +91,8 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Noodles"
-  - "Gluten-Free"
   - "Noodles Ingredient"
+  - "Gluten-Free"
   - "Noodles Style"
   - "Soups"
   - "Healthy Meals"

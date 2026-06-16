@@ -46,7 +46,7 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Chang's Traditional Super Lo-Cal Noodles"
   - "Chang's Super Lo-Cal Wide Noodles"
   - "Gluten-Free"

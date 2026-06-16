@@ -28,7 +28,7 @@ method: |
 tags:
   - "BBQ"
   - "Vegetables"
-  - "Noodles"
+  - "Noodles Ingredient"
 
   - "Sides"
   - "Vegetarian"

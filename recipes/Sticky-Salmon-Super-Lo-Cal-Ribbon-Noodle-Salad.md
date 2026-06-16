@@ -38,10 +38,9 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles"
-  - "Chang's Super Lo-Cal"
-  - "Gluten-Free"
   - "Noodles Ingredient"
+  - "Chang's Super Lo-Cal Wide Noodles"
+  - "Gluten-Free"
   - "Noodles Style"
   - "Salad"
   - "Soup and Salad"

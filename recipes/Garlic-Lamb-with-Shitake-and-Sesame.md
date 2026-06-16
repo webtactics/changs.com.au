@@ -34,7 +34,7 @@ method: |
   <p>You can swap out the lamb for beef or chicken if desired</p>
 tags:
   - "Lamb"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Stir-Fry"
 
   - "Main Meals"

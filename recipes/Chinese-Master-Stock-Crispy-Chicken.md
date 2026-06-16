@@ -39,7 +39,7 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Noodles"
+  - "Noodles Ingredient"
 
   - "Sauces and condiments"
   - "Slow Cooking"

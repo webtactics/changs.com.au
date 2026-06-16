@@ -40,7 +40,7 @@ method: |
   </ol>
 tags:
   - "Vegetables"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Stir-Fry"
 
   - "Kid Friendly"

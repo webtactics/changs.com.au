@@ -31,10 +31,9 @@ method: |
   </ol>
 tags:
   - "Pork"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Stir-Fry"
 
-  - "Noodles Ingredient"
   - "Noodles Style"
   - "Occasions"
   - "Dairy Free"

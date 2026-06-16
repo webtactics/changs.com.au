@@ -34,10 +34,10 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Noodles"
-  - "Chang's Super Lo-Cal"
-  - "Gluten-Free"
   - "Noodles Ingredient"
+  - "Chang's Traditional Super Lo-Cal Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
+  - "Gluten-Free"
   - "Noodles Style"
   - "Salad"
   - "Poultry"

@@ -30,9 +30,8 @@ method: |
   <li>Dust lightly with icing sugar if desired.</li>
   </ol>
 tags:
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Kid Friendly"
   - "Occasions"
   - "Sweet Treats"

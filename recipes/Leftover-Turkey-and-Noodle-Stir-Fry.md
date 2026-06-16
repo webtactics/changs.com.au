@@ -33,11 +33,10 @@ method: |
   <li>Add the noodles, oyster and soy sauces, and cook for another minute.</li>
   </ol>
 tags:
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Stir-Fry"
 
   - "Turkey"
-  - "Noodles Ingredient"
   - "Occasions"
   - "Main Meals"
   - "Family Dinners"

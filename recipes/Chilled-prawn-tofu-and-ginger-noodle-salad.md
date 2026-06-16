@@ -32,7 +32,7 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Light Meals"
   - "Dinner for Two"
   - "Lunch"

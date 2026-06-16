@@ -39,7 +39,7 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Chang's Traditional Super Lo-Cal Noodles"
   - "Gluten-Free"
 

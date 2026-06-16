@@ -48,9 +48,8 @@ method: |
   <p>Note: This dish can also be served cold and is even better the next day.</p>
 tags:
   - "Seafood"
-  - "Noodles"
-  - "Gluten-Free"
   - "Noodles Ingredient"
+  - "Gluten-Free"
   - "Noodles Style"
   - "Healthy Meals"
   - "Dairy Free"

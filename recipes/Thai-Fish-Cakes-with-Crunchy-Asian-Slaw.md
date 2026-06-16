@@ -35,7 +35,7 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Kid Friendly"
   - "Light Meals"
   - "Dinner for Two"

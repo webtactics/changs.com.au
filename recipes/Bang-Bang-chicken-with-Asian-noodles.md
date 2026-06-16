@@ -32,7 +32,7 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Sauces and condiments"
   - "Main Meals"
   - "Quick and Easy"

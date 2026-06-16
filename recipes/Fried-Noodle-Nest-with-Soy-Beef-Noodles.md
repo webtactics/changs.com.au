@@ -36,7 +36,7 @@ method: |
   <p><strong>Optional:</strong> squeeze lime juice over noodles for zest.</p>
 tags:
   - "Beef"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Stir-Fry"
   - "Noodles Style"
   - "Dinner for Two"

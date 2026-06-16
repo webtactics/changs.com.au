@@ -36,7 +36,7 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles"
+  - "Noodles Ingredient"
 
   - "Occasions"
   - "Healthy Meals"

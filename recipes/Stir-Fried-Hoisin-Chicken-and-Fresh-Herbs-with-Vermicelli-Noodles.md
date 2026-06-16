@@ -37,11 +37,10 @@ method: |
 tags:
   - "Pork"
   - "Chicken"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Gluten-Free"
   - "Stir-Fry"
 
-  - "Noodles Ingredient"
   - "Kid Friendly"
   - "Noodles Style"
   - "Occasions"

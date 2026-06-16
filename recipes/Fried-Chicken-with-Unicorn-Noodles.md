@@ -60,9 +60,8 @@ method: |
   <p><em>This recipe can be adapted to be gluten-free.</em></p>
 tags:
   - "Chicken"
-  - "Noodles"
-  - "Gluten-Free"
   - "Noodles Ingredient"
+  - "Gluten-Free"
   - "Lunch"
   - "Main Meals"
   - "Quick and Easy"

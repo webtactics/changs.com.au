@@ -28,10 +28,9 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Stir-Fry"
 
-  - "Noodles Ingredient"
   - "Noodles Style"
   - "Occasions"
   - "Light Meals"

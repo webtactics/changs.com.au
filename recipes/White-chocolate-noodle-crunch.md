@@ -28,9 +28,8 @@ method: |
   <li>Enjoy!</li>
   </ol>
 tags:
-  - "Noodles"
-  - "Gluten-Free"
   - "Noodles Ingredient"
+  - "Gluten-Free"
   - "Finger Food"
   - "Kid Friendly"
   - "Gluten Free Variation"

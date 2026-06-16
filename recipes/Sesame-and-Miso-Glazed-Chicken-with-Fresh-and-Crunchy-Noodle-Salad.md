@@ -39,9 +39,8 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Noodles Style"
   - "Occasions"
   - "Healthy Meals"

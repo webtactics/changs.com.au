@@ -36,9 +36,8 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Noodles Style"
   - "Occasions"
   - "Healthy Meals"

@@ -66,9 +66,8 @@ method: |
   </ol>
 tags:
   - "Pork"
-  - "Noodles"
-  - "Gluten-Free"
   - "Noodles Ingredient"
+  - "Gluten-Free"
   - "Noodles Style"
   - "Gluten Free Variation"
   - "Dinner for Two"

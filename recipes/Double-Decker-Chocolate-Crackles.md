@@ -41,9 +41,8 @@ method: |
   <li>Remove crackle from pan, and cut into 12 pieces.</li>
   </ol>
 tags:
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Kid Friendly"
   - "Occasions"
   - "Sweet Treats"

@@ -49,7 +49,7 @@ method: |
 tags:
   - "BBQ"
   - "Beef"
-  - "Noodles"
+  - "Noodles Ingredient"
 
   - "Occasions"
   - "Summer"

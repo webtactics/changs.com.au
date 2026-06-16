@@ -46,9 +46,8 @@ method: |
   </ol>
 tags:
   - "Vegetables"
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Sides"
   - "Vegetarian"
   - "Occasions"

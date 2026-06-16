@@ -42,9 +42,8 @@ method: |
   </ol>
 tags:
   - "Chicken"
-  - "Noodles"
-
   - "Noodles Ingredient"
+
   - "Slow Cooking"
   - "Noodles Style"
   - "Occasions"

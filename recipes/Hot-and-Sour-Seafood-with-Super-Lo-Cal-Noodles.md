@@ -44,11 +44,10 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles"
+  - "Noodles Ingredient"
   - "Gluten-Free"
   - "Stir-Fry"
 
-  - "Noodles Ingredient"
   - "Occasions"
   - "Healthy Meals"
   - "Dairy Free"
