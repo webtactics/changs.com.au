@@ -2292,7 +2292,20 @@ h3.news-title a:hover {
 }
 
 
-.recipessummary h3.recipes-title {
+img.taghome4img {
+  border-radius: var(--radius);
+  width: 100%;
+  aspect-ratio: 4/3;
+}
+
+.changssummary:hover img.taghome4img {
+   filter: brightness(110%);
+  transition: all .2s ease-in-out;
+  aspect-ratio: 4/3;
+}
+
+
+.recipessummary h3.recipes-title, .changssummary h3.sum-title {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2310,7 +2323,7 @@ h3.news-title a:hover {
   min-height: 80px;
 }
 
-.recipessummary h3.recipes-title a {
+.recipessummary h3.recipes-title a, .changssummary h3.sum-title a {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2328,7 +2341,7 @@ h3.news-title a:hover {
   min-height: 80px;
 }
 
-.recipessummary h3.recipes-title a:hover {
+.recipessummary h3.recipes-title a:hover, .changssummary h3.sum-title a:hover {
   color: var(--primary);
   background-color: var(--white);
   transition: all var(--transition06);
