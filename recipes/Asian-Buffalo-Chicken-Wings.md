@@ -21,8 +21,8 @@ ingredients: |
   <h3>Buffalo Sauce:</h3>
   <ul>
   <li>1 tbs butter, melted</li>
-  <li>1 tbs <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
-  <li>1 tbs <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tbs <a href="products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil" target="_blank" >Chang's Sesame Oil</a></li>
+  <li>1 tbs <a href="products/Changs-Tamari-Light-Soy-Sauce" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce" >Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>2 tbs chilli sauce</li>
   <li>2 tbs runny honey</li>
   </ul>
