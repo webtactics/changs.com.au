@@ -2413,8 +2413,18 @@ h4.sum-title a:hover {
 
 
 
-  /* CGBlog Details 
+  /* Product Details 
 ------------------------------------------------- */
+.details .recipes-ingredients {order: 1;}
+
+.details .DetailImage {order: 2;
+object-fit: contain;
+margin-bottom: 2rem;}
+
+@media (max-width: 1024px) {
+  .details .DetailImage {order: 1;}
+  .details .recipes-ingredients {order: 2;}
+}
 
     .recipedetailtitle h1 {
       margin: 2rem 0;
@@ -2535,7 +2545,7 @@ line-height: 1.5rem;
 }
 
 
-.CGBlogDetailImage {order: 1;
+.DetailImage {order: 1;
   object-fit: contain;
 margin-bottom: 2rem;}
 .recipes-ingredients {order: 2;}
@@ -2758,7 +2768,7 @@ padding:0 2rem;
   gap: 2rem;
 }
 
-.grid-2-products-categories {
+.grid-2-categories {
   grid-template-columns: 1fr 1fr;
   gap: 5rem;
   min-height:300px;
@@ -2979,7 +2989,7 @@ row-gap: 1rem;
 
 
 
-  .grid-7x4, .grid-2, .grid-2-mobilenav, .grid-2-detail-default, .grid-2-thanks, .grid-2-news,  .grid-2-sponsor, .grid-2x1, .grid-2x3, .grid-3x2, .grid-2-products, .grid-2-products-categories, .grid-3x2-products, .grid-1x3-maps {
+  .grid-7x4, .grid-2, .grid-2-mobilenav, .grid-2-detail-default, .grid-2-thanks, .grid-2-news,  .grid-2-sponsor, .grid-2x1, .grid-2x3, .grid-3x2, .grid-2-products, .grid-2-categories, .grid-3x2-products, .grid-1x3-maps {
     grid-template-columns: repeat(1, 1fr); 
     gap: 1rem;
   }
@@ -3513,7 +3523,7 @@ text-decoration: none;
 
 
 
-.products-details .accordion-content {
+.details .accordion-content {
   padding: 0.75rem;
 }
 
