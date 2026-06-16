@@ -2449,6 +2449,22 @@ margin-bottom: 2rem;}
     margin: 2rem 0 1rem 0;
   }
 }
+
+
+.gtin h3 {
+  padding: 0;
+  margin: 0 0 1rem 0;
+  color: var(--primary);
+  text-transform: none;
+  font-size: 1.125rem;
+  font-family: 'Roboto' , sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.gtinbold {
+  font-weight: 500;
+}
+
 .recipedetailserveprepdifficultbox {
 
 font-size: 1rem;
