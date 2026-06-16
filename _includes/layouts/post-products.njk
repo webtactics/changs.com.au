@@ -429,23 +429,12 @@ section: post
 
 <div class="padsmall">
 
-  {% if recipes %}
+
   <div class="recipes-from-products pad2remboth">
     <h4>Recipes featuring Chang's {{ title }}</h4>
-    <div class="grid-4-columns recipessummary">
-      {% for recipe in recipes %}
-      <div class="recipesummarypage">
-        <div class="CGBlogSummaryField">
-          <a href="{{ recipe.url }}"><img src="{{ recipe.image_url | replace('https://www.changs.com/uploads', 'https://ik.imagekit.io/webtactics/changs-media/recipes') }}/tr:w-400,h-267,q-80" alt="{{ recipe.title | escape }}" title="{{ recipe.title | escape }}"/></a>
-        </div>
-        <div class="CGBlogSummaryLink">
-          <h3><a href="{{ recipe.url }}" title="{{ recipe.title | escape }}">{{ recipe.title }}</a></h3>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
+    {% set postslist = collections['{{ title }}'] %}
+{% include "components/postlist/postslist-products-4-wide.njk" %}
   </div>
-  {% endif %}
 
-  <br/>
+
 </div>
