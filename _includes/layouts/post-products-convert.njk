@@ -1,0 +1,550 @@
+{*assign var='alt_title' value=$entry->product_name scope=global*}
+{my_set var='alt_title' value=$entry->product_name}
+{*assign var='associated' value=$entry->fields.associated_recipe*}
+{my_set var='associated' value=$entry->fields.associated_recipe}
+{*assign var='recipe2' value=$entry->fields.recipe2*}
+{my_set var='recipe2' value=$entry->fields.recipe2}
+{my_set var='cgblogid' value=$entry->id}
+{my_set var='prod_image' value=$entry->image}
+{my_set var='modifieddate' value=$entry->modifieddate}
+
+
+
+{*assign var='metadescription' value=$entry->metadescription->value*}
+{my_set var='metadescription' value=$entry->fields.metadescription->value|strip_tags|trim}
+{assign var='gluten100g' value=$entry->fields.gluten100g}
+{assign var='glutenfree' value=$entry->fields.glutenfree}
+{assign var='coles' value=$entry->fields.Coles}
+{assign var='coleslink' value=$entry->fields.coleslink}
+{assign var='woolworths' value=$entry->fields.Woolworths}
+{assign var='woolworthslink' value=$entry->fields.woolworthslink}
+{assign var='iga' value=$entry->fields.IGA}
+
+{assign var='origin' value=$entry->fields.origin}
+{assign var='additional_origin' value=$entry->fields.additional_origin}
+{assign var='halal' value=$entry->fields.halal}
+{assign var='kosher' value=$entry->fields.kosher}
+{assign var='gmo' value=$entry->fields.gmo}
+
+{assign var='alt_title' value=$entry->product_name}
+{assign var='prod_image' value=$entry->image}
+{assign var='cgblogid' value=$entry->id}
+{assign var='lowercontent' value=$entry->fields.lowercontent}
+{assign var='gallery' value=$entry->fields.gallery}
+{assign var='modifieddate' value=$entry->fields.modifieddate}
+
+{* set a canonical url *}
+{if $entry->detail_url != ''}{my_set var=canonical value=$entry->detail_url}{*$canonical=$entry->detail_url*}{/if}
+
+
+
+  <div class="grid-2-detail-default">
+
+
+  <div class="recipedetailtitle hide-for-large padsmall">
+  <h1>Chang's {$entry->product_name}</h1>
+</div>
+
+  
+  <div class="recipes-ingredients padsmall">
+  
+  <div class="recipedetailtitle show-for-large hide-for-small">
+  <h1>Chang's {$entry->product_name}</h1>
+  </div>
+  
+  {if !empty($entry->fields.GTIN->value)}
+    <div class="gtin">
+  <h3>GTIN: <span class="gtinbold">{$entry->fields.GTIN->value}</span></h3>
+    </div>
+  {/if}	
+  {if !empty($entry->fields.summary->value)}
+  <div class="CGBlogDetailSummary padtop20">
+  {$entry->fields.summary->value}
+  </div>
+  {/if}
+  {if !empty($entry->details)}
+  <div class="CGBlogDetailContent recipelist">
+  {$entry->details}
+  </div>
+  {/if}
+
+   <!-- start accordion below -->
+  <div class="accordion">
+
+  {if !empty($entry->fields.ingredients->value)}
+
+  <div class="accordion-item">
+    <input id="accordion-trigger-1" class="accordion-trigger-input" type="checkbox"></input>
+  <label class="accordion-trigger" for="accordion-trigger-1">Product Ingredients
+    </label>
+    <section class="accordion-animation-wrapper">
+      <div class="accordion-animation">
+        <div class="accordion-transform-wrapper">
+          <div class="accordion-content">
+          {$entry->fields.ingredients->value}
+      </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  {/if}
+  
+  {if !empty($entry->fields.nutrition->value) && empty($entry->fields.energyserving->value)}
+  <div class="accordion-item">
+    <input id="accordion-trigger-2" class="accordion-trigger-input" type="checkbox"></input>
+  <label class="accordion-trigger" for="accordion-trigger-2">Nutritional Information
+    </label>
+    <section class="accordion-animation-wrapper">
+      <div class="accordion-animation">
+        <div class="accordion-transform-wrapper">
+          <div class="accordion-content">
+          {$entry->fields.nutrition->value}
+     </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  {/if}
+
+  {if !empty($entry->fields.energyserving->value)}
+  <div class="accordion-item">
+    <input id="accordion-trigger-3" class="accordion-trigger-input" type="checkbox"></input>
+  <label class="accordion-trigger" for="accordion-trigger-3">Nutritional Information
+    </label>
+    <section class="accordion-animation-wrapper">
+      <div class="accordion-animation">
+        <div class="accordion-transform-wrapper">
+          <div class="accordion-content">
+            <!-- start accordion below -->
+            <div class="CGBlogDetailNutrition">
+            <div class="row">
+            <div class="nutritionservetitle">Product name: {$entry->product_name} {if !empty($entry->fields.prodsize->value)} ({$entry->fields.prodsize->value}){/if}</div>
+            </div>
+            {if !empty($entry->fields.servingsperpackage->value)}
+              <div class="grid-5-7-prod-detail">
+            <div class="nutritiontitle">Serves per pack: {$entry->fields.servingsperpackage->value}</div>
+            <div class="nutritiontitle">{if !empty($entry->fields.servingsize->value)}Serve size: {$entry->fields.servingsize->value}{/if}</div>
+            </div>
+            {/if}
+            <div class="grid-3-prod-detail">
+            <div class="nutritionquantity"></div>
+            <div class="nutritionquantity text-center">Quantity<br/>per Serving</div>
+            <div class="nutritionquantity text-right">Quantity<br/>per {if $entry->fields.ml->value == "true"}100ml{else}100g{/if}</div>
+            </div>
+            <div class="grid-3-prod-detail">
+            <div class="nutritiontitle">Energy</div>
+            <div class="nutritiontitle text-center">{$entry->fields.energyserving->value}</div>
+            <div class="nutritiontitle text-right">{if !empty($entry->fields.energy100g->value)}{$entry->fields.energy100g->value}{else}{/if}</div>
+            </div>
+            {if !empty($entry->fields.proteinserving->value)}    
+            <div class="grid-3-prod-detail">
+            <div class="nutritiontitle">Protein</div>
+            <div class="nutritiontitle text-center">{$entry->fields.proteinserving->value}</div>
+            <div class="nutritiontitle text-right">{if !empty($entry->fields.protein100g->value)}{$entry->fields.protein100g->value}{else}{/if}</div>
+            </div>    
+            {/if}
+            {if !empty($entry->fields.glutenserving->value)}    
+            <div class="grid-3-prod-detail">
+            <div class="nutritiontitle">Gluten</div>
+            <div class="nutritiontitle text-center">{$entry->fields.glutenserving->value}</div>
+            <div class="nutritiontitle text-right">{if !empty($entry->fields.gluten100g->value)}
+            {$entry->fields.gluten100g->value}{else}{if $gluten100g == "0"}0{/if}{/if}</div>
+            </div>    
+            {/if}
+             {if !empty($entry->fields.fatserving->value)}    
+            <div class="grid-3-prod-detail">
+            <div class="nutritiontitle">Fat, total</div>
+            <div class="nutritiontitle text-center">{$entry->fields.fatserving->value}</div>
+            <div class="nutritiontitle text-right">{if !empty($entry->fields.fat100g->value)}{$entry->fields.fat100g->value}{else}{/if}</div>
+            </div>    
+            {/if}
+             {if !empty($entry->fields.satserving->value)}    
+            <div class="grid-3-prod-detail">
+            <div class="nutritiontitle">- Saturated</div>
+            <div class="nutritiontitle text-center">{$entry->fields.satserving->value}</div>
+            <div class="nutritiontitle text-right">{if !empty($entry->fields.sat100g->value)}{$entry->fields.sat100g->value}{else}{/if}</div>
+            </div>    
+            {/if}     
+            {if !empty($entry->fields.transserving->value)}    
+            <div class="grid-3-prod-detail">
+            <div class="nutritiontitle">- Trans</div>
+            <div class="nutritiontitle text-center">{$entry->fields.transserving->value}</div>
+            <div class="nutritiontitle text-right">{if !empty($entry->fields.trans100g->value)}{$entry->fields.trans100g->value}{else}{/if}</div>
+            </div>     
+            {/if}   
+            {if !empty($entry->fields.polyserving->value)}    
+            <div class="grid-3-prod-detail">
+            <div class="nutritiontitle">- Polyunsaturated</div>
+            <div class="nutritiontitle text-center">{$entry->fields.polyserving->value}</div>
+            <div class="nutritiontitle text-right">{if !empty($entry->fields.poly100g->value)}{$entry->fields.poly100g->value}{else}{/if}</div>
+            </div>     
+            {/if}    
+            {if !empty($entry->fields.monoserving->value)}    
+            <div class="grid-3-prod-detail">
+            <div class="nutritiontitle">- Mono</div>
+            <div class="nutritiontitle text-center">{$entry->fields.monoserving->value}</div>
+            <div class="nutritiontitle text-right">{if !empty($entry->fields.mono100g->value)}{$entry->fields.mono100g->value}{else}{/if}</div>
+            </div>     
+            {/if}      
+            {if !empty($entry->fields.cholserving->value)}    
+            <div class="grid-3-prod-detail">
+            <div class="nutritiontitle">Cholesterol</div>
+            <div class="nutritiontitle text-center">{$entry->fields.cholserving->value}</div>
+            <div class="nutritiontitle text-right">{if !empty($entry->fields.chol100g->value)}{$entry->fields.chol100g->value}{else}{/if}</div>
+            </div>     
+            {/if}   
+            {if !empty($entry->fields.carbserving->value)}    
+            <div class="grid-3-prod-detail">
+            <div class="nutritiontitle">Carbohydrate</div>
+            <div class="nutritiontitle text-center">{$entry->fields.carbserving->value}</div>
+            <div class="nutritiontitle text-right">{if !empty($entry->fields.carb100g->value)}{$entry->fields.carb100g->value}{else}{/if}</div>
+            </div>     
+            {/if}
+            {if !empty($entry->fields.sugarserving->value)}    
+            <div class="grid-3-prod-detail">
+            <div class="nutritiontitle">- Sugars</div>
+            <div class="nutritiontitle text-center">{$entry->fields.sugarserving->value}</div>
+            <div class="nutritiontitle text-right">{if !empty($entry->fields.sugar100g->value)}{$entry->fields.sugar100g->value}{else}{/if}</div>
+            </div>     
+            {/if}
+            {if !empty($entry->fields.sodserving->value)}    
+            <div class="grid-3-prod-detail">
+            <div class="nutritiontitle">Sodium</div>
+            <div class="nutritiontitle text-center">{$entry->fields.sodserving->value}</div>
+            <div class="nutritiontitle text-right">{if !empty($entry->fields.sod100g->value)}{$entry->fields.sod100g->value}{else}{/if}</div>
+            </div>     
+            {/if}
+            
+            {if !empty($entry->fields.nutrition->value) && !empty($entry->fields.energyserving->value)}
+            <div class="row">
+            <div class="nutritiontitle">{$entry->fields.nutrition->value}</div>
+            </div>     
+            {/if} 
+            
+            {if $entry->fields.nuts->value == "false"}   
+            <div class="nuts pad1remtopbottom">This product is nut free</div>     
+            {/if}        
+                  
+              </div>
+              <!-- end accordion above -->
+</div>
+        </div>
+      </div>
+    </section>
+  </div>
+  {/if}
+
+
+  {if !empty($entry->fields.gmo->value) || !empty($entry->fields.halal->value) || !empty($entry->fields.kosher->value) || !empty($entry->fields.additional_origin->value)  || !empty($entry->fields.origin->value)}
+ <div class="accordion-item">
+    <input id="accordion-trigger-4" class="accordion-trigger-input" type="checkbox"></input>
+  <label class="accordion-trigger" for="accordion-trigger-4">Additional Information
+    </label>
+    <section class="accordion-animation-wrapper">
+      <div class="accordion-animation">
+        <div class="accordion-transform-wrapper">
+          <div class="accordion-content">
+          {if !empty($entry->fields.gmo->value)} 
+            <div class="CGBlogDetailNutrition">
+           <div class="grid-1-2-prod-detail">
+           <div class="nutritiontitle">GMO Status</div>
+           <div class="nutritiontitle">{$entry->fields.gmo->value}</div>
+           </div>
+           </div> 
+           {/if}
+           {if !empty($entry->fields.halal->value)} 
+            <div class="CGBlogDetailNutrition">
+           <div class="grid-1-2-prod-detail">
+           <div class="nutritiontitle">Halal Status</div>
+           <div class="nutritiontitle">{$entry->fields.halal->value}</div>
+           </div>
+           </div> 
+           {/if}
+           {if !empty($entry->fields.kosher->value)}
+            <div class="CGBlogDetailNutrition">
+           <div class="grid-1-2-prod-detail">
+           <div class="nutritiontitle">Kosher Status</div>
+           <div class="nutritiontitle">{$entry->fields.kosher->value}</div>
+           </div>
+           </div> 
+           {/if}
+           
+           {if !empty($entry->fields.additional_origin->value)} 
+            <div class="CGBlogDetailNutrition">
+           <div class="grid-1-2-prod-detail">
+           <div class="nutritiontitle">Additional Information:</div>
+           <div class="nutritiontitle">{$entry->fields.additional_origin->value}</div>
+           </div>
+           </div> 
+           {/if}
+            {if !empty($entry->fields.origin->value)} 
+           <div class="CGBlogDetailNutrition">
+           <div class="grid-1-2-prod-detail-noborder">
+           <div class="col-xs-4"><p>Country of origin:</p></div>
+           <div class="col-xs-8"><p>{$entry->fields.origin->value}</p></div>
+           </div>
+           </div> 
+           {/if} 
+      </div>
+        </div>
+      </div>
+    </section>
+  </div>
+{/if}
+{if !empty($entry->fields.allergen->value)}
+ <div class="accordion-item">
+    <input id="accordion-trigger-5" class="accordion-trigger-input" type="checkbox"></input>
+  <label class="accordion-trigger" for="accordion-trigger-5">Allergen Information
+    </label>
+    <section class="accordion-animation-wrapper">
+      <div class="accordion-animation">
+        <div class="accordion-transform-wrapper">
+          <div class="accordion-content">
+          {$entry->fields.allergen->value}
+          {if !empty($entry->fields.nuts->value)}
+          {if $entry->fields.nuts->value == "false"}   
+This product is nut free
+            
+          {/if} 
+           {/if}
+      </div>
+        </div>
+      </div>
+    </section>
+  </div>
+{/if}
+ 
+{if !empty($entry->fields.packsizes->value)}
+  <div class="accordion-item">
+     <input id="accordion-trigger-6" class="accordion-trigger-input" type="checkbox"></input>
+   <label class="accordion-trigger" for="accordion-trigger-6">Available Pack Sizes
+     </label>
+     <section class="accordion-animation-wrapper">
+       <div class="accordion-animation">
+         <div class="accordion-transform-wrapper">
+           <div class="accordion-content">
+           This product is available in  {$entry->fields.packsizes->value} pack sizes
+       
+       </div>
+         </div>
+       </div>
+     </section>
+   </div>
+ {/if}
+
+
+</div>
+
+ <!-- end accordion above -->
+
+   
+
+
+   {if $entry->fields.Coles->value == "true" && $entry->fields.Woolworths->value == "true" && $entry->fields.IGA->value == "true"} 
+    <div class="buyfromwrapper pad2remboth">
+    <p><strong>Buy now at</strong></p>
+    <div class="grid-3-buttons">
+    <div class="buyfrom">
+   {if !empty($entry->fields.coleslink->value)}<a href=" {$entry->fields.coleslink->value}" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="button product coles expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/coles-product-40_Nyp-F2hr5.png?updatedAt=1760137045985" alt="Buy {$entry->product_name} at Coles" title="Buy {$entry->product_name} at Coles"></span></a>{else}
+    <a href="https://www.coles.com.au/brands/changs-3028503409" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="button product coles expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/coles-product-40_Nyp-F2hr5.png?updatedAt=1760137045985" alt="Buy {$entry->product_name} at Coles" title="Buy {$entry->product_name} at Coles"></span></a>{/if}
+    </div>
+    <div class="buyfrom">
+    
+   {if !empty($entry->fields.woolworthslink->value)}<a href=" {$entry->fields.woolworthslink->value}" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="button product woolworths expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/woolworths-product-40_1eF3iwKib.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at Woolworths" title="Buy {$entry->product_name} at Woolworths"></span></a>{else}
+    <a href="https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="button product woolworths expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/woolworths-product-40_1eF3iwKib.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at Woolworths" title="Buy {$entry->product_name} at Woolworths"></span></a>{/if}
+    </div>
+
+    <div class="buyfrom">
+   {if !empty($entry->fields.igalink->value)}<a href=" {$entry->fields.igalink->value}" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="button product iga expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/IGA-product-40_DoqscnyLi.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at IGA" title="Buy {$entry->product_name} at IGA"></span></a>{else}
+    <a href="https://www.igashop.com.au/search/1?q=chang%27s" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="button product iga expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/IGA-product-40_DoqscnyLi.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at IGA" title="Buy {$entry->product_name} at IGA"></span></a>{/if}
+    </div>
+
+    </div>
+    <p>Available at {if !empty($entry->fields.coleslink->value)}<a href=" {$entry->fields.coleslink->value}" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a>{else}
+    <a href="https://www.coles.com.au/brands/changs-3028503409" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a>{/if}, {if !empty($entry->fields.woolworthslink->value)}<a href=" {$entry->fields.woolworthslink->value}" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="supermarketlink"><span>Woolworths</span></a>{else}
+    <a href="https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="supermarketlink"><span>Woolworths</span></a>{/if} and {if !empty($entry->fields.igalink->value)}<a href=" {$entry->fields.igalink->value}" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a>{else}
+    <a href="https://www.igashop.com.au/search/1?q=chang%27s" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a>{/if} stores.</p>
+    </div>
+    
+    {elseif $entry->fields.Coles->value == "false" && $entry->fields.Woolworths->value == "false" && $entry->fields.IGA->value == "true"} 
+      <div class="buyfromwrapper pad2remboth">
+    <p><strong>Buy now at</strong></p>
+   <div class="grid-3-buttons">
+    <div class="buyfrom">
+   {if !empty($entry->fields.igalink->value)}<a href=" {$entry->fields.igalink->value}" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="button product iga expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/IGA-product-40_DoqscnyLi.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at IGA" title="Buy {$entry->product_name} at IGA"></span></a>{else}
+    <a href="https://www.igashop.com.au/search/1?q=chang%27s" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="button product iga expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/IGA-product-40_DoqscnyLi.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at IGA" title="Buy {$entry->product_name} at IGA"></span></a>{/if}
+    </div>
+    </div>
+    <p>Available at {if !empty($entry->fields.igalink->value)}<a href=" {$entry->fields.igalink->value}" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a>{else}
+    <a href="https://www.igashop.com.au/search/1?q=chang%27s" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a>{/if} stores.</p>
+    </div>
+    
+    {elseif $entry->fields.Coles->value == "false" && $entry->fields.Woolworths->value == "true" && $entry->fields.IGA->value == "false"} 
+      <div class="buyfromwrapper pad2remboth">
+    <p><strong>Buy now at</strong></p>
+    <div class="grid-3-buttons">
+    <div class="buyfrom">
+   {if !empty($entry->fields.woolworthslink->value)}<a href=" {$entry->fields.woolworthslink->value}" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="button product woolworths expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/woolworths-product-40_1eF3iwKib.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at Woolworths" title="Buy {$entry->product_name} at Woolworths"></span></a>{else}
+    <a href="https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="button product woolworths expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/woolworths-product-40_1eF3iwKib.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at Woolworths" title="Buy {$entry->product_name} at Woolworths"></span></a>{/if}
+    </div>
+    </div>
+    <p>Available at {if !empty($entry->fields.woolworthslink->value)}<a href=" {$entry->fields.woolworthslink->value}" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="supermarketlink"><span>Woolworths</span></a>{else}
+    <a href="https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="supermarketlink"><span>Woolworths</span></a>{/if} stores.</p>
+    </div>
+    
+    {elseif $entry->fields.Coles->value == "true" && $entry->fields.Woolworths->value == "false" && $entry->fields.IGA->value == "false"} 
+      <div class="buyfromwrapper pad2remboth">
+    <p><strong>Buy now at</strong></p>
+    <div class="grid-3-buttons">
+    <div class="buyfrom">
+   {if !empty($entry->fields.coleslink->value)}<a href=" {$entry->fields.coleslink->value}" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="button product coles expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/coles-product-40_Nyp-F2hr5.png?updatedAt=1760137045985" alt="Buy {$entry->product_name} at Coles" title="Buy {$entry->product_name} at Coles"></span></a>{else}
+    <a href="https://www.coles.com.au/brands/changs-3028503409" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="button product coles expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/coles-product-40_Nyp-F2hr5.png?updatedAt=1760137045985" alt="Buy {$entry->product_name} at Coles" title="Buy {$entry->product_name} at Coles"></span></a>{/if}
+    </div>
+    </div>
+    <p>Available at {if !empty($entry->fields.coleslink->value)}<a href=" {$entry->fields.coleslink->value}" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a>{else}
+    <a href="https://www.coles.com.au/brands/changs-3028503409" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a>{/if} stores.</p>
+    </div>
+    
+    {elseif $entry->fields.Coles->value == "true" && $entry->fields.Woolworths->value == "false" && $entry->fields.IGA->value == "true"} 
+      <div class="buyfromwrapper pad2remboth">
+    <p><strong>Buy now at</strong></p>
+    <div class="grid-3-buttons">
+    <div class="buyfrom">
+   {if !empty($entry->fields.coleslink->value)}<a href=" {$entry->fields.coleslink->value}" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="button product coles expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/coles-product-40_Nyp-F2hr5.png?updatedAt=1760137045985" alt="Buy {$entry->product_name} at Coles" title="Buy {$entry->product_name} at Coles"></span></a>{else}
+    <a href="https://www.coles.com.au/brands/changs-3028503409" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="button product coles expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/coles-product-40_Nyp-F2hr5.png?updatedAt=1760137045985" alt="Buy {$entry->product_name} at Coles" title="Buy {$entry->product_name} at Coles"></span></a>{/if}
+    </div>
+    <div class="buyfrom">
+   {if !empty($entry->fields.igalink->value)}<a href=" {$entry->fields.igalink->value}" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="button product iga expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/IGA-product-40_DoqscnyLi.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at IGA" title="Buy {$entry->product_name} at IGA"></span></a>{else}
+    <a href="https://www.igashop.com.au/search/1?q=chang%27s" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="button product iga expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/IGA-product-40_DoqscnyLi.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at IGA" title="Buy {$entry->product_name} at IGA"></span></a>{/if}
+    </div>
+    </div>
+    <p>Available at {if !empty($entry->fields.coleslink->value)}<a href=" {$entry->fields.coleslink->value}" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a>{else}
+    <a href="https://www.coles.com.au/brands/changs-3028503409" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a>{/if} and {if !empty($entry->fields.igalink->value)}<a href=" {$entry->fields.igalink->value}" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a>{else}
+    <a href="https://www.igashop.com.au/search/1?q=chang%27s" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a>{/if} stores.</p>
+    </div>
+  
+    {elseif $entry->fields.Coles->value == "true" && $entry->fields.Woolworths->value == "true" && $entry->fields.IGA->value == "false"} 
+      <div class="buyfromwrapper pad2remboth">
+    <p><strong>Buy now at</strong></p>
+    <div class="grid-3-buttons">
+    <div class="buyfrom">
+   {if !empty($entry->fields.coleslink->value)}<a href=" {$entry->fields.coleslink->value}" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="button product coles expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/coles-product-40_Nyp-F2hr5.png?updatedAt=1760137045985" alt="Buy {$entry->product_name} at Coles" title="Buy {$entry->product_name} at Coles"></span></a>{else}
+    <a href="https://www.coles.com.au/brands/changs-3028503409" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="button product coles expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/coles-product-40_Nyp-F2hr5.png?updatedAt=1760137045985" alt="Buy {$entry->product_name} at Coles" title="Buy {$entry->product_name} at Coles"></span></a>{/if}
+    </div>
+    <div class="buyfrom">
+   {if !empty($entry->fields.woolworthslink->value)}<a href=" {$entry->fields.woolworthslink->value}" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="button product woolworths expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/woolworths-product-40_1eF3iwKib.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at Woolworths" title="Buy {$entry->product_name} at Woolworths"></span></a>{else}
+    <a href="https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="button product woolworths expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/woolworths-product-40_1eF3iwKib.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at Woolworths" title="Buy {$entry->product_name} at Woolworths"></span></a>{/if}
+    </div>
+    </div>
+    <p>Available at {if !empty($entry->fields.coleslink->value)}<a href=" {$entry->fields.coleslink->value}" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a>{else}
+    <a href="https://www.coles.com.au/brands/changs-3028503409" title="Buy {$entry->product_name} at Coles" alt="Buy {$entry->product_name} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a>{/if} and {if !empty($entry->fields.woolworthslink->value)}<a href=" {$entry->fields.woolworthslink->value}" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="supermarketlink"><span>Woolworths</span></a>{else}
+    <a href="https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="supermarketlink"><span>Woolworths</span></a>{/if} stores.</p>
+    </div>
+   
+    {elseif $entry->fields.Coles->value == "false" && $entry->fields.Woolworths->value == "true" && $entry->fields.IGA->value == "true"} 
+    <div class="buyfromwrapper pad2remboth">
+    <p><strong>Buy now at</strong></p>
+    <div class="grid-3-buttons">
+    <div class="buyfrom">
+   {if !empty($entry->fields.woolworthslink->value)}<a href=" {$entry->fields.woolworthslink->value}" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="button product woolworths expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/woolworths-product-40_1eF3iwKib.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at Woolworths" title="Buy {$entry->product_name} at Woolworths"></span></a>{else}
+    <a href="https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="button product woolworths expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/woolworths-product-40_1eF3iwKib.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at Woolworths" title="Buy {$entry->product_name} at Woolworths"></span></a>{/if}
+    </div>
+    <div class="buyfrom">
+    {if !empty($entry->fields.igalink->value)}<a href=" {$entry->fields.igalink->value}" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="button product iga expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/IGA-product-40_DoqscnyLi.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at IGA" title="Buy {$entry->product_name} at IGA"></span></a>{else}
+    <a href="https://www.igashop.com.au/search/1?q=chang%27s" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="button product iga expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/IGA-product-40_DoqscnyLi.png?updatedAt=1760137045986" alt="Buy {$entry->product_name} at IGA" title="Buy {$entry->product_name} at IGA"></span></a>{/if}
+    </div>
+    </div>
+    <p>Available at {if !empty($entry->fields.woolworthslink->value)}<a href=" {$entry->fields.woolworthslink->value}" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="supermarketlink"><span>Woolworths</span></a>{else}
+    <a href="https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s" title="Buy {$entry->product_name} at Woolworths" alt="Buy {$entry->product_name} at Woolworths" target="_blank" class="supermarketlink"><span>Woolworths</span></a>{/if} and {if !empty($entry->fields.igalink->value)}<a href=" {$entry->fields.igalink->value}" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a>{else}
+    <a href="https://www.igashop.com.au/search/1?q=chang%27s" title="Buy {$entry->product_name} at IGA" alt="Buy {$entry->product_name} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a>{/if} stores.</p>
+    </div>
+ 
+    {/if}
+
+
+ {if $entry->fields.glutenfree->value == "true"} 
+
+  <div class="pad2remboth">
+<p><strong>Please note:<br></strong>Foods carrying a gluten-free claim must have been tested and found to contain “<strong>No detectable</strong>” gluten. By law, however, the manufacturer is still required to list ALL ingredients, which can cause confusion.</p>
+  <p>For more information, please visit our <a href="{root_url}/gluten-free/">Gluten Free</a> section.</p>
+  </div>
+  {/if}
+   {if !empty($entry->fields.gallery->value)}
+    <div class="pad2remboth">
+   <p><strong>Chang's {$entry->product_name} Product Gallery</strong></p>
+   {Gallery template="LISSEproducts"  dir={$entry->fields.gallery->value}}
+    </div>
+   {/if}
+
+
+
+   {if !empty($entry->fields.lowercontent->value)}
+    <div class="pad2remboth">
+    {$entry->fields.lowercontent->value}
+    </div>
+    {/if}
+
+
+
+  
+  
+  </div>
+
+  <div class="CGBlogDetailImage">
+  <div align="center">
+  <img class="product-detail-image" src="https://ik.imagekit.io/webtactics/changs-media/tr:w-800,h-800,q-90/Products/product_{$entry->id}/{$entry->fields.image->value}" alt="{$entry->product_name|cms_escape}" title="{$entry->product_name|cms_escape}"/>
+  </div>
+  </div>
+
+
+  </div>
+
+
+  <!-- product below -->
+
+
+
+
+
+  <div class="padsmall">
+
+
+  {if !empty($entry->fields.recipes->value)}
+     {get_cgblog_article_details cgblog_ids=$entry->fields.recipes->value maxitems=36}
+     {if $recipes|count > 0}
+    <div class="recipes-from-products pad2remboth">
+      <h4>Recipes featuring Chang's {$entry->product_name}</h4>
+      <div class="grid-4-columns recipessummary">
+    {foreach from=$recipes item=recipe}
+     
+
+  
+      <div class="recipesummarypage">
+      <div class="CGBlogSummaryField">
+
+   <a href="{$recipe["url"]}"><img src="{$recipe["image_url"]|replace:'https://www.changs.com/uploads':'https://ik.imagekit.io/webtactics/changs-media/recipes'}/tr:w-400,h-267,q-80" alt="{$recipe["title"]|cms_escape}" title="{$recipe["title"]|cms_escape}"/></a>
+    </div>
+  
+
+    <div class="CGBlogSummaryLink">
+    <h3> <a href="{$recipe["url"]}" title="{$recipe["title"]|cms_escape}">{$recipe["title"]}</a></h3>
+    </div>
+
+       </div>
+      
+     {/foreach}
+    </div>
+       </div>
+  {/if}
+    {* Take care of removing recipes that couldn't be found from product *}
+    {if isset($failed_recipes) && $failed_recipes|count > 0}
+      {foreach from=$failed_recipes item=failed_recipe}
+        {remove_recipe_from_product product_id=$entry->id cgblog_id=$failed_recipe}
+      {/foreach}
+    {/if}
+  {/if}
+  <br/>
+  </div>
+
+
+
