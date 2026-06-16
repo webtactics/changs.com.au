@@ -3,267 +3,435 @@ layout: layouts/grid-detail.njk
 section: post
 ---
 
+<div class="grid-2-detail-default">
 
-
-<div class="detailwrapper products">
-  <article>
-   <div class="grid-2-detail-default">
-
-      <div class="item postdetail">
-
-        <div class="detailcontent">
-
-          <h2>{{ title }}</h2>
-
-       
-            {{ content | safe }}
-
-
-
-
-
- <!-- start accordion below -->
-  <div class="accordion">
-
- {% if ingredients %}
-
-  <div class="accordion-item">
-    <input id="accordion-trigger-1" class="accordion-trigger-input" type="checkbox"></input>
-      <label class="accordion-trigger" for="accordion-trigger-1">Product Ingredients</label>
-        <section class="accordion-animation-wrapper">
-          <div class="accordion-animation">
-            <div class="accordion-transform-wrapper">
-              <div class="accordion-content">
-                {{ ingredients }}
-              </div>
-            </div>
-          </div>
-        </section>
+  <div class="recipedetailtitle hide-for-large padsmall">
+    <h1>{{ title }}</h1>
   </div>
-  {% endif %}
-  
 
+  <div class="recipes-ingredients padsmall">
 
- {% if nutrition.EnergyAvgQuantityPerServing %}
-  <div class="accordion-item">
-    <input id="accordion-trigger-2" class="accordion-trigger-input" type="checkbox"></input>
-      <label class="accordion-trigger" for="accordion-trigger-2">Nutritional Information</label>
-        <section class="accordion-animation-wrapper">
-          <div class="accordion-animation">
-            <div class="accordion-transform-wrapper">
-              <div class="accordion-content">
-            <!-- start accordion below -->
-           
-    
-            <div class="nutritionservetitle product-title">Product name: {{ title }} </div>
-            {% if Servingsperpackage or Servingsize %}
-                <div class="nutritionservetitle">{% if Servingsize %}Serve size: {{ Servingsize }}{% endif %}</div>
-          
-            <div class="nutritionservetitle">Serves per pack: {{ Servingsperpackage }}</div>
-        
-            
-            {% endif %}
-            <div class="grid-4-prod-detail">
-            <div class="nutritionquantity"></div>
-            <div class="nutritionquantity text-left">Avg Quantity Per Serving</div>
-            <div class="nutritionquantity text-center">% Daily Intake</div>
-            <div class="nutritionquantity text-right">Avg Quantity per 100g</div>
-            </div>
-            <div class="grid-4-prod-detail">
-            <div class="nutritiontitle">Energy:</div>
-            <div class="nutritiontitle text-left">{% if nutrition. EnergyAvgQuantityPerServing %}{{ nutrition. EnergyAvgQuantityPerServing }}{% endif %}</div>
-            <div class="nutritiontitle text-center">{% if nutrition.EnergyperDailyIntakes %}{{ nutrition.EnergyperDailyIntakes }}{% endif %}</div>
-            <div class="nutritiontitle text-right">{% if nutrition.EnergyAvgQuantityPer100g %}{{ nutrition.EnergyAvgQuantityPer100g }}{% endif %}</div>
-            </div>
-             {% if nutrition.ProteinAvgQuantityPerServing %}  
-            <div class="grid-4-prod-detail">
-            <div class="nutritiontitle">Protein:</div>
-            <div class="nutritiontitle text-left">{% if nutrition.ProteinAvgQuantityPerServing %}{{ nutrition.ProteinAvgQuantityPerServing }}{% endif %}</div>
-            <div class="nutritiontitle text-center">{% if nutrition.ProteinperDailyIntakes %}{{ nutrition.ProteinperDailyIntakes }}{% endif %}</div>
-            <div class="nutritiontitle text-right">{% if nutrition.EnergyAvgQuantityPer100g %}{{ nutrition.EnergyAvgQuantityPer100g }}{% endif %}</div>
-            </div>    
-            {% endif %}
-
-            {% if nutrition.FatAvgQuantityPerServing %} 
-            <div class="grid-4-prod-detail">
-            <div class="nutritiontitle">Fat, total:</div>
-            <div class="nutritiontitle text-left">{% if nutrition.FatAvgQuantityPerServing %}{{ nutrition.FatAvgQuantityPerServing }}{% endif %}</div>
-            <div class="nutritiontitle text-center">{% if nutrition.FatperDailyIntakes %}{{ nutrition.FatperDailyIntakes }}{% endif %}</div>
-            <div class="nutritiontitle text-right">{% if nutrition.FatAvgQuantityPer100g %}{{ nutrition.FatAvgQuantityPer100g }}{% endif %}</div>
-            </div>    
-            {% endif %}
-         
-           {% if nutrition.FatSaturatedAvgQuantityPerServing %}  
-            <div class="grid-4-prod-detail">
-            <div class="nutritiontitle">- Saturated:</div>
-            <div class="nutritiontitle text-left">{% if nutrition.FatSaturatedAvgQuantityPerServing %}{{ nutrition.FatAvgQuantityPerServing }}{% endif %}</div>
-            <div class="nutritiontitle text-center">{% if nutrition.FatSaturatedperDailyIntakes %}{{ nutrition.FatSaturatedperDailyIntakes }}{% endif %}</div>
-            <div class="nutritiontitle text-right">{% if nutrition.FatSaturatedAvgQuantityPer100g %}{{ nutrition.FatSaturatedAvgQuantityPer100g }}{% endif %}</div>
-            </div>    
-            {% endif %}   
-
-     {% if nutrition.TransSaturatedAvgQuantityPerServing or TransSaturatedperDailyIntakes or TransSaturatedAvgQuantityPer100g %}  
-            <div class="grid-4-prod-detail">
-            <div class="nutritiontitle">Trans:</div>
-            <div class="nutritiontitle text-left">{% if nutrition.TransSaturatedAvgQuantityPerServing %}{{ nutrition.TransAvgQuantityPerServing }}{% endif %}</div>
-            <div class="nutritiontitle text-center">{% if nutrition.TransSaturatedperDailyIntakes %}{{ nutrition.TransSaturatedperDailyIntakes }}{% endif %}</div>
-            <div class="nutritiontitle text-right">{% if nutrition.TransSaturatedAvgQuantityPer100g %}{{ nutrition.TransSaturatedAvgQuantityPer100g }}{% endif %}</div>
-            </div>    
-            {% endif %} 
-
-         {% if nutrition.PolySaturatedAvgQuantityPerServing or PolySaturatedperDailyIntakes or PolySaturatedAvgQuantityPer100g %}  
-            <div class="grid-4-prod-detail">
-            <div class="nutritiontitle">-Polyunsaturated:</div>
-            <div class="nutritiontitle text-left">{% if nutrition.PolySaturatedAvgQuantityPerServing %}{{ nutrition.PolyAvgQuantityPerServing }}{% endif %}</div>
-            <div class="nutritiontitle text-center">{% if nutrition.PolySaturatedperDailyIntakes %}{{ nutrition.PolySaturatedperDailyIntakes }}{% endif %}</div>
-            <div class="nutritiontitle text-right">{% if nutrition.PolySaturatedAvgQuantityPer100g %}{{ nutrition.PolySaturatedAvgQuantityPer100g }}{% endif %}</div>
-            </div>    
-            {% endif %} 
-
-      {% if nutrition.MonoSaturatedAvgQuantityPerServing or MonoSaturatedperDailyIntakes or MonoSaturatedAvgQuantityPer100g %}  
-            <div class="grid-4-prod-detail">
-            <div class="nutritiontitle">-Monounsaturated:</div>
-            <div class="nutritiontitle text-left">{% if nutrition.MonoSaturatedAvgQuantityPerServing %}{{ nutrition.MonoAvgQuantityPerServing }}{% endif %}</div>
-            <div class="nutritiontitle text-center">{% if nutrition.MonoSaturatedperDailyIntakes %}{{ nutrition.MonoSaturatedperDailyIntakes }}{% endif %}</div>
-            <div class="nutritiontitle text-right">{% if nutrition.MonoSaturatedAvgQuantityPer100g %}{{ nutrition.MonoSaturatedAvgQuantityPer100g }}{% endif %}</div>
-            </div>    
-            {% endif %}
-        
- 
-            {% if nutrition.CarbohydratesAvgQuantityPerServing %}  
-            <div class="grid-4-prod-detail">
-            <div class="nutritiontitle">Carbohydrate:</div>
-            <div class="nutritiontitle text-left">{% if nutrition.CarbohydratesAvgQuantityPerServing %}{{ nutrition.CarbohydratesAvgQuantityPerServing }}{% endif %}</div>
-            <div class="nutritiontitle text-center">{% if nutrition.CarbohydratesperDailyIntakes %}{{ nutrition.CarbohydratesperDailyIntakes }}{% endif %}</div>
-            <div class="nutritiontitle text-right">{% if nutrition.CarbohydratesAvgQuantityPer100g %}{{ nutrition.CarbohydratesAvgQuantityPer100g }}{% endif %}</div>
-            </div>     
-            {% endif %}
-             {% if nutrition.SugarsAvgQuantityPerServing %} 
-            <div class="grid-4-prod-detail">
-            <div class="nutritiontitle">- Sugars:</div>
-            <div class="nutritiontitle text-left">{% if nutrition.SugarsAvgQuantityPerServing %}{{ nutrition.SugarsAvgQuantityPerServing }}{% endif %}</div>
-            <div class="nutritiontitle text-center">{% if nutrition.SugarsperDailyIntakes %}{{ nutrition.SugarsperDailyIntakes }}{% endif %}</div>
-            <div class="nutritiontitle text-right">{% if nutrition.SugarsAvgQuantityPer100g %}{{ nutrition.SugarsAvgQuantityPer100g }}{% endif %}</div>
-            </div>     
-            {% endif %}
-             {% if nutrition.SodiumAvgQuantityPerServing %}  
-            <div class="grid-4-prod-detail">
-            <div class="nutritiontitle">Sodium:</div>
-            <div class="nutritiontitle text-left">{% if nutrition.SodiumAvgQuantityPerServing %}{{ nutrition.SodiumAvgQuantityPerServing }}{% endif %}</div>
-            <div class="nutritiontitle text-center">{% if nutrition.SodiumperDailyIntakes %}{{ nutrition.SodiumperDailyIntakes }}{% endif %}</div>
-            <div class="nutritiontitle text-right">{% if nutrition.SodiumAvgQuantityPer100g %}{{ nutrition.SodiumAvgQuantityPer100g}}{% endif %}</div>
-            </div>     
-            {% endif %}
-            
-    {% if nutrition.DietaryFibreAvgQuantityPerServing or nutrition.DietaryFibreperDailyIntakes or nutrition.DietaryFibreAvgQuantityPer100g  %}  
-            <div class="grid-4-prod-detail">
-            <div class="nutritiontitle">Dietary Fibre:</div>
-            <div class="nutritiontitle text-left">{% if nutrition.DietaryFibreAvgQuantityPerServing %}{{ nutrition.DietaryFibreAvgQuantityPerServing }}{% endif %}</div>
-            <div class="nutritiontitle text-center">{% if nutrition.DietaryFibreperDailyIntakes %}{{ nutrition.DietaryFibreperDailyIntakes }}{% endif %}</div>
-            <div class="nutritiontitle text-right">{% if nutrition.DietaryFibreAvgQuantityPer100g %}{{ nutrition.DietaryFibreAvgQuantityPer100g}}{% endif %}</div>
-            </div>     
-            {% endif %}
-                  
-          </div>
-            </div>
-          </div>
-        </section>
-  </div>
-  {% endif %}
-
-
- {% if origin %}
-
-  <div class="accordion-item">
-    <input id="accordion-trigger-3" class="accordion-trigger-input" type="checkbox"></input>
-      <label class="accordion-trigger" for="accordion-trigger-3">Additional Information</label>
-        <section class="accordion-animation-wrapper">
-          <div class="accordion-animation">
-            <div class="accordion-transform-wrapper">
-              <div class="accordion-content">
-                {{ origin }}
-              </div>
-            </div>
-          </div>
-        </section>
-  </div>
-  {% endif %}
-
-
- {% if allergen %}
-
-  <div class="accordion-item">
-    <input id="accordion-trigger-4" class="accordion-trigger-input" type="checkbox"></input>
-      <label class="accordion-trigger" for="accordion-trigger-4">Allergen Information</label>
-        <section class="accordion-animation-wrapper">
-          <div class="accordion-animation">
-            <div class="accordion-transform-wrapper">
-              <div class="accordion-content">
-                {{ allergen }}
-              </div>
-            </div>
-          </div>
-        </section>
-  </div>
-  {% endif %}
-
-
-
-  
- {% if packsizes %}
-
-  <div class="accordion-item">
-    <input id="accordion-trigger-5" class="accordion-trigger-input" type="checkbox"></input>
-      <label class="accordion-trigger" for="accordion-trigger-5">Available Pack Sizes</label>
-        <section class="accordion-animation-wrapper">
-          <div class="accordion-animation">
-            <div class="accordion-transform-wrapper">
-              <div class="accordion-content">
-                {{ packsizes }}
-              </div>
-            </div>
-          </div>
-        </section>
-  </div>
-  {% endif %}
-
-
-  {% if Contains or Maycontain %}  
- <div class="accordion-item">
-    <input id="accordion-trigger-5" class="accordion-trigger-input" type="checkbox"></input>
-  <label class="accordion-trigger" for="accordion-trigger-5">Allergen Information
-    </label>
-    <section class="accordion-animation-wrapper">
-      <div class="accordion-animation">
-        <div class="accordion-transform-wrapper">
-          <div class="accordion-content">
-       {% if Contains %}{{ Contains }}{% endif %}
-       {% if Maycontain %}{{ Maycontain }}{% endif %}
-            
-      </div>
-        </div>
-      </div>
-    </section>
-  </div>
-  {% endif %}
-
-</div>
-
-</div>
-      </div>
-        
-        <div class="sidebarwrapper">
-          <div class="postnewsimage">
-            <img src="{{ image }}/tr:w-800,h-800,q-90" alt="{{ title }}" title="{{ title }}" width="800px" height="auto" class="postlistimg">
-          </div>
-        </div>
-
+    <div class="recipedetailtitle show-for-large hide-for-small">
+      <h1>{{ title }}</h1>
     </div>
 
-  </article>
+    {% if gtin %}
+    <div class="gtin">
+      <h3>GTIN: <span class="gtinbold">{{ gtin }}</span></h3>
+    </div>
+    {% endif %}
+
+    {% if summary %}
+    <div class="CGBlogDetailSummary padtop20">
+      {{ summary | safe }}
+    </div>
+    {% endif %}
+
+    {% if content %}
+    <div class="CGBlogDetailContent recipelist">
+      {{ content | safe }}
+    </div>
+    {% endif %}
+
+    <!-- start accordion below -->
+    <div class="accordion">
+
+      {% if ingredients %}
+      <div class="accordion-item">
+        <input id="accordion-trigger-1" class="accordion-trigger-input" type="checkbox">
+        <label class="accordion-trigger" for="accordion-trigger-1">Product Ingredients</label>
+        <section class="accordion-animation-wrapper">
+          <div class="accordion-animation">
+            <div class="accordion-transform-wrapper">
+              <div class="accordion-content">
+                {{ ingredients | safe }}
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      {% endif %}
+
+      {% if nutritiontext and not nutrition.EnergyAvgQuantityPerServing %}
+      <div class="accordion-item">
+        <input id="accordion-trigger-2" class="accordion-trigger-input" type="checkbox">
+        <label class="accordion-trigger" for="accordion-trigger-2">Nutritional Information</label>
+        <section class="accordion-animation-wrapper">
+          <div class="accordion-animation">
+            <div class="accordion-transform-wrapper">
+              <div class="accordion-content">
+                {{ nutritiontext | safe }}
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      {% endif %}
+
+      {% if nutrition.EnergyAvgQuantityPerServing %}
+      <div class="accordion-item">
+        <input id="accordion-trigger-3" class="accordion-trigger-input" type="checkbox">
+        <label class="accordion-trigger" for="accordion-trigger-3">Nutritional Information</label>
+        <section class="accordion-animation-wrapper">
+          <div class="accordion-animation">
+            <div class="accordion-transform-wrapper">
+              <div class="accordion-content">
+                <div class="CGBlogDetailNutrition">
+                  <div class="row">
+                    <div class="nutritionservetitle">Product name: {{ title }}{% if prodsize %} ({{ prodsize }}){% endif %}</div>
+                  </div>
+                  {% if nutrition.servingsperpackage %}
+                  <div class="grid-5-7-prod-detail">
+                    <div class="nutritiontitle">Serves per pack: {{ nutrition.servingsperpackage }}</div>
+                    <div class="nutritiontitle">{% if nutrition.servingsize %}Serve size: {{ nutrition.servingsize }}{% endif %}</div>
+                  </div>
+                  {% endif %}
+                  <div class="grid-3-prod-detail">
+                    <div class="nutritionquantity"></div>
+                    <div class="nutritionquantity text-center">Quantity<br/>per Serving</div>
+                    <div class="nutritionquantity text-right">Quantity<br/>per {% if ml %}100ml{% else %}100g{% endif %}</div>
+                  </div>
+                  <div class="grid-3-prod-detail">
+                    <div class="nutritiontitle">Energy</div>
+                    <div class="nutritiontitle text-center">{{ nutrition.EnergyAvgQuantityPerServing }}</div>
+                    <div class="nutritiontitle text-right">{% if nutrition.EnergyAvgQuantityPer100g %}{{ nutrition.EnergyAvgQuantityPer100g }}{% endif %}</div>
+                  </div>
+                  {% if nutrition.ProteinAvgQuantityPerServing %}
+                  <div class="grid-3-prod-detail">
+                    <div class="nutritiontitle">Protein</div>
+                    <div class="nutritiontitle text-center">{{ nutrition.ProteinAvgQuantityPerServing }}</div>
+                    <div class="nutritiontitle text-right">{% if nutrition.ProteinAvgQuantityPer100g %}{{ nutrition.ProteinAvgQuantityPer100g }}{% endif %}</div>
+                  </div>
+                  {% endif %}
+                  {% if nutrition.GlutenAvgQuantityPerServing %}
+                  <div class="grid-3-prod-detail">
+                    <div class="nutritiontitle">Gluten</div>
+                    <div class="nutritiontitle text-center">{{ nutrition.GlutenAvgQuantityPerServing }}</div>
+                    <div class="nutritiontitle text-right">{% if nutrition.GlutenAvgQuantityPer100g %}{{ nutrition.GlutenAvgQuantityPer100g }}{% endif %}</div>
+                  </div>
+                  {% endif %}
+                  {% if nutrition.FatAvgQuantityPerServing %}
+                  <div class="grid-3-prod-detail">
+                    <div class="nutritiontitle">Fat, total</div>
+                    <div class="nutritiontitle text-center">{{ nutrition.FatAvgQuantityPerServing }}</div>
+                    <div class="nutritiontitle text-right">{% if nutrition.FatAvgQuantityPer100g %}{{ nutrition.FatAvgQuantityPer100g }}{% endif %}</div>
+                  </div>
+                  {% endif %}
+                  {% if nutrition.FatSaturatedAvgQuantityPerServing %}
+                  <div class="grid-3-prod-detail">
+                    <div class="nutritiontitle">- Saturated</div>
+                    <div class="nutritiontitle text-center">{{ nutrition.FatSaturatedAvgQuantityPerServing }}</div>
+                    <div class="nutritiontitle text-right">{% if nutrition.FatSaturatedAvgQuantityPer100g %}{{ nutrition.FatSaturatedAvgQuantityPer100g }}{% endif %}</div>
+                  </div>
+                  {% endif %}
+                  {% if nutrition.TransSaturatedAvgQuantityPerServing %}
+                  <div class="grid-3-prod-detail">
+                    <div class="nutritiontitle">- Trans</div>
+                    <div class="nutritiontitle text-center">{{ nutrition.TransSaturatedAvgQuantityPerServing }}</div>
+                    <div class="nutritiontitle text-right">{% if nutrition.TransSaturatedAvgQuantityPer100g %}{{ nutrition.TransSaturatedAvgQuantityPer100g }}{% endif %}</div>
+                  </div>
+                  {% endif %}
+                  {% if nutrition.PolySaturatedAvgQuantityPerServing %}
+                  <div class="grid-3-prod-detail">
+                    <div class="nutritiontitle">- Polyunsaturated</div>
+                    <div class="nutritiontitle text-center">{{ nutrition.PolySaturatedAvgQuantityPerServing }}</div>
+                    <div class="nutritiontitle text-right">{% if nutrition.PolySaturatedAvgQuantityPer100g %}{{ nutrition.PolySaturatedAvgQuantityPer100g }}{% endif %}</div>
+                  </div>
+                  {% endif %}
+                  {% if nutrition.MonoSaturatedAvgQuantityPerServing %}
+                  <div class="grid-3-prod-detail">
+                    <div class="nutritiontitle">- Mono</div>
+                    <div class="nutritiontitle text-center">{{ nutrition.MonoSaturatedAvgQuantityPerServing }}</div>
+                    <div class="nutritiontitle text-right">{% if nutrition.MonoSaturatedAvgQuantityPer100g %}{{ nutrition.MonoSaturatedAvgQuantityPer100g }}{% endif %}</div>
+                  </div>
+                  {% endif %}
+                  {% if nutrition.CholesterolAvgQuantityPerServing %}
+                  <div class="grid-3-prod-detail">
+                    <div class="nutritiontitle">Cholesterol</div>
+                    <div class="nutritiontitle text-center">{{ nutrition.CholesterolAvgQuantityPerServing }}</div>
+                    <div class="nutritiontitle text-right">{% if nutrition.CholesterolAvgQuantityPer100g %}{{ nutrition.CholesterolAvgQuantityPer100g }}{% endif %}</div>
+                  </div>
+                  {% endif %}
+                  {% if nutrition.CarbohydratesAvgQuantityPerServing %}
+                  <div class="grid-3-prod-detail">
+                    <div class="nutritiontitle">Carbohydrate</div>
+                    <div class="nutritiontitle text-center">{{ nutrition.CarbohydratesAvgQuantityPerServing }}</div>
+                    <div class="nutritiontitle text-right">{% if nutrition.CarbohydratesAvgQuantityPer100g %}{{ nutrition.CarbohydratesAvgQuantityPer100g }}{% endif %}</div>
+                  </div>
+                  {% endif %}
+                  {% if nutrition.SugarsAvgQuantityPerServing %}
+                  <div class="grid-3-prod-detail">
+                    <div class="nutritiontitle">- Sugars</div>
+                    <div class="nutritiontitle text-center">{{ nutrition.SugarsAvgQuantityPerServing }}</div>
+                    <div class="nutritiontitle text-right">{% if nutrition.SugarsAvgQuantityPer100g %}{{ nutrition.SugarsAvgQuantityPer100g }}{% endif %}</div>
+                  </div>
+                  {% endif %}
+                  {% if nutrition.SodiumAvgQuantityPerServing %}
+                  <div class="grid-3-prod-detail">
+                    <div class="nutritiontitle">Sodium</div>
+                    <div class="nutritiontitle text-center">{{ nutrition.SodiumAvgQuantityPerServing }}</div>
+                    <div class="nutritiontitle text-right">{% if nutrition.SodiumAvgQuantityPer100g %}{{ nutrition.SodiumAvgQuantityPer100g }}{% endif %}</div>
+                  </div>
+                  {% endif %}
+                  {% if nutritiontext and nutrition.EnergyAvgQuantityPerServing %}
+                  <div class="row">
+                    <div class="nutritiontitle">{{ nutritiontext | safe }}</div>
+                  </div>
+                  {% endif %}
+                  {% if nuts == false %}
+                  <div class="nuts pad1remtopbottom">This product is nut free</div>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      {% endif %}
+
+
+      {% if gmo or halal or kosher or additional_origin or origin %}
+      <div class="accordion-item">
+        <input id="accordion-trigger-4" class="accordion-trigger-input" type="checkbox">
+        <label class="accordion-trigger" for="accordion-trigger-4">Additional Information</label>
+        <section class="accordion-animation-wrapper">
+          <div class="accordion-animation">
+            <div class="accordion-transform-wrapper">
+              <div class="accordion-content">
+                {% if gmo %}
+                <div class="CGBlogDetailNutrition">
+                  <div class="grid-1-2-prod-detail">
+                    <div class="nutritiontitle">GMO Status</div>
+                    <div class="nutritiontitle">{{ gmo }}</div>
+                  </div>
+                </div>
+                {% endif %}
+                {% if halal %}
+                <div class="CGBlogDetailNutrition">
+                  <div class="grid-1-2-prod-detail">
+                    <div class="nutritiontitle">Halal Status</div>
+                    <div class="nutritiontitle">{{ halal }}</div>
+                  </div>
+                </div>
+                {% endif %}
+                {% if kosher %}
+                <div class="CGBlogDetailNutrition">
+                  <div class="grid-1-2-prod-detail">
+                    <div class="nutritiontitle">Kosher Status</div>
+                    <div class="nutritiontitle">{{ kosher }}</div>
+                  </div>
+                </div>
+                {% endif %}
+                {% if additional_origin %}
+                <div class="CGBlogDetailNutrition">
+                  <div class="grid-1-2-prod-detail">
+                    <div class="nutritiontitle">Additional Information:</div>
+                    <div class="nutritiontitle">{{ additional_origin }}</div>
+                  </div>
+                </div>
+                {% endif %}
+                {% if origin %}
+                <div class="CGBlogDetailNutrition">
+                  <div class="grid-1-2-prod-detail-noborder">
+                    <div class="col-xs-4"><p>Country of origin:</p></div>
+                    <div class="col-xs-8"><p>{{ origin }}</p></div>
+                  </div>
+                </div>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      {% endif %}
+
+      {% if allergen %}
+      <div class="accordion-item">
+        <input id="accordion-trigger-5" class="accordion-trigger-input" type="checkbox">
+        <label class="accordion-trigger" for="accordion-trigger-5">Allergen Information</label>
+        <section class="accordion-animation-wrapper">
+          <div class="accordion-animation">
+            <div class="accordion-transform-wrapper">
+              <div class="accordion-content">
+                {{ allergen | safe }}
+                {% if nuts == false %}
+                This product is nut free
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      {% endif %}
+
+      {% if packsizes %}
+      <div class="accordion-item">
+        <input id="accordion-trigger-6" class="accordion-trigger-input" type="checkbox">
+        <label class="accordion-trigger" for="accordion-trigger-6">Available Pack Sizes</label>
+        <section class="accordion-animation-wrapper">
+          <div class="accordion-animation">
+            <div class="accordion-transform-wrapper">
+              <div class="accordion-content">
+                This product is available in {{ packsizes }} pack sizes
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      {% endif %}
+
+    </div>
+    <!-- end accordion above -->
+
+
+    {# Buy from buttons — show based on which retailers are flagged true #}
+    {% if coles and woolworths and iga %}
+    <div class="buyfromwrapper pad2remboth">
+      <p><strong>Buy now at</strong></p>
+      <div class="grid-3-buttons">
+        <div class="buyfrom">
+          <a href="{% if coleslink %}{{ coleslink }}{% else %}https://www.coles.com.au/brands/changs-3028503409{% endif %}" title="Buy {{ title }} at Coles" target="_blank" class="button product coles expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/coles-product-40_Nyp-F2hr5.png?updatedAt=1760137045985" alt="Buy {{ title }} at Coles"></span></a>
+        </div>
+        <div class="buyfrom">
+          <a href="{% if woolworthslink %}{{ woolworthslink }}{% else %}https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s{% endif %}" title="Buy {{ title }} at Woolworths" target="_blank" class="button product woolworths expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/woolworths-product-40_1eF3iwKib.png?updatedAt=1760137045986" alt="Buy {{ title }} at Woolworths"></span></a>
+        </div>
+        <div class="buyfrom">
+          <a href="{% if igalink %}{{ igalink }}{% else %}https://www.igashop.com.au/search/1?q=chang%27s{% endif %}" title="Buy {{ title }} at IGA" target="_blank" class="button product iga expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/IGA-product-40_DoqscnyLi.png?updatedAt=1760137045986" alt="Buy {{ title }} at IGA"></span></a>
+        </div>
+      </div>
+      <p>Available at <a href="{% if coleslink %}{{ coleslink }}{% else %}https://www.coles.com.au/brands/changs-3028503409{% endif %}" title="Buy {{ title }} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a>, <a href="{% if woolworthslink %}{{ woolworthslink }}{% else %}https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s{% endif %}" title="Buy {{ title }} at Woolworths" target="_blank" class="supermarketlink"><span>Woolworths</span></a> and <a href="{% if igalink %}{{ igalink }}{% else %}https://www.igashop.com.au/search/1?q=chang%27s{% endif %}" title="Buy {{ title }} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a> stores.</p>
+    </div>
+
+    {% elif not coles and not woolworths and iga %}
+    <div class="buyfromwrapper pad2remboth">
+      <p><strong>Buy now at</strong></p>
+      <div class="grid-3-buttons">
+        <div class="buyfrom">
+          <a href="{% if igalink %}{{ igalink }}{% else %}https://www.igashop.com.au/search/1?q=chang%27s{% endif %}" title="Buy {{ title }} at IGA" target="_blank" class="button product iga expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/IGA-product-40_DoqscnyLi.png?updatedAt=1760137045986" alt="Buy {{ title }} at IGA"></span></a>
+        </div>
+      </div>
+      <p>Available at <a href="{% if igalink %}{{ igalink }}{% else %}https://www.igashop.com.au/search/1?q=chang%27s{% endif %}" title="Buy {{ title }} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a> stores.</p>
+    </div>
+
+    {% elif not coles and woolworths and not iga %}
+    <div class="buyfromwrapper pad2remboth">
+      <p><strong>Buy now at</strong></p>
+      <div class="grid-3-buttons">
+        <div class="buyfrom">
+          <a href="{% if woolworthslink %}{{ woolworthslink }}{% else %}https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s{% endif %}" title="Buy {{ title }} at Woolworths" target="_blank" class="button product woolworths expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/woolworths-product-40_1eF3iwKib.png?updatedAt=1760137045986" alt="Buy {{ title }} at Woolworths"></span></a>
+        </div>
+      </div>
+      <p>Available at <a href="{% if woolworthslink %}{{ woolworthslink }}{% else %}https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s{% endif %}" title="Buy {{ title }} at Woolworths" target="_blank" class="supermarketlink"><span>Woolworths</span></a> stores.</p>
+    </div>
+
+    {% elif coles and not woolworths and not iga %}
+    <div class="buyfromwrapper pad2remboth">
+      <p><strong>Buy now at</strong></p>
+      <div class="grid-3-buttons">
+        <div class="buyfrom">
+          <a href="{% if coleslink %}{{ coleslink }}{% else %}https://www.coles.com.au/brands/changs-3028503409{% endif %}" title="Buy {{ title }} at Coles" target="_blank" class="button product coles expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/coles-product-40_Nyp-F2hr5.png?updatedAt=1760137045985" alt="Buy {{ title }} at Coles"></span></a>
+        </div>
+      </div>
+      <p>Available at <a href="{% if coleslink %}{{ coleslink }}{% else %}https://www.coles.com.au/brands/changs-3028503409{% endif %}" title="Buy {{ title }} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a> stores.</p>
+    </div>
+
+    {% elif coles and not woolworths and iga %}
+    <div class="buyfromwrapper pad2remboth">
+      <p><strong>Buy now at</strong></p>
+      <div class="grid-3-buttons">
+        <div class="buyfrom">
+          <a href="{% if coleslink %}{{ coleslink }}{% else %}https://www.coles.com.au/brands/changs-3028503409{% endif %}" title="Buy {{ title }} at Coles" target="_blank" class="button product coles expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/coles-product-40_Nyp-F2hr5.png?updatedAt=1760137045985" alt="Buy {{ title }} at Coles"></span></a>
+        </div>
+        <div class="buyfrom">
+          <a href="{% if igalink %}{{ igalink }}{% else %}https://www.igashop.com.au/search/1?q=chang%27s{% endif %}" title="Buy {{ title }} at IGA" target="_blank" class="button product iga expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/IGA-product-40_DoqscnyLi.png?updatedAt=1760137045986" alt="Buy {{ title }} at IGA"></span></a>
+        </div>
+      </div>
+      <p>Available at <a href="{% if coleslink %}{{ coleslink }}{% else %}https://www.coles.com.au/brands/changs-3028503409{% endif %}" title="Buy {{ title }} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a> and <a href="{% if igalink %}{{ igalink }}{% else %}https://www.igashop.com.au/search/1?q=chang%27s{% endif %}" title="Buy {{ title }} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a> stores.</p>
+    </div>
+
+    {% elif coles and woolworths and not iga %}
+    <div class="buyfromwrapper pad2remboth">
+      <p><strong>Buy now at</strong></p>
+      <div class="grid-3-buttons">
+        <div class="buyfrom">
+          <a href="{% if coleslink %}{{ coleslink }}{% else %}https://www.coles.com.au/brands/changs-3028503409{% endif %}" title="Buy {{ title }} at Coles" target="_blank" class="button product coles expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/coles-product-40_Nyp-F2hr5.png?updatedAt=1760137045985" alt="Buy {{ title }} at Coles"></span></a>
+        </div>
+        <div class="buyfrom">
+          <a href="{% if woolworthslink %}{{ woolworthslink }}{% else %}https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s{% endif %}" title="Buy {{ title }} at Woolworths" target="_blank" class="button product woolworths expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/woolworths-product-40_1eF3iwKib.png?updatedAt=1760137045986" alt="Buy {{ title }} at Woolworths"></span></a>
+        </div>
+      </div>
+      <p>Available at <a href="{% if coleslink %}{{ coleslink }}{% else %}https://www.coles.com.au/brands/changs-3028503409{% endif %}" title="Buy {{ title }} at Coles" target="_blank" class="supermarketlink"><span>Coles</span></a> and <a href="{% if woolworthslink %}{{ woolworthslink }}{% else %}https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s{% endif %}" title="Buy {{ title }} at Woolworths" target="_blank" class="supermarketlink"><span>Woolworths</span></a> stores.</p>
+    </div>
+
+    {% elif not coles and woolworths and iga %}
+    <div class="buyfromwrapper pad2remboth">
+      <p><strong>Buy now at</strong></p>
+      <div class="grid-3-buttons">
+        <div class="buyfrom">
+          <a href="{% if woolworthslink %}{{ woolworthslink }}{% else %}https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s{% endif %}" title="Buy {{ title }} at Woolworths" target="_blank" class="button product woolworths expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/woolworths-product-40_1eF3iwKib.png?updatedAt=1760137045986" alt="Buy {{ title }} at Woolworths"></span></a>
+        </div>
+        <div class="buyfrom">
+          <a href="{% if igalink %}{{ igalink }}{% else %}https://www.igashop.com.au/search/1?q=chang%27s{% endif %}" title="Buy {{ title }} at IGA" target="_blank" class="button product iga expand"><span><img class="product-image" src="https://ik.imagekit.io/webtactics/changs-media/assets/IGA-product-40_DoqscnyLi.png?updatedAt=1760137045986" alt="Buy {{ title }} at IGA"></span></a>
+        </div>
+      </div>
+      <p>Available at <a href="{% if woolworthslink %}{{ woolworthslink }}{% else %}https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s{% endif %}" title="Buy {{ title }} at Woolworths" target="_blank" class="supermarketlink"><span>Woolworths</span></a> and <a href="{% if igalink %}{{ igalink }}{% else %}https://www.igashop.com.au/search/1?q=chang%27s{% endif %}" title="Buy {{ title }} at IGA" target="_blank" class="supermarketlink"><span>select IGA</span></a> stores.</p>
+    </div>
+
+    {% endif %}
+
+
+    {% if gluten_free %}
+    <div class="pad2remboth">
+      <p><strong>Please note:<br></strong>Foods carrying a gluten-free claim must have been tested and found to contain "<strong>No detectable</strong>" gluten. By law, however, the manufacturer is still required to list ALL ingredients, which can cause confusion.</p>
+      <p>For more information, please visit our <a href="/gluten-free/">Gluten Free</a> section.</p>
+    </div>
+    {% endif %}
+
+    {% if gallery %}
+    <div class="pad2remboth">
+      <p><strong>Chang's {{ title }} Product Gallery</strong></p>
+      {# Gallery shortcode: {{ gallery }} #}
+    </div>
+    {% endif %}
+
+    {% if lowercontent %}
+    <div class="pad2remboth">
+      {{ lowercontent | safe }}
+    </div>
+    {% endif %}
+
+  </div>
+
+  <div class="CGBlogDetailImage">
+    <div align="center">
+      <img class="product-detail-image" src="{{ image }}/tr:w-800,h-800,q-90" alt="{{ title | escape }}" title="{{ title | escape }}"/>
+    </div>
+  </div>
+
 </div>
 
 
-{% include "components/global/tagged.html" %}
+<!-- product below -->
 
+<div class="padsmall">
 
+  {% if recipes %}
+  <div class="recipes-from-products pad2remboth">
+    <h4>Recipes featuring Chang's {{ title }}</h4>
+    <div class="grid-4-columns recipessummary">
+      {% for recipe in recipes %}
+      <div class="recipesummarypage">
+        <div class="CGBlogSummaryField">
+          <a href="{{ recipe.url }}"><img src="{{ recipe.image_url | replace('https://www.changs.com/uploads', 'https://ik.imagekit.io/webtactics/changs-media/recipes') }}/tr:w-400,h-267,q-80" alt="{{ recipe.title | escape }}" title="{{ recipe.title | escape }}"/></a>
+        </div>
+        <div class="CGBlogSummaryLink">
+          <h3><a href="{{ recipe.url }}" title="{{ recipe.title | escape }}">{{ recipe.title }}</a></h3>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <br/>
+</div>
