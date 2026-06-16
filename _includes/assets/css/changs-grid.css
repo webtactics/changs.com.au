@@ -2226,22 +2226,6 @@ select {
 /* recipes
 ------------------------------------------------- */
 
-
-.bordertopsumimage img {
-  border-top-left-radius: var(--radius);
-  border-top-right-radius: var(--radius);
-  width: 100%;
-  aspect-ratio: 8/6;
-}
-
-
-.bordertopsumimage img:hover {
-  filter: brightness(90%);
-  transition: all .2s ease-in-out;
- aspect-ratio: 8/6;
-}
-
-
 h3.news-title {
   display: flex;
   align-items: center;
@@ -2311,6 +2295,17 @@ img.taghome4img {
   aspect-ratio: 4/3;
 }
 
+img.producthome4img {
+  border-radius: var(--radius);
+  width: 100%;
+  aspect-ratio: 1/1;
+}
+
+.changssummary:hover img.producthome4img {
+   filter: brightness(110%);
+  transition: all .2s ease-in-out;
+   aspect-ratio: 1/1;
+}
 
 .recipessummary h3.recipes-title, .changssummary h3.sum-title {
   display: flex;
