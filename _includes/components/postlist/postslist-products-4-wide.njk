@@ -1,21 +1,22 @@
-<section class="grid-4-columns newssum" >
+<section class="grid-4-columns summary4" >
 	{% for post in postslist %}
-<summary class="newssummary fade-in">
+<summary class="changssummary fade-in">
 
 
-<div class="bordertopsumimage">
-<a href="{{ post.url | url }}" ><img src="{{ post.data.image }}/tr:w-400,h-300" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="400px" height="auto" class="postlistimg"></a>
+<div class="radiussum4image">
+{% if post.data.sumimage %}
+<a href="{{ post.url | url }}" ><img src="{{ post.data.sumimage }}/tr:w-400,h-300" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="500px" height="auto" class="taghome4img"></a>{% else %}
+
+
+<a href="{{ post.url | url }}" ><img src="{{ post.data.image }}/tr:w-400,h-300" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="500px" height="auto" class="taghome4img"></a>{% endif %}
 </div>
 
 
-<div class="sumnewstitle">
-<h3 class="news-title"><a class="eventtitle" href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >{{ post.data.title }}</a></h3>
-
+<div class="sum4title">
+<h3 class="sum-title"><a class="eventtitle" href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >{{ post.data.title }}</a></h3>
 </div>
 
-<h4 class="sum-title"><a  href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >More Info &gt;</a></h4>
-			
-
+	
 </summary>
 		
 	{% endfor %}
