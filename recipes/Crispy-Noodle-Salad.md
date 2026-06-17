@@ -83,6 +83,6 @@ tags:
 
 
 
-galleryimages: static/img/recipes/Crispy-Noodle-Salad-combined
+galleryimages: img/recipes/Crispy-Noodle-Salad/gallery
 headinggalleryimages: "More ways to enjoy"
 ---
