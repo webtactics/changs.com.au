@@ -437,7 +437,7 @@ section: post
     {% set postslist = collections[title] | intersection(collections['Recipes']) | reverse | limit(16) %}
 {% include "components/postlist/postslist-recipes-4-wide-nofadein.njk" %}
 
-<div class="text-leftflex">
+<div class="pad3rem text-leftflex">
 <a href="{{metadata.url}}/tagged/{{ title | safeSlug }}/" class="button success" title="For all recipes using {{ title }}" alt="For all recipes using {{ title }}">For all recipes using {{ title }}</a>
 </div>
 
