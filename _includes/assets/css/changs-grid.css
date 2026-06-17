@@ -2303,7 +2303,7 @@ img.recipehome3img, img.recipehome4img {
   transition: all .6s;
   width: 100%;
   margin: 0;
-  min-height: 80px;
+  min-height: 6rem;
 }
 
 .changssummary h3.sum-title a {
@@ -2321,7 +2321,7 @@ img.recipehome3img, img.recipehome4img {
   transition: all .6s;
   width: 100%;
   margin: 0;
-  min-height: 80px;
+  min-height: 6rem;
 }
 
 .changssummary h3.sum-title a:hover {
