@@ -3460,8 +3460,10 @@ textarea
   transition: transform var(--transition06) var(--transitionTiming), visibility 0s linear;
 }
 /* Margins inside the container will throw animation height calculations off, better use paddings */
-.accordion-content * {
-  margin: 0;
+.accordion-content {
+  padding: 1rem;
+  background-color: var(--lightpink);
+  font-size: 0.9rem;
 }
 
 .accordion {
