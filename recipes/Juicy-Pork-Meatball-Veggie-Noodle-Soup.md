@@ -77,5 +77,5 @@ tags:
   - "Soup and Salad"
   - "Chang's Original Fish Sauce"
   - "Chang's Super Lo-Cal Wide Noodles"
-  - "Latest-Recipes"
+
 ---
