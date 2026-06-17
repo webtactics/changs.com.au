@@ -1,6 +1,6 @@
 {% set folderImages = galleryFolder | getImagesFromFolder %}
 {% if folderImages.length %}
-<div class="grid-3-columns">
+<div class="grid-8-gallery">
 {% for img in folderImages %}
 <div class="galleryimgwrapper">
 <a class="galleryimgwrapper-link" href="{{ img.url }}" data-lightbox="folder-gallery-{{ galleryFolder | replace('/', '-') }}" data-title="{{ title }}" alt="{{ title }}" title="{{ title }}">
