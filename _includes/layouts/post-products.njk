@@ -432,16 +432,18 @@ section: post
 <div class="padsmall">
 
 
+  {% set postslist = collections[title] | intersection(collections['Recipes']) | reverse | limit(16) %}
+  {% if postslist.length %}
   <div class="recipes-from-products pad2remboth">
     <h4>Recipes featuring Chang's {{ title }}</h4>
-    {% set postslist = collections[title] | intersection(collections['Recipes']) | reverse | limit(16) %}
-{% include "components/postlist/postslist-recipes-4-wide-nofadein.njk" %}
+    {% include "components/postlist/postslist-recipes-4-wide-nofadein.njk" %}
 
 <div class="pad3rem text-leftflex">
 <a href="{{metadata.url}}/tagged/{{ title | safeSlug }}/" class="button success" title="For all recipes using {{ title }}" alt="For all recipes using {{ title }}">For all recipes using {{ title }}</a>
 </div>
 
 </div>
+  {% endif %}
 
 
 </div>
