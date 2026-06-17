@@ -49,7 +49,6 @@ method: |
 tags:
   - "Vegetables"
   - "Noodles Ingredient"
-
   - "Sides"
   - "Vegetarian"
   - "Occasions"
@@ -84,6 +83,6 @@ tags:
 
 
 
-galleryimages: Crispy-Noodle-Salad-combined
+galleryimages: static/img/recipes/Crispy-Noodle-Salad-combined
 headinggalleryimages: "More ways to enjoy"
 ---
