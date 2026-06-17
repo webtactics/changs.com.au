@@ -204,6 +204,19 @@ eleventyConfig.addFilter("randomLimit", (arr, limit, currPage) => {
   });
 
 
+  // Return sorted image file paths from a local folder (relative to project root)
+  eleventyConfig.addFilter("getImagesFromFolder", function(folderPath) {
+    const fs = require("fs");
+    const path = require("path");
+    if (!folderPath) return [];
+    const fullPath = path.join(__dirname, folderPath);
+    if (!fs.existsSync(fullPath)) return [];
+    return fs.readdirSync(fullPath)
+      .filter(f => /\.(jpe?g|png|webp|gif)$/i.test(f))
+      .sort()
+      .map(f => ({ url: "/" + folderPath.replace(/\\/g, "/") + "/" + f, name: f }));
+  });
+
   // Layout aliases
   eleventyConfig.addLayoutAlias("default", "layouts/grid-default.njk");
   eleventyConfig.addWatchTarget("./_includes/");

@@ -33,9 +33,15 @@ nutrition:
   SugarsAvgQuantityPer100g: "1.0g"
   SodiumAvgQuantityPerServing: "238mg"
   SodiumAvgQuantityPer100g: "953mg"
+
+galleryimages: static/img/recipes/Crispy-Noodle-Salad/gallery
+headinggalleryimages: Product Gallery
+
 tags:
   - "ChangsTV"
   - "Chang's Original Fried Noodles"
+
+
 ---
 
 Our famous Original Fried Noodles - use in salads and soups for that extra crunch of flavour!

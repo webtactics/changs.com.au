@@ -115,14 +115,13 @@ section: post
 
 
 
-{% if gallery4 %}
+{% if galleryimages %}
 <section class="sliderWrapper recipeslider noprint recipelist pad2remtopbottom">
-
 <div class="recipegallery">
-<h3>{{ headinggallery4 }}</h3>
-{# Gallery template="LISSE" dir=gallery4 - needs Nunjucks gallery include #}
+{% if headinggalleryimages %}<h3>{{ headinggalleryimages }}</h3>{% endif %}
+{% set galleryFolder = galleryimages %}
+{% include "components/gallery-folder.njk" %}
 </div>
-
 </section>
 {% endif %}
 

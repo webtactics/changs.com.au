@@ -404,9 +404,17 @@ section: post
 
 
 {% if galleryimages %}
- <div class="gallery">
+<div class="gallery">
   <div class="pad2remboth"><p><strong>{{ title }} Product Gallery</strong></p></div>
-{% include "components/gallery-products.njk" %}
+  {% include "components/gallery-products.njk" %}
+</div>
+{% endif %}
+
+{% if gallery4 %}
+<div class="gallery pad2remboth">
+  {% if headinggallery4 %}<p><strong>{{ headinggallery4 }}</strong></p>{% endif %}
+  {% set galleryFolder = gallery4 %}
+  {% include "components/gallery-folder.njk" %}
 </div>
 {% endif %}
 
