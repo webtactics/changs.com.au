@@ -2393,7 +2393,7 @@ h4.sum-title a:hover {
 
 .changssummary h4.sum-title {
   display: flex;
-  align-items: center;
+align-items: flex-start;
   justify-content: center;
   font-family: 'Roboto' , sans-serif;
   text-align: center;
@@ -2414,7 +2414,7 @@ font-weight: 500;
 
 .changssummary h4.sum-title a {
   display: flex;
-  align-items: center;
+align-items: flex-start;
   justify-content: center;
   font-family: 'Roboto' , sans-serif;
   text-align: center;
