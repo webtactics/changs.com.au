@@ -432,7 +432,7 @@ section: post
 <div class="padsmall">
 
 
-  {% set postslist = collections[title] | intersection(collections['Recipes']) | reverse | limit(16) %}
+  {% set postslist = collections[title] | intersection(collections['Recipes']) | reverse | limit(12) %}
   {% if postslist.length %}
   <div class="recipes-from-products pad2remboth">
     <h4>Recipes featuring Chang's {{ title }}</h4>
