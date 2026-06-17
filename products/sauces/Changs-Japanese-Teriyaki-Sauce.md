@@ -44,6 +44,6 @@ tags:
   - "Chang's Japanese Teriyaki Sauce"
 ---
 
-Teriyaki Sauce can be used as a marinade, table sauce and in stir fries for your meats, poultry, vegetables and seafood to enhance your favourite dishes.
+Chang's Japanese Teriyaki Sauce can be used as a marinade, table sauce and in stir fries for your meats, poultry, vegetables and seafood to enhance your favourite dishes.
 
 Our Japanese Teriyaki Sauce brings both taste and lustre to your grill, BBQ or pan fry!
