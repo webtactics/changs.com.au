@@ -38,4 +38,6 @@ tags:
   - "Chang's Original Fried Noodles"
 ---
 
-Our famous Original Fried Noodles - use in salads and soups for that extra crunch! Chang's Original Fried Noodles are cooked in cottonseed oil.
+Our famous Original Fried Noodles - use in salads and soups for that extra crunch of flavour!
+
+Chang's Original Fried Noodles are cooked in cottonseed oil.

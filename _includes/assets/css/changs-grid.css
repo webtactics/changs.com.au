@@ -3509,8 +3509,8 @@ textarea
 }
 
 .accordion-item {
-  border-top: 1px solid var(--primary);
-  border-bottom: 2px solid var(--primary);
+  border-top: 1px solid var(--lightpink);
+  border-bottom: 1px solid var(--lightpink);
   margin-bottom: -2px;
   overflow: hidden;
 }
@@ -3518,8 +3518,8 @@ textarea
 
 
 .accordion-item:hover {
-  border-top: 1px solid var(--primary);
-  border-bottom: 2px solid var(--primary);
+  border-top: 1px solid var(--lightpink);
+  border-bottom: 1px solid var(--lightpink);
   -webkit-transition: all var(--transition06);
   -moz-transition: all var(--transition06);
   -ms-transition: all var(--transition06);
