@@ -2477,6 +2477,11 @@ align-items: flex-start;
 .grid-6-products-recipes .changssummary {
     scroll-snap-align: center;
   }
+
+  .sum6title {
+max-width: 300px;
+padding: 1rem 0; 
+}
 }
 
 .radiussum6image {max-width: 300px;
@@ -2485,7 +2490,10 @@ align-items: center;
 justify-content: center; 
 }
 
-
+.sum6title {
+max-width: 300px;
+padding: 1rem 0; 
+}
 
 /* ============================================================
    SECTION: WHO WE SERVE
