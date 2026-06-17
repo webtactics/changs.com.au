@@ -3,7 +3,9 @@ title: "Chang's Original Fried Noodles"
 status: published
 date: 4000-02-21
 description: "Our famous original fried noodles! Ready to eat thin, short, straight crunchy fried noodles made with wheat flour and fried in cottonseed oil."
+
 permalink: "/products/Changs-Original-Fried-Noodles/"
+
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Fried-Noodles/190829-Original-Fried-Noodles.jpg
 sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Fried-Noodles/190829-Original-Fried-Noodles-300x200.jpg
 gluten_free: true
@@ -16,6 +18,7 @@ origin: "Made in Australia"
 coleslink: "https://www.coles.com.au/product/chang's-original-fried-noodles-100g-292212"
 woolworthslink: "https://www.woolworths.com.au/shop/productdetails/76191/chang-s-fried-noodles"
 igalink: "https://www.igashop.com.au/product/changs-fried-noodles-48676"
+
 nutrition:
   servingsize: "25g"
   servingsperpackage: "4"
@@ -34,8 +37,6 @@ nutrition:
   SodiumAvgQuantityPerServing: "238mg"
   SodiumAvgQuantityPer100g: "953mg"
 
-galleryimages: static/img/recipes/Crispy-Noodle-Salad/gallery
-headinggalleryimages: Product Gallery
 
 tags:
   - "ChangsTV"
