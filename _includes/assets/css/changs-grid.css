@@ -2275,13 +2275,13 @@ img.producthome4img {
    aspect-ratio: 1/1;
 }
 
-img.recipehome4img {
+img.recipehome3img, img.recipehome4img {
   border-radius: var(--radius);
   width: 100%;
   aspect-ratio: 500/333;
 }
 
-.changssummary:hover img.recipehome4img {
+.changssummary:hover img.recipehome3img, .changssummary:hover img.recipehome4img {
    filter: brightness(110%);
   transition: all .2s ease-in-out;
   aspect-ratio: 500/333;
