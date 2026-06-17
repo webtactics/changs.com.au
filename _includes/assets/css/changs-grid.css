@@ -3592,18 +3592,7 @@ text-decoration: none;
 }
 
 
-.accordion-content {
-  padding: 1rem;
-  background-color: var(--white);
-  font-size: 0.9rem;
-}
 
-
-
-
-.details .accordion-content {
-  padding: 0.75rem;
-}
 
 .accordion-content h2 {
   padding-bottom: 0.75rem;
@@ -3623,41 +3612,8 @@ text-decoration: none;
   max-width: 100%;
 }
 
-.accordion-content .contacttext a {
-  font-size: 1.3rem;
-  line-height: 1.5rem;
-  color: var(--black);
-  border-bottom: 2px dotted var(--primary);
-  background-color: var(--white);
-  text-transform: none;
-  cursor: pointer;
-  transition: all .4s ease-in-out;
-  padding: 0 .25rem;
-  white-space: wrap;
-  font-weight: 600;
-}
-.accordion-content .contacttext a:hover {
 
-  color: var(--white);
-  border-bottom: 2px solid var(--black);
-  text-decoration: none;
-  background-color: var(--primary);
-  transition: all .4s ease-in-out;
-}
 
-.accordion-content .description {
-  font-size: 1.3rem;
-  line-height: 1.5rem;
-  color: var(--primary);
-
-}
-
-.accordion-content .description .contacttext {  color: var(--black); }
-
-.description {padding:0 0 1rem 0;}
-.description:first-child {padding:1rem 0;}
-span.contacttext {padding: 0 0.4rem;}
-.description.map span.contacttext {padding: 0;}
 
 
 
