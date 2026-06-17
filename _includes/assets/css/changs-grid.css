@@ -2953,6 +2953,13 @@ padding:0 2rem;
   justify-items: end;
 }
 
+.grid-6-products-recipes {
+  grid-template-columns: repeat(6, 1fr);
+  gap: 3rem;
+}
+
+
+
 .grid-7x4 {
   grid-template-columns: 7fr 4fr;
   gap: 4rem;
@@ -3098,6 +3105,21 @@ row-gap: 1rem;
     align-items: center;
     padding: 0;
 }
+
+
+ .grid-6-products-recipes {
+    display: grid;
+    grid: auto / auto-flow max-content;
+    grid-gap: 1em;
+    align-items: center;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-padding-inline: 1.4rem;
+  }
+ .productsumrecipebox {
+    scroll-snap-align: center;
+  }
+
 
 .offcanvas .smalltextwrapper h3 {
   padding-left: 1rem;
@@ -4219,4 +4241,8 @@ padding: 2rem 0;}
   font-size: 1.1rem;
   color: #FFFFFF;
   font-weight: 500;
+}
+
+.productsumrecipeimage {
+  padding: 0rem;
 }
