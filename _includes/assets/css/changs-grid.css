@@ -2664,7 +2664,8 @@ padding: 2rem 0;}
 }
 
 .recipes-from-products h4 {
-  margin: 0 0 2rem 0;
+  margin: 0;
+  padding: 2rem 0;
   color: var(--primary);
   text-transform: none;
   font-size: 1.5rem;
