@@ -3560,16 +3560,12 @@ text-decoration: none;
   content: '';
   width: 8px;
   height: 8px;
-  border: 2px solid var(--primary);
+  border: 2px solid var(--white);
   border-bottom: transparent;
   border-left: transparent;
   transform: rotate(135deg);
   transition: transform var(--transition06) var(--transitionTiming);
 }
-
-
-
-
 
 
 
