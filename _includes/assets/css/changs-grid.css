@@ -3259,7 +3259,7 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
 .pad3remtopbottom, .pad3remboth {padding: 3rem 0;}
 .pad4rembothwhitebg {padding: 4rem 0;  background-color:var(--white);}
 
-
+.pad3rem  {padding-top:3rem;}
 .pad4rem  {padding-top:4rem;}
 .pad5rem  {padding: 2.5rem 0;}
 .pad5remboth  {padding: 5rem 0;}
