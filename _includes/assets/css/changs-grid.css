@@ -2479,6 +2479,13 @@ padding: 1rem;
   }
 }
 
+.radiussum6image {max-width: 300px;
+display: flex;
+align-items: center;
+justify-content: center; 
+}
+
+
 
 /* ============================================================
    SECTION: WHO WE SERVE
@@ -2522,14 +2529,20 @@ padding: 1rem;
 ------------------------------------------------- */
 .detail .recipes-ingredients {order: 1;}
 
-.detail .DetailImage {order: 2;
+.prodDetailimage {order: 2;
 object-fit: contain;
 margin-bottom: 2rem;}
 
 @media (max-width: 1024px) {
-  .detail .DetailImage {order: 1;}
+  .prodDetailimage {order: 1;}
   .detail .recipes-ingredients {order: 2;}
 }
+
+.recipeDetailimage {order: 1;
+object-fit: contain;
+margin-bottom: 2rem;}
+
+
 
 .recipedetailtitle h1 {
       margin: 2rem 0;
@@ -2761,7 +2774,8 @@ padding: 2rem 0;}
 /* Gallery
 ------------------------------------------------- */
 
-.CGBlogDetailImage {position:relative;}
+.DetailImage {position:relative;
+}
 
 .galleryimgwrapper {margin:0;padding:0;display:flex;flex-wrap:wrap;justify-content:center;}
 
