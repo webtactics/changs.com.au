@@ -2468,7 +2468,17 @@ font-weight: 500;
 
 
 
-.grid-6-products-recipes .changssummary {padding: 1rem;}
+.grid-6-products-recipes .changssummary {
+padding: 1rem;
+}
+
+
+@media (max-width: 800px) {
+.grid-6-products-recipes .changssummary {
+    scroll-snap-align: center;
+  }
+}
+
 
 /* ============================================================
    SECTION: WHO WE SERVE
