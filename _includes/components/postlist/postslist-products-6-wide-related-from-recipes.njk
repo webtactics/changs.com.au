@@ -1,0 +1,19 @@
+<section class="grid-6-products-recipes summary6" >
+	{% for post in postslist %}
+<summary class="changssummary fade-in">
+
+
+<div class="radiussum6image">
+<a href="{{ post.url | url }}" ><img src="{{ post.data.image }}/tr:w-300,h-300" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="300px" height="auto" class="recipeproduct6img"></a>
+</div>
+
+
+<div class="sum6title">
+<h4 class="sum-title"><a class="eventtitle" href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >{{ post.data.title }}</a></h4>
+</div>
+
+	
+</summary>
+		
+	{% endfor %}
+</section>
