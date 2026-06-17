@@ -2346,7 +2346,7 @@ img.recipehome3img, img.recipehome4img {
   font-size: var(--h3sum);
   color: var(--black);
   background-color: var(--white);
-  padding: 0;
+  padding: 0 0.5rem;
   white-space: normal;
   transition: all .6s;
   width: 100%;
@@ -2364,7 +2364,7 @@ img.recipehome3img, img.recipehome4img {
   font-size: var(--h3sum);
   color: var(--black);
   background-color: var(--white);
-  padding: 0;
+  padding: 0 0.5rem;
   white-space: normal;
   transition: all .6s;
   width: 100%;
@@ -2415,8 +2415,7 @@ h4.sum-title {
   width: 100%;
   display: block;
   margin: 0;
-  border-bottom-left-radius: var(--radius);
-  border-bottom-right-radius: var(--radius);
+
 }
 
 h4.sum-title a {
@@ -2430,18 +2429,16 @@ h4.sum-title a {
   width: 100%;
   display: block;
   margin: 0;
-  border-bottom-left-radius: var(--radius);
-  border-bottom-right-radius: var(--radius);
+
 }
 h4.sum-title a:hover {
   color: var(--white);
   background-color: var(--green);
   transition: background-color .6s;
-  border-bottom-left-radius: var(--radius);
-  border-bottom-right-radius: var(--radius);
+
 }
 
-
+.grid-6-products-recipes .changssummary {padding: 1rem;}
 
 /* ============================================================
    SECTION: WHO WE SERVE
