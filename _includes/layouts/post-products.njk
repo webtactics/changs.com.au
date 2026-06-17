@@ -405,10 +405,8 @@ section: post
 
 {% if galleryimages %}
  <div class="gallery">
-  <div class="pad2remboth">
-      <p><strong>Chang's {{ title }} Product Gallery</strong></p>
+  <div class="pad2remboth"><p><strong>{{ title }} Product Gallery</strong></p></div>
 {% include "components/gallery-products.njk" %}
-</div>
 </div>
 {% endif %}
 
@@ -438,6 +436,8 @@ section: post
     <h4>Recipes featuring Chang's {{ title }}</h4>
     {% set postslist = collections[title] | intersection(collections['Recipes']) | reverse | limit(16) %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}
+
+<p>For all recipes using {{ title }} please see <a href="{{metadata.url}}/tagged/{{ title | safeSlug }}/">{{metadata.url}}/tagged/{{ title | safeSlug }}/</a></p>
   </div>
 
 
