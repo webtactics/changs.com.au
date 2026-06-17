@@ -137,6 +137,11 @@ eleventyConfig.addFilter("safeSlug", (str) => {
   return str.replace(/['"]/g, '').replace(/[^a-z0-9]+/gi, '-').replace(/^-|-$/g, '').toLowerCase();
 });
 
+eleventyConfig.addFilter("skip", function (arr, n) {
+  if (!Array.isArray(arr)) return [];
+  return arr.slice(n);
+});
+
 eleventyConfig.addFilter("limit", function (arr, limit) {
   if (!Array.isArray(arr)) {
     return [];
