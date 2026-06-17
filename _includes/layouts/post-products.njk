@@ -435,10 +435,13 @@ section: post
   <div class="recipes-from-products pad2remboth">
     <h4>Recipes featuring Chang's {{ title }}</h4>
     {% set postslist = collections[title] | intersection(collections['Recipes']) | reverse | limit(16) %}
-{% include "components/postlist/postslist-recipes-4-wide.njk" %}
+{% include "components/postlist/postslist-recipes-4-wide-nofadein.njk" %}
 
-<p>For all recipes using {{ title }} please see <a href="{{metadata.url}}/tagged/{{ title | safeSlug }}/">{{metadata.url}}/tagged/{{ title | safeSlug }}/</a></p>
-  </div>
+<div class="text-leftflex">
+<a href="{{metadata.url}}/tagged/{{ title | safeSlug }}/" class="button success" title="For all recipes using {{ title }}" alt="For all recipes using {{ title }}">For all recipes using {{ title }}</a>
+</div>
+
+</div>
 
 
 </div>

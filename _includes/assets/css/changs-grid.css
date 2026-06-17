@@ -1583,6 +1583,14 @@ img.iga {
   font-size: 150%;
   padding-bottom: 2rem;
 }
+.text-leftflex {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
 .text-rightflex {
   display: flex;
   justify-content: flex-end;
