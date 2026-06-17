@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Japanese Teriyaki Sauce"
 status: published
-date: 2027-05-15
+date: 4000-02-10
 description: "Teriyaki Sauce can be used as a marinade, table sauce and in stir fries for your meats, poultry, vegetables and seafood to enhance your favourite dishes. Our Japanese Teriyaki Sauce brings both taste and lustre to your grill, BBQ or pan fry."
 permalink: "/products/Changs-Japanese-Teriyaki-Sauce/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Japanese-Teriyaki-Sauce/Changs-Japanese-Teriyaki-Sauce-280ml-1200x1200.jpg

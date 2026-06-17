@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Tamari Hoisin Sauce"
 status: published
-date: 2026-05-15
+date: 4000-01-24
 description: "Wheat- and gluten-free version of the Chinese favourite dipping sauce."
 permalink: "/products/Changs-Tamari-Hoisin-Sauce/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Tamari-Hoisin-Sauce/Changs-Tamari-Hoisin-Sauce-500x500.jpg

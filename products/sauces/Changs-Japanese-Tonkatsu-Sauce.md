@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Japanese Tonkatsu Sauce"
 status: published
-date: 2026-05-15
+date: 4000-02-09
 description: "Dipping sauce. See label for recipes. Try with your favourite BBQ meats and sausages."
 permalink: "/products/Changs-Japanese-Tonkatsu-Sauce/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Japanese-Tonkatsu-Sauce/Changs-Japanese-Tonkatsu-Sauce.jpg

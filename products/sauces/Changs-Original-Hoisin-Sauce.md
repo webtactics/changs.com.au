@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Original Hoisin Sauce"
 status: published
-date: 2026-05-15
+date: 4000-02-03
 description: "Perfect for glazes, marinades, a stir-fry or simply as a dipping sauce."
 permalink: "/products/Changs-Original-Hoisin-Sauce/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Hoisin-Sauce/Changs-Original-Hoisin-Sauce-280ml.jpg

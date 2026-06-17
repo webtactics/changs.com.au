@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Super Lo-Cal Wide Noodles"
 status: published
-date: 2026-05-15
+date: 4000-02-20
 description: "Traditional Super Lo-Cal Wide Noodles are crafted from the soluble fibre found in the Konjac root. Low in calories and incredibly filling, Super Lo-Cal Wide Noodles are suitable for a low-carb diet."
 permalink: "/products/Changs-Super-Lo-Cal-Wide-Noodles/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Super-Lo-Cal-Wide-Noodles/Changs-Traditional-Super-Lo-Cal-Wide-Noodles-front-1200x1200.jpg

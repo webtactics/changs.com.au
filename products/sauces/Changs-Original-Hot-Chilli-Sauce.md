@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Original Hot Chilli Sauce"
 status: published
-date: 2026-05-15
+date: 4000-02-02
 description: "Who doesn't love a spicy chilli sauce? And a gluten-free one at that!"
 permalink: "/products/Changs-Original-Hot-Chilli-Sauce/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Hot-Chilli-Sauce/200511-Changs-Original-Hot-Chilli-Sauce-280ml-1200x1200.jpg

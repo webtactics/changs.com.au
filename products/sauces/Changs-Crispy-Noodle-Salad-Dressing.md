@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Crispy Noodle Salad Dressing"
 status: published
-date: 2026-05-15
+date: 4000-02-12
 description: "The perfect dressing for your fried noodle salad. Gluten Free. No artificial colours or preservatives."
 permalink: "/products/Changs-Crispy-Noodle-Salad-Dressing/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Crispy-Noodle-Salad-Dressing/Changs-Crispy-Noodle-Salad-Dressing-1000x1000.jpg

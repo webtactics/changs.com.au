@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Vermicelli Rice Noodles"
 status: published
-date: 2026-05-15
+date: 4000-02-17
 description: "Versatile rice noodles for all your favourite Asian dishes."
 permalink: "/products/Changs-Vermicelli-Rice-Noodles/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Vermicelli-Rice-Noodles/Changs-Rice-Noodles-Vermicelli-1000x1000.jpg

@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Master Stock"
 status: published
-date: 2026-05-15
+date: 4000-02-06
 description: "Authentic master stock with none of the hard work."
 permalink: "/products/Changs-Master-Stock/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Master-Stock/Master_Stock_280ml-500x500.jpg

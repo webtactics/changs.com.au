@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Original Fried Noodles"
 status: published
-date: 2026-05-15
+date: 4000-02-21
 description: "Our famous original fried noodles! Ready to eat thin, short, straight crunchy fried noodles made with wheat flour and fried in cottonseed oil."
 permalink: "/products/Changs-Original-Fried-Noodles/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Fried-Noodles/190829-Original-Fried-Noodles.jpg

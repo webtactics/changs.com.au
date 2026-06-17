@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Hokkien Style Shelf Fresh Noodles"
 status: published
-date: 2026-05-15
+date: 4000-02-25
 description: "Ready to use Hokkien noodles in convenient packets."
 permalink: "/products/Changs-Hokkien-Style-Shelf-Fresh-Noodles/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Shelf-Fresh-Noodles-Hokkien-Style/Changs-Shelf-Fresh-Noodles-Hokkien-Style.jpg

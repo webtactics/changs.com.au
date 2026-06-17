@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Original Oyster Sauce"
 status: published
-date: 2026-05-15
+date: 4000-02-01
 description: "Traditional sauce particularly popular for use with a stir-fry."
 permalink: "/products/Changs-Original-Oyster-Sauce/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Oyster-Sauce/Changs-Original-Oyster-Sauce-280ml.jpg

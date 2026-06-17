@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Gluten Free Tamari Light Soy Sauce"
 status: published
-date: 2026-05-15
+date: 4000-01-23
 description: "Soy Sauce can be used as a flavouring marinade, table sauce or dipping sauce. Marinade any meat, poultry, vegetables and seafood to enhance your favourite dishes."
 permalink: "/products/Changs-Tamari-Light-Soy-Sauce/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Tamari-Light-Soy-Sauce/Changs-Tamari-Light-Soy-Sauce-280ml-1200x1200.jpg

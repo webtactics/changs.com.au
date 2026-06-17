@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Long Life Noodles"
 status: published
-date: 2026-05-15
+date: 4000-02-24
 description: "Traditional noodles perfect for a stir-fry, soup or salad."
 permalink: "/products/Changs-Long-Life-Noodles/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Long-Life-Noodles/Changs-Long-Life-Noodles.jpg

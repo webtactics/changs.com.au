@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Thai Style Rice Noodles"
 status: published
-date: 2026-05-15
+date: 4000-02-19
 description: "A flat and wide rice noodle, popularised by use in Pad Thai recipes; Just soak and add Thai Style Rice Noodles to your favourite recipes."
 permalink: "/products/Changs-Thai-Style-Rice-Noodles/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Thai-Style-Rice-Noodles/190612-Changs-Thai-Style-Rice-Noodles-1000x1000.jpg

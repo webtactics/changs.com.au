@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Soy Sauce Light"
 status: published
-date: 2026-05-15
+date: 4000-01-28
 description: "A lighter version of our classic dark soy, perfect for use in cooking or as a dipping sauce."
 permalink: "/products/Changs-Soy-Sauce-Light/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Soy-Sauce-Light/light-soy-500x500.jpg

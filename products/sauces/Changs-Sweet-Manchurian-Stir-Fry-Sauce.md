@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Sweet Manchurian Stir Fry Sauce"
 status: published
-date: 2026-05-15
+date: 4000-01-26
 description: "Chang's Sweet Manchurian Stir Fry Sauce: Indulge in a delightful fusion of sweet and savory flavors for your stir-fry adventures. Try it now!"
 permalink: "/products/Changs-Sweet-Manchurian-Stir-Fry-Sauce/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Sweet-Manchurian-Stir-Fry-Sauce/Changs-Sweet-Manchurian-Stir-Fry-Sauce.jpg

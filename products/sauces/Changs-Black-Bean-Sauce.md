@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Black Bean Sauce"
 status: published
-date: 2026-05-15
+date: 4000-02-15
 description: "A traditional Cantonese sauce that is versatile enough to use with beef, pork and fish."
 permalink: "/products/Changs-Black-Bean-Sauce/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Black-Bean-Sauce/black-bean-sauce-500x500.jpg

@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Crunchy Fried Noodles"
 status: published
-date: 2026-05-15
+date: 4000-02-28
 description: "Ready to eat flat, short crunchy fried noodles made with wheat flour and fried in cottonseed oil. So good you can eat them out of the packet!"
 permalink: "/products/Changs-Crunchy-Fried-Noodles/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Crunchy-Fried-Noodles/190829-Changs-Crunchy-Fried-Noodles.jpg

@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Egg Noodles"
 status: published
-date: 2026-05-15
+date: 4000-02-27
 description: "Healthy, versatile egg noodles for use in a stir-fry, soups and salads."
 permalink: "/products/Changs-Egg-Noodles/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Egg-Noodles/egg-noodle-500x500.jpg

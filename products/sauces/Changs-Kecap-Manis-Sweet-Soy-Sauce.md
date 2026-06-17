@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Kecap Manis Sweet Soy Sauce"
 status: published
-date: 2026-05-15
+date: 4000-02-07
 description: "Naturally brewed...ideal for a bbq marinade"
 permalink: "/products/Changs-Kecap-Manis-Sweet-Soy-Sauce/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Kecap-Manis-Sweet-Soy-Sauce/Changs-Kecap-Manis-Sweet-Soy-Sauce.jpg

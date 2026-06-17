@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Chinese Black Pepper Sauce"
 status: published
-date: 2026-05-15
+date: 4000-02-14
 description: "Authentic Cantonese flavour for all meat and fish dishes."
 permalink: "/products/Changs-Chinese-Black-Pepper-Sauce/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Chinese-Black-Pepper-Sauce/chinese-black-pepper-sauce-500x500.jpg

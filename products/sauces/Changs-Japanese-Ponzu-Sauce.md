@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Japanese Ponzu Sauce"
 status: published
-date: 2026-05-15
+date: 4000-02-11
 description: "A sweet and tangy citrus based soy sauce."
 permalink: "/products/Changs-Japanese-Ponzu-Sauce/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Japanese-Ponzu-Sauce/japanese-ponzu-sauce-500x500.jpg

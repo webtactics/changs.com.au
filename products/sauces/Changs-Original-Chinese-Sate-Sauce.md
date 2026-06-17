@@ -1,7 +1,7 @@
 ﻿---
 title: "Chang's Original Chinese Sate Sauce"
 status: published
-date: 2026-05-15
+date: 4000-02-05
 description: "This is the original sate sauce made in the Chiuchow area in southern China. Later passed to Malaysia and Singapore by Chinese migrants."
 permalink: "/products/Changs-Original-Chinese-Sate-Sauce/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Chinese-Sate-Sauce/Changs-Original-Chinese-Sate-Sauce.jpg
