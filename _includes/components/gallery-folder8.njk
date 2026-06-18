@@ -4,7 +4,7 @@
 {% for img in folderImages %}
 <div class="galleryimgwrapper">
 <a class="group" href="https://ik.imagekit.io/webtactics/changs/img/{{ img.cdn }}" alt="{{ title }}" title="{{ title }}" data-title="{{ title }}" data-lightbox="{{ title }}">
-<img src="https://ik.imagekit.io/webtactics/changs/img/{{ img.cdn }}?tr=w-300,h-300,q-70,pr-true" alt="{{ title }}" title="{{ title }}"></a>
+<img class="galleryimgwrapper-link" src="https://ik.imagekit.io/webtactics/changs/img/{{ img.cdn }}?tr=w-300,h-300,q-70,pr-true" alt="{{ title }}" title="{{ title }}"></a>
 </div>
 {% endfor %}
 </div>
