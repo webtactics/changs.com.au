@@ -2344,7 +2344,7 @@ img.recipehome3img, img.recipehome4img {
   background-color: var(--white);
   transition: all var(--transition06);
 }
-
+.changssummary {position: relative;}
 
 h4.sum-title {
   display: flex;
