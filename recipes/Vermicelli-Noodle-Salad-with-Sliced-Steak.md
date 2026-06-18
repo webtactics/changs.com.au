@@ -10,6 +10,8 @@ preptime: "20 minutes"
 cookingtime: "10 minutes"
 author: "pwg"
 gallery: "recipes/Vermicelli-Noodle-Salad-with-Sliced-Steak"
+video: "https://iframe.mediadelivery.net/embed/68279/54056247-1d75-4dab-a421-7a170c4e5883"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <h4>Beef:</h4>

@@ -9,6 +9,8 @@ preptime: "10 minutes"
 cookingtime: "Chilling Time 2 hours"
 author: "pwg"
 gallery: "recipes/Rainbow-Rocky-Road"
+video: "https://iframe.mediadelivery.net/embed/68279/13f15a87-f366-43be-9e3e-c3c5823e1aaa"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>

@@ -8,6 +8,8 @@ image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Peach-Melba-Ic
 preptime: "20 min Freeze: overnight"
 author: "pwg"
 gallery: "recipes/Peach-Melba-Ice-Cream-Log-with-Crunchy-Fried-Noodles"
+video: "https://iframe.mediadelivery.net/embed/68279/533dcf72-5906-479f-a630-30e6fcf52679"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <h4>Ice Cream:</h4>

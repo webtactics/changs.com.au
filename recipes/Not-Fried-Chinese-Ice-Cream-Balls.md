@@ -9,6 +9,8 @@ preptime: "15 minutes"
 cookingtime: "Chilling 2 hours 30 minutes"
 author: "pwg"
 gallery: "recipes/Not-Fried-Chinese-Ice-Cream-Balls"
+video: "https://iframe.mediadelivery.net/embed/68279/79a33bf8-0263-4196-9467-4b7946bb14b3"
+
 ingredients: |
   <p><strong>A healthier alternative to Chinese Fried Ice Cream Balls</strong></p>
   <h3>Ingredients:</h3>

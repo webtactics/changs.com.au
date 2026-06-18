@@ -9,6 +9,8 @@ makes: "12-14"
 preptime: "Prep and Make 30 minutes"
 author: "pwg"
 gallery: "recipes/Summer-Rice-Paper-Rolls"
+video: "https://iframe.mediadelivery.net/embed/68279/84966461-803c-4201-88a2-d0afc36534f9"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <h4>Rice Paper Rolls:</h4>

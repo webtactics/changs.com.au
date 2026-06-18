@@ -11,6 +11,8 @@ cookingtime: "3 minutes"
 difficulty: "Easy!"
 author: "pwg"
 gallery: "recipes/Quick-Cabbage-Noodle-Salad"
+video: "https://iframe.mediadelivery.net/embed/68279/56a6e1fc-31a1-42ff-89f5-f322e6195c36"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
