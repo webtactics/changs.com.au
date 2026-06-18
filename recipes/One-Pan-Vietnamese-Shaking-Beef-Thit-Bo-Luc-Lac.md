@@ -10,6 +10,8 @@ preptime: "15 minutes"
 cookingtime: "15 minutes"
 author: "pwg"
 gallery: "recipes/One-Pan-Vietnamese-Shaking-Beef-Thit-Bo-Luc-Lac"
+video: "https://iframe.mediadelivery.net/embed/68279/cfffc3e9-8ebc-4cb7-8625-fb1dc638f3c4"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <h4>Beef and Marinade:</h4>
