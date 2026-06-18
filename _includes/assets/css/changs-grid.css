@@ -2760,6 +2760,28 @@ padding:3px 6px 6px 6px;
 .recipesvideocontent.large {max-width: 1000px;
 padding: 2rem 0;}
 
+.flexcenter-summaryvideo {
+color: var(--white);
+font-size: 0.8rem;
+  text-decoration: none;
+  padding: 0 0.5rem;
+  margin: 0;
+  white-space: nowrap;
+  display: block;
+  background-color: var(--primary);
+  height: 30px;
+  width: auto;
+  text-align: left;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+border-top-left-radius: var(--radius);
+}
+
+
+
+
 
 .related .productssummary h4 {
   margin: 15px 0 10px 0;
