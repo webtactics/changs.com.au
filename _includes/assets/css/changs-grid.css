@@ -2762,14 +2762,16 @@ padding: 2rem 0;}
 
 .flexcenter-summaryvideo {
 color: var(--white);
-font-size: 0.8rem;
+font-size: 0.9rem;
+line-height: 1.1;
+font-weight: 500;
   text-decoration: none;
-  padding: 0 0.5rem;
+  padding: 0 0.8rem;
   margin: 0;
   white-space: nowrap;
   display: block;
-  background-color: var(--primary);
-  height: 30px;
+  background-color: var(--primarydark);
+  height: auto;
   width: auto;
   text-align: left;
   position: absolute;
