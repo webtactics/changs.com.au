@@ -2223,6 +2223,23 @@ select {
   border-radius: var(--radius);
 }
 
+.changssummary.productsum .image-overlay {
+  position: absolute;
+  top: 0;
+  left: var(--overlaypad);
+  bottom: auto;
+  right: var(--overlaypad);
+  background-color: var(--primary);
+  -webkit-transition: all var(--transition03);
+  -moz-transition: all var(--transition03);
+  -ms-transition: all var(--transition03);
+  -o-transition: all var(--transition03);
+  transition: all var(--transition03);
+  opacity: 0;
+  overflow: hidden;
+  border-radius: var(--radius);
+}
+
   .changssummary:hover .image-overlay {
       opacity: 1;
       background-color: var(--black60);
@@ -2238,7 +2255,7 @@ select {
       width: 90%;
       height: auto;
       display: block;
-      margin: -30px auto 0;
+      margin: -50px auto 0;
       opacity: 0;
       -webkit-transition: all var(--transition03);
       -moz-transition: all var(--transition03);
