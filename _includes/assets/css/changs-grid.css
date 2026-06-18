@@ -2246,7 +2246,7 @@ select {
 
   .changssummary:hover .image-overlay .overlay-home {
       opacity: 0.90;
-      margin: 0.5rem auto;
+      margin: 0;
     }
 
     span.overlay-home {
