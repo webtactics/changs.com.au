@@ -10,6 +10,8 @@ preptime: "10 minutes"
 cookingtime: "5 minutes"
 author: "pwg"
 gallery: "recipes/Cucumber-Noodle-Salad-with-Changs-Sichuan-Dressing"
+video: "https://iframe.mediadelivery.net/embed/68279/f8096043-8702-4a79-9c1d-1baf9b91952c"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <h4>Noodles:</h4>
