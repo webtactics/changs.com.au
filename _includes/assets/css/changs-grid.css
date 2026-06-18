@@ -2701,6 +2701,7 @@ line-height: 1.5rem;
   text-transform: none;
   background-color: transparent;
   padding: 2px;
+  text-decoration: none;
 }
 
 .content .recipelist a:hover, .content .recipelist p a:hover {
@@ -2708,6 +2709,7 @@ line-height: 1.5rem;
   border: none;
   text-transform: none;
   background-color: var(--primary);
+  text-decoration: none;
 
 }
 .content .recipelist .relevant-products a:hover, .content .recipelist .galleryimgwrapper a:hover {
