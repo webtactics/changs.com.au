@@ -211,10 +211,13 @@ eleventyConfig.addFilter("randomLimit", (arr, limit, currPage) => {
     if (!folderPath) return [];
     const fullPath = path.join(__dirname, folderPath);
     if (!fs.existsSync(fullPath)) return [];
+    const cleanFolder = folderPath.replace(/\\/g, "/").replace(/^\/+|\/+$/g, "");
+    // Path relative to static/img/ — mirrors the ImageKit "changs/img/" bucket structure
+    const cdnFolder = cleanFolder.replace(/^static\/img\//, "");
     return fs.readdirSync(fullPath)
       .filter(f => /\.(jpe?g|png|webp|gif)$/i.test(f))
       .sort()
-      .map(f => ({ url: "/" + folderPath.replace(/\\/g, "/") + "/" + f, name: f }));
+      .map(f => ({ url: "/" + cleanFolder + "/" + f, cdn: cdnFolder + "/" + f, name: f }));
   });
 
   // Layout aliases

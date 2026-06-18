@@ -82,6 +82,6 @@ tags:
   - "Chang's Sesame Oil"
 
 
-galleryimages: /static/img/recipes/Crispy-Noodle-Salad/gallery
+galleryimages: /recipes/Crispy-Noodle-Salad/gallery
 headinggalleryimages: "More ways to enjoy"
 ---
