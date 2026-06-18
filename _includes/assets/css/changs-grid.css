@@ -3158,7 +3158,7 @@ row-gap: 1rem;
 
 .grid-8-gallery {
   grid-template-columns: repeat(8, 1fr);
-  gap: 1rem;
+  gap: 1.4rem;
 }
 
 .grid-150px-columns {grid-template-columns:repeat(auto-fit, minmax(min(150px, 100%), 1fr)) ;}
@@ -3313,7 +3313,7 @@ font-style: normal;
 
   .grid-8-gallery {
     grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
+    gap: 0.5rem;
   }
 
 .grid-5-2-columns {
