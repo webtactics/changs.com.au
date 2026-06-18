@@ -25,4 +25,4 @@ tags:
 
 ---
 
-Black bean sauce is an essential ingredient in the Cantonese dish “Beef in Black bean sauce”. It adds a unique flavour to stir fry beef, pork, casseroles and steamed fish.
+Black Bean Sauce is an essential ingredient in the Cantonese dish “Beef in Black Bean Sauce”. Our Black Bean Sauce adds a unique flavour to stir frys, beef, pork, casseroles and steamed fish.

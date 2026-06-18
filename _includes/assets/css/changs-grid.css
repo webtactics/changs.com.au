@@ -2246,7 +2246,7 @@ select {
 
   .changssummary:hover .image-overlay .overlay-home {
       opacity: 0.90;
-      margin: 1rem auto;
+      margin: 0.5rem auto;
     }
 
     span.overlay-home {
@@ -2257,7 +2257,7 @@ select {
       font-family: 'Roboto' , sans-serif;
       font-style: normal;
       font-weight: 400;
-      text-transform: capitalize;
+      text-transform: none;
     }
 
 .overlay-home p {
