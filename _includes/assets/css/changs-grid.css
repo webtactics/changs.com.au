@@ -2202,6 +2202,39 @@ select {
 
 /* recipes
 ------------------------------------------------- */
+.changssummary {position: relative;}
+
+   .changssummary .image-overlay .overlay-home {
+      width: 90%;
+      height: auto;
+      display: block;
+      margin: -30px auto 0;
+      opacity: 0;
+      -webkit-transition: all 0.2s;
+      -moz-transition: all 0.2s;
+      -ms-transition: all 0.2s;
+      -o-transition: all 0.2s;
+      transition: all 0.2s;
+      overflow: hidden;
+    }
+
+  .changssummary:hover .image-overlay .overlay-home {
+      opacity: 0.90;
+      margin: 15px auto 0;
+    }
+
+    span.overlay-home {
+      color: var(--white);
+      font-size: 18px;
+      text-align: left;
+      font-family: 'Roboto' , sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      text-transform: capitalize;
+    }
+
+
+
 
 h3.sum-title {
   display: flex;
@@ -2344,7 +2377,7 @@ img.recipehome3img, img.recipehome4img {
   background-color: var(--white);
   transition: all var(--transition06);
 }
-.changssummary {position: relative;}
+
 
 h4.sum-title {
   display: flex;
