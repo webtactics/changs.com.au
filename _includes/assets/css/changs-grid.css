@@ -2258,7 +2258,13 @@ select {
       text-transform: capitalize;
     }
 
-
+.sumdescription p {
+  font-size: 0.9rem;
+  color: var(--white);
+  line-height: 1.2rem;
+  margin: 0.5rem 0;
+  padding: 0;
+}
 
 
 h3.sum-title {
