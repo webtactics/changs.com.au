@@ -9,6 +9,9 @@ serves: "4-6"
 preptime: "15 minutes"
 author: "pwg"
 gallery: "recipes/Dragon-Fruit-Salad-with-Prawns"
+video: "https://iframe.mediadelivery.net/embed/68279/932bf152-8d72-4a7d-8141-38b073f27f6c"
+
+
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>

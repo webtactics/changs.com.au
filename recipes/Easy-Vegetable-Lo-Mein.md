@@ -10,6 +10,8 @@ preptime: "10 minutes"
 cookingtime: "15 minutes"
 author: "pwg"
 gallery: "recipes/Easy-Vegetable-Lo-Mein"
+video: "https://iframe.mediadelivery.net/embed/68279/6a3b0e7d-15fe-48bb-a9f8-306621771961"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <h4>Noodles Optional:</h4>
