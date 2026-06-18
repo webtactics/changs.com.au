@@ -47,17 +47,16 @@ method: |
   <li>Slice the beef and serve with the noodles and sprouts, drizzled with the remaining dressing.</li>
   </ol>
 tags:
-  - "BBQ"
   - "Beef"
   - "Noodles Ingredient"
-
-  - "Occasions"
-  - "Summer"
-  - "Christmas"
-  - "Special Occasion"
+  - "BBQ"
   - "Entertaining"
+  - "Occasions"
+  - "Special Occasion"
   - "Festive"
-  - "Chang's Vermicelli Rice Noodles"
+  - "Christmas"
+  - "Summer"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Sesame Oil"
+  - "Chang's Vermicelli Rice Noodles"
 ---

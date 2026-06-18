@@ -28,15 +28,15 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles Ingredient"
-  - "Healthy Meals"
   - "Dinner for Two"
-  - "Summer"
-  - "Spring"
-  - "Summer BBQ"
-  - "Special Occasion"
-  - "Salad"
-  - "Festive"
   - "Soup and Salad"
+  - "Salad"
+  - "Noodles Ingredient"
+  - "Summer BBQ"
+  - "Healthy Meals"
+  - "Special Occasion"
+  - "Festive"
+  - "Spring"
+  - "Summer"
   - "Chang's Original Fried Noodles"
 ---

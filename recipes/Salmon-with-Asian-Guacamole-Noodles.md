@@ -48,13 +48,13 @@ method: |
   <p>Note: This dish can also be served cold and is even better the next day.</p>
 tags:
   - "Seafood"
-  - "Noodles Ingredient"
-  - "Gluten-Free"
-  - "Noodles Style"
-  - "Healthy Meals"
-  - "Dairy Free"
   - "Dinner for Two"
   - "Main Meals"
+  - "Noodles Style"
+  - "Noodles Ingredient"
+  - "Healthy Meals"
+  - "Dairy Free"
+  - "Gluten-Free"
   - "Autumn"
   - "Chang's Vermicelli Rice Noodles"
 ---

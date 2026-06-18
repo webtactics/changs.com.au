@@ -31,6 +31,6 @@ tags:
   - "Noodles Ingredient"
   - "Sweet Treats"
   - "Scary Sweets"
-  - "Chang's Original Fried Noodles"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

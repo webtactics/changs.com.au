@@ -41,18 +41,17 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Gluten-Free"
-
-  - "Sauces and condiments"
-  - "Occasions"
-  - "Healthy Meals"
-  - "Dairy Free"
   - "Dinner for Two"
-  - "Summer"
   - "Summer BBQ"
-  - "Chinese New Year"
+  - "Healthy Meals"
+  - "Occasions"
   - "Festive"
+  - "Chinese New Year"
+  - "Dairy Free"
+  - "Gluten-Free"
+  - "Summer"
+  - "Sauces and Condiments"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
-  - "Chang's Sesame Oil"
   - "Chang's Original Oyster Sauce"
+  - "Chang's Sesame Oil"
 ---

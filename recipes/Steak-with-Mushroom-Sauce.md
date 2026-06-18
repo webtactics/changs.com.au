@@ -34,22 +34,21 @@ method: |
   <li>Place steaks on four plates and add any juices from the resting process to the sauce. Spoon sauce over the steak and serve with Asian greens.</li>
   </ol>
 tags:
-  - "BBQ"
   - "Beef"
-  - "Gluten-Free"
-
-  - "Kid Friendly"
-  - "Occasions"
-  - "Healthy Meals"
-  - "Dairy Free"
-  - "Main Meals"
   - "Dinner for One"
   - "Dinner for Two"
-  - "Nut Free"
+  - "Main Meals"
+  - "BBQ"
+  - "Summer BBQ"
+  - "Healthy Meals"
   - "Quick and Easy"
   - "Family Dinners"
+  - "Kid Friendly"
+  - "Occasions"
+  - "Dairy Free"
+  - "Gluten-Free"
+  - "Nut Free"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Summer BBQ"
 ---

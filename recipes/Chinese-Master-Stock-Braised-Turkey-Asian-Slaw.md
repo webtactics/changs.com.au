@@ -35,17 +35,16 @@ method: |
   <li>Divide turkey between four serving plates or shallow bowls, ladle over a little of the hot stock and serve with the coleslaw.</li>
   </ol>
 tags:
-  - "Noodles Ingredient"
-
-  - "Turkey"
-  - "Slow Cooking"
-  - "Occasions"
-  - "Healthy Meals"
-  - "Main Meals"
-  - "Family Dinners"
-  - "Winter"
   - "Poultry"
-  - "Chang's Master Stock"
+  - "Turkey"
+  - "Main Meals"
+  - "Noodles Ingredient"
+  - "Healthy Meals"
+  - "Slow Cooking"
+  - "Family Dinners"
+  - "Occasions"
+  - "Winter"
   - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Master Stock"
   - "Chang's Original Fried Noodles"
 ---

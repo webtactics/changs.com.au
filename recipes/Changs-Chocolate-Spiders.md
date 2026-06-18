@@ -29,12 +29,11 @@ method: |
   <li>They can be kept in freezer for even longer time.</li>
   </ol>
 tags:
-
+  - "Sweet Treats"
+  - "Scary Sweets"
+  - "Quick and Easy"
   - "Kid Friendly"
   - "Occasions"
-  - "Quick and Easy"
-  - "Sweet Treats"
   - "Summer"
-  - "Scary Sweets"
   - "Chang's Original Fried Noodles"
 ---

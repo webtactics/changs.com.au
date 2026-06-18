@@ -49,16 +49,16 @@ method: |
   </ol>
   <p> </p>
 tags:
-  - "Chicken"
-  - "Gluten-Free"
-  - "Noodles Ingredient"
-  - "Main Meals"
-  - "Spring"
   - "Poultry"
+  - "Chicken"
+  - "Main Meals"
+  - "Noodles Ingredient"
+  - "Gluten-Free"
+  - "Spring"
   - "Chang's Original Hoisin Sauce"
-  - "Chang's Soy Sauce Dark"
+  - "Chang's Original Hot Chilli Sauce"
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
+  - "Chang's Soy Sauce Dark"
   - "Chang's Vermicelli Rice Noodles"
-  - "Chang's Original Hot Chilli Sauce"
 ---

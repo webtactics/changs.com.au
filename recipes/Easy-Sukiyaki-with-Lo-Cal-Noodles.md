@@ -30,22 +30,19 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Noodles Ingredient"
-  - "Chang's Traditional Super Lo-Cal Noodles"
-  - "Chang's Super Lo-Cal Wide Noodles"
-  - "Gluten-Free"
-
-  - "Noodles Style"
-  - "Soups"
-  - "Occasions"
-  - "Dairy Free"
   - "Light Meals"
   - "Main Meals"
-  - "Nut Free"
+  - "Soup and Salad"
+  - "Soups"
+  - "Noodles Style"
+  - "Noodles Ingredient"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Soup and Salad"
+  - "Occasions"
+  - "Dairy Free"
+  - "Gluten-Free"
+  - "Nut Free"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
-
-
+  - "Chang's Super Lo-Cal Wide Noodles"
+  - "Chang's Traditional Super Lo-Cal Noodles"
 ---

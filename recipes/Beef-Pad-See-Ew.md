@@ -60,17 +60,17 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Gluten-Free"
-  - "Stir-Fry"
-  - "Noodles Ingredient"
   - "Main Meals"
+  - "Noodles Ingredient"
+  - "Stir-Fry"
   - "Quick and Easy"
+  - "Gluten-Free"
   - "Protein"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
-  - "Chang's Sesame Oil"
-  - "Chang's Original Oyster Sauce"
   - "Chang's Kecap Manis Sweet Soy Sauce"
   - "Chang's Original Fish Sauce"
+  - "Chang's Original Oyster Sauce"
+  - "Chang's Sesame Oil"
   - "Chang's Super Lo-Cal Wide Noodles"
   - "Chang's Thai Style Rice Noodles"
 ---

@@ -46,19 +46,19 @@ method: |
   <li>Enjoy.</li>
   </ol>
 tags:
-  - "Vegetables"
-  - "Gluten-Free"
-  - "Noodles Ingredient"
   - "Vegetarian"
-  - "Healthy Meals"
+  - "Vegetables"
   - "Main Meals"
+  - "Soup and Salad"
+  - "Salad"
+  - "Noodles Ingredient"
+  - "Healthy Meals"
   - "Quick and Easy"
   - "Family Dinners"
+  - "Gluten-Free"
   - "Autumn"
-  - "Salad"
-  - "Soup and Salad"
-  - "Chang's Crunchy Fried Noodles"
-  - "Chang's Original Fried Noodles"
-  - "Chang's Gluten Free Fried Noodles"
   - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Crunchy Fried Noodles"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

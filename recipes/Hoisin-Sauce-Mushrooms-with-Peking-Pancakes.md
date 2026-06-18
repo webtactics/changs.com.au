@@ -42,10 +42,10 @@ method: |
   <li>Serve immediately to assemble pancakes. Place mushrooms on Peking pancakes, top with cucumber, green onion, chilli and coriander. Serve extra Hoisin as a dipping sauce.</li>
   </ol>
 tags:
-  - "Vegetables"
-  - "Stir-Fry"
   - "Vegetarian"
+  - "Vegetables"
   - "Main Meals"
+  - "Stir-Fry"
   - "Quick and Easy"
   - "Spring"
   - "Chang's Original Hoisin Sauce"

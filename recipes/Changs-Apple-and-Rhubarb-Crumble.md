@@ -39,17 +39,17 @@ method: |
   <li>Allow sitting for 5 minutes, then serve with a dollop of cream, ice cream, custard, or vanilla yogurt.</li>
   </ol>
 tags:
-  - "Gluten-Free"
-  - "Kid Friendly"
   - "Vegetarian"
-  - "Gluten Free Variation"
+  - "Summer BBQ"
   - "Sweet Treats"
   - "Family Dinners"
-  - "Winter"
+  - "Kid Friendly"
+  - "Gluten-Free"
+  - "Gluten Free Variation"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Summer BBQ"
-  - "Chang's Original Fried Noodles"
+  - "Winter"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

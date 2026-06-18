@@ -34,14 +34,14 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Gluten-Free"
-  - "Quick and Easy"
-  - "Summer"
-  - "Spring"
-  - "Festive"
   - "Soup and Salad"
-  - "Chang's Original Fried Noodles"
+  - "Quick and Easy"
+  - "Festive"
+  - "Gluten-Free"
+  - "Spring"
+  - "Summer"
+  - "Chang's Crispy Noodle Salad Dressing"
   - "Chang's Crunchy Fried Noodles"
   - "Chang's Gluten Free Fried Noodles"
-  - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Original Fried Noodles"
 ---

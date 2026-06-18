@@ -29,14 +29,13 @@ method: |
   </ol>
 tags:
   - "Beef"
+  - "Main Meals"
   - "Noodles Ingredient"
   - "Stir-Fry"
-
-  - "Occasions"
-  - "Main Meals"
-  - "Summer"
-  - "Spring"
   - "Summer BBQ"
+  - "Occasions"
+  - "Spring"
+  - "Summer"
   - "Chang's Crispy Noodle Salad Dressing"
   - "Chang's Original Fried Noodles"
 ---

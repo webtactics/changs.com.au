@@ -28,17 +28,16 @@ method: |
   <li>Just before serving add the chicken and pour Changs Oriental Fried Noodle Salad Dressing over salad and toss until salad is fully coated.</li>
   </ol>
 tags:
-  - "Chicken"
-  - "Noodles Ingredient"
-
-  - "Healthy Meals"
-  - "Dinner for Two"
-  - "Spring"
-  - "Summer BBQ"
-  - "Christmas"
-  - "Kids"
-  - "Salad"
   - "Poultry"
+  - "Chicken"
+  - "Dinner for Two"
   - "Soup and Salad"
+  - "Salad"
+  - "Noodles Ingredient"
+  - "Summer BBQ"
+  - "Healthy Meals"
+  - "Kids"
+  - "Christmas"
+  - "Spring"
   - "Chang's Original Fried Noodles"
 ---

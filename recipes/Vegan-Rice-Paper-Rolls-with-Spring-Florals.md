@@ -37,21 +37,20 @@ method: |
   <li>Combine Hoisin, Soy, sesame oil and lime juice in a small bowl and serve with rice paper rolls</li>
   </ol>
 tags:
-  - "Vegetables"
-  - "Noodles Ingredient"
-  - "Gluten-Free"
-
   - "Vegetarian"
-  - "Occasions"
-  - "Healthy Meals"
-  - "Light Meals"
+  - "Vegetables"
   - "Starters"
-  - "Summer"
-  - "Spring"
+  - "Light Meals"
+  - "Noodles Ingredient"
+  - "Healthy Meals"
+  - "Occasions"
   - "Special Occasion"
   - "Festive"
-  - "Chang's Vermicelli Rice Noodles"
-  - "Chang's Original Hoisin Sauce"
+  - "Gluten-Free"
+  - "Spring"
+  - "Summer"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Hoisin Sauce"
   - "Chang's Sesame Oil"
+  - "Chang's Vermicelli Rice Noodles"
 ---

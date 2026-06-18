@@ -38,14 +38,14 @@ method: |
   <li><strong>Assemble and serve.<br /></strong>Ladle the chilled corn broth into bowls and add bundle of noodles and one ice cube to each.<br />Top with a generous spoonful of warmed corn kernels and sliced spring onion.<br />Add more Chang's Sesame Oil to taste.</li>
   </ol>
 tags:
-  - "Noodles Ingredient"
-  - "Noodles Style"
   - "Vegetarian"
-  - "Soups"
-  - "Main Meals"
   - "Dinner for Two"
+  - "Main Meals"
   - "Soup and Salad"
+  - "Soups"
+  - "Noodles Style"
+  - "Noodles Ingredient"
   - "Chang's Gluten Free Fried Noodles"
-  - "Chang's Sesame Oil"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
 ---

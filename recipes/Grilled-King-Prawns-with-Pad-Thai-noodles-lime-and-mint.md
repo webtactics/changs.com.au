@@ -32,14 +32,13 @@ method: |
   </ol>
   <p>You can swap out the pork mince for lamb or chicken mince if desired.</p>
 tags:
-  - "BBQ"
   - "Seafood"
   - "Noodles Ingredient"
-
-  - "Occasions"
-  - "Quick and Easy"
-  - "Summer"
-  - "Spring"
+  - "BBQ"
   - "Summer BBQ"
+  - "Quick and Easy"
+  - "Occasions"
+  - "Spring"
+  - "Summer"
   - "Chang's Sesame Oil"
 ---

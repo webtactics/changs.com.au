@@ -42,10 +42,10 @@ method: |
   <li>Serve warm or at room temperature with a cucumber and mint salad.</li>
   </ol>
 tags:
-  - "Gluten-Free"
   - "Noodles Ingredient"
   - "Quick and Easy"
-  - "Winter"
+  - "Gluten-Free"
   - "Spring"
+  - "Winter"
   - "Chang's Vermicelli Rice Noodles"
 ---

@@ -36,16 +36,16 @@ method: |
   <li>Remove chicken and corn from oven, sprinkle with toasted sesame seeds, green onions and fresh herbs. Serve alongside fresh bread rolls, steamed rice or our <a title="Asian Slaw with Peanuts and Crispy Noodles" href="/recipes/Asian-Slaw-with-Peanuts-and-Crispy-Noodles/">Asian Slaw with Peanuts and Crispy Noodles</a>.</li>
   </ol>
 tags:
+  - "Poultry"
   - "Chicken"
-  - "Kid Friendly"
   - "Main Meals"
+  - "Summer BBQ"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Summer"
-  - "Spring"
-  - "Summer BBQ"
+  - "Kid Friendly"
   - "Festive"
-  - "Poultry"
+  - "Spring"
+  - "Summer"
   - "Chang's Japanese Teriyaki Sauce"
   - "Chang's Sesame Oil"
 ---

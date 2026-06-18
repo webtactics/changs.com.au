@@ -36,19 +36,18 @@ method: |
   <li>Drain the carrot and arrange on four small plates with the chicken nuggets piled on top and the Chang&rsquo;s Hoisin sauce squirted over.</li>
   </ol>
 tags:
+  - "Poultry"
   - "Chicken"
-
-  - "Finger Food"
-  - "Kid Friendly"
-  - "Occasions"
-  - "Dairy Free"
-  - "Light Meals"
-  - "Nut Free"
   - "Starters"
+  - "Light Meals"
+  - "Finger Food"
+  - "Entertaining"
+  - "Kid Friendly"
+  - "Kids"
+  - "Occasions"
+  - "Festive"
   - "Christmas"
   - "Chinese New Year"
-  - "Kids"
-  - "Entertaining"
-  - "Festive"
-  - "Poultry"
+  - "Dairy Free"
+  - "Nut Free"
 ---

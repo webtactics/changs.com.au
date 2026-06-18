@@ -32,9 +32,9 @@ method: |
   <li>Garnish with fresh salad of choice such as sprouts, baby tomatoes, coriander leaves, chilli slices and an added drizzle of sweet chilli sauce.</li>
   </ol>
 tags:
-  - "Noodles Ingredient"
   - "Vegetarian"
   - "Main Meals"
+  - "Noodles Ingredient"
   - "Quick and Easy"
   - "Winter"
   - "Chang's Gluten Free Fried Noodles"

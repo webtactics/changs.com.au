@@ -30,12 +30,12 @@ method: |
   <li>Eat right away or cover and freeze for later. Optional to drizzle chocolate fudge over waffle before serving.</li>
   </ol>
 tags:
-  - "Quick and Easy"
   - "Sweet Treats"
-  - "Winter"
+  - "Quick and Easy"
+  - "Kids"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Kids"
+  - "Winter"
   - "Chang's Gluten Free Fried Noodles"
 ---

@@ -32,18 +32,18 @@ method: |
   <li>Divide chicken and spring onions between bowls, ladle over some of the stock and serve drizzled with the sesame oil, chill and crispy fried shallots.</li>
   </ol>
 tags:
+  - "Poultry"
   - "Chicken"
-  - "Noodles Ingredient"
-  - "Noodles Style"
-  - "Light Meals"
   - "Dinner for Two"
+  - "Light Meals"
   - "Main Meals"
+  - "Noodles Style"
+  - "Noodles Ingredient"
   - "Quick and Easy"
   - "Family Dinners"
   - "Winter"
-  - "Poultry"
-  - "Chang's Master Stock"
-  - "Chang's Hokkien Style Shelf Fresh Noodles"
   - "Chang's Egg Noodles"
+  - "Chang's Hokkien Style Shelf Fresh Noodles"
+  - "Chang's Master Stock"
   - "Chang's Sesame Oil"
 ---

@@ -35,12 +35,11 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Kid Friendly"
   - "Quick and Easy"
-  - "Winter"
+  - "Kid Friendly"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
+  - "Winter"
   - "Chang's Japanese Teriyaki Sauce"
-
 ---

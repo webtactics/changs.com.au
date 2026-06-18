@@ -40,22 +40,21 @@ method: |
   <li>Divide wontons and corn between the bowls, ladle over some of the hot soup, sprinkle with sesame seeds, chilli and coriander.</li>
   </ol>
 tags:
+  - "Poultry"
   - "Chicken"
   - "Seafood"
-  - "Noodles Ingredient"
-
-  - "Noodles Style"
-  - "Soups"
-  - "Healthy Meals"
+  - "Dinner for Two"
   - "Light Meals"
   - "Main Meals"
-  - "Dinner for Two"
+  - "Soup and Salad"
+  - "Soups"
+  - "Noodles Style"
+  - "Noodles Ingredient"
+  - "Healthy Meals"
   - "Quick and Easy"
   - "Family Dinners"
   - "Winter"
-  - "Poultry"
-  - "Soup and Salad"
-  - "Chang's Original Oyster Sauce"
-  - "Chang's Master Stock"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Master Stock"
+  - "Chang's Original Oyster Sauce"
 ---

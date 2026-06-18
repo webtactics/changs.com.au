@@ -46,9 +46,9 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Gluten-Free"
   - "Main Meals"
   - "Quick and Easy"
+  - "Gluten-Free"
   - "Chang's Original Fish Sauce"
   - "Chang's Original Oyster Sauce"
 ---

@@ -43,12 +43,12 @@ method: |
   </ol>
 tags:
   - "Pork"
-  - "Finger Food"
-  - "Kid Friendly"
   - "Main Meals"
+  - "Finger Food"
   - "Quick and Easy"
-  - "Winter"
   - "Entertaining"
-  - "Chang's Original Fried Noodles"
+  - "Kid Friendly"
+  - "Winter"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

@@ -27,15 +27,14 @@ method: |
   <li>Spoon oyster sauce over the Gai Lan before serving.</li>
   TIP: For an authentic Yum Cha experience, cut the Gai Lan after boiling or steaming.</ol>
 tags:
-  - "Vegetables"
-
   - "Vegetarian"
-  - "Occasions"
+  - "Vegetables"
   - "Light Meals"
   - "Quick and Easy"
-  - "Chinese New Year"
+  - "Occasions"
   - "Festive"
-  - "Chang's Original Oyster Sauce"
+  - "Chinese New Year"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
 ---

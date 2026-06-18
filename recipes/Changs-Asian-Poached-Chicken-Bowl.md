@@ -44,19 +44,19 @@ method: |
   <li>DIY: Place the vegetables, herbs, noodles, chicken and dressing in separate bowls and plates for self-serving and create your own bowl!</li>
   </ol>
 tags:
+  - "Poultry"
   - "Chicken"
-  - "Noodles Ingredient"
   - "Dinner for Two"
   - "Main Meals"
+  - "Soup and Salad"
+  - "Salad"
+  - "Noodles Ingredient"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Summer"
   - "Spring"
-  - "Salad"
-  - "Poultry"
-  - "Soup and Salad"
+  - "Summer"
   - "Chang's Gluten Free Fried Noodles"
-  - "Chang's Original Fried Noodles"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Fish Sauce"
+  - "Chang's Original Fried Noodles"
 ---

@@ -41,18 +41,17 @@ method: |
   <li>Serve immediately.</li>
   </ol>
 tags:
-  - "Vegetables"
-
   - "Vegetarian"
-  - "Soups"
-  - "Occasions"
-  - "Light Meals"
+  - "Vegetables"
   - "Dinner for Two"
-  - "Lunch"
+  - "Light Meals"
   - "Main Meals"
-  - "Chinese New Year"
-  - "Festive"
   - "Soup and Salad"
+  - "Soups"
+  - "Lunch"
+  - "Occasions"
+  - "Festive"
+  - "Chinese New Year"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"

@@ -34,10 +34,10 @@ method: |
 tags:
   - "Pork"
   - "Main Meals"
-  - "Sunday Feasts"
-  - "Christmas"
-  - "Special Occasion"
   - "Entertaining"
+  - "Special Occasion"
+  - "Sunday Feasts"
   - "Festive"
+  - "Christmas"
   - "Chang's Original Hoisin Sauce"
 ---

@@ -36,12 +36,11 @@ method: |
   </ol>
 tags:
   - "Pork"
-
   - "Kid Friendly"
   - "Occasions"
-  - "Christmas"
   - "Special Occasion"
   - "Festive"
-  - "Chang's Original Hoisin Sauce"
+  - "Christmas"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Hoisin Sauce"
 ---

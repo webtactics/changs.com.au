@@ -38,19 +38,18 @@ method: |
   <li>Combine remaining ingredients in a large bowl and serve with the crispy skinned chicken.</li>
   </ol>
 tags:
-  - "Chicken"
-  - "Noodles Ingredient"
-
-  - "Sauces and condiments"
-  - "Slow Cooking"
-  - "Occasions"
-  - "Healthy Meals"
-  - "Main Meals"
-  - "Quick and Easy"
-  - "Family Dinners"
-  - "Winter"
   - "Poultry"
-  - "Chang's Master Stock"
-  - "Chang's Gluten Free Fried Noodles"
+  - "Chicken"
+  - "Main Meals"
+  - "Noodles Ingredient"
+  - "Healthy Meals"
+  - "Quick and Easy"
+  - "Slow Cooking"
+  - "Family Dinners"
+  - "Occasions"
+  - "Winter"
+  - "Sauces and Condiments"
   - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Master Stock"
 ---

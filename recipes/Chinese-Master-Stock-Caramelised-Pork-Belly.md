@@ -40,12 +40,12 @@ method: |
   </ol>
 tags:
   - "Pork"
+  - "Main Meals"
   - "Slow Cooking"
   - "Occasions"
-  - "Main Meals"
-  - "Winter"
-  - "Autumn"
   - "Chinese New Year"
+  - "Autumn"
+  - "Winter"
   - "Chang's Master Stock"
   - "Chang's Original Fish Sauce"
 ---

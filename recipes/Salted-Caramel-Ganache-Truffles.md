@@ -35,8 +35,8 @@ method: |
 tags:
   - "Noodles Ingredient"
   - "Sweet Treats"
-  - "Summer"
   - "Spring"
-  - "Chang's Original Fried Noodles"
+  - "Summer"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

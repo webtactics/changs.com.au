@@ -42,19 +42,19 @@ method: |
   <li>Remove from heat, serve onto platter and drizzle with <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a>. Optional to sprinkle chilli flakes. Serve.</li>
   </ol>
 tags:
+  - "Poultry"
   - "Chicken"
-  - "Gluten-Free"
-  - "Stir-Fry"
   - "Main Meals"
+  - "Stir-Fry"
+  - "Summer BBQ"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Winter"
+  - "Gluten-Free"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Summer BBQ"
-  - "Poultry"
+  - "Winter"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Japanese Teriyaki Sauce"
   - "Chang's Sesame Oil"
-  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

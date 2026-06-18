@@ -52,14 +52,14 @@ method: |
   </ol>
 tags:
   - "Lamb"
-  - "Gluten-Free"
-  - "Stir-Fry"
-  - "Noodles Ingredient"
-  - "Gluten Free Variation"
   - "Main Meals"
+  - "Noodles Ingredient"
+  - "Stir-Fry"
+  - "Gluten-Free"
+  - "Gluten Free Variation"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
-  - "Chang's Sesame Oil"
-  - "Chang's Original Hoisin Sauce"
   - "Chang's Hokkien Style Shelf Fresh Noodles"
+  - "Chang's Original Hoisin Sauce"
+  - "Chang's Sesame Oil"
   - "Chang's Wok-Ready Noodles"
 ---

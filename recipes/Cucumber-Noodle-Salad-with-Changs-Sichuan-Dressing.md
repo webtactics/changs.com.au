@@ -40,21 +40,20 @@ method: |
   <li>Bring it together by combining the noodles with the Sichuan dressing, then stir through the cucumber, chilli, coriander and spring onions. Top with a hearty handful of Chang&rsquo;s Original or Gluten-Free Fried Noodles and serve.</li>
   </ol>
 tags:
-  - "Chang's Traditional Super Lo-Cal Noodles"
-  - "Gluten-Free"
-  - "Noodles Ingredient"
-  - "Noodles Style"
   - "Vegetarian"
   - "Main Meals"
+  - "Soup and Salad"
+  - "Salad"
+  - "Noodles Style"
+  - "Noodles Ingredient"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Summer"
+  - "Gluten-Free"
   - "Spring"
-  - "Salad"
-  - "Soup and Salad"
-
-  - "Chang's Original Fried Noodles"
-  - "Chang's Gluten Free Fried Noodles"
-  - "Chang's Sesame Oil"
+  - "Summer"
   - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
+  - "Chang's Sesame Oil"
+  - "Chang's Traditional Super Lo-Cal Noodles"
 ---

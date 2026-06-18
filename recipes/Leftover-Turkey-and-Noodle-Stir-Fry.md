@@ -33,17 +33,16 @@ method: |
   <li>Add the noodles, oyster and soy sauces, and cook for another minute.</li>
   </ol>
 tags:
+  - "Poultry"
+  - "Turkey"
+  - "Main Meals"
   - "Noodles Ingredient"
   - "Stir-Fry"
-
-  - "Turkey"
-  - "Occasions"
-  - "Main Meals"
   - "Family Dinners"
-  - "Christmas"
+  - "Occasions"
   - "Festive"
-  - "Poultry"
+  - "Christmas"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Hokkien Style Shelf Fresh Noodles"
   - "Chang's Original Oyster Sauce"
-  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

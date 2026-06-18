@@ -37,17 +37,16 @@ method: |
   <li>Serve hot and top with toasted sesame seeds and green onions.</li>
   </ol>
 tags:
-  - "Gluten-Free"
-  - "Stir-Fry"
-  - "Noodles Ingredient"
-  - "Main Meals"
-  - "Winter"
-  - "Autumn"
   - "Poultry"
+  - "Main Meals"
+  - "Noodles Ingredient"
+  - "Stir-Fry"
+  - "Gluten-Free"
+  - "Autumn"
+  - "Winter"
   - "Chang's Gluten Free Fried Noodles"
-  - "Chang's Thai Style Rice Noodles"
-  - "Chang's Japanese Teriyaki Sauce"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Japanese Teriyaki Sauce"
   - "Chang's Sesame Oil"
-
+  - "Chang's Thai Style Rice Noodles"
 ---

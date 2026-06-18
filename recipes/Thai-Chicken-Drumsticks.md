@@ -30,11 +30,11 @@ method: |
   <li>Garnish with toasted slivered almonds, coriander and sesame seeds if desired.</li>
   </ol>
 tags:
+  - "Poultry"
   - "Chicken"
-  - "Kid Friendly"
   - "Healthy Meals"
   - "Quick and Easy"
-  - "Poultry"
+  - "Kid Friendly"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Fried Noodles"
 ---

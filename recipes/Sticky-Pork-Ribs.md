@@ -35,16 +35,15 @@ method: |
   <p>Tip: Ribs can be marinated in the sauce overnight (covered, in the fridge) before simmering for a more intense flavour.</p>
 tags:
   - "Pork"
-
-  - "Occasions"
   - "Main Meals"
-  - "Nut Free"
-  - "Family Dinners"
-  - "Winter"
-  - "Summer"
-  - "Autumn"
-  - "Spring"
   - "Summer BBQ"
   - "Entertaining"
+  - "Family Dinners"
+  - "Occasions"
+  - "Nut Free"
+  - "Spring"
+  - "Summer"
+  - "Autumn"
+  - "Winter"
   - "Chang's Japanese Teriyaki Sauce"
 ---

@@ -40,8 +40,8 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Gluten-Free"
   - "Main Meals"
+  - "Gluten-Free"
   - "Winter"
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"

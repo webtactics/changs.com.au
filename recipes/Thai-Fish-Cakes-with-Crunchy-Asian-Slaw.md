@@ -35,15 +35,15 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles Ingredient"
-  - "Kid Friendly"
-  - "Light Meals"
   - "Dinner for Two"
-  - "Lunch"
+  - "Light Meals"
   - "Main Meals"
+  - "Noodles Ingredient"
   - "Quick and Easy"
+  - "Kid Friendly"
+  - "Lunch"
   - "Spring"
-  - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Crunchy Fried Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Fried Noodles"
 ---

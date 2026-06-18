@@ -43,15 +43,15 @@ method: |
   </ol>
 tags:
   - "Beef"
-  - "Gluten-Free"
-  - "Gluten Free Variation"
   - "Main Meals"
   - "Quick and Easy"
+  - "Gluten-Free"
+  - "Gluten Free Variation"
   - "Spring"
-  - "Chang's Original Hoisin Sauce"
+  - "Chang's Crispy Noodle Salad Dressing"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Fried Noodles"
+  - "Chang's Original Hoisin Sauce"
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
-  - "Chang's Original Fried Noodles"
-  - "Chang's Crispy Noodle Salad Dressing"
 ---

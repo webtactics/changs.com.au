@@ -62,11 +62,11 @@ method: |
   <li><strong>Assemble &amp; Serve:<br /></strong>Divide the noodles among bowls, top with the chicken, and add the cucumber salad. Garnish with extra sesame seeds, spring onions, and fresh coriander, if desired.</li>
   </ol>
 tags:
-  - "Chicken"
-  - "Gluten-Free"
-  - "Noodles Ingredient"
-  - "Main Meals"
   - "Poultry"
+  - "Chicken"
+  - "Main Meals"
+  - "Noodles Ingredient"
+  - "Gluten-Free"
   - "Protein"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Sesame Oil"

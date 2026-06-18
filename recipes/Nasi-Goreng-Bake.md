@@ -45,16 +45,16 @@ method: |
   <li>Serve immediately and top with garnish of choice including: green onions, cucumber, radish, chilli and juice of lime. For a crunchy twist sprinkle with Chang&rsquo;s fried noodles.</li>
   </ol>
 tags:
+  - "Poultry"
   - "Chicken"
   - "Seafood"
-  - "Gluten-Free"
-  - "Kid Friendly"
-  - "Healthy Meals"
   - "Main Meals"
+  - "Healthy Meals"
   - "Quick and Easy"
   - "Family Dinners"
+  - "Kid Friendly"
+  - "Gluten-Free"
   - "Winter"
-  - "Poultry"
-  - "Chang's Kecap Manis Sweet Soy Sauce"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Kecap Manis Sweet Soy Sauce"
 ---

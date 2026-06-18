@@ -44,13 +44,12 @@ method: |
   <p>Options: Serve as finger food or as a main meal alongside our <a title="Crispy Noodle Salad" href="/recipes/Crispy-Noodle-Salad/">Crispy Noodle Salad</a>.</p>
 tags:
   - "Pork"
-  - "Gluten-Free"
   - "Main Meals"
-  - "Winter"
+  - "Gluten-Free"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Chang's Japanese Teriyaki Sauce"
+  - "Winter"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
-
+  - "Chang's Japanese Teriyaki Sauce"
 ---

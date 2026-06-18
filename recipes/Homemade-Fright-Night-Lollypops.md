@@ -30,11 +30,10 @@ method: |
   </ol>
 tags:
   - "Noodles Ingredient"
-
-  - "Kid Friendly"
-  - "Occasions"
   - "Sweet Treats"
-  - "Kids"
   - "Scary Sweets"
+  - "Kid Friendly"
+  - "Kids"
+  - "Occasions"
   - "Chang's Original Fried Noodles"
 ---

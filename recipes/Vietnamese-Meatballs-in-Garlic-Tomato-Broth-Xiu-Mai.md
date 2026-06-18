@@ -56,13 +56,13 @@ method: |
   <p> </p>
 tags:
   - "Pork"
-  - "Gluten-Free"
-  - "Noodles Ingredient"
-  - "Soups"
   - "Main Meals"
   - "Soup and Salad"
+  - "Soups"
+  - "Noodles Ingredient"
+  - "Gluten-Free"
   - "Protein"
-  - "Chang's Original Fish Sauce"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Fish Sauce"
   - "Chang's Vermicelli Rice Noodles"
 ---

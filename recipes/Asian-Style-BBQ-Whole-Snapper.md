@@ -48,17 +48,17 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Gluten-Free"
   - "Main Meals"
-  - "Summer"
-  - "Spring"
   - "Summer BBQ"
+  - "Festive"
   - "Christmas"
   - "Chinese New Year"
-  - "Festive"
+  - "Gluten-Free"
+  - "Spring"
+  - "Summer"
+  - "Chang's Crispy Noodle Salad Dressing"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
-  - "Chang's Sesame Oil"
   - "Chang's Original Fish Sauce"
   - "Chang's Original Fried Noodles"
-  - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Sesame Oil"
 ---

@@ -66,16 +66,15 @@ method: |
   </ol>
 tags:
   - "Pork"
-  - "Noodles Ingredient"
-  - "Gluten-Free"
-  - "Noodles Style"
-  - "Gluten Free Variation"
   - "Dinner for Two"
   - "Main Meals"
+  - "Soup and Salad"
+  - "Noodles Style"
+  - "Noodles Ingredient"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Soup and Salad"
+  - "Gluten-Free"
+  - "Gluten Free Variation"
   - "Chang's Original Fish Sauce"
   - "Chang's Super Lo-Cal Wide Noodles"
-
 ---

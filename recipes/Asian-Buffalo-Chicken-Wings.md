@@ -38,14 +38,14 @@ method: |
   <li>Pour Buffalo Sauce over hot chicken wings and toss to evenly coat. Serve immediately.</li>
   </ol>
 tags:
-  - "BBQ"
-  - "Chicken"
-  - "Gluten-Free"
-  - "Kid Friendly"
-  - "Main Meals"
-  - "Quick and Easy"
-  - "Winter"
   - "Poultry"
-  - "Chang's Sesame Oil"
+  - "Chicken"
+  - "Main Meals"
+  - "BBQ"
+  - "Quick and Easy"
+  - "Kid Friendly"
+  - "Gluten-Free"
+  - "Winter"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
 ---

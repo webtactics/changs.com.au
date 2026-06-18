@@ -32,12 +32,11 @@ method: |
   </ol>
 tags:
   - "Noodles Ingredient"
-
   - "Finger Food"
-  - "Kid Friendly"
-  - "Occasions"
   - "Sweet Treats"
+  - "Kid Friendly"
   - "Kids"
-  - "Easter"
+  - "Occasions"
   - "Festive"
+  - "Easter"
 ---

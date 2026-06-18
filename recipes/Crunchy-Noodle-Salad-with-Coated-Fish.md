@@ -41,15 +41,15 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Light Meals"
   - "Dinner for Two"
+  - "Light Meals"
   - "Main Meals"
+  - "Soup and Salad"
   - "Quick and Easy"
-  - "Winter"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Soup and Salad"
-  - "Chang's Crunchy Fried Noodles"
+  - "Winter"
   - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Crunchy Fried Noodles"
 ---

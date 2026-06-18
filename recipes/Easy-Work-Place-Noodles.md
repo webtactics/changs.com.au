@@ -26,15 +26,15 @@ method: |
   <li>Pour over Crispy Salad Noodles Dressing, Sesame Oil, fried onions and chilli flakes. Toss to combine. Enjoy!</li>
   </ol>
 tags:
-  - "Noodles Ingredient"
-  - "Noodles Style"
-  - "Light Meals"
   - "Dinner for One"
+  - "Light Meals"
+  - "Noodles Style"
+  - "Noodles Ingredient"
   - "Quick and Easy"
-  - "Winter"
-  - "Autumn"
   - "Spring"
+  - "Autumn"
+  - "Winter"
+  - "Chang's Crispy Noodle Salad Dressing"
   - "Chang's Gluten Free Fried Noodles"
   - "Chang's Sesame Oil"
-  - "Chang's Crispy Noodle Salad Dressing"
 ---

@@ -42,21 +42,20 @@ method: |
   <li>The entire spring onion can be used for cooking. Use the white round part to add flavour. Finely slice the dark green parts and add to stir-fries or use as garnish.</li>
   </ol>
 tags:
-  - "BBQ"
   - "Pork"
-  - "Gluten-Free"
-
+  - "Main Meals"
+  - "BBQ"
+  - "Summer BBQ"
+  - "Family Dinners"
   - "Occasions"
   - "Dairy Free"
-  - "Main Meals"
+  - "Gluten-Free"
   - "Nut Free"
-  - "Family Dinners"
-  - "Winter"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Summer BBQ"
-  - "Chang's Original Hoisin Sauce"
+  - "Winter"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Hoisin Sauce"
   - "Chang's Soy Sauce Dark"
 ---

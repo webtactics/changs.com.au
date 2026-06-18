@@ -33,8 +33,8 @@ method: |
 tags:
   - "Seafood"
   - "Noodles Ingredient"
-  - "Chang's Traditional Super Lo-Cal Noodles"
+  - "Summer BBQ"
   - "Gluten-Free"
   - "Spring"
-  - "Summer BBQ"
+  - "Chang's Traditional Super Lo-Cal Noodles"
 ---

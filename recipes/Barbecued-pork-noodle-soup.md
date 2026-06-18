@@ -26,16 +26,15 @@ method: |
   <p><strong>Note:</strong> If <a href="/products/Changs-Master-Stock/" title="Chang's Master Stock" alt="Chang's Master Stock">Chang's Master Stock</a> is unavailable, make a simple Asian stock using water, soy sauce, a little Chinese cooking wine and spices such as ginger, garlic and star anise.</p>
 tags:
   - "Pork"
-  - "Noodles Ingredient"
-
-  - "Noodles Style"
+  - "Soup and Salad"
   - "Soups"
+  - "Noodles Style"
+  - "Noodles Ingredient"
   - "Occasions"
-  - "Winter"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Soup and Salad"
-  - "Chang's Vermicelli Rice Noodles"
+  - "Winter"
   - "Chang's Master Stock"
+  - "Chang's Vermicelli Rice Noodles"
 ---

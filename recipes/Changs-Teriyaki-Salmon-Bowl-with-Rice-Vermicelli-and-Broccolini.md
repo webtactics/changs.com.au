@@ -43,14 +43,14 @@ method: |
   <p><strong>Serving Options: </strong>Avocado, Sesame seeds, Sliced Green onions, chilli flakes and a wedge of lime.</p>
 tags:
   - "Seafood"
-  - "Gluten-Free"
-  - "Noodles Ingredient"
   - "Main Meals"
+  - "Noodles Ingredient"
   - "Quick and Easy"
+  - "Gluten-Free"
   - "Summer"
-  - "Chang's Japanese Teriyaki Sauce"
-  - "Chang's Sesame Oil"
   - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Japanese Teriyaki Sauce"
   - "Chang's Original Oyster Sauce"
+  - "Chang's Sesame Oil"
   - "Chang's Vermicelli Rice Noodles"
 ---

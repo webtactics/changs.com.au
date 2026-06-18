@@ -27,17 +27,16 @@ method: |
   <li>Just before serving add the Changs Crunchy Noodles and Changs Oriental Fried Noodle Salad Dressing. Toss until fully combined. Great served with chicken, meat or seafood.</li>
   </ol>
 tags:
-  - "Vegetables"
-  - "Noodles Ingredient"
-
   - "Vegetarian"
-  - "Occasions"
+  - "Vegetables"
+  - "Starters"
+  - "Soup and Salad"
+  - "Salad"
+  - "Noodles Ingredient"
+  - "Summer BBQ"
   - "Healthy Meals"
   - "Quick and Easy"
-  - "Starters"
-  - "Summer"
+  - "Occasions"
   - "Spring"
-  - "Summer BBQ"
-  - "Salad"
-  - "Soup and Salad"
+  - "Summer"
 ---

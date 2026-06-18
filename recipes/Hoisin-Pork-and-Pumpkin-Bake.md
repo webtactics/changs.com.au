@@ -35,13 +35,13 @@ method: |
   <p>Optional to serve with steamed rice.</p>
 tags:
   - "Pork"
-  - "Gluten-Free"
   - "Main Meals"
-  - "Winter"
+  - "Summer BBQ"
+  - "Gluten-Free"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Summer BBQ"
+  - "Winter"
   - "Chang's Original Hoisin Sauce"
   - "Chang's Soy Sauce Dark"
 ---

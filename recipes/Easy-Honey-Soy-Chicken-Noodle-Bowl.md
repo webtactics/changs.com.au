@@ -51,15 +51,15 @@ method: |
   <li><strong>To Serve:</strong><br /> Divide the noodles evenly among four bowls. Ladle the hot broth around the noodles, then drizzle each bowl with a few teaspoons of sesame oil. Top with the honey soy chicken and snow peas. Garnish with finely sliced spring onion, sesame seeds, and a spoon of chilli oil if desired. Serve immediately.<br /> </li>
   </ol>
 tags:
-  - "Chicken"
-  - "Gluten-Free"
-  - "Noodles Ingredient"
-  - "Main Meals"
   - "Poultry"
+  - "Chicken"
+  - "Main Meals"
   - "Soup and Salad"
+  - "Noodles Ingredient"
+  - "Gluten-Free"
   - "Protein"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Oyster Sauce"
-  - "Chang's Super Lo-Cal Wide Noodles"
   - "Chang's Sesame Oil"
+  - "Chang's Super Lo-Cal Wide Noodles"
 ---

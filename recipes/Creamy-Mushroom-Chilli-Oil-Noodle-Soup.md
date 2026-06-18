@@ -80,22 +80,21 @@ method: |
   <li>Finish with chopped coriander.</li>
   </ol>
 tags:
-  - "Noodles Ingredient"
-  - "Noodles Style"
   - "Vegetarian"
-  - "Soups"
-  - "Healthy Meals"
-  - "Main Meals"
   - "Dinner for Two"
-  - "Family Dinners"
-  - "Winter"
-  - "Autumn"
-  - "Spring"
+  - "Main Meals"
   - "Soup and Salad"
+  - "Soups"
+  - "Noodles Style"
+  - "Noodles Ingredient"
+  - "Healthy Meals"
+  - "Family Dinners"
+  - "Spring"
+  - "Autumn"
+  - "Winter"
+  - "Chang's Gluten Free Fried Noodles"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Hoisin Sauce"
   - "Chang's Original Oyster Sauce"
-  - "Chang's Gluten Free Fried Noodles"
   - "Chang's Sesame Oil"
-
 ---

@@ -31,19 +31,18 @@ method: |
   </ol>
 tags:
   - "Lamb"
-  - "Gluten-Free"
-  - "Stir-Fry"
-
-  - "Kid Friendly"
-  - "Occasions"
-  - "Dairy Free"
   - "Dinner for Two"
-  - "Lunch"
   - "Main Meals"
-  - "Nut Free"
+  - "Stir-Fry"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Summer"
+  - "Kid Friendly"
+  - "Lunch"
+  - "Occasions"
+  - "Dairy Free"
+  - "Gluten-Free"
+  - "Nut Free"
   - "Spring"
+  - "Summer"
   - "Chang's Chinese Black Pepper Sauce"
 ---

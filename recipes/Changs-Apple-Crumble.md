@@ -39,7 +39,7 @@ method: |
   </ol>
 tags:
   - "Noodles Ingredient"
-  - "Quick and Easy"
   - "Sweet Treats"
+  - "Quick and Easy"
   - "Chang's Original Fried Noodles"
 ---

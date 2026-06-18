@@ -50,20 +50,20 @@ method: |
   <li>Arrange the toppings (broccoli florets, mushrooms, tofu, mint, coriander, chilli and bean sprouts) over the noodles.</li>
   </ol>
 tags:
-  - "Vegetables"
-  - "Gluten-Free"
-  - "Noodles Ingredient"
   - "Vegetarian"
-  - "Soups"
+  - "Vegetables"
   - "Main Meals"
+  - "Soup and Salad"
+  - "Soups"
+  - "Noodles Ingredient"
   - "Family Dinners"
-  - "Winter"
+  - "Gluten-Free"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Soup and Salad"
+  - "Winter"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Fish Sauce"
   - "Chang's Original Hoisin Sauce"
-  - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Thai Style Rice Noodles"
 ---

@@ -37,23 +37,22 @@ method: |
   <li>Allow to rest for ten minutes loosely covered with foil while steaming your bokchoy or favourite Chinese green vegetables. Slice lamb and serve combined.</li>
   </ol>
 tags:
-  - "BBQ"
   - "Lamb"
-  - "Gluten-Free"
-
-  - "Kid Friendly"
-  - "Occasions"
-  - "Healthy Meals"
-  - "Dairy Free"
-  - "Main Meals"
   - "Dinner for Two"
-  - "Nut Free"
+  - "Main Meals"
+  - "BBQ"
+  - "Healthy Meals"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Winter"
+  - "Kid Friendly"
+  - "Occasions"
+  - "Dairy Free"
+  - "Gluten-Free"
+  - "Nut Free"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
+  - "Winter"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Oyster Sauce"
 ---

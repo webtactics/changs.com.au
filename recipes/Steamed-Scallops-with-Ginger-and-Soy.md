@@ -30,18 +30,17 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Gluten-Free"
-  - "Stir-Fry"
-
-  - "Noodles Style"
-  - "Occasions"
-  - "Healthy Meals"
-  - "Dairy Free"
   - "Dinner for Two"
-  - "Summer"
+  - "Noodles Style"
+  - "Stir-Fry"
   - "Summer BBQ"
-  - "Chinese New Year"
+  - "Healthy Meals"
+  - "Occasions"
   - "Festive"
+  - "Chinese New Year"
+  - "Dairy Free"
+  - "Gluten-Free"
+  - "Summer"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Sesame Oil"
 ---

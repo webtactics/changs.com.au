@@ -31,14 +31,14 @@ method: |
   <li>Serve garnished with toasted nuts, chilli, mint and extra dressing if desired.</li>
   </ol>
 tags:
-  - "Chicken"
-  - "Noodles Ingredient"
-  - "Sauces and condiments"
-  - "Main Meals"
-  - "Quick and Easy"
-  - "Summer"
-  - "Spring"
   - "Poultry"
-  - "Chang's Gluten Free Fried Noodles"
+  - "Chicken"
+  - "Main Meals"
+  - "Noodles Ingredient"
+  - "Quick and Easy"
+  - "Spring"
+  - "Summer"
+  - "Sauces and Condiments"
   - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Gluten Free Fried Noodles"
 ---

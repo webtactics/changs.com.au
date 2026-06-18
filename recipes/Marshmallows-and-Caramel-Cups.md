@@ -30,9 +30,9 @@ method: |
 tags:
   - "Noodles Ingredient"
   - "Sweet Treats"
-  - "Easter"
-  - "Festive"
   - "Scary Sweets"
-  - "Chang's Original Fried Noodles"
+  - "Festive"
+  - "Easter"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

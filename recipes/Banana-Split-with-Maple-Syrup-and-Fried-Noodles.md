@@ -28,14 +28,14 @@ method: |
   <li>Place cinnamon bananas over ice cream and then sprinkle with 1 tbs of <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a>. Enjoy</li>
   </ol>
 tags:
-  - "Noodles Ingredient"
   - "Noodles Style"
+  - "Noodles Ingredient"
   - "Sweet Treats"
-  - "Autumn"
+  - "Entertaining"
   - "Kids"
   - "Special Occasion"
-  - "Entertaining"
-  - "Easter"
   - "Festive"
+  - "Easter"
+  - "Autumn"
   - "Chang's Original Fried Noodles"
 ---

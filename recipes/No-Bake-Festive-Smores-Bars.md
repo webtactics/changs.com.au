@@ -35,15 +35,15 @@ method: |
   </ol>
   <p>TIP: Make them festive by sprinkling broken up candy cane or sprinkles over the chocolate layer while it is still warm.</p>
 tags:
-  - "Sweet Treats"
-  - "Summer"
-  - "Spring"
   - "Summer BBQ"
-  - "Christmas"
-  - "Chinese New Year"
+  - "Sweet Treats"
   - "Kids"
   - "Special Occasion"
   - "Festive"
-  - "Chang's Original Fried Noodles"
+  - "Christmas"
+  - "Chinese New Year"
+  - "Spring"
+  - "Summer"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

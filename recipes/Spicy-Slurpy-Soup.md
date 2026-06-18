@@ -33,13 +33,13 @@ method: |
   <li>Evenly distribute between 4 bowls and top with boiled eggs, slices of chilli, coriander leaves, spring onion and a good drizzle of lime juice.</li>
   </ol>
 tags:
-  - "Vegetables"
   - "Vegetarian"
+  - "Vegetables"
+  - "Soup and Salad"
   - "Soups"
   - "Winter"
-  - "Soup and Salad"
   - "Chang's Gluten Free Fried Noodles"
-  - "Chang's Wok-Ready Noodles"
-  - "Chang's Soy Sauce Dark"
   - "Chang's Sesame Oil"
+  - "Chang's Soy Sauce Dark"
+  - "Chang's Wok-Ready Noodles"
 ---

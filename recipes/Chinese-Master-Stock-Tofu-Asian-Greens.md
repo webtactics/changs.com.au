@@ -33,16 +33,15 @@ method: |
   <li>Serve topped with chilli, peanuts and drizzled with the sesame oil.</li>
   </ol>
 tags:
-  - "Vegetables"
-
-  - "Slow Cooking"
   - "Vegetarian"
-  - "Occasions"
-  - "Healthy Meals"
+  - "Vegetables"
   - "Light Meals"
   - "Main Meals"
+  - "Healthy Meals"
   - "Quick and Easy"
+  - "Slow Cooking"
   - "Family Dinners"
+  - "Occasions"
   - "Chang's Master Stock"
   - "Chang's Sesame Oil"
 ---

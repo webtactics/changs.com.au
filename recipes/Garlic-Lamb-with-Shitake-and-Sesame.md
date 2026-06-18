@@ -34,13 +34,12 @@ method: |
   <p>You can swap out the lamb for beef or chicken if desired</p>
 tags:
   - "Lamb"
+  - "Main Meals"
   - "Noodles Ingredient"
   - "Stir-Fry"
-
-  - "Main Meals"
   - "Spring"
-  - "Chang's Original Oyster Sauce"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
   - "Chang's Traditional Super Lo-Cal Noodles"
 ---

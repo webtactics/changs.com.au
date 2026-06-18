@@ -35,11 +35,11 @@ method: |
   <li>Divide between 4 plates and garnish with roasted peanuts and coriander if desired.</li>
   </ol>
 tags:
-  - "Chicken"
-  - "Stir-Fry"
-  - "Dinner for Two"
-  - "Lunch"
-  - "Main Meals"
-  - "Quick and Easy"
   - "Poultry"
+  - "Chicken"
+  - "Dinner for Two"
+  - "Main Meals"
+  - "Stir-Fry"
+  - "Quick and Easy"
+  - "Lunch"
 ---

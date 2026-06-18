@@ -43,11 +43,11 @@ method: |
   </ol>
   <p>Optional: garnish with coriander leaves and spring onions. </p>
 tags:
-  - "Vegetables"
-  - "Gluten-Free"
   - "Vegetarian"
+  - "Vegetables"
   - "Quick and Easy"
+  - "Gluten-Free"
   - "Winter"
-  - "Chang's Original Fried Noodles"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

@@ -42,15 +42,15 @@ method: |
   </ol>
 tags:
   - "Seafood"
+  - "Dinner for Two"
   - "Light Meals"
   - "Main Meals"
-  - "Dinner for Two"
+  - "Summer BBQ"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Summer"
   - "Spring"
-  - "Summer BBQ"
-  - "Chang's Gluten Free Fried Noodles"
+  - "Summer"
   - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Gluten Free Fried Noodles"
   - "Chang's Original Fried Noodles"
 ---

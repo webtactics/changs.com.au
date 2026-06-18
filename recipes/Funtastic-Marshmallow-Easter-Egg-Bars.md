@@ -29,11 +29,10 @@ method: |
   </ol>
 tags:
   - "Noodles Ingredient"
-
-  - "Kid Friendly"
-  - "Occasions"
   - "Sweet Treats"
+  - "Kid Friendly"
   - "Kids"
-  - "Easter"
+  - "Occasions"
   - "Festive"
+  - "Easter"
 ---

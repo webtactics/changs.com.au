@@ -28,15 +28,15 @@ method: |
   </ol>
 tags:
   - "Pork"
+  - "Dinner for Two"
+  - "Main Meals"
   - "Noodles Ingredient"
   - "Stir-Fry"
-  - "Kid Friendly"
-  - "Dinner for Two"
-  - "Lunch"
-  - "Main Meals"
-  - "Summer"
-  - "Spring"
   - "Summer BBQ"
+  - "Kid Friendly"
+  - "Lunch"
+  - "Spring"
+  - "Summer"
   - "Chang's Original Fried Noodles"
   - "Chang's Original Hoisin Sauce"
 ---

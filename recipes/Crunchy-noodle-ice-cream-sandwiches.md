@@ -34,11 +34,10 @@ method: |
   <p>Note: use ice-cream squares if preferred.</p>
 tags:
   - "Noodles Ingredient"
-
   - "Sweet Treats"
-  - "Summer"
-  - "Spring"
   - "Special Occasion"
   - "Festive"
+  - "Spring"
+  - "Summer"
   - "Chang's Crunchy Fried Noodles"
 ---

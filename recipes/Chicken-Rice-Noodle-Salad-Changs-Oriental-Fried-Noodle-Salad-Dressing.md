@@ -33,13 +33,13 @@ method: |
   <li>Add the noodles, cabbage, carrot, green shallot, mint and coriander to the chicken and gently toss to combine. Drizzle with dressing and gently toss to combine. Add the sesame seeds to taste</li>
   </ol>
 tags:
-  - "Chicken"
-  - "Noodles Ingredient"
-  - "Chang's Traditional Super Lo-Cal Noodles"
-  - "Chang's Crispy Noodle Salad Dressing"
-  - "Gluten-Free"
-  - "Noodles Style"
-  - "Salad"
   - "Poultry"
+  - "Chicken"
   - "Soup and Salad"
+  - "Salad"
+  - "Noodles Style"
+  - "Noodles Ingredient"
+  - "Gluten-Free"
+  - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Traditional Super Lo-Cal Noodles"
 ---

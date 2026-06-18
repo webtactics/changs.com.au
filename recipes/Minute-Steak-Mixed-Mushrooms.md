@@ -31,23 +31,22 @@ method: |
   <li>Serve the steaks with a generous spoonful of the mushrooms and some <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a>, Wok Ready Gluten Free or Super Lo Cal Noodles twirled around a fork.</li>
   </ol>
 tags:
-  - "BBQ"
   - "Beef"
-  - "Gluten-Free"
-
-  - "Occasions"
-  - "Healthy Meals"
-  - "Dairy Free"
-  - "Main Meals"
   - "Dinner for One"
   - "Dinner for Two"
-  - "Nut Free"
+  - "Main Meals"
+  - "BBQ"
+  - "Summer BBQ"
+  - "Healthy Meals"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Winter"
+  - "Occasions"
+  - "Dairy Free"
+  - "Gluten-Free"
+  - "Nut Free"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Summer BBQ"
+  - "Winter"
   - "Chang's Original Fried Noodles"
 ---

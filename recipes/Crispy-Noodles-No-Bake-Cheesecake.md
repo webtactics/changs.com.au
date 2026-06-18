@@ -47,14 +47,14 @@ method: |
   </ol>
 tags:
   - "Noodles Ingredient"
+  - "Summer BBQ"
   - "Sweet Treats"
-  - "Winter"
+  - "Festive"
+  - "Christmas"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Summer BBQ"
-  - "Christmas"
-  - "Festive"
-  - "Chang's Original Fried Noodles"
+  - "Winter"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

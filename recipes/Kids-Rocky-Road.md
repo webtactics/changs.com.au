@@ -27,14 +27,13 @@ method: |
   <li>Once set, cut the Rocky Road into pieces about 2cm square.</li>
   </ol>
 tags:
-  - "Noodles Ingredient"
-
-  - "Finger Food"
-  - "Kid Friendly"
   - "Noodles Style"
-  - "Occasions"
+  - "Noodles Ingredient"
+  - "Finger Food"
   - "Sweet Treats"
-  - "Christmas"
+  - "Kid Friendly"
+  - "Occasions"
   - "Festive"
+  - "Christmas"
   - "Chang's Original Fried Noodles"
 ---

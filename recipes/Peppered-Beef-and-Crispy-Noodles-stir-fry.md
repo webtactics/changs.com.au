@@ -34,6 +34,6 @@ method: |
 tags:
   - "Beef"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
-  - "Chang's Original Hoisin Sauce"
   - "Chang's Original Fried Noodles"
+  - "Chang's Original Hoisin Sauce"
 ---

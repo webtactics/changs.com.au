@@ -38,21 +38,20 @@ method: |
   <li>Transfer to plates the vegetables to plates and top with Chang&rsquo;s Oyster sauce drizzled over and the pork beside the vegetables</li>
   </ol>
 tags:
-  - "BBQ"
   - "Pork"
-  - "Gluten-Free"
-
+  - "Main Meals"
+  - "BBQ"
+  - "Summer BBQ"
+  - "Healthy Meals"
+  - "Family Dinners"
   - "Kid Friendly"
   - "Occasions"
-  - "Healthy Meals"
   - "Dairy Free"
-  - "Main Meals"
+  - "Gluten-Free"
   - "Nut Free"
-  - "Family Dinners"
-  - "Summer"
   - "Spring"
-  - "Summer BBQ"
+  - "Summer"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
-  - "Chang's Gluten Free Tamari Light Soy Sauce"
 ---

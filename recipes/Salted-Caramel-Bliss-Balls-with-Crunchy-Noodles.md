@@ -29,14 +29,14 @@ method: |
   </ol>
   <p>Can also be eaten immediately as does not need chilling time to set.</p>
 tags:
-  - "Kid Friendly"
-  - "Quick and Easy"
   - "Sweet Treats"
-  - "Summer"
-  - "Spring"
+  - "Quick and Easy"
+  - "Kid Friendly"
   - "Kids"
   - "Special Occasion"
   - "Festive"
-  - "Chang's Original Fried Noodles"
+  - "Spring"
+  - "Summer"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

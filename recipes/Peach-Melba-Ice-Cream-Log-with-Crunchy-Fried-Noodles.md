@@ -38,10 +38,10 @@ method: |
   </ol>
 tags:
   - "Noodles Ingredient"
-  - "Sweet Treats"
-  - "Summer"
   - "Summer BBQ"
-  - "Christmas"
+  - "Sweet Treats"
   - "Festive"
+  - "Christmas"
+  - "Summer"
   - "Chang's Crunchy Fried Noodles"
 ---

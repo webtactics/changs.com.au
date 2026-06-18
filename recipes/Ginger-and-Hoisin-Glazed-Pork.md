@@ -34,17 +34,16 @@ method: |
   <li>Cut pork into thin slices, and place on top of the noodles. Drizzle any pan or resting juices over the pork to serve.</li>
   </ol>
 tags:
-  - "BBQ"
   - "Pork"
-  - "Noodles Ingredient"
-
-  - "Occasions"
   - "Main Meals"
+  - "Noodles Ingredient"
+  - "BBQ"
   - "Family Dinners"
-  - "Sunday Feasts"
-  - "Chinese New Year"
+  - "Occasions"
   - "Special Occasion"
+  - "Sunday Feasts"
   - "Festive"
-  - "Chang's Original Hoisin Sauce"
+  - "Chinese New Year"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Hoisin Sauce"
 ---

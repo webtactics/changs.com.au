@@ -35,17 +35,16 @@ method: |
   </ol>
 tags:
   - "Pork"
-
-  - "Noodles Style"
-  - "Occasions"
   - "Dinner for Two"
+  - "Noodles Style"
+  - "Entertaining"
+  - "Occasions"
+  - "Special Occasion"
   - "Sunday Feasts"
-  - "Winter"
+  - "Festive"
   - "Christmas"
   - "Chinese New Year"
-  - "Special Occasion"
-  - "Entertaining"
-  - "Festive"
-  - "Chang's Original Oyster Sauce"
+  - "Winter"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Oyster Sauce"
 ---

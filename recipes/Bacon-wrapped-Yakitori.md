@@ -35,13 +35,12 @@ method: |
   <li>Cook the skewers over medium heat on a BBQ or grill until just done. Transfer to platters and spoon over the remaining sauce to serve.</li>
   </ol>
 tags:
-  - "BBQ"
   - "Pork"
-
+  - "BBQ"
   - "Occasions"
-  - "Christmas"
   - "Special Occasion"
   - "Festive"
+  - "Christmas"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Sesame Oil"
 ---

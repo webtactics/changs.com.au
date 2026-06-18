@@ -36,19 +36,18 @@ method: |
   <li>Serve marinated chicken with steamed Chinese broccoli or other Asian green vegetables.</li>
   </ol>
 tags:
+  - "Poultry"
   - "Chicken"
-
-  - "Sauces and condiments"
-  - "Occasions"
   - "Main Meals"
   - "Family Dinners"
-  - "Sunday Feasts"
-  - "Winter"
-  - "Chinese New Year"
+  - "Occasions"
   - "Special Occasion"
+  - "Sunday Feasts"
   - "Festive"
-  - "Poultry"
-  - "Chang's Original Oyster Sauce"
+  - "Chinese New Year"
+  - "Winter"
+  - "Sauces and Condiments"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
 ---

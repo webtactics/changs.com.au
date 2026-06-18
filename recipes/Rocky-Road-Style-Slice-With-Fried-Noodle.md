@@ -25,17 +25,17 @@ method: |
   <li>Spoon mixture into the pan and set aside for 2 hr or until chocolate is set &ndash; if it is extremely hot, chill in the refrigerator until set. Cut into pieces to serve.</li>
   </ol>
 tags:
-  - "Noodles Ingredient"
-  - "Gluten-Free"
-  - "Kid Friendly"
   - "Noodles Style"
+  - "Noodles Ingredient"
   - "Sweet Treats"
-  - "Winter"
+  - "Entertaining"
+  - "Kid Friendly"
+  - "Kids"
+  - "Festive"
+  - "Gluten-Free"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Kids"
-  - "Entertaining"
-  - "Festive"
+  - "Winter"
   - "Chang's Gluten Free Fried Noodles"
 ---

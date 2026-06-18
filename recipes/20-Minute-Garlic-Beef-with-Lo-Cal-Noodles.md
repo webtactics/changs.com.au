@@ -41,10 +41,10 @@ method: |
   <p> </p>
 tags:
   - "Beef"
-  - "Gluten-Free"
-  - "Stir-Fry"
-  - "Noodles Ingredient"
   - "Main Meals"
+  - "Noodles Ingredient"
+  - "Stir-Fry"
+  - "Gluten-Free"
   - "Protein"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Hoisin Sauce"

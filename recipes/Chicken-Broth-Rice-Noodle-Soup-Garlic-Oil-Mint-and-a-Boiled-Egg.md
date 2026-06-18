@@ -36,14 +36,14 @@ method: |
   </ol>
   </ol>
 tags:
-  - "Chicken"
-  - "Gluten-Free"
-  - "Noodles Ingredient"
-  - "Soups"
-  - "Main Meals"
   - "Poultry"
+  - "Chicken"
+  - "Main Meals"
   - "Soup and Salad"
-  - "Chang's Traditional Super Lo-Cal Noodles"
-  - "Chang's Sesame Oil"
+  - "Soups"
+  - "Noodles Ingredient"
+  - "Gluten-Free"
   - "Chang's Original Hoisin Sauce"
+  - "Chang's Sesame Oil"
+  - "Chang's Traditional Super Lo-Cal Noodles"
 ---

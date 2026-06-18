@@ -36,14 +36,13 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles Ingredient"
-
-  - "Occasions"
-  - "Healthy Meals"
   - "Main Meals"
+  - "Noodles Ingredient"
+  - "Healthy Meals"
   - "Quick and Easy"
-  - "Summer"
+  - "Occasions"
   - "Spring"
+  - "Summer"
   - "Chang's Egg Noodles"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Sesame Oil"

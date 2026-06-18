@@ -79,17 +79,16 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Gluten-Free"
-
   - "Finger Food"
-  - "Occasions"
-  - "Dairy Free"
-  - "Summer"
   - "Summer BBQ"
+  - "Occasions"
+  - "Festive"
   - "Christmas"
   - "Easter"
-  - "Festive"
-  - "Chang's Original Fish Sauce"
+  - "Dairy Free"
+  - "Gluten-Free"
+  - "Summer"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Fish Sauce"
   - "Chang's Sesame Oil"
 ---

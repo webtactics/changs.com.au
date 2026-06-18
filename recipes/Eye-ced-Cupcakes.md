@@ -34,13 +34,13 @@ method: |
   </ol>
   <p><strong> Happy Halloween!</strong></p>
 tags:
-  - "Gluten-Free"
   - "Finger Food"
-  - "Kid Friendly"
-  - "Quick and Easy"
   - "Sweet Treats"
-  - "Festive"
   - "Scary Sweets"
-  - "Chang's Original Fried Noodles"
+  - "Quick and Easy"
+  - "Kid Friendly"
+  - "Festive"
+  - "Gluten-Free"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

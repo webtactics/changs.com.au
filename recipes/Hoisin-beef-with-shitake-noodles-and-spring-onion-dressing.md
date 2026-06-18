@@ -38,17 +38,16 @@ method: |
   <p>Gluten Free Option: use Wok-Ready Noodles in place of Hokkien Noodles</p>
 tags:
   - "Beef"
+  - "Main Meals"
   - "Noodles Ingredient"
   - "Stir-Fry"
-
-  - "Occasions"
   - "Healthy Meals"
-  - "Gluten Free Variation"
-  - "Main Meals"
   - "Quick and Easy"
-  - "Summer"
+  - "Occasions"
+  - "Gluten Free Variation"
   - "Spring"
-  - "Chang's Hokkien Style Shelf Fresh Noodles"
+  - "Summer"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Hokkien Style Shelf Fresh Noodles"
   - "Chang's Sesame Oil"
 ---

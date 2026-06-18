@@ -51,13 +51,13 @@ method: |
   <li>Once cooked, remove from oven, garnish with green onions and choice between peanuts or for a nut-free version, Chang&rsquo;s Fried Noodles. Serve immediately as a side dish or with steamed rice.</li>
   </ol>
 tags:
-  - "Gluten-Free"
   - "Vegetarian"
   - "Main Meals"
   - "Quick and Easy"
-  - "Chang's Sesame Oil"
-  - "Chang's Gluten Free Tamari Light Soy Sauce"
-  - "Chang's Original Hoisin Sauce"
-  - "Chang's Original Fried Noodles"
+  - "Gluten-Free"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Fried Noodles"
+  - "Chang's Original Hoisin Sauce"
+  - "Chang's Sesame Oil"
 ---

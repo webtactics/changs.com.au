@@ -33,11 +33,11 @@ method: |
   <p> </p>
   <p><strong>Serving Suggestions</strong>: Steamed Rice<br /><strong>Variation in Serving Suggestion</strong>: Serve the Mushrooms over Chinese Style Pancakes along with the green onion, sesame seeds, chilli flakes and finely sliced cucumber sticks.</p>
 tags:
-  - "Vegetables"
-  - "Gluten-Free"
   - "Vegetarian"
+  - "Vegetables"
   - "Main Meals"
   - "Quick and Easy"
+  - "Gluten-Free"
   - "Chang's Original Hoisin Sauce"
   - "Chang's Sesame Oil"
 ---

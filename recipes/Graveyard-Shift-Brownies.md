@@ -30,19 +30,19 @@ method: |
   </ol>
   <p><strong> Enjoy, ghouls and goblins!</strong></p>
 tags:
-  - "Gluten-Free"
   - "Noodles Ingredient"
   - "Finger Food"
-  - "Kid Friendly"
-  - "Gluten Free Variation"
-  - "Quick and Easy"
+  - "Summer BBQ"
   - "Sweet Treats"
-  - "Winter"
+  - "Scary Sweets"
+  - "Quick and Easy"
+  - "Kid Friendly"
+  - "Gluten-Free"
+  - "Gluten Free Variation"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Summer BBQ"
-  - "Scary Sweets"
-  - "Chang's Original Fried Noodles"
+  - "Winter"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

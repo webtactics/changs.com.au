@@ -41,26 +41,24 @@ method: |
   <li>Arrange the noodles, spring onions and tuna on four plates and sprinkle the sesame seeds over the fish.</li>
   </ol>
 tags:
-  - "BBQ"
   - "Seafood"
-  - "Noodles Ingredient"
-  - "Chang's Traditional Super Lo-Cal Noodles"
-  - "Gluten-Free"
-
-  - "Noodles Style"
-  - "Occasions"
-  - "Healthy Meals"
-  - "Dairy Free"
-  - "Main Meals"
   - "Dinner for One"
   - "Dinner for Two"
-  - "Nut Free"
+  - "Main Meals"
+  - "Noodles Style"
+  - "Noodles Ingredient"
+  - "BBQ"
+  - "Summer BBQ"
+  - "Healthy Meals"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Summer"
+  - "Occasions"
+  - "Dairy Free"
+  - "Gluten-Free"
+  - "Nut Free"
   - "Spring"
-  - "Summer BBQ"
-
+  - "Summer"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Sesame Oil"
+  - "Chang's Traditional Super Lo-Cal Noodles"
 ---

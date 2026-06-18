@@ -34,18 +34,18 @@ method: |
   <li>Serve with desired amount of chocolate sauce and top with whipped cream and cherries.</li>
   </ol>
 tags:
-  - "Gluten-Free"
   - "Noodles Ingredient"
-  - "Sweet Treats"
-  - "Sunday Feasts"
-  - "Summer"
-  - "Spring"
   - "Summer BBQ"
+  - "Sweet Treats"
+  - "Entertaining"
+  - "Kids"
+  - "Sunday Feasts"
+  - "Festive"
   - "Christmas"
   - "Chinese New Year"
-  - "Kids"
-  - "Entertaining"
-  - "Festive"
-  - "Chang's Original Fried Noodles"
+  - "Gluten-Free"
+  - "Spring"
+  - "Summer"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

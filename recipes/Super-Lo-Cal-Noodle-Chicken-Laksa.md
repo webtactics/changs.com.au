@@ -54,22 +54,21 @@ method: |
   <li>Garnish with fresh coriander and serve with lime wedges.</li>
   </ol>
 tags:
+  - "Poultry"
   - "Chicken"
-  - "Vegetables"
-  - "Chang's Super Lo-Cal Wide Noodles"
-  - "Noodles Ingredient"
   - "Vegetarian"
+  - "Vegetables"
+  - "Dinner for Two"
+  - "Soup and Salad"
+  - "Noodles Ingredient"
   - "Healthy Meals"
+  - "Lunch"
   - "Dairy Free"
   - "Gluten Free Variation"
-  - "Dinner for Two"
-  - "Lunch"
-  - "Winter"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-  - "Poultry"
-  - "Soup and Salad"
+  - "Winter"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
-
+  - "Chang's Super Lo-Cal Wide Noodles"
 ---

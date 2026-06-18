@@ -53,16 +53,16 @@ method: |
   <li>Remove from heat, top with green onions, bean sprouts and sesame oil. Serve immediately.</li>
   </ol>
 tags:
-  - "Gluten-Free"
-  - "Stir-Fry"
-  - "Noodles Ingredient"
   - "Vegetarian"
   - "Main Meals"
+  - "Noodles Ingredient"
+  - "Stir-Fry"
   - "Quick and Easy"
+  - "Gluten-Free"
   - "Summer"
   - "Chang's Gluten Free Fried Noodles"
-  - "Chang's Thai Style Rice Noodles"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
+  - "Chang's Thai Style Rice Noodles"
 ---

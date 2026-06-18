@@ -39,18 +39,17 @@ method: |
   <li>Serve the bowls of soup and encourage guests to add the bean sprouts, mint, basil, chilli, lime juice and hoisin sauce to taste.</li>
   </ol>
 tags:
-  - "Chicken"
-  - "Gluten-Free"
-
-  - "Soups"
-  - "Occasions"
-  - "Healthy Meals"
-  - "Main Meals"
-  - "Dinner for Two"
-  - "Nut Free"
-  - "Quick and Easy"
-  - "Chinese New Year"
-  - "Festive"
   - "Poultry"
+  - "Chicken"
+  - "Dinner for Two"
+  - "Main Meals"
   - "Soup and Salad"
+  - "Soups"
+  - "Healthy Meals"
+  - "Quick and Easy"
+  - "Occasions"
+  - "Festive"
+  - "Chinese New Year"
+  - "Gluten-Free"
+  - "Nut Free"
 ---

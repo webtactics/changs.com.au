@@ -42,10 +42,10 @@ method: |
   <li>Serve garnishing each plate with mint leaves, cucumber slices, chilli slices and a lime wedge.</li>
   </ol>
 tags:
-  - "Gluten-Free"
-  - "Stir-Fry"
   - "Vegetarian"
+  - "Stir-Fry"
   - "Quick and Easy"
+  - "Gluten-Free"
   - "Summer"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Fish Sauce"

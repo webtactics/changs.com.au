@@ -40,13 +40,13 @@ method: |
   <p><em>*You can find Vietnamese mint at many Asian grocers. Alternatively, you can grow it from seed or seedlings &ndash; it&rsquo;s very hardy and can be grown in the garden or as a pot plant.</em></p>
 tags:
   - "Seafood"
-  - "Gluten-Free"
   - "Main Meals"
-  - "Quick and Easy"
-  - "Summer"
-  - "Spring"
   - "Soup and Salad"
+  - "Quick and Easy"
+  - "Gluten-Free"
+  - "Spring"
+  - "Summer"
   - "Chang's Crispy Noodle Salad Dressing"
-  - "Chang's Original Fried Noodles"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

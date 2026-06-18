@@ -29,14 +29,14 @@ method: |
   </ol>
 tags:
   - "Noodles Ingredient"
-  - "Sweet Treats"
-  - "Sunday Feasts"
   - "Summer BBQ"
+  - "Sweet Treats"
+  - "Entertaining"
+  - "Special Occasion"
+  - "Sunday Feasts"
+  - "Festive"
   - "Christmas"
   - "Chinese New Year"
-  - "Special Occasion"
-  - "Entertaining"
-  - "Festive"
-  - "Chang's Original Fried Noodles"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

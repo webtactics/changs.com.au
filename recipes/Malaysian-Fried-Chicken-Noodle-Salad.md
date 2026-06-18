@@ -41,22 +41,21 @@ method: |
   <li>Serve with lemon wedges.</li>
   </ol>
 tags:
+  - "Poultry"
   - "Chicken"
-  - "Noodles Ingredient"
-
-  - "Slow Cooking"
-  - "Noodles Style"
-  - "Occasions"
-  - "Healthy Meals"
   - "Dinner for Two"
   - "Main Meals"
-  - "Family Dinners"
-  - "Winter"
-  - "Autumn"
-  - "Chinese New Year"
+  - "Noodles Style"
+  - "Noodles Ingredient"
+  - "Healthy Meals"
+  - "Slow Cooking"
   - "Entertaining"
+  - "Family Dinners"
+  - "Occasions"
   - "Festive"
-  - "Poultry"
+  - "Chinese New Year"
+  - "Autumn"
+  - "Winter"
   - "Chang's Original Fried Noodles"
   - "Chang's Sesame Oil"
 ---

@@ -35,20 +35,20 @@ method: |
   <li>Serve in bowls and squeeze fresh lime juice over each serving.</li>
   </ol>
 tags:
-  - "Vegetables"
-  - "Gluten-Free"
-  - "Stir-Fry"
   - "Vegetarian"
+  - "Vegetables"
   - "Light Meals"
-  - "Lunch"
   - "Main Meals"
+  - "Stir-Fry"
   - "Quick and Easy"
-  - "Summer"
-  - "Spring"
   - "Entertaining"
+  - "Lunch"
   - "Festive"
-  - "Chang's Vermicelli Rice Noodles"
+  - "Gluten-Free"
+  - "Spring"
+  - "Summer"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
+  - "Chang's Vermicelli Rice Noodles"
 ---

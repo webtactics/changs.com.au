@@ -28,17 +28,17 @@ method: |
   <li>Add an extra tablespoon of <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> if needed. Optional to garnish with coriander leaves, parsley leaves or chilli flakes.</li>
   </ol>
 tags:
-  - "Gluten-Free"
-  - "Noodles Ingredient"
-  - "Soups"
-  - "Gluten Free Variation"
   - "Main Meals"
-  - "Quick and Easy"
-  - "Winter"
-  - "Spring"
   - "Soup and Salad"
-  - "Chang's Thai Style Rice Noodles"
+  - "Soups"
+  - "Noodles Ingredient"
+  - "Quick and Easy"
+  - "Gluten-Free"
+  - "Gluten Free Variation"
+  - "Spring"
+  - "Winter"
   - "Chang's Gluten Free Fried Noodles"
-  - "Chang's Sesame Oil"
   - "Chang's Original Hoisin Sauce"
+  - "Chang's Sesame Oil"
+  - "Chang's Thai Style Rice Noodles"
 ---

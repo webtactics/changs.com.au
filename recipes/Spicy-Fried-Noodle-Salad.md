@@ -31,17 +31,17 @@ method: |
   <li>Add Chang&rsquo;s Fried Noodles to salad. Serve immediately.</li>
   </ol>
 tags:
-  - "Noodles Ingredient"
+  - "Soup and Salad"
+  - "Salad"
   - "Noodles Style"
+  - "Noodles Ingredient"
+  - "Summer BBQ"
+  - "Quick and Easy"
   - "Gluten Free Variation"
   - "Nut Free"
-  - "Quick and Easy"
   - "Summer"
   - "Autumn"
-  - "Summer BBQ"
-  - "Salad"
-  - "Soup and Salad"
-  - "Chang's Original Fried Noodles"
-  - "Chang's Gluten Free Fried Noodles"
   - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Original Fried Noodles"
 ---

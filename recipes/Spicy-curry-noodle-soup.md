@@ -35,12 +35,12 @@ method: |
   <li>Heat noodles in a microwave in 30-second intervals to rewarm. Divide noodles among bowls. Divide snow peas and hot soup among bowls. Scatter red onion and chiles over soup. Garnish with lime wedges and serve.</li>
   </ol>
 tags:
-  - "Chicken"
-  - "Noodles Ingredient"
-  - "Chang's Super Lo-Cal Wide Noodles"
-  - "Gluten-Free"
-  - "Noodles Style"
-  - "Soups"
   - "Poultry"
+  - "Chicken"
   - "Soup and Salad"
+  - "Soups"
+  - "Noodles Style"
+  - "Noodles Ingredient"
+  - "Gluten-Free"
+  - "Chang's Super Lo-Cal Wide Noodles"
 ---

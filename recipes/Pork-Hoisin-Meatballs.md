@@ -35,21 +35,18 @@ method: |
   </ol>
 tags:
   - "Pork"
+  - "Dinner for Two"
+  - "Main Meals"
   - "Noodles Ingredient"
-  - "Chang's Traditional Super Lo-Cal Noodles"
-  - "Chang's Super Lo-Cal Wide Noodles"
-  - "Gluten-Free"
-
+  - "Family Dinners"
   - "Occasions"
   - "Dairy Free"
-  - "Main Meals"
-  - "Dinner for Two"
+  - "Gluten-Free"
   - "Nut Free"
-  - "Family Dinners"
-  - "Winter"
   - "Autumn"
-  - "Chang's Original Hoisin Sauce"
+  - "Winter"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
-
-
+  - "Chang's Original Hoisin Sauce"
+  - "Chang's Super Lo-Cal Wide Noodles"
+  - "Chang's Traditional Super Lo-Cal Noodles"
 ---

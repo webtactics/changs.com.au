@@ -29,10 +29,10 @@ method: |
   </ol>
 tags:
   - "Noodles Ingredient"
-  - "Gluten-Free"
   - "Finger Food"
-  - "Kid Friendly"
-  - "Gluten Free Variation"
   - "Sweet Treats"
+  - "Kid Friendly"
+  - "Gluten-Free"
+  - "Gluten Free Variation"
   - "Chang's Gluten Free Fried Noodles"
 ---

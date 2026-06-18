@@ -31,14 +31,13 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles Ingredient"
-
-  - "Sauces and condiments"
-  - "Occasions"
-  - "Healthy Meals"
   - "Dinner for Two"
-  - "Winter"
+  - "Noodles Ingredient"
+  - "Healthy Meals"
+  - "Occasions"
   - "Summer"
-  - "Chang's Master Stock"
+  - "Winter"
+  - "Sauces and Condiments"
   - "Chang's Crunchy Fried Noodles"
+  - "Chang's Master Stock"
 ---

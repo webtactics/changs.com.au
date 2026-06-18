@@ -42,16 +42,15 @@ method: |
   </ol>
 tags:
   - "Pork"
-
-  - "Occasions"
-  - "Dairy Free"
-  - "Main Meals"
   - "Dinner for One"
   - "Dinner for Two"
-  - "Lunch"
+  - "Main Meals"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Winter"
-  - "Autumn"
   - "Kids"
+  - "Lunch"
+  - "Occasions"
+  - "Dairy Free"
+  - "Autumn"
+  - "Winter"
 ---

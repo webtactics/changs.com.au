@@ -31,11 +31,11 @@ method: |
   <p> </p>
 tags:
   - "Noodles Ingredient"
-  - "Kid Friendly"
   - "Sweet Treats"
+  - "Kid Friendly"
   - "Sunday Feasts"
-  - "Autumn"
-  - "Easter"
   - "Festive"
+  - "Easter"
+  - "Autumn"
   - "Chang's Original Fried Noodles"
 ---

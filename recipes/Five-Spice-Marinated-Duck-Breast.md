@@ -32,15 +32,14 @@ method: |
   <li>Transfer a Maryland portion and six cherries to four, shallow bowls and serve with steamed Asian greens and rice or noodles.</li>
   </ol>
 tags:
-
+  - "Poultry"
   - "Duck"
-  - "Sauces and condiments"
   - "Occasions"
-  - "Winter"
-  - "Autumn"
+  - "Festive"
   - "Christmas"
   - "Chinese New Year"
-  - "Festive"
-  - "Poultry"
+  - "Autumn"
+  - "Winter"
+  - "Sauces and Condiments"
   - "Chang's Original Hoisin Sauce"
 ---

@@ -30,17 +30,16 @@ method: |
   <li>Serve hot or cold, garnish with sesame seeds for flavour.</li>
   </ol>
 tags:
+  - "Poultry"
   - "Chicken"
-
+  - "Main Meals"
   - "Finger Food"
   - "Kid Friendly"
-  - "Occasions"
-  - "Main Meals"
-  - "Christmas"
   - "Kids"
+  - "Occasions"
   - "Festive"
-  - "Poultry"
-  - "Chang's Original Hoisin Sauce"
+  - "Christmas"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Hoisin Sauce"
   - "Chang's Sesame Oil"
 ---

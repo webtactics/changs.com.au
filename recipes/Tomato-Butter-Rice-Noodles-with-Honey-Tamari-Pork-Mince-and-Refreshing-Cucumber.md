@@ -36,11 +36,11 @@ method: |
   </ol>
 tags:
   - "Pork"
-  - "Gluten-Free"
-  - "Noodles Ingredient"
-  - "Soups"
   - "Main Meals"
   - "Soup and Salad"
-  - "Chang's Vermicelli Rice Noodles"
+  - "Soups"
+  - "Noodles Ingredient"
+  - "Gluten-Free"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Vermicelli Rice Noodles"
 ---

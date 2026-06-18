@@ -45,19 +45,18 @@ method: |
   <li>Add to pan along with sesame oil and toss to coat and then add soy sauce and pineapple juice. Toss until coated and liquid has been absorbed. Serve alongside pork and pineapple skewers.</li>
   </ol>
 tags:
-  - "BBQ"
   - "Pork"
-  - "Gluten-Free"
   - "Dinner for Two"
   - "Main Meals"
+  - "BBQ"
+  - "Summer BBQ"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Summer"
-  - "Spring"
-  - "Summer BBQ"
   - "Christmas"
-  - "Chang's Soy Sauce Dark"
+  - "Gluten-Free"
+  - "Spring"
+  - "Summer"
   - "Chang's Original Hoisin Sauce"
   - "Chang's Sesame Oil"
-
+  - "Chang's Soy Sauce Dark"
 ---

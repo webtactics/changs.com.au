@@ -29,14 +29,13 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles Ingredient"
-  - "Stir-Fry"
-
-  - "Occasions"
   - "Dinner for Two"
   - "Main Meals"
-  - "Summer"
-  - "Spring"
+  - "Noodles Ingredient"
+  - "Stir-Fry"
   - "Summer BBQ"
+  - "Occasions"
+  - "Spring"
+  - "Summer"
   - "Chang's Gluten Free Fried Noodles"
 ---

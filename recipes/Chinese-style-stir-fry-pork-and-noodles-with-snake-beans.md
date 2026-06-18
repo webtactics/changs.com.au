@@ -35,13 +35,13 @@ method: |
   <p>You can swap out the pork mince for lamb or chicken mince if desired.</p>
 tags:
   - "Pork"
+  - "Main Meals"
   - "Noodles Ingredient"
   - "Stir-Fry"
-  - "Main Meals"
-  - "Summer"
   - "Spring"
-  - "Chang's Original Hoisin Sauce"
+  - "Summer"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Hoisin Sauce"
   - "Chang's Sesame Oil"
   - "Chang's Wok-Ready Noodles"
 ---

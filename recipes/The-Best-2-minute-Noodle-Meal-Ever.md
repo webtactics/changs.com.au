@@ -39,26 +39,24 @@ method: |
   <li>Turn off heat. Pour into bowl and garnish with green onions, coriander and chilli flakes.</li>
   </ol>
 tags:
-  - "Vegetables"
-  - "Noodles Ingredient"
-  - "Chang's Traditional Super Lo-Cal Noodles"
-  - "Chang's Super Lo-Cal Wide Noodles"
-  - "Gluten-Free"
-  - "Noodles Style"
   - "Vegetarian"
-  - "Light Meals"
+  - "Vegetables"
   - "Dinner for One"
   - "Dinner for Two"
-  - "Lunch"
+  - "Light Meals"
   - "Main Meals"
-  - "Nut Free"
+  - "Noodles Style"
+  - "Noodles Ingredient"
   - "Quick and Easy"
+  - "Lunch"
+  - "Gluten-Free"
+  - "Nut Free"
+  - "Spring"
   - "Summer"
   - "Autumn"
-  - "Spring"
-
-
-  - "Chang's Sesame Oil"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Oyster Sauce"
+  - "Chang's Sesame Oil"
+  - "Chang's Super Lo-Cal Wide Noodles"
+  - "Chang's Traditional Super Lo-Cal Noodles"
 ---

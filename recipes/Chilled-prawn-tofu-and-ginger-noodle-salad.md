@@ -32,16 +32,16 @@ method: |
   </ol>
 tags:
   - "Seafood"
-  - "Noodles Ingredient"
-  - "Light Meals"
   - "Dinner for Two"
-  - "Lunch"
+  - "Light Meals"
   - "Main Meals"
+  - "Soup and Salad"
+  - "Salad"
+  - "Noodles Ingredient"
+  - "Summer BBQ"
   - "Quick and Easy"
   - "Family Dinners"
-  - "Summer"
+  - "Lunch"
   - "Spring"
-  - "Summer BBQ"
-  - "Salad"
-  - "Soup and Salad"
+  - "Summer"
 ---

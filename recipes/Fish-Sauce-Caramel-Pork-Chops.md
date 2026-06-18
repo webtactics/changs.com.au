@@ -38,10 +38,10 @@ method: |
   </ol>
 tags:
   - "Pork"
-  - "Gluten-Free"
   - "Main Meals"
   - "Quick and Easy"
+  - "Gluten-Free"
   - "Summer"
-  - "Chang's Original Fish Sauce"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Original Fish Sauce"
 ---

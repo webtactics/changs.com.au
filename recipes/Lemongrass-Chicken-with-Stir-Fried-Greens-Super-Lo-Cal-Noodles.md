@@ -57,17 +57,16 @@ method: |
   </ol>
   <p> </p>
 tags:
-  - "Chicken"
-  - "Gluten-Free"
-  - "Stir-Fry"
-  - "Noodles Ingredient"
-  - "Main Meals"
-  - "Quick and Easy"
   - "Poultry"
+  - "Chicken"
+  - "Main Meals"
+  - "Noodles Ingredient"
+  - "Stir-Fry"
+  - "Quick and Easy"
+  - "Gluten-Free"
   - "Protein"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Fish Sauce"
   - "Chang's Sesame Oil"
-  - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Super Lo-Cal Wide Noodles"
-
 ---

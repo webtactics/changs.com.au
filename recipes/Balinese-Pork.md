@@ -35,18 +35,17 @@ method: |
   </ol>
 tags:
   - "Pork"
-  - "Gluten-Free"
+  - "Main Meals"
   - "Stir-Fry"
-
+  - "Family Dinners"
   - "Kid Friendly"
+  - "Lunch"
   - "Occasions"
   - "Dairy Free"
-  - "Main Meals"
-  - "Lunch"
+  - "Gluten-Free"
   - "Nut Free"
-  - "Family Dinners"
-  - "Winter"
   - "Autumn"
-  - "Chang's Kecap Manis Sweet Soy Sauce"
+  - "Winter"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Kecap Manis Sweet Soy Sauce"
 ---
