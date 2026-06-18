@@ -51,6 +51,7 @@
   --transitionslow: 1s;
 
  --radius: 0.8rem;
+ --overlaypad: 0.5rem;
 
   --headerheight: 120px;
   --navtopheight: 40px;
@@ -2207,10 +2208,10 @@ select {
 
 .changssummary .image-overlay {
   position: absolute;
-  top: 1rem;
-  left: 1rem;
+  top: var(--overlaypad);
+  left: var(--overlaypad);
   bottom: auto;
-  right: 1rem;
+  right: var(--overlaypad);
   background-color: var(--black40);
   -webkit-transition: all var(--transition03);
   -moz-transition: all var(--transition03);
