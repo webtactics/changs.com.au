@@ -1,5 +1,9 @@
 {% if tags %}
   <div class="tagged">
+  <div class="recipes relatedproducts pad2remtopbottom">
+  <h3>Recipe Tags</h3>
+
+
   <div class="tag">
   <ul>
 {% for tag in tags %}
@@ -9,6 +13,7 @@
   {%- endif -%}
 {% endfor %}
   </ul>
+</div>
 </div>
 </div>
 {% endif %}
