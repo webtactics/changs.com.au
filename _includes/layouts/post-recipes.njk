@@ -83,7 +83,7 @@ section: post
 {% set relatedProducts = collections.Products | productsFromTags(tags) %}
 {% if relatedProducts.length %}
 
-  <div class="relatedproducts pad2remtopbottom">
+  <div class="recipes relatedproducts pad2remtopbottom">
   <h3>Relevant products</h3>
   <div id="relevant-products" class="relevant-products">
    {% set postslist = relatedProducts %}
