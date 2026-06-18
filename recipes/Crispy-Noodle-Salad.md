@@ -80,6 +80,8 @@ tags:
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Fried Noodles"
   - "Chang's Sesame Oil"
-galleryimages: img/recipes/Crispy-Noodle-Salad/gallery
+
+
+galleryimages: /static/img/recipes/Crispy-Noodle-Salad/gallery
 headinggalleryimages: "More ways to enjoy"
 ---
