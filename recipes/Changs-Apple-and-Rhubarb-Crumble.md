@@ -10,6 +10,8 @@ preptime: "10 minutes"
 cookingtime: "45 minutes"
 author: "pwg"
 gallery: "recipes/Changs-Apple-and-Rhubarb-Crumble"
+video: "https://iframe.mediadelivery.net/play/68279/a4718ef1-066f-430b-a884-2b5ea7defb0c"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <h4>Apple and Rhubarb Mixture:</h4>
