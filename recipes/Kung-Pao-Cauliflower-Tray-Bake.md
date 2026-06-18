@@ -10,6 +10,8 @@ preptime: "10 minutes"
 cookingtime: "30 minutes"
 author: "pwg"
 gallery: "recipes/Kung-Pao-Cauliflower-Tray-Bake"
+video: "https://iframe.mediadelivery.net/embed/68279/3c26a1e0-7807-4e33-bff8-59b9650a0cf4"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <h4>Cauliflower:</h4>

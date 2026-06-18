@@ -10,6 +10,8 @@ preptime: "10 minutes"
 cookingtime: "15 minutes"
 author: "pwg"
 gallery: "recipes/Mongolian-Lamb-Noodles"
+video: "https://iframe.mediadelivery.net/embed/68279/3701e76e-de4b-44ba-877d-738a0d262b5c"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <h4>Lamb:</h4>
