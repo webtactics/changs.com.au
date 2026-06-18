@@ -2263,7 +2263,7 @@ select {
 .overlay-home p {
   font-size: 0.9rem;
   color: var(--white);
-  line-height: 1rem;
+  line-height: 1.2rem;
   margin: 0.5rem 0;
   padding: 0;
 }
@@ -2543,7 +2543,7 @@ align-items: flex-start;
 
 .postsumshort {
   display: -webkit-box;
-  -webkit-line-clamp: 6;
+  -webkit-line-clamp: 5;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
