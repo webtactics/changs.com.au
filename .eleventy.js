@@ -233,7 +233,7 @@ eleventyConfig.addFilter("randomLimit", (arr, limit, currPage) => {
   eleventyConfig.addPassthroughCopy("static");
   eleventyConfig.addPassthroughCopy("admin/");
   eleventyConfig.addPassthroughCopy("js");
-  eleventyConfig.addPassthroughCopy("_includes/assets/css/gtsc-grid.css");
+  eleventyConfig.addPassthroughCopy("_includes/assets/css/changs-grid.css");
   eleventyConfig.addPassthroughCopy("_includes/assets/js/script.js");
   eleventyConfig.addPassthroughCopy("lightbox.js");
   eleventyConfig.addPassthroughCopy("slick.min.js");
