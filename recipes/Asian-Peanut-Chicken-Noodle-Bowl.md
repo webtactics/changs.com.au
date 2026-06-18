@@ -44,13 +44,13 @@ method: |
   <li><strong>Assemble the Bowl:</strong> Place rocket in serving bowls. Top with a portion of hoisin-coated noodles, cooked chicken, sliced red capsicum, sliced purple cabbage, and fresh coriander. Serve with the reserved sauce on the side and offer extra soy sauce for individual preference if desired.</li>
   </ol>
 tags:
+  - "Poultry"
   - "Chicken"
+  - "Soup and Salad"
+  - "Salad"
   - "Noodles Style"
   - "Healthy Meals"
   - "Autumn"
-  - "Salad"
-  - "Poultry"
-  - "Soup and Salad"
   - "Chang's Wok-Ready Noodles"
   - "Chang's Hokkien Style Shelf Fresh Noodles"
   - "Chang's Original Hoisin Sauce"
