@@ -2775,7 +2775,7 @@ font-size: 0.8rem;
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 1;
+  z-index: 100;
 border-top-left-radius: var(--radius);
 }
 
