@@ -10,6 +10,8 @@ preptime: "10 minutes"
 cookingtime: "15 minutes"
 author: "pwg"
 gallery: "recipes/Changs-Asian-Poached-Chicken-Bowl"
+video: "https://iframe.mediadelivery.net/play/68279/c3e67607-dd35-4f1e-b469-df3874bdfcef"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <h4>Chicken and Salad:</h4>
