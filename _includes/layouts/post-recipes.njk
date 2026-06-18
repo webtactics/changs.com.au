@@ -80,7 +80,7 @@ section: post
 {% endif %}
 
 
-{% set relatedProducts = collections.Products | productsFromTags(tags) %}
+{% set relatedProducts = collections.Products | productsFromTags(tags) | sortAlphabetically("title") %}
 {% if relatedProducts.length %}
 
   <div class="recipes relatedproducts pad2remtopbottom">
@@ -139,5 +139,5 @@ section: post
 <h3>More Recipes we like:</h3>
 {% set postslist = collections['Recipes']  |  randomLimit(4, page.url)  %} 
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}
-<div class="linkwrapper"><a class="resultspdf" href="/products/recipes/" title="More Recipes" alt="More Recipes">More Recipes &gt;</a></div>
+<div class="linkwrapper"><a class="resultspdf" href="/recipes/" title="More Recipes" alt="More Recipes">All Recipes &gt;</a></div>
 </div>
