@@ -126,10 +126,6 @@
   }
 
 
-  
-
-
-
   @keyframes fadeInUp {
     0% {
       transform: translateY(100%);
@@ -148,13 +144,6 @@
 
   .animate-opacity {animation:opac 0.8s}@keyframes opac{from{opacity:0} to{opacity:1}}
 
-
-
-
-a:hover .slide-in-image img {
-  transform: scale(1.05);
-  transition: transform var(--transition06) ease;
-}
  
 .herotitlebox {
 position: relative;
@@ -223,6 +212,26 @@ img,
 picture {
   max-width: 100%;
   display: block;
+}
+
+[class*="flexcenter-"] {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+[class*="flexleft-"] {
+  display: flex;
+  justify-content: flex-start;
+  align-content: center;
+}
+[class*="flexright-"] {
+  display: flex;
+  justify-content: flex-end;
+  align-content: center;
+}
+
+.flexcenter-img {
+margin-bottom: 2rem;
 }
 
 /* Inherit fonts for inputs and buttons */
