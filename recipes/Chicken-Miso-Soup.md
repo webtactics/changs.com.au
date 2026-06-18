@@ -10,6 +10,8 @@ preptime: "20 minutes"
 cookingtime: "20 minutes"
 author: "pwg"
 gallery: "recipes/Chicken-Miso-Soup"
+video: "https://iframe.mediadelivery.net/embed/68279/7de6d9b6-2f75-4437-a600-1e3136dc6f0e"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <h4>Soup:</h4>
