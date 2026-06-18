@@ -2209,7 +2209,7 @@ select {
   position: absolute;
   top: 0rem;
   left: 0rem;
-  bottom: 8rem;
+  bottom: 6rem;
   right: 0rem;
   background-color: var(--black40);
   -webkit-transition: all var(--transition03);
