@@ -2,7 +2,7 @@
 title: "Chang's Original Oyster Sauce"
 status: published
 date: 4000-02-01
-description: "Traditional sauce particularly popular for use with a stir-fry."
+description: "Chang's Oyster Sauce is a traditional sauce widely used in Cantonese cooking. Complex flavours make it suitable for stir-fried beef, pork or chicken"
 permalink: "/products/Changs-Original-Oyster-Sauce/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Oyster-Sauce/Changs-Original-Oyster-Sauce-280ml.jpg
 sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Oyster-Sauce/Changs-Original-Oyster-Sauce-280ml-300x200.jpg
@@ -37,4 +37,4 @@ tags:
   - "Chang's Original Oyster Sauce"
 ---
 
-Chang’s Oyster Sauce is a traditional sauce widely used in Cantonese cooking. Complex flavours make it suitable for stir-fried beef, pork or chicken as well as being very tasty as a dipping sauce for steamed fish. Chang’s Oyster Sauce is gluten free.
+Chang’s Oyster Sauce is a traditional sauce widely used in Cantonese cooking. Complex flavours make it suitable for stir-fried beef, pork or chicken as well as being very tasty as a dipping sauce for steamed fish. Chang's Original Oyster Sauce is gluten-free.
