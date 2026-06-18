@@ -8,7 +8,8 @@ image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Asian-Marinate
 serves: "4"
 author: "pwg"
 gallery: "recipes/Asian-Marinated-Beef-Noodle-Bowl"
-video: "https://iframe.mediadelivery.net/play/68279/174353bf-cb4d-40ff-9e85-8015d6af8831"
+video: "https://iframe.mediadelivery.net/embed/68279/174353bf-cb4d-40ff-9e85-8015d6af8831"
+
 
 ingredients: |
   <h3>Ingredients:</h3>

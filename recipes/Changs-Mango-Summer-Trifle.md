@@ -10,7 +10,7 @@ preptime: "10 minutes"
 difficulty: "Easy, easy, easy!"
 author: "pwg"
 gallery: "recipes/Changs-Mango-Summer-Trifle"
-video: "https://iframe.mediadelivery.net/play/68279/cad56ed1-a41f-428a-b356-a4103799b084"
+video: "https://iframe.mediadelivery.net/embed/68279/cad56ed1-a41f-428a-b356-a4103799b084"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>

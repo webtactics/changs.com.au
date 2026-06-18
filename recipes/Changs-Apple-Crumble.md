@@ -10,7 +10,8 @@ preptime: "15 minutes"
 cookingtime: "25 minutes"
 author: "pwg"
 gallery: "recipes/Changs-Apple-Crumble"
-video: "https://iframe.mediadelivery.net/play/68279/63eef782-6335-40f2-aa5a-576c93678e29"
+video: "https://iframe.mediadelivery.net/embed/68279/63eef782-6335-40f2-aa5a-576c93678e29"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <h4>Apple Mixture:</h4>
