@@ -1,6 +1,6 @@
 <section class="grid-4-columns summary4" >
 	{% for post in postslist %}
-<summary class="changssummary">
+<summary class="changssummary recipesum fade-in">
 
 
 <div class="radiussum4image">
@@ -11,19 +11,16 @@
 <p class="postsumshort">{{ post.data.description }}</p>
 </div>
 {% endif %}
-	
-
 {% if post.data.preptime %}
 <div class="servesprepdif">
 <p><span class="blogsumhomered">Prep time: </span>{{ post.data.preptime }}</p>
 </div>
 {% endif %}
 {% if post.data.cookingtime %}
-    <div class="servesprepdif">
-    <p><span class="blogsumhomered">Cooking time: </span>{{ post.data.cookingtime }}</p>
-    </div>
-    {% endif %}
-
+<div class="servesprepdif">
+<p><span class="blogsumhomered">Cooking time: </span>{{ post.data.cookingtime }}</p>
+</div>
+{% endif %}
 {% if post.data.difficulty %}
 <div class="servesprepdif">
 <p><span class="blogsumhomered">Difficulty: </span>{{ post.data.difficulty }}</p>

@@ -1,10 +1,19 @@
 <section class="grid-4-columns summary4" >
 	{% for post in postslist %}
-<summary class="changssummary fade-in">
+<summary class="changssummary productsum fade-in">
 
 
 <div class="radiussum4image">
-<a href="{{ post.url | url }}" ><img src="{{ post.data.image }}/tr:w-400,h-400" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="400px" height="auto" class="producthome4img"></a>
+<a href="{{ post.url | url }}" ><img src="{{ post.data.image }}/tr:w-400,h-400" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="400px" height="auto" class="producthome4img"><span class="image-overlay">
+<span class="overlay-home">
+{% if post.data.description %}
+<div class="servesprepdif">
+<p class="postsumshort">{{ post.data.description }}</p>
+</div>
+{% endif %}
+</span>
+</span>     
+</a>
 </div>
 
 
