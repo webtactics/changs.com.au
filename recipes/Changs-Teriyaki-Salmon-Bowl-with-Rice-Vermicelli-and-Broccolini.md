@@ -10,6 +10,7 @@ preptime: "10 minutes"
 cookingtime: "15 minutes"
 author: "pwg"
 gallery: "recipes/Changs-Teriyaki-Salmon-Bowl-with-Rice-Vermicelli-and-Broccolini"
+video: "https://iframe.mediadelivery.net/play/68279/52453124-24a3-4a15-a966-afd92f7ef68a"
 ingredients: |
   <h3>Ingredients:</h3>
   <h4>Teriyaki Salmon:</h4>
