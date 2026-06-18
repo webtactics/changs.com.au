@@ -99,8 +99,10 @@ section: post
 <div class="CGBlogvideo recipelist pad2remtopbottom">
 <div class="recipesvideocontent">
 <h3>Making {{ title }} in 30 seconds!</h3>
-  {{ video | safe }}
+<div style="position:relative;padding-top:100%;">
+  <iframe src="{{ video | safe }}?autoplay=false&loop=false&muted=false&preload=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe>
   </div>
+</div>
 </div>
 
 {% endif %}
