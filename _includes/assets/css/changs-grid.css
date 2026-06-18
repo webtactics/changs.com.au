@@ -2204,17 +2204,42 @@ select {
 ------------------------------------------------- */
 .changssummary {position: relative;}
 
+
+.changssummary .image-overlay {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  bottom: 0rem;
+  right: 0rem;
+  background-color: var(--black40);
+  -webkit-transition: all var(--transition03);
+  -moz-transition: all var(--transition03);
+  -ms-transition: all var(--transition03);
+  -o-transition: all var(--transition03);
+  transition: all var(--transition03);
+  opacity: 0;
+  overflow: hidden;
+  border-radius: 0.8rem;
+}
+
+  .changssummary:hover .image-overlay {
+      opacity: 1;
+      background-color: var(--black60);
+      border-radius: 0.8rem;
+    }
+
+
    .changssummary .image-overlay .overlay-home {
       width: 90%;
       height: auto;
       display: block;
       margin: -30px auto 0;
       opacity: 0;
-      -webkit-transition: all 0.2s;
-      -moz-transition: all 0.2s;
-      -ms-transition: all 0.2s;
-      -o-transition: all 0.2s;
-      transition: all 0.2s;
+      -webkit-transition: all var(--transition03);
+      -moz-transition: all var(--transition03);
+      -ms-transition: all var(--transition03);
+      -o-transition: all var(--transition03);
+      transition: all var(--transition03);
       overflow: hidden;
     }
 
@@ -2232,10 +2257,7 @@ select {
       font-weight: 400;
       text-transform: capitalize;
     }
-.changssummary:hover .image-overlay .overlay-home {
-  opacity: 0.90;
-  margin: 15px auto 0;
-}
+
 
 
 
@@ -2855,7 +2877,7 @@ border-bottom-right-radius: var(--radius);
 
 .productsumrecipeimage img:hover {
   filter: brightness(110%);
-  transition: all 0.2s ease-in-out;
+  transition: all var(--transition03) ease-in-out;
 }
 
 .recipes-from-products h4 {
