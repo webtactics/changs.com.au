@@ -18,11 +18,11 @@ ingredients: |
   <li>1 lemongrass stalk, white part only, finely chopped</li>
   <li>2 cloves garlic, crushed</li>
   <li>2 tsps finely grated lime rind</li>
-  <li>2 tsps Chang&rsquo;s Fish Sauce</li>
+  <li>2 tsps Chang's Fish Sauce</li>
   <li>2 tbsps peanut oil</li>
   <li>1 bunch chop sum, (150g), washed, roughly chopped</li>
   <li>1/4 cup vegetable stock</li>
-  <li>1 packet Chang&rsquo;s Crunchy Noodles</li>
+  <li>1 packet Chang's Crunchy Noodles</li>
   </ul>
 method: |
   <h3>Method:</h3>

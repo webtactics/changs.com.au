@@ -20,7 +20,7 @@ ingredients: |
   <li>2 cloves garlic, finely chopped</li>
   <li>1 cup oyster mushrooms</li>
   <li>400g chicken thighs, diced</li>
-  <li>4 tbl Chang&rsquo;s Oyster Sauce</li>
+  <li>4 tbl Chang's Oyster Sauce</li>
   <li>&frac14; cup water</li>
   <li>1 packet (100 grams) <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a></li>
   </ul>

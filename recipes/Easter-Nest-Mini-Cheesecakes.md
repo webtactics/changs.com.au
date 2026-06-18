@@ -39,7 +39,7 @@ method: |
   <li>To make the crust, pulsed in a food processor the fried noodles and biscuits, until resembles crumbs and combine in a bowl with the melted butter. Divide equally into the and press down. Set aside.</li>
   <li>To make the cheesecake filling, whisk the cream and the icing sugar until it thickens. Then add the cream cheese and the strawberry jam until well combined and finally the white chocolate, making sure it has cooled down.</li>
   <li>Divide filling evenly between the tins, levelling out the top and place into the refrigerator overnight (alternatively add to the freezer for 3 hours)</li>
-  <li>In the meantime, make the nests by combining in a bowl, Chang&rsquo;s Fried Noodles with the melted chocolate. Using a fork and spoon create as many nests are needed and place them onto baking paper to harden and set. Alternatively add to mini cupcake cases which creates the shape on its own. Add the candied eggs in the nests while the chocolate is still setting so they can stick to the nest. Place into the refrigerator for 2 hours.</li>
+  <li>In the meantime, make the nests by combining in a bowl, Chang's Fried Noodles with the melted chocolate. Using a fork and spoon create as many nests are needed and place them onto baking paper to harden and set. Alternatively add to mini cupcake cases which creates the shape on its own. Add the candied eggs in the nests while the chocolate is still setting so they can stick to the nest. Place into the refrigerator for 2 hours.</li>
   <li>Once all ingredients are set, remove cheesecakes from muffin liners, place nests on top and serve.</li>
   <li>Optional to make these ahead of time; simply assemble, store in an airtight container and refrigerate until needed. Stores for up to a week.</li>
   </ol>

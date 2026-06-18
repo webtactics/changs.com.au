@@ -35,7 +35,7 @@ method: |
   <li>Combine all marinade ingredients in a bowl and add the pork chops, mixing well to coat completely then marinate, covered in the fridge for 4-12 hours.</li>
   <li>Bring the pork back to room temperature. Brush a medium-hot flat grill with half the oil and cook until just cooked through. Rest for a couple of minutes loosely covered with foil.</li>
   <li>While the pork is resting, place the remaining oil in a hot wok and stir fry the vegetables until cooked &ndash; just a couple of minutes.</li>
-  <li>Transfer to plates the vegetables to plates and top with Chang&rsquo;s Oyster sauce drizzled over and the pork beside the vegetables</li>
+  <li>Transfer to plates the vegetables to plates and top with Chang's Oyster sauce drizzled over and the pork beside the vegetables</li>
   </ol>
 tags:
   - "Pork"

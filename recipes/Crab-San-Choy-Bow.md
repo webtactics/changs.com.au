@@ -34,7 +34,7 @@ method: |
   <ol>
   <li>Remove core from the lettuce and gently separate leaves. Trim leaves slightly using a pair of kitchen scissors to form lettuce cups / bowls. Shred trimmings and place in a large bowl.</li>
   <li>Peel and finely slice red onion. Peel and de-seed cucumber, cut in half lengthways and slice finely. Add onion, cucumber and salad leaves to the shredded iceberg. Top with crab meat, add Vietnamese mint and mix well to combine.</li>
-  <li>To make the salad dressing, mix together the coconut milk, Chang&rsquo;s Hot Chilli Sauce (add more to taste if you like) and Chang&rsquo;s Salad Dressing.</li>
+  <li>To make the salad dressing, mix together the coconut milk, Chang's Hot Chilli Sauce (add more to taste if you like) and Chang's Salad Dressing.</li>
   <li>Serve salad inside lettuce cups, drizzled with dressing and sprinkled with Fried Noodles. Wrap up and enjoy.</li>
   </ol>
   <p><em>*You can find Vietnamese mint at many Asian grocers. Alternatively, you can grow it from seed or seedlings &ndash; it&rsquo;s very hardy and can be grown in the garden or as a pot plant.</em></p>

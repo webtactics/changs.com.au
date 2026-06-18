@@ -42,7 +42,7 @@ method: |
   <h3>Method:</h3>
   <ol>
   <li>Assemble Abundance Bowl by adding all ingredients to the bowl.</li>
-  <li>Begin with Chang&rsquo;s Fried Noodle Salad, then red cabbage, cucumber, carrot, noodles, bean sprouts and coriander and top off with adding the extra dressing on the side and some extra fried noodles for added crunch!</li>
+  <li>Begin with Chang's Fried Noodle Salad, then red cabbage, cucumber, carrot, noodles, bean sprouts and coriander and top off with adding the extra dressing on the side and some extra fried noodles for added crunch!</li>
   <li>Enjoy.</li>
   </ol>
 tags:

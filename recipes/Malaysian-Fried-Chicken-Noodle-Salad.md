@@ -26,8 +26,8 @@ ingredients: |
   <li>1 egg, beaten</li>
   <li>1 tsp. sugar</li>
   <li>&frac12; tsp. salt</li>
-  <li>1 tbsp. Chang&rsquo;s Oyster Sauce</li>
-  <li>1 tbsp. Chang&rsquo;s Soy Sauce</li>
+  <li>1 tbsp. Chang's Oyster Sauce</li>
+  <li>1 tbsp. Chang's Soy Sauce</li>
   <li>1 tbsp. cornflour</li>
   <li>1 tbsp. Shaosing rice wine or dry sherry</li>
   <li>1 tbsp. <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>

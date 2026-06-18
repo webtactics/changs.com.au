@@ -41,7 +41,7 @@ method: |
   <li>Simmer gently for three hours until beef is tender. Slice cooked beef and reserve.</li>
   <li>Fill a separate saucepan with water and bring to boil. Simmer noodles until just cooked, adding the bok choy for the final 30 seconds, and drain.</li>
   <li>Place noodles, bok choy and beef in bowls, pour or ladle over the hot broth.</li>
-  <li>For a gluten free alternative, use Chang&rsquo;s Gluten Free Wok-Ready Pad Thai Noodles.</li>
+  <li>For a gluten free alternative, use Chang's Gluten Free Wok-Ready Pad Thai Noodles.</li>
   </ol>
 tags:
   - "Beef"

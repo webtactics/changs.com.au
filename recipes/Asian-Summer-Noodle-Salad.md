@@ -44,7 +44,7 @@ method: |
   <li>Cook noodles in boiling water until tender and then place under cold water and drain.</li>
   <li>Arrange a 20-25cm wide clear glass salad bowl or trifle bowl works well also.</li>
   <li>Place the noodles in the bottom and then build the layers, spreading each evenly. Start with the baby spinach, red capsicum, bean sprouts, carrots, snow peas and chilli (or in any order you prefer to present it).</li>
-  <li>Top with Chang&rsquo;s Fried Noodles of choice and black sesame seeds.</li>
+  <li>Top with Chang's Fried Noodles of choice and black sesame seeds.</li>
   <li>Drizzle sauce over the top just before serving.</li>
   </ol>
 tags:

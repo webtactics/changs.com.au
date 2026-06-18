@@ -30,7 +30,7 @@ method: |
   <ol>
   <li>Combine lamb cutlets, dressing and chopped mint in a large bowl. Cover and refrigerate for 20 minutes.</li>
   <li>Brush oil over a heated chargrill pan and cook the lamb, in batches, 2 minutes each side or until cooked as desired. Remove lamb to large plate, cover loosely with foil and leave to rest while you prepare the salad.</li>
-  <li>Combine beetroots, apple, watercress, rocket and noodles in a large bowl and serve lamb cutlets with the salad and a drizzle of Chang&rsquo;s salad dressing</li>
+  <li>Combine beetroots, apple, watercress, rocket and noodles in a large bowl and serve lamb cutlets with the salad and a drizzle of Chang's salad dressing</li>
   </ol>
 tags:
   - "Lamb"

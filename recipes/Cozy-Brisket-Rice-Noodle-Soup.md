@@ -55,16 +55,16 @@ method: |
   <li>Allow the pressure to release naturally.</li>
   <li>Remove the brisket and set aside on a tray.</li>
   <li>Strain the broth and return it to the pot.</li>
-  <li>Season with Chang&rsquo;s Fish Sauce.</li>
+  <li>Season with Chang's Fish Sauce.</li>
   </ol>
   <h4>Soup Base -Shortcut Option:</h4>
   <p>Use a good quality store-bought beef broth.</p>
   <p>Simmer gently with onion, garlic, and peppercorns for 15&ndash;20 minutes.</p>
-  <p>Strain and season with Chang&rsquo;s Fish Sauce.</p>
+  <p>Strain and season with Chang's Fish Sauce.</p>
   <h4>Seasoned Brisket:</h4>
   <ol>
   <li>Shred the brisket into strips using two forks.</li>
-  <li>Season with Chang&rsquo;s Tamari Light Soy Sauce, <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a>, and black pepper.</li>
+  <li>Season with Chang's Tamari Light Soy Sauce, <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a>, and black pepper.</li>
   <li>Toss gently to coat.</li>
   </ol>
   <h4>Soy-Cured Eggs:</h4>

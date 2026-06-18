@@ -19,7 +19,7 @@ ingredients: |
   <li>1 large egg, beaten with a teaspoon of cold water</li>
   <li>2 cups panko crumbs</li>
   <li>2 cups neutral oil for frying</li>
-  <li>200ml Chang&rsquo;s Hoisin sauce</li>
+  <li>200ml Chang's Hoisin sauce</li>
   <li>1 large carrot, cut into matchsticks</li>
   <li>1 tsp. sugar</li>
   </ul>
@@ -33,7 +33,7 @@ method: |
   <li>Place the crumbed chicken on the plate then repeat the process to use up all the chicken.</li>
   <li>Heat the oil in a frying pan to medium heat (so the chicken will cook through without burning the crumbs) and cook the chicken until golden brown, turning once.</li>
   <li>Drain on paper towel.</li>
-  <li>Drain the carrot and arrange on four small plates with the chicken nuggets piled on top and the Chang&rsquo;s Hoisin sauce squirted over.</li>
+  <li>Drain the carrot and arrange on four small plates with the chicken nuggets piled on top and the Chang's Hoisin sauce squirted over.</li>
   </ol>
 tags:
   - "Poultry"

@@ -25,7 +25,7 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Heat the stock, <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a>, sugar and Chang&rsquo;s Super Lo-Cal Noodles in a pot and heat, stirring occasionally until the sugar melts. Bring to the boil then reduce to a simmer for 5 minutes.</li>
+  <li>Heat the stock, <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a>, sugar and Chang's Super Lo-Cal Noodles in a pot and heat, stirring occasionally until the sugar melts. Bring to the boil then reduce to a simmer for 5 minutes.</li>
   <li>Divide all other ingredients between four bowls and pour over simmering stock. Allow to stand for a couple of minutes so soften the vegetables and cook the meat before eating.</li>
   </ol>
 tags:

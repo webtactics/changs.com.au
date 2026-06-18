@@ -21,7 +21,7 @@ method: |
   <ol>
   <li>Line a baking tray with non-stick baking paper.</li>
   <li>Place chocolate in a heatproof microwave safe bowl. Heat, uncovered, for 1-2 minutes on high (100% power), stirring every 30 seconds with a metal spoon until smooth.</li>
-  <li>Combine hundreds and thousands and Chang&rsquo;s Crunchy Noodles in a small, deep bowl.</li>
+  <li>Combine hundreds and thousands and Chang's Crunchy Noodles in a small, deep bowl.</li>
   <li>Dip &frac14; of each liquorice stick into the chocolate mixture, then dip straight into the noodle mixture to coat.</li>
   <li>Place liquorice onto tray, repeat with remaining liquorice.</li>
   <li>Allow to set on trays.</li>

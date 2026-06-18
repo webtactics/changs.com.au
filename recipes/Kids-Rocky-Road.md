@@ -23,7 +23,7 @@ method: |
   <ol>
   <li>Begin by breaking the chocolate into pieces, placing into two rectangular plastic takeaway containers.</li>
   <li>Place the takeaway containers into the microwave, heating the chocolate for two minutes or until just melted.</li>
-  <li>Stir through the marshmallows, jelly or lollies and Chang&rsquo;s Fried Noodles and place in the fridge until the chocolate hardens.</li>
+  <li>Stir through the marshmallows, jelly or lollies and Chang's Fried Noodles and place in the fridge until the chocolate hardens.</li>
   <li>Once set, cut the Rocky Road into pieces about 2cm square.</li>
   </ol>
 tags:

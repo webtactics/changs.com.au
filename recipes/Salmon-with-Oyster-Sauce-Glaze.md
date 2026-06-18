@@ -32,7 +32,7 @@ method: |
   <h3>Method:</h3>
   <ol>
   <li>Dry salmon fillet using paper towels and season with sea salt and pepper. Place onto a baking tray lined with baking paper.</li>
-  <li>In a bowl combine the oil, garlic, ginger, Chang&rsquo;s Oyster Sauce and hot sauce.</li>
+  <li>In a bowl combine the oil, garlic, ginger, Chang's Oyster Sauce and hot sauce.</li>
   <li>Pour over Salmon and evenly coat. Cover with plastic wrap and allow to marinade in fridge for 20 minutes.</li>
   <li>Preheat oven 200C fan forced. Place Salmon into oven and cook for 25 minutes.</li>
   <li>In the meantime, prepare the Peas. Place in a pot the coconut oil and peas. Season lightly and cook stirring occasionally until lightly toasted. Add the sesame seeds and cook for a further few minutes. Take off heat and drizzle <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> over the top.</li>

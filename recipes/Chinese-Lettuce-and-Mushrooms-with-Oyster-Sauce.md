@@ -31,7 +31,7 @@ method: |
   <li>Remove bruised outer lettuce leaves and slice in half or quarter lengthways. Rinse under cold water.</li>
   <li>Bring a pot of water to boil, and add a teaspoon of sea salt. Turn off the heat and place the lettuce into the pot. Stir for 10 seconds and remove. Place immediately into a bath of ice water to stop it from overcooking.</li>
   <li>Remove excess water and pat with paper towel. Place onto large platter.</li>
-  <li>Add to a small frying pan <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a>, the garlic and oyster mushrooms. Stir and cook for 2 minutes stirring continuously, then add Chang&rsquo;s Oyster Sauce and Light Soy Sauce and stir well to combine. Cook for a further 1 minute.</li>
+  <li>Add to a small frying pan <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a>, the garlic and oyster mushrooms. Stir and cook for 2 minutes stirring continuously, then add Chang's Oyster Sauce and Light Soy Sauce and stir well to combine. Cook for a further 1 minute.</li>
   <li>Pour over the plated lettuce. Sprinkle over the top the red chilli flakes, sesame seeds and <a href="/products/Changs-Crunchy-Fried-Noodles/" title="Chang's Crunchy Fried Noodles" alt="Chang's Crunchy Fried Noodles">Chang's Crunchy Fried Noodles</a>. Serve.</li>
   </ol>
 tags:

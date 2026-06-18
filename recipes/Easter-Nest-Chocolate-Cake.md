@@ -53,7 +53,7 @@ method: |
   <h3>Nest:</h3>
   <ol>
   <li>In the same or smaller size tin as the chocolate cake, grease and line with baking paper.</li>
-  <li>Melt chocolate either on stove top or in microwave according to packet instructions, then add Chang&rsquo;s Fried Noodles and combine until well coated. Stir in the marshmallows and allow to slightly melt with the chocolate. Add hundreds and thousands and gently stir through without coating them too much with the chocolate.</li>
+  <li>Melt chocolate either on stove top or in microwave according to packet instructions, then add Chang's Fried Noodles and combine until well coated. Stir in the marshmallows and allow to slightly melt with the chocolate. Add hundreds and thousands and gently stir through without coating them too much with the chocolate.</li>
   <li>Tip the mixture into the lined tin and using the back of a spoon, create a nest shape on the inside of the tin. Allow to set in the refrigerator for at least an hour.</li>
   </ol>
   <h3>Icing:</h3>

@@ -28,9 +28,9 @@ method: |
   <h3>Method:</h3>
   <ol>
   <li>Prepare <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> according to packet instructions. Set aside to cool down. Boil the edamame beans for 10 minutes, drain and set aside to cool down.</li>
-  <li>In a bowl combine Chang&rsquo;s Salad Dressing and Sesame Oil. Whisk until well combined and set aside.</li>
+  <li>In a bowl combine Chang's Salad Dressing and Sesame Oil. Whisk until well combined and set aside.</li>
   <li>Add noodles to a large mixing bowl and pour over the dressing. Combine until evenly coated.</li>
-  <li>Assemble salad. Combine noodles, beans, lettuce, carrot, onions, chilli, sesame seeds and coriander. Sprinkle Chang&rsquo;s Fried Noodles and toss again until well combined.</li>
+  <li>Assemble salad. Combine noodles, beans, lettuce, carrot, onions, chilli, sesame seeds and coriander. Sprinkle Chang's Fried Noodles and toss again until well combined.</li>
   <li>Serve.</li>
   </ol>
 tags:

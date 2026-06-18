@@ -33,7 +33,7 @@ method: |
   <li>In the meantime, prepare the noodles according to packet instructions. Drain and set aside.</li>
   <li>In a large heated wok, add 1 tablespoon of the cooking oil and the chicken. Cook until golden. Transfer to a plate.</li>
   <li>Add to the same wok the remaining cooking oil along with the broccoli and red capsicum. Stir fry for only 2-3 minutes.</li>
-  <li>Return the chicken to wok along with the garlic and stir fry to combine. Next add the noodles, Chang&rsquo;s Tamari Light Soy Sauce and <a href="/products/Changs-Japanese-Teriyaki-Sauce/" title="Chang's Japanese Teriyaki Sauce" alt="Chang's Japanese Teriyaki Sauce">Chang's Japanese Teriyaki Sauce</a>. Toss to coat well and bring to boil to allow sauce to thicken.</li>
+  <li>Return the chicken to wok along with the garlic and stir fry to combine. Next add the noodles, Chang's Tamari Light Soy Sauce and <a href="/products/Changs-Japanese-Teriyaki-Sauce/" title="Chang's Japanese Teriyaki Sauce" alt="Chang's Japanese Teriyaki Sauce">Chang's Japanese Teriyaki Sauce</a>. Toss to coat well and bring to boil to allow sauce to thicken.</li>
   <li>Serve hot and top with toasted sesame seeds and green onions.</li>
   </ol>
 tags:

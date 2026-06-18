@@ -26,9 +26,9 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Finely shred cabbage and place in large bowl and drizzle with Chang&rsquo;s Fried Noodle Salad Dressing.</li>
+  <li>Finely shred cabbage and place in large bowl and drizzle with Chang's Fried Noodle Salad Dressing.</li>
   <li>Add green onion, almonds, carrot, red onion, mint, and chilli. Combined well.</li>
-  <li>Squeeze lime juice over salad, then add Chang&rsquo;s fried noodles and toss.</li>
+  <li>Squeeze lime juice over salad, then add Chang's fried noodles and toss.</li>
   <li>Garnish with extra mint and chilli. Serve immediately. </li>
   </ol>
 tags:

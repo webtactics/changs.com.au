@@ -36,7 +36,7 @@ method: |
   <li>Heat the oil in a wok and add the garlic, spring onion and mushrooms, cooking for just 30 seconds so the garlic doesn&rsquo;t burn.</li>
   <li>Add the broccoli, bok choy carrot and asparagus and stir fry for another 30 seconds. Add the stock or water and place a lid on the wok for one minute. Remove the lid and add the soy and oyster sauces and the sugar plus the chives if using, stirring to combine and to dissolve the sugar. Add the tofu and gently fold through to heat it without breaking the pieces up.</li>
   <li>Place the noodles in a shallow serving dish and spoon the vegetable mixture and sauce over the top.</li>
-  <li>For a gluten free alternative, swap the Chang&rsquo;s Life Long Noodles for the Rice Vermicelli, and select an unflavoured tofu brand.</li>
+  <li>For a gluten free alternative, swap the Chang's Life Long Noodles for the Rice Vermicelli, and select an unflavoured tofu brand.</li>
   </ol>
 tags:
   - "Vegetarian"

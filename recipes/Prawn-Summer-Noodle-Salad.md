@@ -41,7 +41,7 @@ method: |
   <li>Clean and prepare all salad ingredients.</li>
   <li>Boil Vermicelli Noodles, drain and run under cold water to cool down. Drain again and place noodles in a large serving bowl.</li>
   <li>Combine and whisk dressing ingredients and pour over the noodles. Toss to evenly coat.</li>
-  <li>Add the salad ingredients to the noodles and toss well to combine. Garnish with Chang&rsquo;s Fried Noodles and serve.</li>
+  <li>Add the salad ingredients to the noodles and toss well to combine. Garnish with Chang's Fried Noodles and serve.</li>
   </ol>
 tags:
   - "Seafood"

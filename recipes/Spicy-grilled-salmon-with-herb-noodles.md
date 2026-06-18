@@ -38,7 +38,7 @@ method: |
   <h3>Method:</h3>
   <ol>
   <li>Marinate the salmon pieces with the ingredients listed for the grilled salmon and set them aside to marinate. Make the marinade in excess as they will be used to make the sauce later.</li>
-  <li>Cook Chang&rsquo;s Pad Thai rice noodles as per the packet&rsquo;s instructions. Run under cold water and set aside to drain.</li>
+  <li>Cook Chang's Pad Thai rice noodles as per the packet&rsquo;s instructions. Run under cold water and set aside to drain.</li>
   <li>Roughly chop the coriander, mint and parsley and add them to a blender jar. Add 3 minced garlic cloves, and lemon juice and blend it into a smooth paste. Add a small amount of water if required.</li>
   <li>Heat 2 tablespoons of sesame oil in a wok and fry off the remaining minced garlic, then add the herb paste and fry off until it is moisture-free. It will be quite thick in consistency but should not be too sticky because of the oil in the wok. Adjust the oil according to this.</li>
   <li>Add the cooked and drained noodles and mix to coat the noodles completely. Finish off with another tablespoon of sesame oil and sprinkle with sesame seeds.</li>

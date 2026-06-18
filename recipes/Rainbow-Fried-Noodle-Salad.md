@@ -32,7 +32,7 @@ method: |
   <h3>Method:</h3>
   <ol>
   <li>Combined cabbage, almonds, onions, carrot, red and yellow capsicum in a large bowl.</li>
-  <li>In a separate bowl combine and whisk well Chang&rsquo;s Salad dressing and soy sauce.</li>
+  <li>In a separate bowl combine and whisk well Chang's Salad dressing and soy sauce.</li>
   <li>Drizzle salad with dressing. Toss and combine well, then add the packet of fried noodles.</li>
   <li>Squeeze lime juice over entire salad and serve immediately.</li>
   </ol>

@@ -24,7 +24,7 @@ ingredients: |
   <li>Sea salt and pepper</li>
   <li>Cooking oil</li>
   </ul>
-  <h4>Chang&rsquo;s Nuoc Cham Sauce:</h4>
+  <h4>Chang's Nuoc Cham Sauce:</h4>
   <ul>
   <li>1 long red chilli, deseeded and finely sliced</li>
   <li>2 cloves garlic, minced</li>
@@ -46,12 +46,12 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Combine in a bowl Chang&rsquo;s Tamari Soy Sauce, Fish Sauce, Sesame Oil and a pinch of salt and pepper. Place the steaks into the bowl and marinate for 15 minutes at room temperature.</li>
+  <li>Combine in a bowl Chang's Tamari Soy Sauce, Fish Sauce, Sesame Oil and a pinch of salt and pepper. Place the steaks into the bowl and marinate for 15 minutes at room temperature.</li>
   <li>In the meantime, prepare the salad ingredients and rice vermicelli noodles and set aside.</li>
-  <li>Next add to a bowl the ingredients for Chang&rsquo;s Nuoc Cham Sauce and combine well. </li>
+  <li>Next add to a bowl the ingredients for Chang's Nuoc Cham Sauce and combine well. </li>
   <li>By this time, the steak is ready. Heat in a frying pan or grilled skillet 2 tablespoons of cooking oil. Once hot, place the beef into the pan and cook 4 minutes per side over medium-high heat. Once cooked, remove from stove and set aside to rest for 5 minutes before thinly slicing.</li>
   <li>Bring it altogether. Begin by adding the noodles to a large serving platter, or divide between 4 dinner bowls. Arrange the cucumber, carrot, onion and bean sprouts on top of the noodles and then add the steak and herbs.</li>
-  <li>Drizzle over the top Chang&rsquo;s Nuoc Cham Sauce. Serve.</li>
+  <li>Drizzle over the top Chang's Nuoc Cham Sauce. Serve.</li>
   </ol>
 tags:
   - "Beef"

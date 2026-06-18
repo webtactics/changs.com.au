@@ -17,7 +17,7 @@ ingredients: |
   <li>200g milk chocolate, finely chopped</li>
   <li>60g butter, chopped</li>
   <li>200g white marshmallows</li>
-  <li>3 cups Chang&rsquo;s Crunchy Noodles</li>
+  <li>3 cups Chang's Crunchy Noodles</li>
   <li>1 cup Rice Bubbles</li>
   <li>&frac14; cup Dollar Sweets Magic Jurassic Bitz</li>
   </ul>
@@ -26,7 +26,7 @@ ingredients: |
   <li>200g white chocolate, finely chopped</li>
   <li>60g butter, chopped</li>
   <li>200g white marshmallows</li>
-  <li>3 cups Chang&rsquo;s Crunchy Noodles</li>
+  <li>3 cups Chang's Crunchy Noodles</li>
   <li>1 cup Rice Bubbles</li>
   </ul>
 method: |

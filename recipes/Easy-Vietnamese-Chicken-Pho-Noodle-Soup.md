@@ -18,14 +18,14 @@ ingredients: |
   <li>2 tbsp. fish sauce</li>
   <li>&frac12; thumb ginger</li>
   <li>2 spring onions, white and pale green parts only</li>
-  <li>1 packet Chang&rsquo;s Thai Rice Noodles</li>
+  <li>1 packet Chang's Thai Rice Noodles</li>
   <li>1 medium white onion, sliced thinly on a mandolin</li>
   <li>1 bunch Vietnamese mint (or regular mint)</li>
   <li>1 bunch Thai basil</li>
   <li>2 cups fresh bean sprouts</li>
   <li>2 medium red chillies, sliced</li>
   <li>1 lime, quartered</li>
-  <li>6 tbsp. Chang&rsquo;s Hoisin sauce</li>
+  <li>6 tbsp. Chang's Hoisin sauce</li>
   </ul>
 method: |
   <h3>Method:</h3>

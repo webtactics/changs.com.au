@@ -44,7 +44,7 @@ method: |
   <ol>
   <li>Mix the marinade ingredients in a non-metallic bowl and add chicken, folding through the mixture to coat thoroughly. Cover and refrigerate for 2-4 hours.</li>
   <li>Bring back to room temperature before cooking on your char grill over medium-high heat, until the outside is scorched and the juices run clear not rosy.</li>
-  <li>Mix the oil, vinegar and Chang&rsquo;s Soy Sauce for the salsa salad and season with sea salt and black pepper.</li>
+  <li>Mix the oil, vinegar and Chang's Soy Sauce for the salsa salad and season with sea salt and black pepper.</li>
   <li>Fold through all the other ingredients and serve a big spoonful alongside a couple of chicken thighs that you have sprinkled with sea salt.</li>
   </ol>
 tags:

@@ -27,7 +27,7 @@ method: |
   <li>Heat a wok or frying pan and add the oil, then the chicken mince, working to break up any clumps of meat that form. Add the sauces when nearly cooked and remove from the heat before stirring through the celery and bamboo shoots (so they stay crunchy).</li>
   <li>Place a spoonful of the mixture in the middle of a sheet of spring roll wrapper and roll tightly, sealing the end with water from the end of your finger.</li>
   <li>Fry over medium heat only in neutral oil. Drain well and allow to cool just a little before serving.</li>
-  <li>Serve with Chang&rsquo;s Dark Soy Sauce, Chang's Gluten Free Tamari Light Soy Sauce with sliced fresh chilli or Chang&rsquo;s Hoisin Sauce.</li>
+  <li>Serve with Chang's Dark Soy Sauce, Chang's Gluten Free Tamari Light Soy Sauce with sliced fresh chilli or Chang's Hoisin Sauce.</li>
   <li>Makes about twenty rolls.</li>
   <li>For a gluten free alternative, use rice paper instead of spring roll paper.</li>
   </ol>

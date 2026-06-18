@@ -36,7 +36,7 @@ method: |
   <li>Preheat oven to 200C. Place the wire rack on the top shelf. Line a large baking tray with baking paper.</li>
   <li>Cube fish into bite-sized pieces. Thread fish and prawns onto skewers &ndash; we used small skewers that hold 3 pieces of seafood.</li>
   <li>Baste the seafood skewers with chilli sauce and place on the paper-lined baking tray. Bake for 15-20 minutes, the prawns and the fish should be opaque in colour and gently caramelised.</li>
-  <li>Meanwhile, arrange lettuce on a serving platter. Cut mango into cheeks and slice into ribbons, using a large spoon scoop out the flesh and spread over the salad leaves. Finely slice baby cucumbers, spread them over the salad. Dress the salad with <a href="/products/Changs-Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a> and sprinkle with a handful of Chang&rsquo;s Fried Noodles.</li>
+  <li>Meanwhile, arrange lettuce on a serving platter. Cut mango into cheeks and slice into ribbons, using a large spoon scoop out the flesh and spread over the salad leaves. Finely slice baby cucumbers, spread them over the salad. Dress the salad with <a href="/products/Changs-Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a> and sprinkle with a handful of Chang's Fried Noodles.</li>
   <li>Remove skewers from the oven and transfer to a serving plate.</li>
   <li>Garnish the salad and the skewers with a handful of fresh coriander leaves. Serve with wraps, if desired.</li>
   </ol>

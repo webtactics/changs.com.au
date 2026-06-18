@@ -47,7 +47,7 @@ method: |
   <li>Soak the dried shiitake mushrooms in cold water for a minimum of 2 hours (up to 24 hours).</li>
   <li>Strain the soaking liquid into a large saucepan (this is your mushroom broth). Reserve the mushrooms.</li>
   <li>Add the sliced ginger and simmer for 10 minutes.</li>
-  <li>Stir in the coconut milk and Chang&rsquo;s Tamari Light Soy Sauce.</li>
+  <li>Stir in the coconut milk and Chang's Tamari Light Soy Sauce.</li>
   <li>Keep warm.</li>
   </ol>
   <h4>Mushroom Broth -Shortcut Option:</h4>
@@ -56,7 +56,7 @@ method: |
   <ol>
   <li>Heat a pan over medium heat.</li>
   <li>Add the diced shiitake mushrooms and cook until lightly golden.</li>
-  <li>Add Chang&rsquo;s Tamari Light Soy Sauce, Chang&rsquo;s Hoisin Sauce, and Chang&rsquo;s Oyster Sauce.</li>
+  <li>Add Chang's Tamari Light Soy Sauce, Chang's Hoisin Sauce, and Chang's Oyster Sauce.</li>
   <li>Cook until glossy and slightly caramelised.</li>
   <li>Set aside.</li>
   </ol>

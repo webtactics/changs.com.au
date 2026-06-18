@@ -35,7 +35,7 @@ method: |
   <li>Remove the crab to a bowl and drain away all but one tablespoon of oil.</li>
   <li>Add the butter as when melted add the garlic, ginger and chilli. Cook until it becomes aromatic then add the oyster and soy sauces, and the sugar.</li>
   <li>Return the crab to the wok and stir to coat with the sauce then sprinkle over the pepper, stirring again to coat. Bring to the boil then reduce to a gentle simmer and place the lid on the wok, simmering for 5-10 minutes depending on the size of the crabs, until the meat is opaque.</li>
-  <li>Cook the noodles as per the instructions on pack and drain then transfer to a platter, ladling the crab and all the sauce on top. For a gluten free alternative, service with rice or Chang&rsquo;s Vermicelli Noodles.</li>
+  <li>Cook the noodles as per the instructions on pack and drain then transfer to a platter, ladling the crab and all the sauce on top. For a gluten free alternative, service with rice or Chang's Vermicelli Noodles.</li>
   <li>Scatter the coriander leaves on top of the crab and serve immediately with finger bowls for the mess.</li>
   </ol>
 tags:

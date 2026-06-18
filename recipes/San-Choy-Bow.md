@@ -20,14 +20,14 @@ ingredients: |
   <li>2 tbsp. finely chopped spring onions</li>
   <li>2 tbsp. finely chopped bamboo shoots</li>
   <li>6 green beans cut in 5mm pieces</li>
-  <li>2 tbsp. Chang&rsquo;s Oyster Sauce</li>
+  <li>2 tbsp. Chang's Oyster Sauce</li>
   <li>4 iceberg lettuce leaves, trimmed into a circular bowl shape-refrigerated</li>
   </ul>
 method: |
   <h3>Method:</h3>
   <ol>
   <li>Prepare and heat oil in a wok. Add the beef, garlic and onion, cooking until the beef turns grey and the onion softens, stirring frequently.</li>
-  <li>Add the beans and bamboo shoots and stir for 30 seconds before adding the Chang&rsquo;s Oyster Sauce and simmering for one minute.</li>
+  <li>Add the beans and bamboo shoots and stir for 30 seconds before adding the Chang's Oyster Sauce and simmering for one minute.</li>
   <li>Allow to cool slightly and spoon into chilled lettuce cups</li>
   </ol>
 tags:

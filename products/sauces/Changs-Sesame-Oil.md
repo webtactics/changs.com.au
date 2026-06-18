@@ -2,7 +2,7 @@
 title: "Chang's Sesame Oil"
 status: published
 date: 4000-01-30
-description: "Chang&rsquo;s Sesame Oil gives a delicate flavour to meats, chicken, vegetable and noodles. Add towards the end of cooking for best results. Available in the cooking oil aisle at your favourite supermarket and selected independent food stores."
+description: "Chang's Sesame Oil gives a delicate flavour to meats, chicken, vegetable and noodles."
 permalink: "/products/Changs-Sesame-Oil/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Sesame-Oil/210504-Changs-Sesame-Oil-280ml-1200x1200.jpg
 sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Sesame-Oil/210504-Changs-Sesame-Oil-280ml-300x200.jpg

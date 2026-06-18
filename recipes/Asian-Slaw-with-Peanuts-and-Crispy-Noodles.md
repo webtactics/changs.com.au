@@ -27,7 +27,7 @@ method: |
   <ol>
   <li>Combine in a bowl the cabbage, greens onions and carrot.</li>
   <li>Drizzle over <a href="/products/Changs-Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a> and Sesame Oil.</li>
-  <li>Toss through Chang&rsquo;s Fried Noodles and crushed Peanuts.</li>
+  <li>Toss through Chang's Fried Noodles and crushed Peanuts.</li>
   <li>Serve immediately.</li>
   <li>Make it a meal by serving it with our Teriyaki Roast Chicken and Corn.</li>
   </ol>

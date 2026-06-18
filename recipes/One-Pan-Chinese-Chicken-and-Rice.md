@@ -32,10 +32,10 @@ method: |
   <ol>
   <li>Pat dry the chicken with a paper towel. Next, rub all sides with <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> and toss to coat with the Chinese 5 spice powder, salt and pepper.</li>
   <li>Add to a wide base pan (approx. 30cm in diameter and 10cm deep) the cooking oil and over medium add the chicken, skin side down. Cook for 7 minutes or until golden, then turn over and cook for a further 5 minutes.</li>
-  <li>Next add the garlic and ginger and saut&eacute; for 1 minute before adding the rice. Stir the rice until evenly coated with the oil and then add the hot vegetable stock, Chang&rsquo;s Hoisin Sauce and Chang&rsquo;s Tamari Light Soy Sauce. Season well and bring to boil.</li>
+  <li>Next add the garlic and ginger and saut&eacute; for 1 minute before adding the rice. Stir the rice until evenly coated with the oil and then add the hot vegetable stock, Chang's Hoisin Sauce and Chang's Tamari Light Soy Sauce. Season well and bring to boil.</li>
   <li>Once boiling, reduce heat to a simmer for 20 minutes.</li>
   <li>Turn off heat and allow to sit, covered for a further 5 minutes.</li>
-  <li>Squeeze lime juice all over and garnish with sliced green onions and Chang&rsquo;s choice of Fried Noodles.</li>
+  <li>Squeeze lime juice all over and garnish with sliced green onions and Chang's choice of Fried Noodles.</li>
   </ol>
 tags:
   - "Poultry"

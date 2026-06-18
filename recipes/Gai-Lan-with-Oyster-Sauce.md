@@ -23,7 +23,7 @@ method: |
   <ol>
   <li>Bring a large saucepan of water to the boil, set aside to simmer. Cut the Gai Lan into 4-6 pieces, and either boil or steam until cooked al dente.</li>
   <li>Drain the Gai Lan and set aside.</li>
-  <li>Combine the Chang&rsquo;s Oyster Sauce, Sesame Oil and Light Soy Sauce in a medium bowl.</li>
+  <li>Combine the Chang's Oyster Sauce, Sesame Oil and Light Soy Sauce in a medium bowl.</li>
   <li>Spoon oyster sauce over the Gai Lan before serving.</li>
   TIP: For an authentic Yum Cha experience, cut the Gai Lan after boiling or steaming.</ol>
 tags:

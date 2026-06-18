@@ -37,7 +37,7 @@ method: |
   <h3>Method:</h3>
   <ol>
   <li>Add cooking oil to wok and stir fry mushrooms for 2 minutes over high heat. Now add ginger, garlic and Chinese five spice. Stir fry for a further minute.</li>
-  <li>Pour over mushrooms Chang&rsquo;s Hoisin Sauce and Sesame Oil. Bring to boil and then turn off heat.</li>
+  <li>Pour over mushrooms Chang's Hoisin Sauce and Sesame Oil. Bring to boil and then turn off heat.</li>
   <li>Heat pancakes according to packet instructions.</li>
   <li>Serve immediately to assemble pancakes. Place mushrooms on Peking pancakes, top with cucumber, green onion, chilli and coriander. Serve extra Hoisin as a dipping sauce.</li>
   </ol>

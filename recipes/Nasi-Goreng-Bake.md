@@ -37,12 +37,12 @@ ingredients: |
 method: |
   <h3>Method</h3>
   <ol>
-  <li>In a large and deep pan or wok add the cooking oil, chicken, onion and garlic. Fry until chicken is lightly golden. Pour over the chicken the chilli sauce, Chang&rsquo;s Kecap Manis, sea salt, pepper and rice. Combine well. Pour the boiling water over the mixture and bring it to boil. Once it is boiling, reduce heat and simmer for 5 minutes.</li>
+  <li>In a large and deep pan or wok add the cooking oil, chicken, onion and garlic. Fry until chicken is lightly golden. Pour over the chicken the chilli sauce, Chang's Kecap Manis, sea salt, pepper and rice. Combine well. Pour the boiling water over the mixture and bring it to boil. Once it is boiling, reduce heat and simmer for 5 minutes.</li>
   <li>Take off heat and transfer to a non-stick baking dish. Cover with foil and place in pre-heated oven at 170C fan-forced for 20 minutes. Cover well to keep moisture in.</li>
   <li>Add prawns to baking tray and spread out evenly.</li>
   <li>With a spoon create 4 holes in the rice and crack an egg in each hole. Cover once again with foil and bake a further 15 minutes (If needed pour half a cup of boiling water around the edges of the baking tray if the rice is dry).</li>
   <li>Remove from oven but do not take off the foil. Allow to sit for 10 minutes.</li>
-  <li>Serve immediately and top with garnish of choice including: green onions, cucumber, radish, chilli and juice of lime. For a crunchy twist sprinkle with Chang&rsquo;s fried noodles.</li>
+  <li>Serve immediately and top with garnish of choice including: green onions, cucumber, radish, chilli and juice of lime. For a crunchy twist sprinkle with Chang's fried noodles.</li>
   </ol>
 tags:
   - "Poultry"

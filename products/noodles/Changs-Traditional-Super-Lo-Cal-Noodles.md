@@ -2,7 +2,7 @@
 title: "Chang's Traditional Super Lo-Cal Noodles"
 status: published
 date: 4000-02-16
-description: "Chang&rsquo;s new Super Lo-Cal Wok-Ready Noodles are 100% fat-free, low-GI and gluten-free."
+description: "Chang's new Super Lo-Cal Wok-Ready Noodles are 100% fat-free, low-GI and gluten-free."
 permalink: "/products/Changs-Traditional-Super-Lo-Cal-Noodles/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Traditional-Super-Lo-Cal-Noodles/Changs-Traditional-Super-Lo-Cal-Noodles-1000x1000.jpg
 sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Traditional-Super-Lo-Cal-Noodles/Changs-Traditional-Super-Lo-Cal-Noodles-summary.jpg

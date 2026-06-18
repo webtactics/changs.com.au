@@ -28,11 +28,11 @@ method: |
   <h3>Method:</h3>
   <ol>
   <ol>
-  <li><strong>Prepare the broth and noodles.</strong><br /> Heat the chicken broth gently in a saucepan.<br /> Prepare Chang&rsquo;s Super Lo-Cal Traditional Noodles (thin noodles) according to packet instructions.</li>
+  <li><strong>Prepare the broth and noodles.</strong><br /> Heat the chicken broth gently in a saucepan.<br /> Prepare Chang's Super Lo-Cal Traditional Noodles (thin noodles) according to packet instructions.</li>
   <li><strong>Cook the soft-boiled eggs.<br /></strong>Allow the eggs to come to room temperature.<br />Bring water to the boil and pour into a small saucepan.<br />Add the egg(s), reduce to a simmer, and cook for 6 minutes for a runny centre or 8 minutes for a firmer soft-boiled texture.<br />Transfer to a bowl of ice water to stop the cooking process.<br />Peel and cut in half.</li>
   <li><strong>Make the aromatic garlic oil.<br /></strong>Add minced garlic to a small fry pan with 2 tbsp vegetable oil and cook until golden and fragrant.<br />Remove from the heat and add a drop of sesame oil for extra flavour.</li>
-  <li><strong>Assemble the bowls.<br /></strong>Ladle hot broth into serving bowls.<br />Gently place Chang&rsquo;s Super Lo-Cal Traditional Noodles (thin noodles) into the hot broth.<br />Top with the aromatic garlic oil, herbs and soft-boiled egg.<br />Garnish with chopped spring onion.</li>
-  <li><strong>Serve.<br /></strong>Serve with Chang&rsquo;s Hoisin Sauce in a small dish for the perfect egg dipping sauce.</li>
+  <li><strong>Assemble the bowls.<br /></strong>Ladle hot broth into serving bowls.<br />Gently place Chang's Super Lo-Cal Traditional Noodles (thin noodles) into the hot broth.<br />Top with the aromatic garlic oil, herbs and soft-boiled egg.<br />Garnish with chopped spring onion.</li>
+  <li><strong>Serve.<br /></strong>Serve with Chang's Hoisin Sauce in a small dish for the perfect egg dipping sauce.</li>
   </ol>
   </ol>
 tags:

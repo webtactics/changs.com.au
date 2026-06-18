@@ -12,7 +12,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>400g beef rump, thinly sliced</li>
-  <li>1/3 cup Chang&rsquo;s Hoisin sauce</li>
+  <li>1/3 cup Chang's Hoisin sauce</li>
   <li>2 tbsps peanut oil</li>
   <li>1 large brown onion, sliced</li>
   <li>2 cloves garlic, crushed</li>

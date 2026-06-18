@@ -25,7 +25,7 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Begin by combining Chang&rsquo;s Hoisin Sauce, Sesame Oil sea salt and pepper in a wide bowl. Add the mushrooms to the marinade and using a pastry brush coat all sides of the mushrooms. Allow to sit for 10 minutes only.</li>
+  <li>Begin by combining Chang's Hoisin Sauce, Sesame Oil sea salt and pepper in a wide bowl. Add the mushrooms to the marinade and using a pastry brush coat all sides of the mushrooms. Allow to sit for 10 minutes only.</li>
   <li>In the meantime, using a sharp knife slice the green onion into thin strips and soak in cold water. This helps them curl.</li>
   <li>Place mushrooms on a pan grill or BBQ on high heat and cook each side until it begins to brown. Brush more marinade if needed.</li>
   <li>Serve over a bed of steamed rice along with some strips of green onion, a sprinkle of sesame seeds and chilli flakes and an extra drizzle of <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a>.</li>

@@ -36,7 +36,7 @@ method: |
   <li>Fold the overhanging plastic wrap over to enclose the ice cream and freeze overnight to set.</li>
   <li>Remove from freezer. Leave at room temperature for 2 minutes. In the meantime, prepare decorations.</li>
   <li>Gently ease the sides away to release the ice cream and then turn upside down onto serving platter. Lift tin and peel back plastic.</li>
-  <li>Pipe cream along the top, and decorate with peaches, fresh raspberries, mint leaves and Chang&rsquo;s Crunchy Noodles. Serve immediately.</li>
+  <li>Pipe cream along the top, and decorate with peaches, fresh raspberries, mint leaves and Chang's Crunchy Noodles. Serve immediately.</li>
   </ol>
 tags:
   - "Noodles Ingredient"

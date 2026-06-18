@@ -26,9 +26,9 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>In a dish combine Chang&rsquo;s Fried Noodle Salad Dressing and juice of 1 lime and whisk.</li>
+  <li>In a dish combine Chang's Fried Noodle Salad Dressing and juice of 1 lime and whisk.</li>
   <li>Combine all salad ingredients (excluding Fried Noodles) in a deep bowl. Pour over the sauce and toss until well coated.</li>
-  <li>Add Chang&rsquo;s Fried Noodles to salad. Serve immediately.</li>
+  <li>Add Chang's Fried Noodles to salad. Serve immediately.</li>
   </ol>
 tags:
   - "Soup and Salad"

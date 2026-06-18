@@ -41,7 +41,7 @@ method: |
   <li>Combine all the meatball ingredients, except the oil, in either a food processor or by hand in a bowl.</li>
   <li>Allow meat to rest in the fridge for ten minutes. Remove from the fridge, and roll meat into walnut-sized balls with your hands.</li>
   <li>Heat the oil in a wok or frying pan and brown the meatballs in batches, turning occasionally until just cooked through. Once done, drain meatballs on a paper towel. At this point, meatballs can be refrigerated and used later.</li>
-  <li>Heat the stock and add the <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a>, stock and sugar and bring to the boil. Add the Chinese cabbage, Chang&rsquo;s Super Lo-Cal Noodles and reserved meatballs and simmer very gently for five minutes.</li>
+  <li>Heat the stock and add the <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a>, stock and sugar and bring to the boil. Add the Chinese cabbage, Chang's Super Lo-Cal Noodles and reserved meatballs and simmer very gently for five minutes.</li>
   <li>Finally, add the mushrooms and simmer for just another minute.</li>
   <li>Ladle soup into individual bowls or serve from a soup tureen, sprinkling over a handful of sliced dark green spring onion tops.</li>
   </ol>

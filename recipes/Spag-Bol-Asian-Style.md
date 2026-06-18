@@ -32,7 +32,7 @@ method: |
   <li>Pour the oil into a saucepan or deep sided frying pan and soften the onion, garlic, ginger and carrot over medium heat without browning. Add the pork and cook until the meat changes colour, stirring frequently.</li>
   <li>Add the hoisin, light soy sauce, diced tomatoes, tomato paste and coriander and stir well to combine. Bring to the boil then gently simmer for at least 45 minutes and up to 2 hours.</li>
   <li>Cook noodles as per instructions on pack and drain before placing in a large bowl. Pour sauce over noodles and serve immediately.</li>
-  <li>For a gluten free alternative, use Chang&rsquo;s Gluten Free Wok Ready Noodle or Chang&rsquo;s Super Lo Cal Noodle.</li>
+  <li>For a gluten free alternative, use Chang's Gluten Free Wok Ready Noodle or Chang's Super Lo Cal Noodle.</li>
   </ol>
 tags:
   - "Pork"

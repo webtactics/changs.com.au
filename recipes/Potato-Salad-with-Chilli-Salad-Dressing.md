@@ -34,7 +34,7 @@ method: |
   <li>Prepare the bacon, eggs and green onions.</li>
   <li>Whisk together the Salad Dressing.</li>
   <li>Pour dressing over potatoes and combine until evenly coated. Spread over serving bowl.</li>
-  <li>Top with pan fried bacon, boiled eggs, green onions and Chang&rsquo;s Fried Noodles.</li>
+  <li>Top with pan fried bacon, boiled eggs, green onions and Chang's Fried Noodles.</li>
   <li>Serve at room temperature. Refrigerate leftovers. </li>
   </ol>
 tags:

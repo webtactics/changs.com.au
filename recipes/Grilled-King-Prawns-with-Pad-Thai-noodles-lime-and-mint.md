@@ -12,7 +12,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>1.2 kg green king prawns, about 12 large, split lengthways deveined, heads discarded</li>
-  <li>2/3 cup Chang&rsquo;s Asian salad dressing</li>
+  <li>2/3 cup Chang's Asian salad dressing</li>
   <li>2 tbsps <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>2 tbsps garlic chives</li>
   <li>1/2 daikon, julienned, placed in a bowl of cold water</li>

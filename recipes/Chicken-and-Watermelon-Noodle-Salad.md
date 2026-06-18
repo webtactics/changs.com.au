@@ -17,12 +17,12 @@ ingredients: |
   <li>2 tbsps <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>2 cloves garlic, crushed</li>
   <li>2 tbsps <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>1 tbsp Chang&rsquo;s Fish sauce</li>
+  <li>1 tbsp Chang's Fish sauce</li>
   <li>1/4 cup <a href="/products/Changs-Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a></li>
   <li>1 red onion, thinly sliced</li>
   <li>1 cup bean sprouts, trimmed</li>
   <li>1/2 cup Vietnamese mint leaves</li>
-  <li>2 packets Chang&rsquo;s Crunchy Noodles</li>
+  <li>2 packets Chang's Crunchy Noodles</li>
   <li>250g seedless red watermelon, chopped</li>
   </ul>
 method: |

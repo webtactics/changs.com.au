@@ -30,7 +30,7 @@ method: |
   <li>Place drain noodles in a bowl and pour over boiling water to heat them through.</li>
   <li>While noodles are warming, place the oil in a hot wok and add the pork, garlic and ginger, stirring occasionally but trying to brown the pork against the sides of the wok.</li>
   <li>When pork is nearly cooked, add the spring onions and asparagus and stir fry for 30 seconds.</li>
-  <li>Add the Chang&rsquo;s Hoisin Sauce and <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a> and cook for one minute.</li>
+  <li>Add the Chang's Hoisin Sauce and <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a> and cook for one minute.</li>
   <li>Drain the noodles and place on a dish then spoon the pork and asparagus on top.</li>
   </ol>
 tags:

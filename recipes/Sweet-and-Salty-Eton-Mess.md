@@ -25,7 +25,7 @@ method: |
   <ol>
   <li>Prepare all your ingredients, set out your serving glasses and then whip the cream.</li>
   <li>Whip the cream until soft peaks form. Once whipped, gently fold in half of the crushed meringue kisses.</li>
-  <li>Now to assemble. Firstly add the blueberries and strawberries, secondly, dollop some of the cream, thirdly add some crushed meringue kisses and finally top it off with a sprinkle of Chang&rsquo;s Fried Noodles. Repeat the process and finish it with a garnish of mint leaves.</li>
+  <li>Now to assemble. Firstly add the blueberries and strawberries, secondly, dollop some of the cream, thirdly add some crushed meringue kisses and finally top it off with a sprinkle of Chang's Fried Noodles. Repeat the process and finish it with a garnish of mint leaves.</li>
   </ol>
 tags:
   - "Noodles Ingredient"

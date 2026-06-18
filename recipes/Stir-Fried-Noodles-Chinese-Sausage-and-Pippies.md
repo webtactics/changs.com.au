@@ -32,7 +32,7 @@ method: |
   <li>At the same time, heat a wok and add the remaining oil. Add the garlic, ginger, lup cheong sausage and spring onions and cook until sausage begins to colour.</li>
   <li>Drain the clams, reserving to liquid they have produced in the saucepan.</li>
   <li>Add the clams, garlic and chives if using, Light soy and Oyster sauces and &frac12; cup of the clam liquid and stir gently to combine. Either spoon the mixture over the fried noodle cake or stir through the reserved noodles if preparing that way.</li>
-  <li>For a gluten free alternative, replace the Long Life Noodles with rice or Chang&rsquo;s Thai-Style Rice Noodles.</li>
+  <li>For a gluten free alternative, replace the Long Life Noodles with rice or Chang's Thai-Style Rice Noodles.</li>
   </ol>
 tags:
   - "Seafood"

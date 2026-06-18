@@ -36,8 +36,8 @@ ingredients: |
 method: |
   <h3>Method</h3>
   <ol>
-  <li>Simply cut (chop) each ingredient into approximately the same size then place in a salad bowl and gently toss with Chang&rsquo;s Asian Dressing and Chang&rsquo;s Original Crunchy Noodles.</li>
-  <li>For a gluten free alternative, simply remove the Chang&rsquo;s Original Crunchy Noodles.</li>
+  <li>Simply cut (chop) each ingredient into approximately the same size then place in a salad bowl and gently toss with Chang's Asian Dressing and Chang's Original Crunchy Noodles.</li>
+  <li>For a gluten free alternative, simply remove the Chang's Original Crunchy Noodles.</li>
   </ol>
 tags:
   - "Vegetarian"

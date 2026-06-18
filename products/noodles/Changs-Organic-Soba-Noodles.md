@@ -2,7 +2,7 @@
 title: "Chang's Organic Soba Noodles"
 status: published
 date: 4000-02-22
-description: "Chang&rsquo;s Organic Soba Noodles are thin traditional Japanese-style noodles made with a mixture of wheat and buckwheat. With a similar size and shape to Italian spaghetti, our Organic Soba Noodles are suitable for many pasta dishes."
+description: "Chang's Organic Soba Noodles are thin traditional Japanese-style noodles made with a mixture of wheat and buckwheat. With a similar size and shape to Italian spaghetti, our Organic Soba Noodles are suitable for many pasta dishes."
 permalink: "/products/Changs-Organic-Soba-Noodles/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Organic-Soba-Noodles/Changs-Organic-Soba-Noodles-280g-front.jpg
 sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Organic-Soba-Noodles/Changs-Organic-Soba-Noodles-280g-front-300x200.jpg

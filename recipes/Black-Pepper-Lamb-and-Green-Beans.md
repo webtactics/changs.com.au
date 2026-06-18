@@ -25,7 +25,7 @@ method: |
   <li>Heat oil in a wok over high heat, and stir fry half of the lamb until lightly brown and set aside.</li>
   <li>Cook the remaining lamb in the wok, and set aside.</li>
   <li>Put the green beans into the wok, and stir fry until colour begins changes to adeep green.</li>
-  <li>Add the lamb back into the wok, then pour half bottle of Chang&rsquo;s Black Pepper Sauce.</li>
+  <li>Add the lamb back into the wok, then pour half bottle of Chang's Black Pepper Sauce.</li>
   <li>Stir dish until beans and lamb are tender.</li>
   <li>Serve immediately, with rice.</li>
   </ol>

@@ -33,7 +33,7 @@ method: |
   <li>Whisk the egg whites until firm and fold through the mixture.</li>
   <li>Heat the duck in a hot oven to re-crisp the skin and then remove meat from bones and cut into &frac12; cm slices.</li>
   <li>Spread remaining two tablespoons of oil over the flat grill and spoon or ladle out enough mixture to make 10-12cm fritters (2-3 tablespoons). Turn the fritters when the bottom is golden brown and bubbles appear on the surface.</li>
-  <li>Transfer the fritters to serving plates and top with the duck slices, cucumber and spring onion, spooning a little Chang&rsquo;s Hoisin sauce over the top and serving more in a small bowl separately.</li>
+  <li>Transfer the fritters to serving plates and top with the duck slices, cucumber and spring onion, spooning a little Chang's Hoisin sauce over the top and serving more in a small bowl separately.</li>
   </ol>
 tags:
   - "Poultry"

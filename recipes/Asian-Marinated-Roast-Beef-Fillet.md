@@ -17,7 +17,7 @@ ingredients: |
   <li>1 kg beef fillet</li>
   <li>2 tbsp. vegetable oil</li>
   <li>250g <a href="/products/Changs-Vermicelli-Rice-Noodles/" title="Chang's Vermicelli Rice Noodles" alt="Chang's Vermicelli Rice Noodles">Chang's Vermicelli Rice Noodles</a></li>
-  <li>&frac14; cup (60ml) Chang&rsquo;s Fish Sauce</li>
+  <li>&frac14; cup (60ml) Chang's Fish Sauce</li>
   <li>2 long red chillies, seeds removed, chopped</li>
   <li>&frac14; cup (55g) caster sugar</li>
   <li>&frac14; cup (60ml) rice vinegar</li>
@@ -29,7 +29,7 @@ ingredients: |
   <h3>Marinade:</h3>
   <ul>
   <li>2 tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>2 tbsp. Chang&rsquo;s Oyster Sauce</li>
+  <li>2 tbsp. Chang's Oyster Sauce</li>
   <li>1 tbsp. honey</li>
   <li>1 tbsp. <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>1 tsp. ginger, grated</li>

@@ -33,7 +33,7 @@ method: |
   <ol>
   <li>Prepare prawns, onion and lettuce and place into large mixing bowl.</li>
   <li>In a small bowl combine the dressing ingredients, whisk well and pour over salad.</li>
-  <li>Top with dragon fruit, choice of Chang&rsquo;s Crispy Fried Noodles and mint. Serve immediately.</li>
+  <li>Top with dragon fruit, choice of Chang's Crispy Fried Noodles and mint. Serve immediately.</li>
   </ol>
 tags:
   - "Seafood"

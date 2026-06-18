@@ -39,7 +39,7 @@ method: |
   <li>Prepare Hot Chilli Mayo.</li>
   <li>Open up each bread bun and spread the hot chilli mayo sauce over the inside of the bun.</li>
   <li>Evenly divide the carrot, radish, sprouts and hot dogs between the bed buns.</li>
-  <li>Top with an extra drizzle of hot chilli sauce and a good sprinkle of Chang&rsquo;s Fried Noodles. Serve and enjoy.</li>
+  <li>Top with an extra drizzle of hot chilli sauce and a good sprinkle of Chang's Fried Noodles. Serve and enjoy.</li>
   </ol>
 tags:
   - "Pork"

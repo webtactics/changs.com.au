@@ -15,7 +15,7 @@ ingredients: |
   <ul>
   <li>375ml (1/2 cups) coconut yoghurt</li>
   <li>2 tbsps brown sugar</li>
-  <li>1 tbsp Chang&rsquo;s Fish sauce</li>
+  <li>1 tbsp Chang's Fish sauce</li>
   <li>2 cloves garlic, crushed</li>
   <li>1 lime, zest and juice</li>
   <li>800g chicken tenderloins</li>

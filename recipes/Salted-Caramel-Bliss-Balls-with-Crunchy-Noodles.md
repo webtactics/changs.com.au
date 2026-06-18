@@ -22,7 +22,7 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Place Chang&rsquo;s Fried Noodles into a food processor and pulse until roughly chopped and resembles bread crumbs. Remove and set aside.</li>
+  <li>Place Chang's Fried Noodles into a food processor and pulse until roughly chopped and resembles bread crumbs. Remove and set aside.</li>
   <li>Roughly chop the dates and add them to the same food processor along with the maple syrup and vanilla. Blend until broken down.</li>
   <li>Scrape the sides of the food processor bowl and then add the Fried Noodles and coconut. Continue to blend until well combined.</li>
   <li>Roll the mixture into balls and roll in extra coconut. Store in the fridge for when required.</li>

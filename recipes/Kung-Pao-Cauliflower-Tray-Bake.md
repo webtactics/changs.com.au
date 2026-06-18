@@ -50,7 +50,7 @@ method: |
   <li>Cut cauliflower into small florets, no larger than 3cm cubed and place onto tray along with the capsicums. Spray with cooking oil, season with salt and pepper and bake for 25 minutes.</li>
   <li>In the meantime, combine all the ingredients to create the sauce and prepare the garnish.</li>
   <li>Remove the tray from the oven and pour the sauce over the vegetables. Toss well to coat the vegetables and return to the oven. Bake for a further 10 minutes.</li>
-  <li>Once cooked, remove from oven, garnish with green onions and choice between peanuts or for a nut-free version, Chang&rsquo;s Fried Noodles. Serve immediately as a side dish or with steamed rice.</li>
+  <li>Once cooked, remove from oven, garnish with green onions and choice between peanuts or for a nut-free version, Chang's Fried Noodles. Serve immediately as a side dish or with steamed rice.</li>
   </ol>
 tags:
   - "Vegetarian"

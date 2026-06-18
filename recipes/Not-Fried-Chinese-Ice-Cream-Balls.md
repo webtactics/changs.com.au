@@ -30,9 +30,9 @@ method: |
   <ol>
   <li>Line a baking tray with baking paper and freeze until very cold.</li>
   <li>Working quickly, using a large spoon or ice cream scoop, scoop eight large balls of ice cream onto the chilled tray and then place back into the freezer for 30 minutes.</li>
-  <li>In the meantime, prepare the &lsquo;not-fried&rsquo; coating. Place Chang&rsquo;s Fried Noodles into a food processor and pulse until coarsely crushed. Alternatively, place into a zip bag and crush with a rolling pin.</li>
+  <li>In the meantime, prepare the &lsquo;not-fried&rsquo; coating. Place Chang's Fried Noodles into a food processor and pulse until coarsely crushed. Alternatively, place into a zip bag and crush with a rolling pin.</li>
   <li>Place crushed noodles into a wide base bowl and add the desiccated coconut. Mix to combine well.</li>
-  <li>Remove ice cream balls from freezer and roll in Chang&rsquo;s Fried Noodle mixture until well coated. Freeze for a minimum of 2 hours before serving.</li>
+  <li>Remove ice cream balls from freezer and roll in Chang's Fried Noodle mixture until well coated. Freeze for a minimum of 2 hours before serving.</li>
   <li>Serve with desired amount of chocolate sauce and top with whipped cream and cherries.</li>
   </ol>
 tags:

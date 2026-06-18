@@ -36,10 +36,10 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Drain and rinse well Chang&rsquo;s Lo Cal Noodles, according to packet instructions. Then place the noodles in a non-stick pan and cook for several minutes on their own to help eliminate extra water from the noodles. Remove from heat and place again into sieve to drip dry. Set aside.</li>
+  <li>Drain and rinse well Chang's Lo Cal Noodles, according to packet instructions. Then place the noodles in a non-stick pan and cook for several minutes on their own to help eliminate extra water from the noodles. Remove from heat and place again into sieve to drip dry. Set aside.</li>
   <li>In the same pan, lightly toast the Sichuan peppercorns for 1 minute or until fragrant, and then remove from heat. Allow cooling and then grind using a mortar and pestle or crush using a rolling pin. Place into a bowl and combine all the ingredients for the Sichuan dressing.</li>
   <li>Slice the cucumber into thin long strips (optional to use a mandolin slicer) and prepare the chilli, spring onions and coriander.</li>
-  <li>Bring it together by combining the noodles with the Sichuan dressing, then stir through the cucumber, chilli, coriander and spring onions. Top with a hearty handful of Chang&rsquo;s Original or Gluten-Free Fried Noodles and serve.</li>
+  <li>Bring it together by combining the noodles with the Sichuan dressing, then stir through the cucumber, chilli, coriander and spring onions. Top with a hearty handful of Chang's Original or Gluten-Free Fried Noodles and serve.</li>
   </ol>
 tags:
   - "Vegetarian"

@@ -28,7 +28,7 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Finely shred cabbage using a knife or a mandolin slicer. Place in a bowl. Chop coriander and spring onions and add to the bowl. Add Chang&rsquo;s Fried Noodles and Salad Dressing and mix well to coat.</li>
+  <li>Finely shred cabbage using a knife or a mandolin slicer. Place in a bowl. Chop coriander and spring onions and add to the bowl. Add Chang's Fried Noodles and Salad Dressing and mix well to coat.</li>
   <li>Divide half the salad between 2 serving plates (store the rest of the salad in an air-tight container in the fridge for up to 24 hours).</li>
   <li>Top with hot-smoked salmon and drizzle each with Chan&rsquo;s Hot Chilli Sauce. Sprinkle with sesame seeds and serve.</li>
   </ol>

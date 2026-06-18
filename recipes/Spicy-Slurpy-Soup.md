@@ -27,7 +27,7 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Add <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a>, garlic, ginger and green onions into a deep and wide pot and over a low heat, saut&eacute; for 2 minutes. Then add hot sauce, Chang&rsquo;s Soy Sauce and the diced tomatoes, stock and combine well. Simmer for a minute and then take off stove.</li>
+  <li>Add <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a>, garlic, ginger and green onions into a deep and wide pot and over a low heat, saut&eacute; for 2 minutes. Then add hot sauce, Chang's Soy Sauce and the diced tomatoes, stock and combine well. Simmer for a minute and then take off stove.</li>
   <li>Using a hand blender (or food processor) process until smooth and ingredients have blended well.</li>
   <li>Place back into the pot and onto the stove and bring to boil. Add <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> and cook for 10 minutes. Using tongs, assist to break open the noodles once they have been boiling for 3 minutes. If more liquid is needed, add &frac12; cup of boiling water.</li>
   <li>Evenly distribute between 4 bowls and top with boiled eggs, slices of chilli, coriander leaves, spring onion and a good drizzle of lime juice.</li>

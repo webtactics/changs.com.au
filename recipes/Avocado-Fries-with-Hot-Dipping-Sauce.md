@@ -35,7 +35,7 @@ method: |
   <ol>
   <li>Pre heat oven 200C fan forced and line a baking tray with baking paper.</li>
   <li>Slice each whole avocado into half and then each half into 4 slices and season with sea salt and pepper (giving you a total of 8 slices per avocado)</li>
-  <li>Using a food processor, pulse Chang&rsquo;s Fried Noodles and then in a bowl combine them with the bread crumbs.</li>
+  <li>Using a food processor, pulse Chang's Fried Noodles and then in a bowl combine them with the bread crumbs.</li>
   <li>In a second bowl, whisk the eggs and in a third bowl add the plain flour.</li>
   <li>Lightly coat all the avocado pieces into the plain flour and set them aside on the tray. Then one by one dip each slice in the egg mixture and finally coat in Fried Noodle / Flour mixture.</li>
   <li>Place onto baking tray and lightly spray fries with extra virgin olive oil or coconut oil. Bake for 8 minutes each side.</li>

@@ -27,11 +27,11 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Combine pork, egg yolks, breadcrumbs, Chang&rsquo;s Hoisin sauce, light soy, lemon zest, five spice powder and pepper in a bowl and mix very thoroughly with your hands.</li>
+  <li>Combine pork, egg yolks, breadcrumbs, Chang's Hoisin sauce, light soy, lemon zest, five spice powder and pepper in a bowl and mix very thoroughly with your hands.</li>
   <li>Either roll into walnut size meatballs or shape into rissoles if you prefer.</li>
   <li>Cover the flat grill on your BBQ with the oil and cook the meatballs over medium heat, not high-so they cook through without burning.</li>
   <li>Rinse the noodles thoroughly under cold water then place in a bowl of very hot water for a minute to warm. Place the noodles in a shallow bowl and arrange the meatballs on top.</li>
-  <li>Serve with a little more Chang&rsquo;s Hoisin sauce to dip the meatballs in or drizzle some over the top of them.</li>
+  <li>Serve with a little more Chang's Hoisin sauce to dip the meatballs in or drizzle some over the top of them.</li>
   </ol>
 tags:
   - "Pork"
