@@ -10,6 +10,8 @@ preptime: "5 minutes"
 cookingtime: "10 minutes"
 author: "pwg"
 gallery: "recipes/Chinese-Lettuce-and-Mushrooms-with-Oyster-Sauce"
+video: "https://iframe.mediadelivery.net/embed/68279/f9d83fb3-cdc1-41e4-be92-34a845048690"
+
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
