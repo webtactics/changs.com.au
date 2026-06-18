@@ -2207,10 +2207,10 @@ select {
 
 .changssummary .image-overlay {
   position: absolute;
-  top: 0rem;
-  left: 0rem;
-  bottom: 6rem;
-  right: 0rem;
+  top: 3rem;
+  left: 3rem;
+  bottom: auto;
+  right: 3rem;
   background-color: var(--black40);
   -webkit-transition: all var(--transition03);
   -moz-transition: all var(--transition03);
@@ -2219,13 +2219,13 @@ select {
   transition: all var(--transition03);
   opacity: 0;
   overflow: hidden;
-  border-radius: 0.8rem;
+  border-radius: var(--radius);
 }
 
   .changssummary:hover .image-overlay {
       opacity: 1;
       background-color: var(--black60);
-      border-radius: 0.8rem;
+      border-radius: var(--radius);
     }
 
 
@@ -2250,7 +2250,8 @@ select {
 
     span.overlay-home {
       color: var(--white);
-      font-size: 18px;
+      font-size: 1rem;
+      line-height: 1;
       text-align: left;
       font-family: 'Roboto' , sans-serif;
       font-style: normal;
@@ -2261,8 +2262,8 @@ select {
 .sumdescription p {
   font-size: 0.9rem;
   color: var(--white);
-  line-height: 1.2rem;
-  margin: 0.5rem 0;
+  line-height: 1rem;
+  margin: 0.25rem 0;
   padding: 0;
 }
 
