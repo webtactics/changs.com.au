@@ -9,6 +9,9 @@ preptime: "10 minutes"
 cookingtime: "10 minutes"
 author: "pwg"
 gallery: "recipes/Asian-Summer-Noodle-Salad"
+video: "https://iframe.mediadelivery.net/embed/68279/2e13cd39-7dfd-4364-be8e-d673585c01fa"
+
+
 ingredients: |
   <h3>Ingredients:</h3>
   <h4>Salad Ingredients:</h4>
