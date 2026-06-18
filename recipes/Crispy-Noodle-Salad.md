@@ -14,6 +14,7 @@ allergen: "Nut Free, Dairy Free, Vegetarian"
 author: "pwg"
 youtube: "https://www.youtube.com/embed/8iXosf-Hr6o"
 gallery: "recipes/Crispy-Noodle-Salad-230222"
+
 ingredients: |
   <p>This salad has an interesting Asian flavour combined with the crunch of Fried noodles and nuts.</p>
   <h3>Ingredients:</h3>
