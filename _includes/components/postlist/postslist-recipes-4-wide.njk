@@ -4,11 +4,8 @@
 
 
 <div class="radiussum4image">
-{% if post.data.video or post.data.youtube %}<div class="flexcenter-summaryvideo">Video</div>{% endif %}<a href="{{ post.url | url }}" ><img src="{{ post.data.image }}/tr:w-500,h-333" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="500px" height="auto" class="recipehome4img">
-
-<span class="image-overlay">
+{% if post.data.video or post.data.youtube %}<div class="flexcenter-summaryvideo">Video</div>{% endif %}<a href="{{ post.url | url }}" ><img src="{{ post.data.image }}/tr:w-500,h-333" alt="{{ post.data.title }}" title="{{ post.data.title }}" width="500px" height="auto" class="recipehome4img"><span class="image-overlay">
 <span class="overlay-home">
-
 {% if post.data.serves %}
 <div class="servesprepdif">
 <p><span class="blogsumhomered">Serves: </span>{{ post.data.serves }}</p>
@@ -43,7 +40,7 @@
 </span>     
 </a>
 </div>
-
+ 
 
 <div class="sum4title">
 <h3 class="sum-title"><a class="eventtitle" href="{{ post.url | url }}" title="{{ post.data.title }}" alt="{{ post.data.title }}"  >{{ post.data.title }}</a></h3>
