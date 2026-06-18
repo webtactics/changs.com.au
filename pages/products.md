@@ -13,7 +13,7 @@ class: products
 date: 2025-11-07
 permalink: /products/
 metadata:
-  title: Our Range of Products.
+  title: "Products to Inspire!"
 eleventyNavigation:
   key: Products
   order: 1
