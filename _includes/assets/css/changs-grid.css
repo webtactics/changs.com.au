@@ -2207,10 +2207,10 @@ select {
 
 .changssummary .image-overlay {
   position: absolute;
-  top: 1.5rem;
-  left: 1.5rem;
+  top: 1rem;
+  left: 1rem;
   bottom: auto;
-  right: 1.5rem;
+  right: 1rem;
   background-color: var(--black40);
   -webkit-transition: all var(--transition03);
   -moz-transition: all var(--transition03);
@@ -2245,13 +2245,13 @@ select {
 
   .changssummary:hover .image-overlay .overlay-home {
       opacity: 0.90;
-      margin: 15px auto 0;
+      margin: 1rem auto;
     }
 
     span.overlay-home {
       color: var(--white);
       font-size: 1rem;
-      line-height: 1;
+      line-height: 1.2;
       text-align: left;
       font-family: 'Roboto' , sans-serif;
       font-style: normal;
@@ -2263,7 +2263,7 @@ select {
   font-size: 0.9rem;
   color: var(--white);
   line-height: 1rem;
-  margin: 0.25rem 0;
+  margin: 0.5rem 0;
   padding: 0;
 }
 
