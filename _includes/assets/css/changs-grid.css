@@ -2272,23 +2272,15 @@ select {
     }
 
   .changssummary:hover .image-overlay .overlay-home {
-      opacity: 0.90;
+      opacity: 1;
       margin: 0.5rem;
-        -webkit-transition: all var(--transition03);
-      -moz-transition: all var(--transition03);
-      -ms-transition: all var(--transition03);
-      -o-transition: all var(--transition03);
-      transition: all var(--transition03);
+       
     } 
 
   .changssummary.productsum:hover .image-overlay .overlay-home {
-      opacity: 0.60;
+      opacity: 1;
       margin: 0.9rem;
-        -webkit-transition: all var(--transition03);
-      -moz-transition: all var(--transition03);
-      -ms-transition: all var(--transition03);
-      -o-transition: all var(--transition03);
-      transition: all var(--transition03);
+     
     }
 
     span.overlay-home {
@@ -2300,11 +2292,7 @@ select {
       font-style: normal;
       font-weight: 400;
       text-transform: none;
-        -webkit-transition: all var(--transition03);
-      -moz-transition: all var(--transition03);
-      -ms-transition: all var(--transition03);
-      -o-transition: all var(--transition03);
-      transition: all var(--transition03);
+     
     }
 
 .overlay-home p {
