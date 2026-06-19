@@ -82,22 +82,22 @@ section: post
 
 {% set relatedProducts = collections.Products | productsFromTags(tags) | sortAlphabetically("title") %}
 {% if relatedProducts.length %}
-
-  <div class="recipes relatedproducts pad2remtopbottom">
+<div class="recipes-ingredients pad2remtopbottom">
+  <div class="recipelist">
   <h3>Relevant products</h3>
   <div id="relevant-products" class="relevant-products">
    {% set postslist = relatedProducts %}
    {% include "components/postlist/postslist-products-6-wide-related-from-recipes.njk" %}
    </div>
    </div>
-
+ </div>
 {% endif %}
 
 
 
 {% if video %}
-<div class="CGBlogvideo recipelist pad2remtopbottom">
-<div class="recipesvideocontent">
+<div class="CGBlogvideo recipes-ingredients pad2remtopbottom">
+<div class="recipesvideocontent recipelist">
 <h3>Making {{ title }} in 30 seconds!</h3>
 <div style="position:relative;padding-top:100%;">
   <iframe src="{{ video | safe }}?autoplay=false&loop=false&muted=false&preload=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe>
@@ -118,8 +118,8 @@ section: post
 
 
 {% if galleryimages %}
-<section class="sliderWrapper recipeslider noprint recipelist pad2remtopbottom">
-<div class="recipegallery recipelist">
+<section class="sliderWrapper recipeslider noprint recipes-ingredients pad2remtopbottom">
+<div class="recipelist">
 {% if headinggalleryimages %}<h3>{{ headinggalleryimages }}</h3>{% endif %}
 {% set galleryFolder = galleryimages %}
 {% include "components/gallery-folder8.njk" %}
@@ -136,7 +136,7 @@ section: post
 
 
 
-<div class="productcatagory padsmall">
+<div class="productcatagory recipes-ingredients padsmall">
 
 <div class="recipelist pad2remtopbottom">
   <h3>More Recipes we like:</h3>
