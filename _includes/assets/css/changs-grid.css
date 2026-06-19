@@ -3565,43 +3565,38 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
 
 }
 
-
-
 .tagged ul {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  margin: 0;
-  padding: 0;
-  list-style: none;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:flex-start;
+  margin:0;
+  padding:0;
+  list-style:none
 }
-
 .tagged ul li {
-  list-style: none;
-  margin-right: 0.5rem;
-  padding-bottom: 0.5rem;
+  list-style:none;
+  margin-right:.5rem;
+  padding-bottom:.5rem
 }
-
-.taggs ul  li a, .taggs ul  li a:visited {
-  display: block;
-  color: var(--white);
-  background: var(--black);
- padding: 0.25rem 0.5rem;
+ul li.taggs a,
+ul li.taggs a:visited {
+  display:block;
+  color:var(--white);
+  background:var(--black);
+  padding:.25rem .5rem;
   border:none;
-  transition: background var(--transition03) ease;
-  font-weight: normal;
- font-size: 0.9rem;
-  text-decoration: none;
-  text-transform: none;
+  transition:background .3s ease;
+  font-weight:400;
+  font-size:.9rem;
+  text-decoration:none;
+  text-transform:none
 }
-
-
-
-.taggs ul  li a:hover, .taggs ul  li  a:focus {
-  color: var(--white);
-  background: var(--primary);
-  font-weight: normal;
-  text-decoration: none;
+ul li.taggs a:focus,
+ul li.taggs a:hover {
+  color:var(--white);
+  background:var(--primary);
+  font-weight:400;
+  text-decoration:none
 }
 
 
