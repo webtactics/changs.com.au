@@ -2226,9 +2226,9 @@ select {
 .changssummary.productsum .image-overlay {
   position: absolute;
   top: 0;
-  left: var(--overlaypad);
+  left: 0;
   bottom: auto;
-  right: var(--overlaypad);
+  right: 0;
   background-color: var(--primary);
   -webkit-transition: all var(--transition03);
   -moz-transition: all var(--transition03);
