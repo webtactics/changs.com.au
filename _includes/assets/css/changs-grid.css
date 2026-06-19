@@ -4456,3 +4456,24 @@ padding: 2rem 0;}
 .productsumrecipeimage {
   padding: 0rem;
 }
+
+.componenth3 {
+padding: 0 0 2rem 0;
+}
+
+.componenth3 h3 {
+margin: 2rem 0;
+  color: var(--primary);
+  text-transform: none;
+  font-size: 1.5rem;
+  font-family: Roboto,sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  text-rendering: optimizeLegibility;
+  padding: 0;
+  text-wrap: balance;
+  line-height: 1.3;
+  text-decoration: none;
+}
+
+
