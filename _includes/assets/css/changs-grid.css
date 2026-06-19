@@ -2251,11 +2251,7 @@ select {
       opacity: 1;
       background-color: var(--primary);
       border-radius: var(--radius);
-        -webkit-transition: all var(--transition03);
-      -moz-transition: all var(--transition03);
-      -ms-transition: all var(--transition03);
-      -o-transition: all var(--transition03);
-      transition: all var(--transition03);
+     
     }
    .changssummary .image-overlay .overlay-home {
       width: 90%;
