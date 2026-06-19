@@ -2238,6 +2238,7 @@ select {
   opacity: 0;
   overflow: hidden;
   border-radius: var(--radius);
+  min-height: 8rem;
 }
 
   .changssummary:hover .image-overlay {
