@@ -2208,63 +2208,52 @@ select {
 
 .changssummary .image-overlay {
   position: absolute;
-  top: var(--overlaypad);
-  left: var(--overlaypad);
-  bottom: auto;
-  right: var(--overlaypad);
+  top: 0rem;
+  left: 0rem;
+  bottom: 0rem;
+  right: 0rem;
   background-color: var(--black40);
-  -webkit-transition: all var(--transition06);
-  -moz-transition: all var(--transition06);
-  -ms-transition: all var(--transition06);
-  -o-transition: all var(--transition06);
-  transition: all var(--transition06);
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
   opacity: 0;
   overflow: hidden;
-  border-radius: var(--radius);
+  border-radius: 0.8rem;
+}
+
+
+.changssummary .image-overlay .overlay-home {
+  width: 90%;
+  height: auto;
+  display: block;
+  margin: -30px auto 0;
+  opacity: 0;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
+  overflow: hidden;
+}
+
+.changssummary:hover .image-overlay .overlay-home {
+  opacity: 0.90;
+  margin: 15px auto 0;
 }
 
 
 
-  .changssummary:hover .image-overlay {
-      opacity: 1;
-      background-color: var(--black60);
-      border-radius: var(--radius);
-    }
-
-
-   .changssummary .image-overlay .overlay-home {
-      width: 90%;
-      height: auto;
-      display: block;
-      margin: -50px auto 0;
-      opacity: 0;
-      -webkit-transition: all var(--transition06);
-      -moz-transition: all var(--transition06);
-      -ms-transition: all var(--transition06);
-      -o-transition: all var(--transition06);
-      transition: all var(--transition06);
-      overflow: hidden;
-    }
-
-  .changssummary:hover .image-overlay .overlay-home {
-      opacity: 1;
-      margin: 0.5rem;
-       
-    } 
-
-
-
-    span.overlay-home {
-      color: var(--white);
-      font-size: 1rem;
-      line-height: 1.2;
-      text-align: left;
-      font-family: 'Roboto' , sans-serif;
-      font-style: normal;
-      font-weight: 400;
-      text-transform: none;
-     
-    }
+.changssummary span.overlay-home {
+  color: var(--black);
+  font-size: 18px;
+  text-align: left;
+  font-family: 'Roboto' , sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  text-transform: capitalize;
+}
 
 .overlay-home p {
   font-size: 0.9rem;

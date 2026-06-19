@@ -1,0 +1,31 @@
+	
+{% if post.data.serves %}
+<div class="servesprepdif">
+<p><span class="blogsumhomered">Serves: </span>{{ post.data.serves }}</p>
+</div>
+{% endif %}
+{% if post.data.makes %}
+<div class="servesprepdif">
+<p><span class="blogsumhomered">Makes: </span>{{ post.data.makes }}</p>
+</div>
+{% endif %}
+{% if post.data.preptime %}
+<div class="servesprepdif">
+<p><span class="blogsumhomered">Prep time: </span>{{ post.data.preptime }}</p>
+</div>
+{% endif %}
+{% if post.data.cooking %}
+    <div class="servesprepdif">
+    <p><span class="blogsumhomered">Cooking time: </span>{{ post.data.cooking }}</p>
+    </div>
+    {% endif %}
+{% if post.data.marinating %}
+<div class="servesprepdif">
+<p><span class="blogsumhomered">Marinating time: </span>{{ post.data.marinating }}</p>
+</div>
+{% endif %}
+{% if post.data.difficulty %}
+<div class="servesprepdif">
+<p><span class="blogsumhomered">Difficulty: </span>{{ post.data.difficulty }}</p>
+</div>
+{% endif %}
