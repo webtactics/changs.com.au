@@ -83,7 +83,7 @@ section: post
 {% set relatedProducts = collections.Products | productsFromTags(tags) | sortAlphabetically("title") %}
 {% if relatedProducts.length %}
 <div class="recipes-ingredients pad2rem padsmall">
-<div class="recipesvideocontent recipelist">
+<div class="recipelist">
   <h3>Relevant products</h3>
   <div id="relevant-products" class="relevant-products">
    {% set postslist = relatedProducts %}
@@ -107,7 +107,7 @@ section: post
 
 {% endif %}
 {% if youtube %}
-<div class="recipesvideocontent large pad2remtopbottom">
+<div class="recipesvideocontent pad2remtopbottom">
 <div class="embed-responsive embed-responsive-16by9">
  <iframe id="video" class="embed-responsive-item" src="{{ youtube }}"  frameborder="0" allowfullscreen></iframe>
 </div>
