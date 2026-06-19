@@ -2223,23 +2223,7 @@ select {
   border-radius: var(--radius);
 }
 
-.changssummary.productsum .image-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: auto;
-  right: 0;
-  background-color: var(--primary);
-  -webkit-transition: all var(--transition03);
-  -moz-transition: all var(--transition03);
-  -ms-transition: all var(--transition03);
-  -o-transition: all var(--transition03);
-  transition: all var(--transition03);
-  opacity: 0;
-  overflow: hidden;
-  border-radius: var(--radius);
-  min-height: 8rem;
-}
+
 
   .changssummary:hover .image-overlay {
       opacity: 1;
@@ -2247,12 +2231,7 @@ select {
       border-radius: var(--radius);
     }
 
-  .changssummary.productsum:hover .image-overlay {
-      opacity: 1;
-      background-color: var(--primary);
-      border-radius: var(--radius);
-     
-    }
+
    .changssummary .image-overlay .overlay-home {
       width: 90%;
       height: auto;
@@ -2273,11 +2252,7 @@ select {
        
     } 
 
-  .changssummary.productsum:hover .image-overlay .overlay-home {
-      opacity: 1;
-      margin: 0.9rem;
-     
-    }
+
 
     span.overlay-home {
       color: var(--white);
