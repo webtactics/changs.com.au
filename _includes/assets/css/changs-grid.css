@@ -2269,6 +2269,11 @@ select {
   .changssummary:hover .image-overlay .overlay-home {
       opacity: 0.90;
       margin: 0.5rem;
+    } 
+
+  .changssummary.productsum:hover .image-overlay .overlay-home {
+      opacity: 0.60;
+      margin: 0.9rem;
     }
 
     span.overlay-home {
