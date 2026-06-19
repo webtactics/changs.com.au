@@ -82,8 +82,8 @@ section: post
 
 {% set relatedProducts = collections.Products | productsFromTags(tags) | sortAlphabetically("title") %}
 {% if relatedProducts.length %}
-<div class="recipes-ingredients pad2remtopbottom">
-  <div class="recipelist">
+<div class="recipes-ingredients pad2rem padsmall">
+<div class="recipesvideocontent recipelist">
   <h3>Relevant products</h3>
   <div id="relevant-products" class="relevant-products">
    {% set postslist = relatedProducts %}
@@ -96,7 +96,7 @@ section: post
 
 
 {% if video %}
-<div class="CGBlogvideo recipes-ingredients pad2remtopbottom">
+<div class="recipes-ingredients pad2rem padsmall">
 <div class="recipesvideocontent recipelist">
 <h3>Making {{ title }} in 30 seconds!</h3>
 <div style="position:relative;padding-top:100%;">
@@ -118,7 +118,7 @@ section: post
 
 
 {% if galleryimages %}
-<section class="sliderWrapper recipeslider noprint recipes-ingredients pad2remtopbottom">
+<section class="sliderWrapper recipes-ingredients pad2rem padsmall">
 <div class="recipelist">
 {% if headinggalleryimages %}<h3>{{ headinggalleryimages }}</h3>{% endif %}
 {% set galleryFolder = galleryimages %}
@@ -136,9 +136,8 @@ section: post
 
 
 
-<div class="productcatagory recipes-ingredients padsmall">
-
-<div class="recipelist pad2remtopbottom">
+<div class="recipes-ingredients pad2rem padsmall">
+<div class="recipelist">
   <h3>More Recipes we like:</h3>
   </div>
 {% set postslist = collections['Recipes']  |  randomLimit(4, page.url)  %} 
