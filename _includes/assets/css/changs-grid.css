@@ -3284,8 +3284,7 @@ row-gap: 1rem;
 
 .grid-4-columns.summary4 {
   grid-template-columns: repeat(3, 1fr);
-column-gap: 2rem;
-row-gap: 1rem;
+    gap: 1rem;
 }
 
 
@@ -3310,11 +3309,7 @@ row-gap: 1rem;
     gap: 1rem;
   
   }
-.grid-4-columns.summary4 {
-    grid-template-columns: repeat(1, 1fr);
-    gap: 1rem;
-  
-  }
+
 
   .grid-150x1fr {
     grid-template-columns: 100px 1fr;
@@ -3407,7 +3402,11 @@ font-style: normal;
     scroll-snap-align: start;
   }
 
-
+.grid-4-columns.summary4 {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  
+  }
 
 
   .grid-8-gallery {
