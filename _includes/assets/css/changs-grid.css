@@ -3582,7 +3582,7 @@ grid-template-columns: 2fr 1fr;gap: 3rem;}
   padding-bottom: 0.5rem;
 }
 
-ul  li.taggs a, ul  li.taggs a:visited {
+.taggs ul  li a, .taggs ul  li a:visited {
   display: block;
   color: var(--white);
   background: var(--black);
@@ -3597,15 +3597,12 @@ ul  li.taggs a, ul  li.taggs a:visited {
 
 
 
-ul  li.taggs a:hover, ul  li.taggs  a:focus {
+.taggs ul  li a:hover, .taggs ul  li  a:focus {
   color: var(--white);
   background: var(--primary);
   font-weight: normal;
   text-decoration: none;
 }
-
-
-
 
 
 
