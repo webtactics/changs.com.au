@@ -1915,7 +1915,7 @@ button.success, .button.success {
   align-items: center;
   background-color: var(--primary);
   border: 0.3rem solid var(--primary);
-  border-radius: 20px;
+  border-radius: 1.2rem;
   color: var(--white);
   font-size: 1rem;
   padding: 0.4rem 3rem;
@@ -1934,7 +1934,7 @@ button.success, .button.success {
 button.success:hover, button.success:focus, .button.success:hover, .button.success:focus {
   background-color: var(--black);
   border: 0.3rem solid var(--black);
-  border-radius: 1.25rem;
+  border-radius: 1.2rem;
   color: var(--white);
   -webkit-transition: all var(--transition06);
   -moz-transition: all var(--transition06);
@@ -1957,7 +1957,7 @@ justify-content: flex-end;
 button.success.black, .button.success.black {
   background-color: var(--black);
   border: 0.3rem solid var(--black);
-  border-radius: 0.8rem;
+  border-radius: var(--radius);
   color: var(--white);
   box-shadow: none; 
 }
@@ -1965,7 +1965,7 @@ button.success.black, .button.success.black {
 button.success.black:hover, button.success.black:focus, .button.success.black:hover, .button.success.black:focus {
   background-color: var(--primary);
   border: 0.3rem solid var(--black);
-  border-radius: 1.25rem;
+   border-radius: var(--radius);
   color: var(--white);
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4); 
 }
