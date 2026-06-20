@@ -2227,7 +2227,7 @@ select {
   position: absolute;
   top: 0rem;
   left: 0rem;
-  bottom: 0rem;
+  bottom: auto;
   right: 0rem;
   background-color: var(--black40);
   -webkit-transition: all 0.2s;
@@ -2237,13 +2237,14 @@ select {
   transition: all 0.2s;
   opacity: 0;
   overflow: hidden;
-  border-radius: 0.8rem;
+  border-radius: var(--radius);
+max-height: 13rem;
 }
 
 .changssummary:hover .image-overlay {
   opacity: 1;
   background-color: var(--black60);
-  border-radius: 0.8rem;
+   border-radius: var(--radius);
 }
 
 .changssummary .image-overlay .overlay-home {
@@ -2262,7 +2263,7 @@ select {
 
 .changssummary:hover .image-overlay .overlay-home {
   opacity: 0.90;
-  margin: 15px auto 0;
+  margin: 1rem auto 0;
 }
 
 
