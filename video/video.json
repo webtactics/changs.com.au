@@ -3,7 +3,7 @@
     "permalink": "video/{{ title | slug }}/index.html",
     "author": "Anonymous",
     "tags": [
-     "Changs-TV"
+     "Changs-TV",
      "Video"
     ]
   }
