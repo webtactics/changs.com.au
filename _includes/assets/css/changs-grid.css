@@ -2672,7 +2672,7 @@ margin: 0 0 20px 0;
 }
 
 .recipes-ingredients .recipelist h3 {
-margin: 0 0 2rem 0;
+margin: 2rem 0;
   color: var(--primary);
   text-transform: none;
   font-size: 1.5rem;
@@ -2686,7 +2686,7 @@ margin: 0 0 2rem 0;
 }
 
 .recipes-ingredients .recipelist h4 {
-  margin: 15px 0 10px 0;
+  margin: 1rem 0;
   color: var(--primary);
   text-transform: none;
   font-size: 1.3rem;
