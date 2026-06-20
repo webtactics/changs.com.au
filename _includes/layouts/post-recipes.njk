@@ -123,19 +123,16 @@ section: post
 {% endif %}
 
 
-
-
-
-
 {% include "components/global/tagged.html" %}
-
 
 
 <div class="componenth3 more-recipes">
 <h3>More Recipes we like:</h3>
 {% set postslist = collections['Recipes']  |  randomLimit(4, page.url)  %} 
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}
-<div class="linkwrapper"><a class="resultspdf" href="/recipes/" title="More Recipes" alt="More Recipes">All Recipes &gt;</a></div>
+<div class="linkwrapper">
+  <a class="button success  black" href="/recipes/" title="More Recipes" alt="More Recipes">All Recipes &gt;</a>
+</div>
 </div>
 
 </div>
