@@ -1892,7 +1892,7 @@ text-decoration: none;
 }
 
 .button {
-  background-color: var(--primary);
+  background-color: var(--black);
   color: var(--white);
   margin: 0;
   margin-bottom: 0px;
@@ -1903,7 +1903,7 @@ text-decoration: none;
 }
 
 .button:focus, .button:hover {
-  background-color: var(--black);
+  background-color: var(--primary);
   color: var(--white);
     text-decoration: none;
 }
@@ -1957,7 +1957,7 @@ justify-content: flex-end;
 button.success.black, .button.success.black {
   background-color: var(--black);
   border: 0.3rem solid var(--black);
-  border-radius: 1.25rem;
+  border-radius: 0.8rem;
   color: var(--white);
 }
 
