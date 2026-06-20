@@ -42,4 +42,5 @@ tags:
   - "Sauces and Condiments"
   - "Chang's Crispy Noodle Salad Dressing"
   - "Chang's Master Stock"
+  - "Video"
 ---

@@ -12,7 +12,7 @@ subtitle: "Chang’s and its parent company, Cypress & Sons, are committed to hi
 <div class="grid-5-2">
     <div class="content1 blackh2">
         <h2>Our environmental commitment</h2>
-        <p>Chang's and its parent company, Cypress &amp; Sons, are committed to high standards of environmental responsibility.</p>
+        <p>Chang's and its parent company, Cypress & Sons, are committed to high standards of environmental responsibility.</p>
         <h3>Recycle your packaging</h3>
         <p>All of our glass sauce bottles and their plastic lids can be recycled through your recycling bin at home (the one with the yellow lid).</p>
         <p>Our noodles are packed in high-performance plastic bags to keep them as fresh as possible. These bags cannot be placed in your home recycling bin, but they can be dropped off in collection bins for 'soft plastics' in Coles supermarkets.</p>

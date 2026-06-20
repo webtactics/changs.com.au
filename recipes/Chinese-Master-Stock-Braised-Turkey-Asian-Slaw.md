@@ -47,4 +47,5 @@ tags:
   - "Chang's Crispy Noodle Salad Dressing"
   - "Chang's Master Stock"
   - "Chang's Original Fried Noodles"
+  - "Video"
 ---

@@ -9,7 +9,7 @@ permalink: /why-changs/privacy-policy/
 
 subtitle: "Our privacy policy is a statement that explains in simple language how Chang’s handles your personal information."
 ---
-<p>For the purpose of this Privacy Policy, "Chang’s" "we", "us" or "our" means collectively and/or individually Cypress &amp; Sons (ABN 38 001 298 344)</p>
+<p>For the purpose of this Privacy Policy, "Chang’s" "we", "us" or "our" means collectively and/or individually Cypress & Sons (ABN 38 001 298 344)</p>
 
 <h2>Chang's respects and is committed to protecting your privacy.</h2>
 
