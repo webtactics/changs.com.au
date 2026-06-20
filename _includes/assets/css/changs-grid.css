@@ -2623,7 +2623,8 @@ margin-bottom: 2rem;}
 
 .recipeDetailimage {order: 1;
 object-fit: contain;
-margin-bottom: 2rem;}
+margin-bottom: 2rem;
+align-items: center;}
 
 
 
@@ -4475,4 +4476,8 @@ margin: 2rem 0;
   text-decoration: none;
 }
 
-
+.centerimg {
+margin: 0 auto;
+text-align-last: center;
+align-items: center;
+}
