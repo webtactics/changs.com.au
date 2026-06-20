@@ -1956,7 +1956,7 @@ justify-content: flex-end;
 
 button.success.black, .button.success.black {
   background-color: var(--black);
-  border: 0.3rem solid var(--black);
+  border: 0.3rem solid var(--primary);
   border-radius: var(--radius);
   color: var(--white);
   box-shadow: none; 
