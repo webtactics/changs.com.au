@@ -1953,6 +1953,21 @@ justify-content: flex-end;
   font-size: 20px;
 }
 
+
+button.success.black, .button.success.black {
+  background-color: var(--black);
+  border: 0.3rem solid var(--black);
+  border-radius: 1.25rem;
+  color: var(--white);
+}
+
+button.success.black:hover, button.success.black:focus, .button.success.black:hover, .button.success.black:focus {
+  background-color: var(--primary);
+  border: 0.3rem solid var(--black);
+  border-radius: 1.25rem;
+  color: var(--white);
+}
+
 @media (max-width: 800px) {
 button.success.home, .button.success.home {
     border-radius: 40px;
