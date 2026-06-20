@@ -39,7 +39,6 @@ nutrition:
 
 
 tags:
-  - "ChangsTV"
   - "Chang's Original Fried Noodles"
   - "Video"
 

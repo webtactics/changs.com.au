@@ -13,5 +13,5 @@ eleventyNavigation:
 subtitle: "Need some Chang’s cooking inspiration? Try our any of our simple recipes or product ideas below."
 ---
 
-{% set postslist = collections['Video'] | intersection(collections['Video'])  %}
+{% set postslist = collections['Changs-TV'] | intersection(collections['Video']) | reverse  %}
 {% include "components/postlist/postslist-video-3-wide.njk" %}
