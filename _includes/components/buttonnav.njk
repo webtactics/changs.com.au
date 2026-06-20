@@ -52,6 +52,10 @@
     {title: "About Us", url: "/why-changs/"},
     {title: "Sustainability", url: "/why-changs/sustainability/"},
     {title: "Privacy Policy", url: "/why-changs/privacy-policy/"}
+  ],
+  changstv: [
+    {title: "Products", url: "/products/"},
+    {title: "Recipes", url: "/recipes/"}
   ]
 } %}
 
@@ -68,7 +72,9 @@
 {% elif url.startsWith("/recipes/seasonal") %}
   {% set navItems = buttonnavGroups.seasonal %}
 {% elif url.startsWith("/why-changs/") %}
-  {% set navItems = buttonnavGroups.whychangs %} 
+  {% set navItems = buttonnavGroups.whychangs %}
+{% elif url.startsWith("/changs-tv/") %}
+  {% set navItems = buttonnavGroups.changstv %}
 {% elif url.startsWith("/recipes/") %}
   {% set navItems = buttonnavGroups.recipes %}
 {% else %}
