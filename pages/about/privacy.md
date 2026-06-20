@@ -1,5 +1,5 @@
 ---
-layout: layouts/grid-nohero-about.njk
+layout: layouts/grid-nohero.njk
 title: "Privacy Policy"
 description: "Our privacy policy is a statement that explains in simple language how Chang’s handles your personal information."
 date: 2026-06-10
