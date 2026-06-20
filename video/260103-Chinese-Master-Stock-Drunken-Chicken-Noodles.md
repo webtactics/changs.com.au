@@ -1,5 +1,6 @@
 ﻿---
 title: "Chinese Master Stock Drunken Chicken Noodles Video"
+subtitle: "Chinese Master Stock Drunken Chicken Noodles"
 status: published
 date: 2026-01-03
 description: "Video of Chinese Master Stock Drunken Chicken with Egg Noodles"

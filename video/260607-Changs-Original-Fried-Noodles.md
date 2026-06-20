@@ -1,5 +1,6 @@
 ﻿---
 title: "Chang's Original Fried Noodles Video"
+subtitle: "Chang's Original Fried Noodles"
 status: published
 date: 2026-01-07
 description: "Our famous original fried noodles! Ready to eat thin, short, straight crunchy fried noodles made with wheat flour and fried in cottonseed oil."

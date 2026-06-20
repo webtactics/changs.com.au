@@ -1,5 +1,6 @@
 ﻿---
 title: "Chinese Master Stock Poached Salmon Video"
+subtitle: "Chinese Master Stock Poached Salmon"
 status: published
 date: 2026-01-02
 description: "Video of Atlantic Salmon poached in Chinese Master Stock with Shiitake Mushrooms and Coriander Salad"

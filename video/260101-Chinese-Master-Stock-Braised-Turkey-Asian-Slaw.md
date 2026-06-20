@@ -1,5 +1,6 @@
 ﻿---
 title: "Chinese Master Stock Braised Turkey and Asian Slaw  Video"
+subtitle: "Chinese Master Stock Braised Turkey and Asian Slaw"
 status: published
 date: 2026-01-01
 description: "Video of Red Braised Turkey Breast with Crunchy Asian Slaw and Mint"
