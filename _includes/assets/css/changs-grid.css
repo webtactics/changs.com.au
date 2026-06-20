@@ -2240,6 +2240,11 @@ select {
   border-radius: 0.8rem;
 }
 
+.changssummary:hover .image-overlay {
+  opacity: 1;
+  background-color: var(--black60);
+  border-radius: 0.8rem;
+}
 
 .changssummary .image-overlay .overlay-home {
   width: 90%;
@@ -2279,6 +2284,9 @@ select {
   margin: 0 0 0.6rem 0;
   padding: 0;
 }
+
+
+
 .postsumshort {
   display: -webkit-box;
   -webkit-line-clamp: 4;
