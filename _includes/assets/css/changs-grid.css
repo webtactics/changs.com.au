@@ -330,21 +330,21 @@ font-size: 3rem;
 }
 
 .content h2 {
-  font-size: 3rem;
-  line-height: 3rem;
-  font-weight: 700;
+margin: 0 0 2rem 0;
   color: var(--black);
-  padding: 0 0 1.5rem 0;
+  text-transform: none;
+  font-size: 2rem;
+  font-size: clamp(1.8rem, 2vw + 1.5rem, 2.2rem);
+  font-family: 'Roboto' , sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  text-rendering: optimizeLegibility;
+  padding: 0;
+  text-wrap: balance;
+  line-height: 1.3;
 }
 
-.content h2 a {
-  font-size: 3rem;
-  line-height: 3rem;
-  font-weight: 700;
-  color: var(--black);
-  padding: 0 0 1.5rem 0;
 
-}
 
 .content-left-news .content h2 {padding: 0;margin:0;}
 
