@@ -1959,7 +1959,7 @@ button.success.black, .button.success.black {
   border: 0.1rem solid var(--primary);
   border-radius: var(--radius);
   color: var(--white);
-  box-shadow: none; 
+   box-shadow: 5px 5px 15px var(--white); 
 }
 
 button.success.black:hover, button.success.black:focus, .button.success.black:hover, .button.success.black:focus {
