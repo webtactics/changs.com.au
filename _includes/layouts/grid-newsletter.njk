@@ -1,0 +1,133 @@
+{% extends "layouts/grid-default.njk" %}
+
+
+
+{% block content %}
+    <div
+      class="section emailbg"
+      style="background: url(https://ik.imagekit.io/webtactics/changs-media/assets/emailbg-1920x500-q80_iXS9Av4aF.jpg?updatedAt=1711759387818)
+        no-repeat center center;
+        width: 100%;
+        background-size: cover;">
+
+      <div class="content emailbgcontainer">
+        <div class="content emailbox">
+          <div id="newsletter">
+            <h3 class="emailboxh3">Sign up to our newsletter</h3>
+          </div>
+          <p class="black">Experience a feast for the senses!<br/>Sign up for Chang’s newsletter to savour delectable recipes, insightful content, exclusive offers, and gourmet inspirations.</p>
+
+          <form
+            class="js-cm-form"
+            id="subForm"
+            action="https://www.createsend.com/t/subscribeerror?description="
+            method="post"
+            data-id="191722FC90141D02184CB1B62AB3DC264B74E952808CB200D8BC61F27AF28712143C55C9F567AA38691DEB3E5E734BAE24819DEA669A3C1D93B6176A2F484E15"
+          >
+            <div class="grid-5-2-columns">
+              <div class="emailbgrowleft">
+                <div class="emailbgrowlefttop">
+                  <label class="custom-field" aria-label="Enter your name">
+                    <input
+                      class="emailbginput"
+                      id="fieldName"
+                      maxlength="200"
+                      name="cm-name"
+                      placeholder="Your name"
+                      required=""
+                      onfocus="if(this.value==this.defaultValue) this.value='';"
+                      onblur="if(this.value=='') this.value=this.defaultValue;"
+                      type="text"
+                    />
+                  </label>
+                </div>
+                <div class="emailbgrowleftbottom">
+                  <label
+                    class="custom-field"
+                    aria-label="Enter your email address"
+                  >
+                    <input
+                      autocomplete="Email"
+                      class="js-cm-email-input qa-input-email emailbginput"
+                      id="fieldEmail"
+                      maxlength="200"
+                      name="cm-ttululd-ttululd"
+                      placeholder="Enter your email address"
+                      required=""
+                      type="email"
+                    />
+                  </label>
+                </div>
+                <div class="hidden emailhidden">
+                  <label
+                    class="custom-field"
+                    aria-label="Confirm your email address"
+                  >
+                    <input
+                      class="hidden emailbginput"
+                      id="fieldtyflhl"
+                      maxlength="200"
+                      name="cm-f-tyflhl"
+                      type="text"
+                      placeholder="Enter your email address"
+                    />
+                  </label>
+                </div>
+              </div>
+              <div class="emailbgrowright">
+                <button
+                  class="success fullwidth"
+                  type="submit"
+                  title="Sign up to our newsletter"
+                  alt="Sign up to our newsletter"
+                >
+                  Subscribe
+                </button>
+                <script
+                  type="text/javascript"
+                  src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"
+                ></script>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    {% endblock %}
+
+
+
+
+
+
+{% block content2 %}
+
+<div class="container">
+
+	<div class="content home">
+
+		<div class="changs-house">
+    		<img src="https://ik.imagekit.io/webtactics/changs-media/assets/icons/changs-bowl_pyS8wDFp1.png?updatedAt=1711837496199" alt="Chang's Flavours of Asia" title="Chang's Flavours of Asia" width="106px" height="79px">
+		</div>
+
+		<h3 class="text-center">Latest Recipes</h3>
+          
+	{% set postslist = collections['Recipes'] | reverse | skip(2) | limit(3) %}
+	{% include "components/postlist/postslist-recipes-3-wide-nofadein.njk" %}
+
+		<div class="wtbbox4">
+    		<div class="wtbboxwrapper">
+         		<div class="text-centerflex">
+            		<a href="/recipes/" class="button success" title="View all recipes" alt="View all recipes">View all recipes > </a>
+        		</div>
+    		</div>
+		</div>
+
+	</div>
+
+</div>
+
+{% endblock %}
+
+
+  {% block newsletter %}{% endblock %}
