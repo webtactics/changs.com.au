@@ -53,6 +53,11 @@
     {title: "Sustainability", url: "/why-changs/sustainability/"},
     {title: "Privacy Policy", url: "/why-changs/privacy-policy/"}
   ],
+    contact: [
+   {title: "Contact", url: "/contact/"},
+    {title: "Products", url: "/products/"},
+    {title: "Recipes", url: "/recipes/"}
+  ],
   changstv: [
    {title: "Chang's TV", url: "/changs-tv/"},
     {title: "Products", url: "/products/"},
@@ -76,6 +81,8 @@
   {% set navItems = buttonnavGroups.whychangs %}
 {% elif url.startsWith("/changs-tv/") %}
   {% set navItems = buttonnavGroups.changstv %}
+  {% elif url.startsWith("/contact//") %}
+  {% set navItems = buttonnavGroups.contact %}
 {% elif url.startsWith("/recipes/") %}
   {% set navItems = buttonnavGroups.recipes %}
 {% else %}
