@@ -13,7 +13,7 @@
 
 		<h3 class="text-center">Latest Recipes</h3>
           
-		{% set postslist = collections['Latest-Recipes'] | reverse | limit(3)  %} 
+		{% set postslist = collections['Recipes'] | reverse | skip(2) | limit(3) %}
 		{% include "components/postlist/postslist-recipes-3-wide.njk" %}
 
 		<div class="wtbbox4">
