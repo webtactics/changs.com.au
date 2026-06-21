@@ -19,13 +19,13 @@ subtitle: "Chang’s and its parent company, Cypress & Sons, are committed to hi
         <p>That program, called <a title="REDcycle" href="http://www.redcycle.net.au/what-to-redcycle/" target="_blank" rel="noopener">REDcycle</a>, collects and recycles plastic bags, films and biscuit trays.</p>
         <p>Check your nearest drop-off point <a title="Nearest Redcycle drop off point" href="http://www.redcycle.net.au/where-to-redcycle/" target="_blank" rel="noopener">here</a>.</p>
         <div class="flex-center-align">
-            <div class="float-left"><a title="https://recyclingnearyou.com.au/" href="https://recyclingnearyou.com.au/" target="_blank" rel="noopener"><img title="Planet Ark Recycling" src="uploads/images/assets/corporate/Black-Recycling-Symbol-40.png" alt="Planet Ark Recycling" width="40" height="40"></a></div>
+            <div class="float-left"><a title="https://recyclingnearyou.com.au/" href="https://recyclingnearyou.com.au/" target="_blank" rel="noopener"><img title="Planet Ark Recycling" src="/static/img/pages/why-changs/Black-Recycling-Symbol-40.png" alt="Planet Ark Recycling" width="40" height="40"></a></div>
             <div class="float-left">
                 <p class="padtop1remtextindent1rem">Find out more about what you can recycle at home through Planet Ark's ‘<a title="Recycling Near You" href="http://recyclingnearyou.com.au/" target="_blank" rel="noopener">Recycling Near You</a>' website.</p>
             </div>
         </div>
     </div>
     <div class="content2">
-        <div class="corporateimage"><a title="Cypress-Environment-policy" href="uploads/pdf/Cypress-Environment-policy-20170701.pdf" target="_blank" rel="noopener"><img title="Cypress Environment policy 1/7/2017" src="https://www.changs.com/uploads/images/assets/corporate/Cypress-Environment-policy-20170701.jpg" alt="Cypress Environment policy 1/7/2017"></a></div>
+        <div class="corporateimage"><a title="Cypress-Environment-policy" href="/static/pdf/Cypress-Environment-policy-20170701.pdf" target="_blank" rel="noopener"><img title="Cypress Environment policy 1/7/2017" src="/static/img/pages/why-changs/Cypress-Environment-policy-20170701.jpg" alt="Cypress Environment policy 1/7/2017"></a></div>
     </div>
 </div>
