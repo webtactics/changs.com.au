@@ -13,13 +13,13 @@
 
 		<h3 class="text-center">Latest Recipes</h3>
           
-		{% set postslist = collections['Recipes'] | reverse | skip(2) | limit(3) %}
-		{% include "components/postlist/postslist-recipes-3-wide.njk" %}
+	{% set postslist = collections['Recipes'] | reverse | skip(2) | limit(3) %}
+	{% include "components/postlist/postslist-recipes-3-wide-nofadein.njk" %}
 
 		<div class="wtbbox4">
     		<div class="wtbboxwrapper">
          		<div class="text-centerflex">
-            		<a href="/recipes/" class="button success" title="View all recipes" alt="View all recipes">View all recipes</a>
+            		<a href="/recipes/" class="button success" title="View all recipes" alt="View all recipes">View all recipes > </a>
         		</div>
     		</div>
 		</div>
