@@ -3229,7 +3229,12 @@ padding:0 2rem;
   max-width: 600px;
 }
 
-
+.grid-5-2 {
+  grid-template-columns: 5fr 2fr;
+  gap: 2rem;
+  padding: 0;
+  font-weight: normal;
+}
 
 
 
@@ -3418,8 +3423,8 @@ font-style: normal;
     gap: 0.5rem;
   }
 
-.grid-5-2-columns {
-      grid-template-columns: repeat(1, 1fr);
+.grid-5-2-columns, .grid-5-2  {
+    grid-template-columns: repeat(1, 1fr);
     gap: 1rem;
 }
 
@@ -4506,4 +4511,19 @@ margin: 2rem 0;
 margin: 0 auto;
 text-align-last: center;
 align-items: center;
+}
+
+.blackh2 h2 {
+  margin: 0 0 2rem 0;
+  color: var(--black);
+  text-transform: none;
+  font-size: 2rem;
+  font-size: clamp(1.8rem, 2vw + 1.5rem, 2.2rem);
+  font-family: 'Roboto' , sans-serif;
+  font-style: normal;
+  font-weight: 500;
+text-rendering: optimizeLegibility;
+  padding: 0;
+  text-wrap: balance;
+  line-height: 1.3;
 }
