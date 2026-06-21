@@ -1,6 +1,6 @@
 {
     "layout": "layouts/post-video.njk",
-    "permalink": "video/{{ title | slug }}/index.html",
+    "permalink": "changs-tv/{{ title | slug }}/index.html",
     "author": "Anonymous",
     "tags": [
      "Changs-TV",
