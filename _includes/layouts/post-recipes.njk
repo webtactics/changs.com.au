@@ -122,8 +122,12 @@ section: post
 </div>
 {% endif %}
 
-
+{% if tags %}
+<div class="componenth3 tagged">
+  <h3>Recipe Tags</h3>
 {% include "components/global/tagged.html" %}
+</div>
+{% endif %}
 
 
 <div class="componenth3 more-recipes">

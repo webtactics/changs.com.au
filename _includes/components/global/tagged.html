@@ -1,7 +1,4 @@
-{% if tags %}
-<div class="componenth3 tagged">
-  <h3>Recipe Tags</h3>
-  <div class="tag">
+<div class="tag">
   <ul>
 {% for tag in tags %}
   {%- if tag != "post" -%}
@@ -11,5 +8,3 @@
 {% endfor %}
   </ul>
 </div>
-</div>
-{% endif %}
