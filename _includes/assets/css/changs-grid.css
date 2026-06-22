@@ -811,6 +811,7 @@ float: right;
   flex-direction: column;
   cursor: pointer;
   padding: 0 0 0 2rem;
+   background: var(--black);
 
 }
 .infobox > li > a.social-icon:hover, .infoboxmobile > li > a.social-icon:hover, .infoboxfooter > li > a.social-icon:hover, .infoboxmobile > li > a.search-icon:hover {
@@ -821,6 +822,7 @@ float: right;
     flex-direction: column;
   cursor: pointer;
   padding: 0 0 0 2rem;
+  background: var(--black);
 
 }
 
@@ -868,6 +870,7 @@ display: flex;
 justify-content: flex-end;
 align-items: center;
  padding:0 1rem 0 0;
+ background-color: var(--black);
 
 }
 
@@ -1274,7 +1277,7 @@ svg:hover {
 }
 
 .social-contact svg:hover, .infoboxmobile svg:hover {
-  color: var(--black);
+  color: var(--white);
 }
 
 .social-contact {
@@ -3354,20 +3357,12 @@ row-gap: 1rem;
 
 
 
-  .grid-7x4, .grid-2, .grid-2-mobilenav, .grid-2-detail-default, .grid-2-thanks, .grid-2-news,  .grid-2-sponsor, .grid-2x1, .grid-2x3, .grid-3x2, .grid-2-products, .grid-2-categories, .grid-3x2-products, .grid-1x3-maps {
+  .grid-7x4, .grid-2, .grid-2-detail-default, .grid-2-thanks, .grid-2-news,  .grid-2-sponsor, .grid-2x1, .grid-2x3, .grid-3x2, .grid-2-products, .grid-2-categories, .grid-3x2-products, .grid-1x3-maps {
     grid-template-columns: repeat(1, 1fr); 
     gap: 1rem;
   }
 
-.grid-2-mobilenav {  gap: 0; border-bottom: 1px solid var(--white);}
-.smalltextwrapper, .mobilewrapper {
-    height: 2rem;
-    line-height: 2rem;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    padding: 0;
-}
+
 
 
  .grid-6-products-recipes {
