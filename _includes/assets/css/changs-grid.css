@@ -802,6 +802,7 @@ ul.infobox li, ul.infoboxmobile li, ul.infoboxfooter li {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  flex-direction: column;
   cursor: pointer;
 }
 
