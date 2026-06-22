@@ -12,13 +12,7 @@ youtube: "https://www.youtube.com/embed/mCU6Vm8SZ6Y"
 videolink: "/recipes/Chinese-Master-Stock-Poached-Salmon/"
 
 tags:
-  - "Seafood"
-  - "Main Meals"
-  - "Healthy Meals"
-  - "Family Dinners"
-  - "Occasions"
-  - "Winter"
-  - "Sauces and Condiments"
+
   - "Chang's Crispy Noodle Salad Dressing"
   - "Chang's Master Stock"
 

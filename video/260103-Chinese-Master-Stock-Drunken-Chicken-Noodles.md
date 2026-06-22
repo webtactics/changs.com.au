@@ -12,8 +12,7 @@ videolink: "/recipes/Chinese-Master-Stock-Drunken-Chicken-Noodles"
 
 
 tags:
-  - "Poultry"
-  - "Chicken"
+
   - "Chang's Egg Noodles"
   - "Chang's Hokkien Style Shelf Fresh Noodles"
   - "Chang's Master Stock"

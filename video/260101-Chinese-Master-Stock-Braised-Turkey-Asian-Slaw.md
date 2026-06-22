@@ -13,8 +13,7 @@ youtube: "https://www.youtube.com/embed/gUjf0iz_Fbs"
 videolink: "/recipes/chinese-master-stock-braised-turkey-asian-slaw/"
 
 tags:
-  - "Poultry"
-  - "Turkey"
+
   - "Chang's Crispy Noodle Salad Dressing"
   - "Chang's Master Stock"
   - "Chang's Original Fried Noodles"

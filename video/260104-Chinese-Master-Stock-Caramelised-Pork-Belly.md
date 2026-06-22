@@ -11,13 +11,7 @@ youtube: "https://www.youtube.com/embed/BeLIzZdaS6I"
 videolink: "/recipes/Chinese-Master-Stock-Caramelised-Pork-Belly/"
 
 tags:
-  - "Pork"
-  - "Main Meals"
-  - "Slow Cooking"
-  - "Occasions"
-  - "Chinese New Year"
-  - "Autumn"
-  - "Winter"
+
   - "Chang's Master Stock"
   - "Chang's Original Fish Sauce"
 
