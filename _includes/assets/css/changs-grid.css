@@ -799,10 +799,7 @@ ul.infobox, ul.infoboxmobile, ul.infoboxfooter {
 }
 
 ul.infobox li, ul.infoboxmobile li, ul.infoboxfooter li {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  flex-direction: column;
+float: right;
   cursor: pointer;
 }
 
