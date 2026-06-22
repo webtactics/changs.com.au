@@ -4129,7 +4129,8 @@ font-family: 'Perpetua', sans-serif;
   flex: 1;
   padding: 0.5rem 0.75rem;
   border: 1px solid var(--primary);
-  border-radius: var(--radius);
+  border-top-left-radius: var(--radius);
+  border-bottom-left-radius: var(--radius);
   font-size: 1rem;
   min-height:3rem;
 }
@@ -4166,6 +4167,8 @@ font-family: 'Perpetua', sans-serif;
   color: var(--white);
    box-shadow: none; 
    width: 100%;
+   min-height:3rem;
+   line-height: 2.2rem;
 }
 
 .buttonsearch button.success:hover, .buttonsearch button.success:focus {
@@ -4175,6 +4178,7 @@ font-family: 'Perpetua', sans-serif;
   border-bottom-right-radius: var(--radius);
   color: var(--white);
  box-shadow: none; 
+ min-height:3rem;
 }
 
 
