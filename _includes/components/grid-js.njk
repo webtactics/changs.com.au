@@ -23,11 +23,13 @@ $('.home-slide').slick({
 
   <script>
   const modal = document.querySelector('#my-modal');
-  const openBtn = document.querySelector('#open-modal');
+  const openBtns = document.querySelectorAll('.js-open-search');
   const closeBtn = document.querySelector('#close-modal');
 
-  openBtn.addEventListener('click', () => {
-    modal.showModal(); // Native dialog method
+  openBtns.forEach((openBtn) => {
+    openBtn.addEventListener('click', () => {
+      modal.showModal(); // Native dialog method
+    });
   });
 
   closeBtn.addEventListener('click', () => {
