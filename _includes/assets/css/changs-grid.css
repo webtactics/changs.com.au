@@ -1272,20 +1272,11 @@ svg:hover {
   color : var(--primary);
 }
 
-.social-contact svg, .infoboxmobile svg {
+.infoboxmobile svg {
   color: var(--primary);
 }
-
-.social-contact svg:hover, .infoboxmobile svg:hover {
-  color: var(--white);
-}
-
-.social-contact {
-  display: flex;
-  flex-direction: row-reverse;
-}
-.social-contact > a {
-  padding-left: 1rem;
+ .infoboxmobile svg:hover {
+  color: var(--black);
 }
 
 /* end topnav */
