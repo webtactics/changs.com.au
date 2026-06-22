@@ -4121,8 +4121,8 @@ font-family: 'Perpetua', sans-serif;
   color: var(--black);
 }
 
-.search-modal-form {
-
+form .search-modal-form {
+padding: 0;
 }
 
 .search-modal-form input[type="search"] {
