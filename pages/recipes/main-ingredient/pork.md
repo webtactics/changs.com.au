@@ -13,7 +13,8 @@ eleventyNavigation:
 subtitle: "We love pork! We also love our pork recipes, that encourage you to explore the savory world of pork recipes. From spicy stir-fries to tender roasts, delight your taste buds with Chang’s creations."
   
 ---
-{% set postslist = collections['Pork'] | reverse  %} 
+
+{% set postslist = collections['Pork'] | intersection(collections['Recipes']) | reverse  %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}
 
 
