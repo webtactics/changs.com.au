@@ -811,7 +811,7 @@ float: right;
   flex-direction: column;
   cursor: pointer;
   padding: 0 0 0 2rem;
-   background: var(--black);
+   background: transparent;
 
 }
 .infobox > li > a.social-icon:hover, .infoboxmobile > li > a.social-icon:hover, .infoboxfooter > li > a.social-icon:hover, .infoboxmobile > li > a.search-icon:hover {
@@ -822,7 +822,7 @@ float: right;
     flex-direction: column;
   cursor: pointer;
   padding: 0 0 0 2rem;
-  background: var(--black);
+ background: transparent;
 
 }
 
