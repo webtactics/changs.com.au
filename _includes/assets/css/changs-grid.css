@@ -806,20 +806,22 @@ ul.infobox li, ul.infoboxmobile li, ul.infoboxfooter li {
   cursor: pointer;
 }
 
-.infobox > li > a.social-icon, .infoboxmobile > li > a.social-icon, .infoboxfooter > li > a.social-icon {
+.infobox > li > a.social-icon, .infoboxmobile > li > a.social-icon, .infoboxfooter > li > a.social-icon, .infoboxmobile > li > a.social-icon, .infoboxmobile > li > a.search-icon {
   display: flex;
   height: var(--navtopheight);
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   cursor: pointer;
   padding: 0 0 0 2rem;
 
 }
-.infobox > li > a.social-icon:hover, .infoboxmobile > li > a.social-icon:hover, .infoboxfooter > li > a.social-icon:hover {
+.infobox > li > a.social-icon:hover, .infoboxmobile > li > a.social-icon:hover, .infoboxfooter > li > a.social-icon:hover, .infoboxmobile > li > a.search-icon:hover {
   display: flex;
   height: var(--navtopheight);
   justify-content: center;
   align-items: center;
+    flex-direction: column;
   cursor: pointer;
   padding: 0 0 0 2rem;
 
