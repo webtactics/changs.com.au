@@ -4157,6 +4157,27 @@ font-family: 'Perpetua', sans-serif;
 .modal-body p { color: var(--black);}
 
 
+
+.buttonsearch button.success {
+  background-color: var(--black);
+  border: none;
+  border-top-right-radius: var(--radius);
+  border-bottom-right-radius: var(--radius);
+  color: var(--white);
+   box-shadow: none; 
+   width: 100%;
+}
+
+.buttonsearch button.success:hover, .buttonsearch button.success:focus {
+  background-color: var(--primary);
+  border: none;
+  border-top-right-radius: var(--radius);
+  border-bottom-right-radius: var(--radius);
+  color: var(--white);
+ box-shadow: none; 
+}
+
+
 /* ============================================================
    SECTION: HOMEPAGE HERO
    ============================================================ */
