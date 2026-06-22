@@ -14,7 +14,6 @@ subtitle: "We hope you enjoy exploring our collection of authentic Asian product
 <div class="pad4rem"></div>
 <div id="search"></div>
 
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', () => {
