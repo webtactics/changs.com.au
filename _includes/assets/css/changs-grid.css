@@ -799,7 +799,10 @@ ul.infobox, ul.infoboxmobile, ul.infoboxfooter {
 }
 
 ul.infobox li, ul.infoboxmobile li, ul.infoboxfooter li {
-  float: right;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  cursor: pointer;
 }
 
 .infobox > li > a.social-icon, .infoboxmobile > li > a.social-icon, .infoboxfooter > li > a.social-icon {
@@ -818,7 +821,7 @@ ul.infobox li, ul.infoboxmobile li, ul.infoboxfooter li {
   align-items: center;
   cursor: pointer;
   padding: 0 0 0 2rem;
- background: var(--black);
+
 }
 
 .infobox > li > a.text-icon {
