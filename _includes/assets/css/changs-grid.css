@@ -3119,6 +3119,12 @@ padding:0 2rem;
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
 }
+
+.grid-2-search {
+  grid-template-columns: 3fr 2fr;
+  gap: 0;}
+
+
 .grid-2x3 {
   grid-template-columns: 2fr 3fr;
 
