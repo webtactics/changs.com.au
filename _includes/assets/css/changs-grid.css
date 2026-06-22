@@ -1760,7 +1760,8 @@ white-space: wrap;
   margin: 0;
   padding: 0;
   display: grid;
-  gap: 1.5rem;
+  grid-template-columns: 200px 1fr;
+  gap: 1rem;
 }
 
 .pagefind-ui__result {
