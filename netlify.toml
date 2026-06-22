@@ -22,12 +22,12 @@ package = "@netlify/plugin-sitemap"
   trailingSlash = true
   exclude = [
 
-  'https://pmfresh.com.au/404/',
-  'https://pmfresh.com.au/404.html',
-  'https://pmfresh.com.au/admin/',
-  'https://pmfresh.com.au/admin/email-templates/confirmation.html',
-  'https://pmfresh.com.au/admin/email-templates/email-change.html',
-  'https://pmfresh.com.au/admin/email-templates/invitation.html',
+  'https://changs.com/404/',
+  'https://changs.com/404.html',
+  'https://changs.com/admin/',
+  'https://changs.com/admin/email-templates/confirmation.html',
+  'https://changs.com/admin/email-templates/email-change.html',
+  'https://changs.com/admin/email-templates/invitation.html',
 
   
   
