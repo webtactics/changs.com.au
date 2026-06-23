@@ -18,7 +18,5 @@ tags:
 
 
 ---
-{% set postslist = collections['Sauces'] | sortAlphabetically("title") %}
+{% set postslist = collections['Sauces'] | intersection(collections['Products']) | sortAlphabetically("title") %}
 {% include "components/postlist/postslist-products-4-wide.njk" %}
-
-

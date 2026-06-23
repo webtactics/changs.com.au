@@ -16,12 +16,8 @@ eleventyNavigation:
   order: 1
   
 ---
-{% set postslist = collections['Beef'] | reverse  %} 
+{% set postslist = collections['Beef'] | intersection(collections['Recipes']) | reverse  %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}
 
 
-{% for post in collections.Beef %}
-<h3>Beef</h3>
-    <a href="{{ page.url }}">{{ post.data.title }}</a>
-{% endfor %}
 

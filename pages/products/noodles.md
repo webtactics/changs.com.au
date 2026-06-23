@@ -12,5 +12,5 @@ eleventyNavigation:
 
 subtitle: "All the noodles you will ever need or want to create authentic Asian and modern Australian cuisine to delight family and friends."
 ---
-{% set postslist = collections['Noodles'] | sortAlphabetically("title") %}
+{% set postslist = collections['Noodles'] | intersection(collections['Products']) | sortAlphabetically("title") %}
 {% include "components/postlist/postslist-products-4-wide.njk" %}

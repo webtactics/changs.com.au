@@ -13,5 +13,5 @@ eleventyNavigation:
 subtitle: "Vegetarian doesn’t mean missing out when it comes to taste on our Vegetarian Recipes section! Filled with vegetarian recipes that are nutritious, delicious, quick and simple!"
   
 ---
-{% set postslist = collections['Vegetarian'] | reverse  %} 
+{% set postslist = collections['Vegetarian'] | intersection(collections['Recipes']) | reverse  %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}

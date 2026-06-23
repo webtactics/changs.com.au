@@ -13,5 +13,5 @@ eleventyNavigation:
 subtitle: "Think seafood recipes, think, Chang’s Seafood Recipes, with all you need to create authentic Asian cuisine."
   
 ---
-{% set postslist = collections['Seafood'] | reverse  %} 
+{% set postslist = collections['Seafood'] | intersection(collections['Recipes']) | reverse  %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}

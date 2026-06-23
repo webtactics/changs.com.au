@@ -13,5 +13,5 @@ eleventyNavigation:
 subtitle: "Australian’s love lamb, and our recipes, noodles and sauces let you try lamb dishes from updates to tradition to completely new ways of looking at lamb."
   
 ---
-{% set postslist = collections['Lamb'] | reverse  %} 
+{% set postslist = collections['Lamb'] | intersection(collections['Recipes']) | reverse  %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}

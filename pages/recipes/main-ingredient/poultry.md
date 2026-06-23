@@ -13,5 +13,5 @@ eleventyNavigation:
 subtitle: "Who doesn’t love chicken, turkey, or duck? We certainly do, and our Poultry Recipes section offers something for every occasion, whether you're cooking for a family dinner or entertaining guests."
   
 ---
-{% set postslist = collections['Poultry'] | reverse  %} 
+{% set postslist = collections['Poultry'] | intersection(collections['Recipes']) | reverse  %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}
