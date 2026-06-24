@@ -877,8 +877,8 @@ font-family: 'Roboto' , sans-serif;
   text-align: left;
   font-weight:500;
 font-style: normal;
-  height: 4rem ;
-  line-height: 4rem;
+  height: 3rem ;
+  line-height: 3rem;
   margin: 0;
  }
 @media screen and (max-width: 800px) {
@@ -899,8 +899,8 @@ font-style: normal;
 }
 
 .mobilewrapper {
-height:4rem;
-line-height:4rem;
+height:3rem;
+line-height:3rem;
 display: flex;
 justify-content: flex-end;
 align-items: center;
