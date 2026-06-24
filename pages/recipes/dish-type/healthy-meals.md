@@ -14,5 +14,5 @@ eleventyNavigation:
   order: 4
 ---
 
-{% set postslist = collections['Healthy Meals'] | reverse  %} 
+{% set postslist = collections['Healthy Meals'] | intersection(collections['Recipes']) | reverse %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}

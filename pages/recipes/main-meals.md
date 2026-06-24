@@ -12,5 +12,5 @@ eleventyNavigation:
 
 subtitle: "Create memorable main meals in a snap! Explore our collection of satisfying recipes for delicious Asian-inspired dishes."
 ---
-{% set postslist = collections['Main Meals'] | reverse  %} 
+{% set postslist = collections['Main Meals'] | intersection(collections['Recipes']) | reverse %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}

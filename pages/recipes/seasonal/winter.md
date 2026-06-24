@@ -11,5 +11,5 @@ subtitle: "Infuse your winter with Asian warmth! Explore our comforting recipes,
 
 ---
 
-{% set postslist = collections['Winter'] | reverse  %} 
+{% set postslist = collections['Winter'] | intersection(collections['Recipes']) | reverse %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}

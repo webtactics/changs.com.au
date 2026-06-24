@@ -11,5 +11,5 @@ subtitle: "Recipes for every season, from our kitchen to yours. Get inspired wit
 
 ---
 
-{% set postslist = collections['Recipes'] | reverse  %} 
+{% set postslist = collections['Recipes'] | intersection(collections['Recipes']) | reverse %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}

@@ -11,5 +11,5 @@ subtitle: "Embrace the freshness of spring with our favourite seasonal recipes. 
 
 ---
 
-{% set postslist = collections['Spring'] | reverse  %} 
+{% set postslist = collections['Spring'] | intersection(collections['Recipes']) | reverse %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}

@@ -11,5 +11,5 @@ subtitle: "Beat the heat (or bring it on!), with our summer sizzlers! Explore a 
 
 ---
 
-{% set postslist = collections['Summer'] | reverse  %} 
+{% set postslist = collections['Summer'] | intersection(collections['Recipes']) | reverse %} 
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}

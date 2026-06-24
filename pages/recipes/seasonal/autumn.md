@@ -11,5 +11,5 @@ subtitle: "Capture the essence of autumn with our Asian-inspired recipes. From c
 
 ---
 
-{% set postslist = collections['Autumn'] | reverse  %} 
+{% set postslist = collections['Autumn'] | intersection(collections['Recipes']) | reverse %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}

@@ -10,5 +10,5 @@ subtitle: "Whip up some frightfully fun desserts with our collection of scary sw
 eleventyExcludeFromCollections: true
 ---
 
-{% set postslist = collections['Scary Sweets'] | reverse  %} 
+{% set postslist = collections['Scary Sweets'] | intersection(collections['Recipes']) | reverse %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}

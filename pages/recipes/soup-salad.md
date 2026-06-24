@@ -12,5 +12,5 @@ eleventyNavigation:
 
 subtitle: "Explore our soup & salad section: a medley of vibrant flavours & textures, offering nourishing recipes for every palate!"
 ---
-{% set postslist = collections['Soup and Salad'] | reverse  %} 
+{% set postslist = collections['Soup and Salad'] | intersection(collections['Recipes']) | reverse %}
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}
