@@ -4120,6 +4120,13 @@ font-family: 'Perpetua', sans-serif;
   padding: 2rem;
 }
 
+@media (max-width: 800px) {
+.search-modal .modal-content {
+  position: relative;
+  padding: 1rem;
+}
+}
+
 .search-modal .modal-close {
   position: absolute;
   top: 0.5rem;
@@ -4132,9 +4139,7 @@ font-family: 'Perpetua', sans-serif;
   color: var(--black);
 }
 
-form .search-modal-form {
-padding: 1rem 0 0 0;
-}
+
 
 .search-modal-form input[type="search"] {
   flex: 1;
