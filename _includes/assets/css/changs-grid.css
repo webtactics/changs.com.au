@@ -1997,6 +1997,7 @@ button.success.black:hover, button.success.black:focus, .button.success.black:ho
 
 @media (max-width: 800px) {
 button.success.home, .button.success.home {
+  justify-content: center;
     border-radius: 40px;
     margin: 1rem 0 0 0;
     width: 100%;
