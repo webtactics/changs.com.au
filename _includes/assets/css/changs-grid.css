@@ -4104,7 +4104,7 @@ font-family: 'Perpetua', sans-serif;
 }
 
 .search-modal {
-  width: min(94vw, 600px);
+  width: min(98vw, 600px);
   padding: 0;
   border: none;
   border-radius: var(--radius);
