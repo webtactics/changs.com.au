@@ -20,14 +20,6 @@ section: post
 <h1>{{ title }}</h1>
 </div>
 
-{% if content %}
-<div class="CGBlogDetailContent recipelist">
-{{ content | safe }}
-</div>
-{% endif %}
-
-
-
 
 <div class="recipedetailserveprepdifficultbox">
 {% if serves %}
@@ -61,6 +53,14 @@ section: post
  </div>
 {% endif %}
 </div>
+
+{% if content %}
+<div class="CGBlogDetailContent recipelist">
+{{ content | safe }}
+</div>
+{% endif %}
+
+
 
 {% if ingredients %}
 <div class="CGBlogDetailContent recipelist">
