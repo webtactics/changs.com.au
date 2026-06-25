@@ -2,7 +2,7 @@
 title: "Thai Basil Chicken & Eggplant Noodle Bowl"
 status: published
 date: 2025-05-26
-description: "Discover a delicious Thai Basil Chicken Eggplant Noodle Bowl recipe! Perfectly balanced with flavors, it's a quick and satisfying meal for any night of the week."
+description: "Experience our delicious Thai Basil Chicken Eggplant Noodle Bowl recipe! Perfectly balanced flavors, whilst also being a quick and satisfying meal for any night of the week."
 permalink: "/recipes/Thai-Basil-Chicken-Eggplant-Noodle-Bowl/"
 image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Thai-Basil-Chicken-Eggplant-Noodle-Bowl/Thai-Basil-Chicken-Eggplant-Noodle-Bowl.jpg
 serves: "4"
@@ -50,7 +50,6 @@ method: |
   <li><strong>Add Sauce and Eggplant:<br /></strong>Pour the pre-mixed sauce over the chicken and stir to coat. Return the eggplant to the pan and simmer for 2&ndash;3 minutes, or until the sauce thickens and coats everything. Add the noodles and the remaining sesame oil, tossing everything together until well combined.</li>
   <li><strong>Finish and Serve:<br /></strong>Remove from heat and stir through Thai basil leaves until wilted. Garnish with crushed peanuts and serve.</li>
   </ol>
-  <p> </p>
 tags:
   - "Poultry"
   - "Chicken"
