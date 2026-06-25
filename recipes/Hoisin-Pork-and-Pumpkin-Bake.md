@@ -27,7 +27,7 @@ method: |
   <h3>Method:</h3>
   <ol>
   <li>Preheat the oven 130C fan forced.</li>
-  <li>Place pork in lined baking tray and pour over choice of wine, <a title="Chang's Hoisin Sauce" href="/products/Changs-Hoisin-Sauce/" target="_blank" rel="noopener">Chang's Hoisin Sauce</a>, <a title="Chang's Soy Sauce Dark" href="/products/Changs-Soy-Sauce-Dark/" target="_blank" rel="noopener">Chang's Soy Sauce Dark</a>, cooking oil and crushed garlic. Combine well.</li>
+  <li>Place pork in lined baking tray and pour over choice of wine, <a title="Chang's Hoisin Sauce" href="/products/Changs-Hoisin-Sauce/"  rel="noopener">Chang's Hoisin Sauce</a>, <a title="Chang's Soy Sauce Dark" href="/products/Changs-Soy-Sauce-Dark/"  rel="noopener">Chang's Soy Sauce Dark</a>, cooking oil and crushed garlic. Combine well.</li>
   <li>Add pumpkin to tray. Season pork and pumpkin with sea salt and freshly ground pepper.</li>
   <li>Place in oven. Check after an hour and turn baking tray around to evenly brown.</li>
   <li>Sprinkle sliced green onions and coriander leaves. Serve immediately.</li>

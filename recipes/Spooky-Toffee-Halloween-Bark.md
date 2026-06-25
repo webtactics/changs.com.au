@@ -11,7 +11,7 @@ author: "pwg"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>2 Packets <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a></li>
+  <li>2 Packets <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/"  rel="noopener">Chang's Crunchy Fried Noodles</a></li>
   <li>1 cup mini salted pretzels</li>
   <li>2 Mars bars, roughly chopped</li>
   <li>2 Crunchie bars, roughly chopped</li>

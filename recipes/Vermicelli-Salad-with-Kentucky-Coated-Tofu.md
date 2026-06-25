@@ -13,7 +13,7 @@ ingredients: |
   <h3>Kentucky Coated Tofu:</h3>
   <ul>
   <li>450g extra firm tofu, cut 1cm thick</li>
-  <li>&frac34; cup <a title="PomPom Paddock Kentucky Style Crispy Coating" href="https://www.pompompaddock.com/pompom-paddock-crispy-coating-kentucky-style/" target="_blank" rel="noopener">PomPom Paddock Kentucky Style Crispy Coating</a></li>
+  <li>&frac34; cup <a title="PomPom Paddock Kentucky Style Crispy Coating" href="https://www.pompompaddock.com/pompom-paddock-crispy-coating-kentucky-style/"  rel="noopener">PomPom Paddock Kentucky Style Crispy Coating</a></li>
   <li>1 tablespoon milk of choice</li>
   <li>1 tablespoon black sesame seeds</li>
   <li>1 egg</li>

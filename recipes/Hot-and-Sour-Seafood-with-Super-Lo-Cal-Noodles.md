@@ -21,11 +21,11 @@ ingredients: |
   <li>1 cup coriander leaves</li>
   <li>1 cup mint leaves</li>
   <li>2 medium red chillies, sliced more or less to your taste</li>
-  <li>1 pack of <a title="Chang's Traditional Super Lo-Cal Noodles" href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/" target="_blank" rel="noopener">Chang's Traditional Super Lo-Cal Noodles</a> rinsed under cold water and drained</li>
+  <li>1 pack of <a title="Chang's Traditional Super Lo-Cal Noodles" href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/"  rel="noopener">Chang's Traditional Super Lo-Cal Noodles</a> rinsed under cold water and drained</li>
   </ul>
   <h3>Dressing:</h3>
   <ul>
-  <li>2 tbsp. <a title="Chang's Fish Sauce" href="/products/Fish-Sauce-430ml/" target="_blank" rel="noopener">Chang's Fish Sauce</a></li>
+  <li>2 tbsp. <a title="Chang's Fish Sauce" href="/products/Fish-Sauce-430ml/"  rel="noopener">Chang's Fish Sauce</a></li>
   <li>2 tbsp. fresh lime juice</li>
   <li>1 tbsp. sugar</li>
   <li>1 tbsp. reserved mussel water</li>

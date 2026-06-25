@@ -18,7 +18,7 @@ ingredients: |
   <li>300g marshmallows, cut in half</li>
   <li>200g jelly beans</li>
   <li>2 tablespoons rainbow sprinkles</li>
-  <li>1 packet <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a> (or <a title="Chang's Gluten Free Fried Noodles" href="/products/Gluten-Free-Fried-Noodles/" target="_blank" rel="noopener">Chang's Gluten Free Fried Noodles</a> for a gluten-free option)</li>
+  <li>1 packet <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a> (or <a title="Chang's Gluten Free Fried Noodles" href="/products/Gluten-Free-Fried-Noodles/"  rel="noopener">Chang's Gluten Free Fried Noodles</a> for a gluten-free option)</li>
   </ul>
   <p> </p>
   <p>Want to make it festive?<br />Add mini chocolate eggs or candy-coated eggs for Easter.</p>

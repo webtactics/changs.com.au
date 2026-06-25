@@ -15,7 +15,7 @@ ingredients: |
   <ul>
   <li>3 cups popped plain popcorn</li>
   <li>2 x 200g white chocolate, melted</li>
-  <li>1 packet <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/" target="_blank" rel="noopener">Chang's Crunchy Fried Noodles</a></li>
+  <li>1 packet <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/"  rel="noopener">Chang's Crunchy Fried Noodles</a></li>
   <li>1 packet <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a></li>
   <li>1 cup mini salted pretzels</li>
   <li>2 cups mini M&amp;M&rsquo;s</li>

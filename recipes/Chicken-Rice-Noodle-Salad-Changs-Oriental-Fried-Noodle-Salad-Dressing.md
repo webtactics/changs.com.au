@@ -16,7 +16,7 @@ ingredients: |
   <li>1 tablespoon rice vinegar</li>
   <li>2 tablespoons fresh lime juice</li>
   <li>1 tablespoon sweet chilli sauce</li>
-  <li>2 teaspoons <a href="products/Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing" target="_blank">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>2 teaspoons <a href="products/Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing" >Chang's Crispy Noodle Salad Dressing</a></li>
   <li>100g Chinese cabbage</li>
   <li>2 carrots, peeled, coarsely grated</li>
   <li>8 green shallots</li>

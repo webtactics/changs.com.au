@@ -11,11 +11,11 @@ gallery: "recipes/Ice-Cream-Waffles"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 x <a title="PomPom Paddock Pancake and Waffle Mix" href="https://www.pompompaddock.com/pompom-paddock-pancake-waffle-mix/" target="_blank" rel="noopener">PomPom Paddock Pancake and Waffle Mix</a></li>
+  <li>1 x <a title="PomPom Paddock Pancake and Waffle Mix" href="https://www.pompompaddock.com/pompom-paddock-pancake-waffle-mix/"  rel="noopener">PomPom Paddock Pancake and Waffle Mix</a></li>
   <li>1 cup milk of choice</li>
   <li>60g butter, melted</li>
   <li>2 eggs, lightly beaten</li>
-  <li>1 packet <a title="Chang's Gluten Free Fried Noodles" href="/products/Gluten-Free-Fried-Noodles/" target="_blank" rel="noopener">Chang's Gluten Free Fried Noodles</a></li>
+  <li>1 packet <a title="Chang's Gluten Free Fried Noodles" href="/products/Gluten-Free-Fried-Noodles/"  rel="noopener">Chang's Gluten Free Fried Noodles</a></li>
   <li>2 tablespoons chocolate sprinkles</li>
   <li>2 litre tub vanilla ice cream</li>
   </ul>

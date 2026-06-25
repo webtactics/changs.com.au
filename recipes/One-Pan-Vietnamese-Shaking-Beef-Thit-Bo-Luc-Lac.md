@@ -18,10 +18,10 @@ ingredients: |
   <ul>
   <li>600g beef ribeye or sirloin steak, cut into 2cm cubed</li>
   <li>2 tablespoons garlic, minced</li>
-  <li>1 tablespoons <a title="Chang's Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce/" target="_blank" rel="noopener">Chang's Tamari Light Soy Sauce</a></li>
-  <li>3 tablespoons <a title="Chang's Original Oyster Sauce" href="/products/Changs-Original-Oyster-Sauce-150ml/" target="_blank" rel="noopener">Chang's Original Oyster Sauce</a></li>
-  <li>1 tablespoon <a title="Chang's Kecap Manis Sweet Soy Sauce" href="/products/Changs-Kecap-Manis-Sweet-Soy-Sauce/" target="_blank" rel="noopener">Chang's Kecap Manis Sweet Soy Sauce</a> or <a title="Chang's Soy Sauce" href="/products/Changs-Soy-Sauce-Dark/" target="_blank" rel="noopener">Chang's Soy Sauce</a></li>
-  <li>1 tablespoon <a title="Chang's Fish Sauce" href="/products/Fish-Sauce-430ml/" target="_blank" rel="noopener">Chang's Fish Sauce</a></li>
+  <li>1 tablespoons <a title="Chang's Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce/"  rel="noopener">Chang's Tamari Light Soy Sauce</a></li>
+  <li>3 tablespoons <a title="Chang's Original Oyster Sauce" href="/products/Changs-Original-Oyster-Sauce-150ml/"  rel="noopener">Chang's Original Oyster Sauce</a></li>
+  <li>1 tablespoon <a title="Chang's Kecap Manis Sweet Soy Sauce" href="/products/Changs-Kecap-Manis-Sweet-Soy-Sauce/"  rel="noopener">Chang's Kecap Manis Sweet Soy Sauce</a> or <a title="Chang's Soy Sauce" href="/products/Changs-Soy-Sauce-Dark/"  rel="noopener">Chang's Soy Sauce</a></li>
+  <li>1 tablespoon <a title="Chang's Fish Sauce" href="/products/Fish-Sauce-430ml/"  rel="noopener">Chang's Fish Sauce</a></li>
   <li>Sea salt and pepper, a generous amount</li>
   </ul>
   <h4>Vegetables:</h4>
