@@ -16,7 +16,6 @@ youtube: "https://www.youtube.com/embed/8iXosf-Hr6o"
 gallery: "recipes/Crispy-Noodle-Salad-230222"
 
 ingredients: |
-  <p>This salad has an interesting Asian flavour combined with the crunch of Fried noodles and nuts.</p>
   <h3>Ingredients:</h3>
   <ul>
   <li>1 packet <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a> <strong>*</strong></li>
@@ -86,3 +85,4 @@ tags:
 galleryimages: /static/img/recipes/Crispy-Noodle-Salad/gallery
 headinggalleryimages: "More ways to enjoy"
 ---
+This dish is the classic crowd pleaser and a staple on Aussie dinner tables. Our famous Chang’s Crispy Noodle Salad has an interesting Asian flavour combined with the crunch of Fried noodles and nuts. To turn this into a delicious meal add 300g shredded BBQ Chicken or BBQ Pork.
