@@ -135,7 +135,7 @@ section: post
 {% endif %}
 
 
-<div class="componenth3 more-recipes">
+<div class="componenth3 more-recipes fade-in">
 <h3>More Recipes we like:</h3>
 {% set postslist = collections['Recipes']  |  randomLimit(4, page.url)  %} 
 {% include "components/postlist/postslist-recipes-4-wide.njk" %}
