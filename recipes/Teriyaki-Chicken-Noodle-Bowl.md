@@ -15,7 +15,7 @@ ingredients: |
   <ul>
   <li>1 packet <a title="Chang's Long Life Noodles" href="/products/Changs-Long-Life-Noodles/" target="_blank" rel="noopener">Chang's Long Life Noodles</a> (Gluten Free Option use <a title="Chang's Thai Style Rice Noodles" href="/products/Changs-Thai-Style-Rice-Noodles/" target="_blank" rel="noopener">Chang's Thai Style Rice Noodles</a>)</li>
   <li>6 chicken thigh fillets, diced into 2cm cubes</li>
-  <li>140ml <a title="Chang's Japanese Teriyaki Sauce (280ml)" href="/products/Changs-Japanese-Teriyaki-Sauce-280ml/" target="_blank" rel="noopener">Chang's Japanese Teriyaki Sauce (280ml)</a></li>
+  <li>140ml <a title="Chang's Japanese Teriyaki Sauce " href="/products/changs-japanese-teriyaki-sauce/" target="_blank" rel="noopener">Chang's Japanese Teriyaki Sauce </a></li>
   <li>2 tablespoons <a title="Chang's Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce/" target="_blank" rel="noopener">Chang's Tamari Light Soy Sauce</a></li>
   <li>1 tablespoon <a title="Chang's Sesame Oil" href="/products/Changs-Pure-Sesame-Oil/" target="_blank" rel="noopener">Chang's Sesame Oil</a></li>
   <li>3 garlic cloves, minced</li>

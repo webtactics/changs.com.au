@@ -22,7 +22,7 @@ ingredients: |
   <li>500g pork mince</li>
   <li>1 teaspoon sea salt</li>
   <li>1 teaspoon ground pepper</li>
-  <li>&frac14; cup <a title="Chang's Japanese Teriyaki Sauce (280ml)" href="/products/Changs-Japanese-Teriyaki-Sauce-280ml/" target="_blank" rel="noopener">Chang's Japanese Teriyaki Sauce (280ml)</a> plus extra for serving</li>
+  <li>&frac14; cup <a title="Chang's Japanese Teriyaki Sauce " href="/products/changs-japanese-teriyaki-sauce/" target="_blank" rel="noopener">Chang's Japanese Teriyaki Sauce </a> plus extra for serving</li>
   <li>1 tablespoon <a title="Chang's Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce/" target="_blank" rel="noopener">Chang's Tamari Light Soy Sauce</a></li>
   <li>1.5 cups Panko breadcrumbs (gluten free breadcrumbs optional)</li>
   <li>2-3 eggs, whisked</li>
