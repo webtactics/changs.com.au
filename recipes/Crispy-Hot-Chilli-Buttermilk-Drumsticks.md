@@ -11,7 +11,6 @@ cookingtime: "35-40 mins"
 author: "pwg"
 gallery: "recipes/Crispy-Hot-Chilli-Buttermilk-Drumsticks"
 ingredients: |
-  <p>Crispy on the outside and delectably juicy on the in, these chicken drumsticks are covered with crushed <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/"  rel="noopener">Chang's Crunchy Fried Noodles</a> then baked in the oven until golden. With a light hint of spice from chilli sauce they are even more delicious when dipped in <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/"  rel="noopener">Chang's Crispy Noodle Salad Dressing</a>. You can serve these with rice and coleslaw or <a title="Chang's Crispy Noodle Salad" href="/recipes/Crispy-Noodle-Salad/">Chang's Crispy Noodle Salad</a> for a complete meal.</p>
   <h3>Ingredients:</h3>
   <ul>
   <li>&frac12; cup buttermilk</li>
@@ -27,7 +26,7 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Place buttermilk, Hot Chilli Sauce, paprika and salt in a large bowl and mix to combine. Add chicken drumsticks, stir to coat then refrigerate for 2 hours.</li>
+  <li>Place buttermilk, chilli sauce, paprika and salt in a large bowl and mix to combine. Add chicken drumsticks, stir to coat then refrigerate for 2 hours.</li>
   <li>Preheat oven to 200C. Line a large baking tray with baking paper.</li>
   <li>Place Crunchy Fried Noodles in a food processor (you can also use your hands or a mortar and pestle) and process until finely crushed, but not powdery. Transfer crushed noodles to a medium-sized shallow bowl.</li>
   <li>Remove chicken drumsticks from fridge and dip, one at a time, in crushed noodles. Turn to coat then place on a prepared baking tray about 5cm apart.</li>
@@ -43,3 +42,8 @@ tags:
   - "Chang's Crispy Noodle Salad Dressing"
   - "Chang's Crunchy Fried Noodles"
 ---
+  <p>Crispy on the outside and delectably juicy on the in, these chicken drumsticks are covered with crushed <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/"  rel="noopener">Chang's Crunchy Fried Noodles</a> then baked in the oven until golden.</p>
+  
+   <p>With a light hint of spice from chilli sauce they are even more delicious when dipped in <a title="Chang's Crispy Noodle Salad Dressing" href="/products/changs-crispy-noodle-salad-dressing/"  rel="noopener">Chang's Crispy Noodle Salad Dressing</a>.</p>
+
+  <p>You can serve these with rice and coleslaw or <a title="Chang's Crispy Noodle Salad" href="/recipes/Crispy-Noodle-Salad/">Chang's Crispy Noodle Salad</a> for a complete meal.</p>
