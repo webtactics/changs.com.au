@@ -8,10 +8,10 @@
     <main class="content sidebar" data-pagefind-body>
         <img src="{{ image or metadata.image }}" alt="" data-pagefind-meta="image[src]" style="display:none">
 
-        <div class="maincontent grid-2-sidebar">
+        <div class="grid-2-sidebar">
 			
-			<div class="contentleft">
-				{{ content | safe }}</div>
+			<div class="maincontent contentleft">
+				{{ content | safe }}
 			</div>
 			<div class="sidebarcontent">
 				{% set postslist = collections['Gluten Free Product'] | intersection(collections['Products']) |  randomLimit(3, page.url)  %}
