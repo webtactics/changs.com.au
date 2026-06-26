@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: true
 
 subtitle: "Whether you choose to avoid gluten for lifestyle or health reasons, going gluten-free doesn’t mean missing out."
 ---
-<h2>Chang’s has a great range of <a title="Gluten Free" href="/gluten-free-products">gluten free</a> and <a title="Wheat-free-sauces" href="/products/wheat-free-sauces">wheat free (tamari) products</a> options just for you!</h2>
+<h2>Chang’s has a great range of <a title="Gluten Free" href="/products/gluten-free-products/">gluten free</a> and <a title="Wheat-free-sauces" href="/products/tamari-wheat-free-sauces/">wheat free (tamari) products</a> options just for you!</h2>
 
 <p>An Australian laboratory has independently tested all of our gluten-free products so if the label says ‘Gluten Free’ you can be worry free.</p>
 
