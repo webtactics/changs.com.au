@@ -16,6 +16,12 @@
 			<div class="sidebarcontent">
 				{% set postslist = collections['Gluten Free Product'] | intersection(collections['Products']) |  randomLimit(3, page.url)  %}
 				{% include "components/postlist/postslist-products-sidebar.njk" %}
+
+
+<p class="text-center">See all of our<br><a title="Gluten Free Products" href="gluten-free-products">Gluten Free Products</a></p>
+
+
+
 			</div>
 		</div>
 
@@ -37,7 +43,7 @@
 
 		<h3 class="text-center">Latest Gluten Free Recipes</h3>
           
-	{% set postslist = collections['Gluten-Free'] | union(collections['Gluten Free Variation']) | limit(3) %}
+	{% set postslist = collections['Gluten-Free'] | union(collections['Gluten Free Variation']) | skip(1) | limit(3) %}
 	{% include "components/postlist/postslist-recipes-3-wide-nofadein.njk" %}
 
 		<div class="wtbbox4">
