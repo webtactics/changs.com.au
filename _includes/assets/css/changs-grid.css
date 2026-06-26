@@ -4601,5 +4601,26 @@ text-rendering: optimizeLegibility;
   max-width: 700px;
   padding: 0 1rem 4rem 1rem;
 }
+.grid-2-sidebar h2  {
+    color: var(--primary);
+   font-family: 'Roboto' , sans-serif;
+  border-bottom: 1px dotted transparent;
+}
 
-.contentleft
+
+.grid-2-sidebar h2 a {
+    color: var(--primary);
+   font-family: 'Roboto' , sans-serif;
+  border-bottom: 1px dotted transparent;
+}
+
+.grid-2-sidebar h2 a:hover {
+    color: var(--black);
+  border-bottom: 1px solid var(--primary);
+}
+
+.grid-2-sidebar h3 {
+    color: var(--primary);
+   font-family: 'Roboto' , sans-serif;
+
+}
