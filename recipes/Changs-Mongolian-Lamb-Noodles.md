@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chang’s Mongolian Lamb Noodles"
 status: published
 date: 2023-05-10
@@ -64,4 +64,5 @@ tags:
   - "Chang's Original Hoisin Sauce"
   - "Chang's Sesame Oil"
   - "Chang's Wok-Ready Noodles"
+  - "Chang's Hokkien Noodles"
 ---

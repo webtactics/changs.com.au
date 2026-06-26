@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Leftover Turkey and Noodle Stir Fry"
 status: published
 date: 2015-12-08
@@ -45,4 +45,5 @@ tags:
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Hokkien Style Shelf Fresh Noodles"
   - "Chang's Original Oyster Sauce"
+  - "Chang's Hokkien Noodles"
 ---

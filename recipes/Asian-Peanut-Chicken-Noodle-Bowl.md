@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Asian Peanut Chicken Noodle Bowl"
 status: published
 date: 2019-04-02
@@ -56,4 +56,5 @@ tags:
   - "Chang's Original Hoisin Sauce"
   - "Chang's Sesame Oil"
   - "Chang's Wok-Ready Noodles"
+  - "Chang's Hokkien Noodles"
 ---

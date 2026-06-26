@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hokkien Noodles with Pork and Snake Beans"
 status: published
 date: 2015-03-17
@@ -49,4 +49,5 @@ tags:
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Hokkien Style Shelf Fresh Noodles"
   - "Chang's Original Oyster Sauce"
+  - "Chang's Hokkien Noodles"
 ---

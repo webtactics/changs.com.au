@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hoisin beef with shitake, noodles and spring onion dressing"
 status: published
 date: 2018-10-10
@@ -50,4 +50,5 @@ tags:
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Hokkien Style Shelf Fresh Noodles"
   - "Chang's Sesame Oil"
+  - "Chang's Hokkien Noodles"
 ---

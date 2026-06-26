@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chinese Master Stock Drunken Chicken Noodles"
 status: published
 date: 2016-06-19
@@ -47,4 +47,5 @@ tags:
   - "Chang's Master Stock"
   - "Chang's Sesame Oil"
   - "Video"
+  - "Chang's Hokkien Noodles"
 ---
