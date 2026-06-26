@@ -37,7 +37,7 @@
 
 		<h3 class="text-center">Latest Gluten Free Recipes</h3>
           
-	{% set postslist = collections['Gluten-Free'] | union(collections['Gluten Free Variation']) | reverse | limit(3) %}
+	{% set postslist = collections['Gluten-Free'] | union(collections['Gluten Free Variation']) | limit(3) %}
 	{% include "components/postlist/postslist-recipes-3-wide-nofadein.njk" %}
 
 		<div class="wtbbox4">
