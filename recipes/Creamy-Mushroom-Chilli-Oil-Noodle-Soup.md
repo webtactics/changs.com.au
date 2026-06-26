@@ -97,4 +97,5 @@ tags:
   - "Chang's Original Hoisin Sauce"
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
+  - "Chang's Long Life Noodles"
 ---

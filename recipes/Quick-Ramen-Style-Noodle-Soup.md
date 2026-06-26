@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Quick Ramen Style Noodle Soup"
 status: published
 date: 2015-08-07
@@ -57,4 +57,5 @@ tags:
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Organic Ramen Noodles"
   - "Chang's Soy Sauce Light"
+  - "Chang's Long Life Noodles"
 ---

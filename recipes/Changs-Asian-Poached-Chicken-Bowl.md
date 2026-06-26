@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chang's Asian Poached Chicken Bowl"
 status: published
 date: 2023-11-15
@@ -61,4 +61,5 @@ tags:
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Fish Sauce"
   - "Chang's Original Fried Noodles"
+  - "Chang's Long Life Noodles"
 ---

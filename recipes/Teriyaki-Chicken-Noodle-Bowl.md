@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Teriyaki Chicken Noodle Bowl"
 status: published
 date: 2021-07-27
@@ -49,4 +49,5 @@ tags:
   - "Chang's Japanese Teriyaki Sauce"
   - "Chang's Sesame Oil"
   - "Chang's Thai Style Rice Noodles"
+  - "Chang's Long Life Noodles"
 ---

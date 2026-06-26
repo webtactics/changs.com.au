@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Spicy Slurpy Soup"
 status: published
 date: 2020-05-26
@@ -42,4 +42,5 @@ tags:
   - "Chang's Sesame Oil"
   - "Chang's Soy Sauce Dark"
   - "Chang's Wok-Ready Noodles"
+  - "Chang's Long Life Noodles"
 ---

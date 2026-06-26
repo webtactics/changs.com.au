@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Easy Work Place Noodles"
 status: published
 date: 2019-07-10
@@ -37,4 +37,5 @@ tags:
   - "Chang's Crispy Noodle Salad Dressing"
   - "Chang's Gluten Free Fried Noodles"
   - "Chang's Sesame Oil"
+  - "Chang's Long Life Noodles"
 ---

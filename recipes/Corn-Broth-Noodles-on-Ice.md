@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Corn Broth Noodles (on Ice)"
 status: published
 date: 2025-12-02
@@ -48,4 +48,5 @@ tags:
   - "Chang's Gluten Free Fried Noodles"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Sesame Oil"
+  - "Chang's Long Life Noodles"
 ---

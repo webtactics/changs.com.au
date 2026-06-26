@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fish, broccolini and cashew stir fry"
 status: published
 date: 2017-12-01
@@ -38,4 +38,5 @@ tags:
   - "Spring"
   - "Summer"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Long Life Noodles"
 ---

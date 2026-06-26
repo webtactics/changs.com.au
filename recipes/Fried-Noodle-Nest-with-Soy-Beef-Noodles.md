@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fried Noodle Nest with Soy Beef Noodles"
 status: published
 date: 2019-04-04
@@ -47,4 +47,5 @@ tags:
   - "Chang's Gluten Free Fried Noodles"
   - "Chang's Original Fried Noodles"
   - "Chang's Sesame Oil"
+  - "Chang's Long Life Noodles"
 ---

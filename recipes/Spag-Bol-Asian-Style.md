@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Spaghetti Bolognese, Chang’s Style"
 status: published
 date: 2015-08-07
@@ -56,4 +56,5 @@ tags:
   - "Chang's Super Lo-Cal Wide Noodles"
   - "Chang's Traditional Super Lo-Cal Noodles"
   - "Chang's Wok-Ready Noodles"
+  - "Chang's Long Life Noodles"
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chang's Marinated Steak"
 status: published
 date: 2016-03-23
@@ -54,4 +54,5 @@ tags:
   - "Chang's Gluten Free Fried Noodles"
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
+  - "Chang's Long Life Noodles"
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Easy Chicken Noodle Soup"
 status: published
 date: 2019-07-10
@@ -60,4 +60,5 @@ tags:
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
   - "Chang's Traditional Super Lo-Cal Noodles"
+  - "Chang's Long Life Noodles"
 ---

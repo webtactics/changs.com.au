@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Spicy Satay Noodles"
 status: published
 date: 2020-06-10
@@ -41,4 +41,5 @@ tags:
   - "Chang's Original Hoisin Sauce"
   - "Chang's Sesame Oil"
   - "Chang's Thai Style Rice Noodles"
+  - "Chang's Long Life Noodles"
 ---

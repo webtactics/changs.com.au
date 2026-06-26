@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Quick Cabbage Noodle Salad"
 status: published
 date: 2023-02-27
@@ -52,4 +52,5 @@ tags:
   - "Chang's Crispy Noodle Salad Dressing"
   - "Chang's Gluten Free Fried Noodles"
   - "Chang's Sesame Oil"
+  - "Chang's Long Life Noodles"
 ---

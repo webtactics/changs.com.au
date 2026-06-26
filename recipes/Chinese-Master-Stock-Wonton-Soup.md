@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chinese Master Stock Wonton Soup"
 status: published
 date: 2016-06-19
@@ -57,4 +57,5 @@ tags:
   - "Chang's Gluten Free Fried Noodles"
   - "Chang's Master Stock"
   - "Chang's Original Oyster Sauce"
+  - "Chang's Long Life Noodles"
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Noodle Omelette"
 status: published
 date: 2020-05-26
@@ -38,4 +38,5 @@ tags:
   - "Quick and Easy"
   - "Winter"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Long Life Noodles"
 ---

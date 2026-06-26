@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Easy Vegetable Lo Mein"
 status: published
 date: 2023-05-03
@@ -67,4 +67,5 @@ tags:
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
   - "Chang's Thai Style Rice Noodles"
+  - "Chang's Long Life Noodles"
 ---

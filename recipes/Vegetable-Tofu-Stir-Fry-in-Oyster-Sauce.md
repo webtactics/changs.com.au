@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Vegetable and Tofu Stir Fry in Oyster Sauce"
 status: published
 date: 2015-08-07
@@ -60,4 +60,5 @@ tags:
   - "Chang's Gluten Free Fried Noodles"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Oyster Sauce"
+  - "Chang's Long Life Noodles"
 ---

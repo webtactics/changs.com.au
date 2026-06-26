@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Noodle Salad with Edamame Beans"
 status: published
 date: 2019-10-17
@@ -55,4 +55,5 @@ tags:
   - "Chang's Gluten Free Fried Noodles"
   - "Chang's Original Fried Noodles"
   - "Chang's Sesame Oil"
+  - "Chang's Long Life Noodles"
 ---

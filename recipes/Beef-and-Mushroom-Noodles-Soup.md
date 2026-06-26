@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Beef and Mushroom Noodles Soup"
 status: published
 date: 2022-05-14
@@ -52,4 +52,5 @@ tags:
   - "Chang's Sesame Oil"
   - "Chang's Super Lo-Cal Wide Noodles"
   - "Chang's Traditional Super Lo-Cal Noodles"
+  - "Chang's Long Life Noodles"
 ---

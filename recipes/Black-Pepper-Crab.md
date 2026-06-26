@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Black Pepper Crab"
 status: published
 date: 2015-03-22
@@ -60,4 +60,5 @@ tags:
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Oyster Sauce"
   - "Chang's Soy Sauce Dark"
+  - "Chang's Long Life Noodles"
 ---

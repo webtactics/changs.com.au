@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chinese Master Stock Crispy Chicken"
 status: published
 date: 2016-06-19
@@ -52,4 +52,5 @@ tags:
   - "Chang's Crispy Noodle Salad Dressing"
   - "Chang's Gluten Free Fried Noodles"
   - "Chang's Master Stock"
+  - "Chang's Long Life Noodles"
 ---

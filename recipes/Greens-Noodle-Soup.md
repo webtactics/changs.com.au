@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Greens Noodle Soup"
 status: published
 date: 2019-07-10
@@ -51,4 +51,5 @@ tags:
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
+  - "Chang's Long Life Noodles"
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mee Goreng Special Fried Noodles"
 status: published
 date: 2022-05-14
@@ -54,4 +54,5 @@ tags:
   - "Chang's Sesame Oil"
   - "Chang's Thai Style Rice Noodles"
   - "Chang's Wok-Ready Noodles"
+  - "Chang's Long Life Noodles"
 ---

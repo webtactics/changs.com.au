@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chicken and bok choy noodle soup"
 status: published
 date: 2017-12-01
@@ -37,4 +37,5 @@ tags:
   - "Chang's Gluten Free Fried Noodles"
   - "Chang's Master Stock"
   - "Chang's Sesame Oil"
+  - "Chang's Long Life Noodles"
 ---

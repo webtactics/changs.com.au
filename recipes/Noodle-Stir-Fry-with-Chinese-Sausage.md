@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Noodle Stir Fry with Chinese Sausage"
 status: published
 date: 2019-07-10
@@ -47,4 +47,5 @@ tags:
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
   - "Chang's Soy Sauce Dark"
+  - "Chang's Long Life Noodles"
 ---

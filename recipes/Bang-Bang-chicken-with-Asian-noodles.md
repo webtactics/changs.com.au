@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bang Bang chicken with Asian noodles "
 status: published
 date: 2018-10-10
@@ -41,4 +41,5 @@ tags:
   - "Sauces and Condiments"
   - "Chang's Crispy Noodle Salad Dressing"
   - "Chang's Gluten Free Fried Noodles"
+  - "Chang's Long Life Noodles"
 ---

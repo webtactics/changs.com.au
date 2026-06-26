@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ginger and Hoisin Glazed Pork"
 status: published
 date: 2016-02-03
@@ -46,4 +46,5 @@ tags:
   - "Chinese New Year"
   - "Chang's Gluten Free Fried Noodles"
   - "Chang's Original Hoisin Sauce"
+  - "Chang's Long Life Noodles"
 ---
