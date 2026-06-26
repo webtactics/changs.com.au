@@ -120,7 +120,7 @@ subtitle: "Whether you choose to avoid gluten for lifestyle or health reasons, g
         <div class="accordion-transform-wrapper">
           <div class="accordion-content">
 <p>All of Chang’s sauces are gluten free and many of our noodle varieties are gluten free also.</p>
-<p>Check out our <a href="/products/gluten-free/">gluten free</a> and <a href="/products/tamari-wheat-free-sauces/">tamari products</a>, and remember to have a look at our tasty <a href="/recipes/gluten-free-recipes/">gluten free recipes</a> too!</p>
+<p>Check out our <a href="/products/gluten-free-products/">gluten free</a> and <a href="/products/tamari-wheat-free-sauces/">tamari products</a>, and remember to have a look at our tasty <a href="/recipes/gluten-free-recipes/">gluten free recipes</a> too!</p>
       </div>
         </div>
       </div>
@@ -138,7 +138,7 @@ subtitle: "Whether you choose to avoid gluten for lifestyle or health reasons, g
           <div class="accordion-content">
 <p>All our gluten free products are clearly labelled.</p>
 
-<p>As well as our <a href="/products/gluten-free/">gluten free noodle range all Chang's sauces are gluten free</a> and we have a special wheat free tamari range too.</p>
+<p>As well as our <a href="/products/gluten-free-products/">gluten free noodle range all Chang's sauces are gluten free</a> and we have a special wheat free tamari range too.</p>
       </div>
         </div>
       </div>
@@ -157,7 +157,7 @@ subtitle: "Whether you choose to avoid gluten for lifestyle or health reasons, g
 
 <p>Rice can be used to make noodles, wrappers, dumplings, pancakes and many other products.</p>
 <p>Substitute wheat noodles for rice noodles, use rice flower and soya products for your gluten free Asian feast!</p>
-<p>Chang's has a large <a href="/products/gluten-free/">gluten free range</a> including noodles and all of our sauces</p>
+<p>Chang's has a large <a href="/products/gluten-free-products/">gluten free range</a> including noodles and all of our sauces</p>
       </div>
         </div>
       </div>
