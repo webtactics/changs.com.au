@@ -157,6 +157,10 @@ subtitle: "Whether you choose to avoid gluten for lifestyle or health reasons, g
 
 
 <h3>What gluten free Asian dishes can I cook?</h3>
-<p>There are lots of choices! We have a huge range of gluten free recipe suggestions and you can substitute gluten free alternatives in almost all of our other dishes. What are you going to cook first?</p>
+<p>There are lots of choices!</p>
+
+<p>We have a huge range of gluten free recipe suggestions and you can substitute gluten free alternatives in almost all of our other dishes.</p>
+
+<p>What are you going to cook first?</p>
 
 
