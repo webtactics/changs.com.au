@@ -9,25 +9,21 @@ eleventyExcludeFromCollections: true
 
 subtitle: "Whether you choose to avoid gluten for lifestyle or health reasons, going gluten-free doesn’t mean missing out."
 ---
+<h2>Chang’s has a great range of <a title="Gluten Free" href="/gluten-free-products">gluten free</a> and <a title="Wheat-free-sauces" href="/products/wheat-free-sauces">wheat free (tamari) products</a> options just for you!</h2>
 
-
-
- 
-
-
-<p>Whether you choose to avoid gluten for lifestyle or health reasons, going gluten-free doesn’t mean missing out. Chang’s has a great range of <a title="Gluten Free" href="gluten-free-products">gluten free</a> and <a title="Wheat-free-sauces" href="/products/wheat-free-sauces">wheat free (tamari) products</a> options just for you!</p>
 <p>An Australian laboratory has independently tested all of our gluten-free products so if the label says ‘Gluten Free’ you can be worry free.</p>
+
 <h3>Do you have questions about the world of ‘gluten free’?</h3>
+
 <p>We have the answers. And if you’d like more information, visit <a title="Coeliac Australia" href="http://www.coeliac.org.au" target="_blank" rel="noopener">Coeliac Australia</a> who has everything there is to know about being gluten free or coeliac.</p>
+
 <p><strong>Please note:<br></strong>Foods carrying a gluten-free claim must have been tested and found to contain “<strong>No detectable</strong>” gluten. By law, however, the manufacturer is still required to list ALL ingredients, which can cause confusion.</p>
+
 <p>In the manufacture of Chang’s Soy based sauces, gluten is first completely removed from the wheat flour by fermentation. This leaves starch, (which is the extract of wheat left). All Chang’s sauces have been tested and found to contain NO detectable gluten.</p>
+
 <p>Chang’s Soy sauce has been tested for 3-MCPD and 1,3-DCP by Australian Laboratory. This sauce is naturally brewed, therefore does not contain these chemicals.</p>
 
 <p><strong>Phone</strong>: 1800 638 363</p>
-
-
-
-
 
 
 
