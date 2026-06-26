@@ -11,4 +11,8 @@ tags:
   - "Chang's Cleaver and wooden chopping board"
 ---
 
-The Chang's Cleaver is a brilliantly sharp handmade utility chopper, made from Damascus steel. The unique pattern on the blade is made from 67 layers of high carbon stainless steel forged together through 50 steps of manufacturing. The chopper is well balanced for handling and stays sharp for longer. The chopping board is made from best hardwood from Taiwan, known for its dense fibre structure. Packed in a gift box, and priced at only <strong>$299.00</strong>.
+The Chang's Cleaver is a brilliantly sharp handmade utility chopper, made from Damascus steel. 
+
+The unique pattern on the blade is made from 67 layers of high carbon stainless steel forged together through 50 steps of manufacturing.
+
+The chopper is well balanced for handling and stays sharp for longer. The chopping board is made from best hardwood from Taiwan, known for its dense fibre structure. Packed in a gift box, and priced at only <strong>$299.00</strong>.
