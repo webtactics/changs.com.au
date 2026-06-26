@@ -4627,5 +4627,10 @@ margin: 0 0 2rem 0;
 .grid-2-sidebar h3 {
     color: var(--primary);
    font-family: 'Roboto' , sans-serif;
+   font-size: 1.8rem;
+  font-size: clamp(1.6rem, 2vw + 1.5rem, 2rem);
+  font-style: normal;
+  font-weight: 500;
+  text-transform: none;
 
 }
