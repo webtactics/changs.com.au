@@ -13,7 +13,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>800g chicken, cut into medium-sized chunks (chicken drumettes, wingettes and thigh fillets)</li>
-  <li>150g <em>Changs Wide Potato Glass Noodle</em> (half a packet)</li>
+  <li>150g <a href="/products/Changs-Super-Lo-Cal-Wide-Noodles/" title="Chang's Super Lo-Cal Wide Noodles" alt="Chang's Super Lo-Cal Wide Noodles">Chang's Super Lo-Cal Wide Noodles</a> or <a href="/products/Changs-Thai-Style-Rice-Noodles/" title="Chang's Thai Style Rice Noodles" alt="Chang's Thai Style Rice Noodles">Chang's Thai Style Rice Noodles</a></li>
   <li>1 medium size potatoes</li>
   <li>1 carrots</li>
   <li>1/2 medium onion</li>
@@ -65,4 +65,6 @@ tags:
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
+  - "Chang's Super Lo-Cal Wide Noodles"
+  - "Chang's Thai Style Rice Noodles"
 ---
