@@ -54,7 +54,9 @@ subtitle: "Whether you choose to avoid gluten for lifestyle or health reasons, g
       <div class="accordion-animation">
         <div class="accordion-transform-wrapper">
           <div class="accordion-content">
-<p>Because gluten is found in wheat, rye, barley, triticale and oats, there are a number of foods gluten intolerant people should avoid, including the obvious such as pastas, breads and cereals, some meat products including sausages, smallgoods, meat pies and other processed meats, condiments including some mustards, salad dressings, sauces (with the exception of Chang’s sauces!), and relishes.  Also be aware of snacks including chips and some lollies and alcoholic drinks such as beer!</p>
+<p>Because gluten is found in wheat, rye, barley, triticale and oats, there are a number of foods gluten intolerant people should avoid, including the obvious such as pastas, breads and cereals, some meat products including sausages, smallgoods, meat pies and other processed meats, condiments including some mustards, salad dressings, sauces (with the exception of Chang’s sauces!), and relishes.</p>
+
+<p>Also be aware of snacks including chips and some lollies and alcoholic drinks such as beer!</p>
 <p>For a comprehensive list, you can visit the <a title="Victorian Governmen" href="http://www.betterhealth.vic.gov.au/bhcv2/bhcarticles.nsf/pages/Gluten-free_diet" target="_blank">Victorian Government’s Better Health</a> website.</p>
      </div>
         </div>
@@ -70,7 +72,8 @@ subtitle: "Whether you choose to avoid gluten for lifestyle or health reasons, g
       <div class="accordion-animation">
         <div class="accordion-transform-wrapper">
           <div class="accordion-content">
-           <p>No. Although some people use gluten-free and wheat-free interchangeably they are not the same thing.  Gluten is a protein found in wheat, barley and rye, so all wheat contains gluten, but not all gluten is from wheat.</p>
+           <p>No. Although some people use gluten-free and wheat-free interchangeably they are not the same thing.</p>
+          <p> Gluten is a protein found in wheat, barley and rye, so all wheat contains gluten, but not all gluten is from wheat.</p>
 </div>
         </div>
       </div>
@@ -85,7 +88,8 @@ subtitle: "Whether you choose to avoid gluten for lifestyle or health reasons, g
       <div class="accordion-animation">
         <div class="accordion-transform-wrapper">
           <div class="accordion-content">
-<p>Put simply, coeliac disease is an allergy to wheat. The immune system reacts abnormally to gluten causing damage to the small bowel.  For more information, visit <a title="Coeliac Australia" href="http://www.coeliac.org.au" target="_blank">Coeliac Australia</a>.</p>
+<p>Put simply, coeliac disease is an allergy to wheat.</p>
+<p>The immune system reacts abnormally to gluten causing damage to the small bowel.  For more information, visit <a title="Coeliac Australia" href="http://www.coeliac.org.au" target="_blank">Coeliac Australia</a>.</p>
       </div>
         </div>
       </div>
@@ -151,7 +155,8 @@ subtitle: "Whether you choose to avoid gluten for lifestyle or health reasons, g
           <div class="accordion-content">
 <p>No, but it is very easy to make a gluten free version of all your favourite dishes.</p>
 
-<p>Rice can be used to make noodles, wrappers, dumplings, pancakes and many other products. Substitute wheat noodles for rice noodles, use rice flower and soya products for your gluten free Asian feast!</p>
+<p>Rice can be used to make noodles, wrappers, dumplings, pancakes and many other products.</p>
+<p>Substitute wheat noodles for rice noodles, use rice flower and soya products for your gluten free Asian feast!</p>
 <p>Chang's has a large <a href="/products/gluten-free/">gluten free range</a> including noodles and all of our sauces</p>
       </div>
         </div>
