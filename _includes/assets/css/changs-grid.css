@@ -4589,3 +4589,9 @@ text-rendering: optimizeLegibility;
   -moz-box-shadow: 2px 2px 5px rgba(50, 50, 50, 0.3);
   box-shadow: 2px 2px 5px rgba(50, 50, 50, 0.3);
 }
+
+.glutenbox {
+  margin: 0 auto;
+  max-width: 700px;
+  padding: 0 1rem 4rem 1rem;
+}
