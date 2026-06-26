@@ -44,7 +44,7 @@ method: |
   <li>Combine all the marinade ingredients and coat the chicken wings. Place in fridge for 15 - 20 minutes.</li>
   <li>In the meantime, prepare the garnish options and prepare baking tray with baking paper. Pre heat oven to 180C fan forced</li>
   <li>Spread chicken wings over baking tray and brush with remaining marinade. Cook for 40 minutes. Check after 20 minutes and rotate tray to cook evenly.</li>
-  <li>While the chicken wings are cooking, boil the noodles. Once cooked drizzle sesame oil and soy sauce and combine well to evenly coat (Optional to use <a href="/products/Changs-Original-Hot-Chilli-Sauce/" title="Chang's Original Hot Chilli Sauce" alt="Chang's Original Hot Chilli Sauce">Chang's Original Hot Chilli Sauce</a> for a spicy noodle alternative)</li>
+  <li>While the chicken wings are cooking, boil the noodles. Once cooked drizzle sesame oil and soy sauce and combine well to evenly coat (Optional to use chilli sauce for a spicy noodle alternative)</li>
   <li>Serve noodles and chicken wings immediately and garnish with green onions, chilli and toasted sesame seeds.</li>
   </ol>
   <p> </p>
@@ -56,7 +56,6 @@ tags:
   - "Gluten-Free"
   - "Spring"
   - "Chang's Original Hoisin Sauce"
-  - "Chang's Original Hot Chilli Sauce"
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
   - "Chang's Soy Sauce Dark"

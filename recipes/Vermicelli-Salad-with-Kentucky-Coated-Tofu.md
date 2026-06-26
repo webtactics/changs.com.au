@@ -46,7 +46,7 @@ method: |
   <li>Working one piece at a time, dip the tofu in the egg mixture and then the coating. Repeat with remaining pieces.</li>
   <li>Heat the oil in a wide non-stick frying pan (enough oil to cover the bottom of the pan) and cook the tofu for 3 minutes each side or until golden and crispy.</li>
   <li>In a large serving bowl, add the noodles, carrot, snow peas and green onions, chilli and combine well. Pour over the salad dressing and combine until evenly coated.</li>
-  <li>Divide Vermicelli Salad between 4 bowls and place tofu over the top. Garnish with coriander leaves and wedges of lime (optional to add slices of cucumber and serve with <a href="/products/Changs-Original-Hot-Chilli-Sauce/" title="Chang's Original Hot Chilli Sauce" alt="Chang's Original Hot Chilli Sauce">Chang's Original Hot Chilli Sauce</a>). </li>
+  <li>Divide Vermicelli Salad between 4 bowls and place tofu over the top. Garnish with coriander leaves and wedges of lime (optional to add slices of cucumber and serve with chilli sauce). </li>
   </ol>
 tags:
   - "Vegetarian"
@@ -65,7 +65,6 @@ tags:
   - "Autumn"
   - "Winter"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
-  - "Chang's Original Hot Chilli Sauce"
   - "Chang's Original Oyster Sauce"
   - "Chang's Sesame Oil"
   - "Chang's Vermicelli Rice Noodles"
