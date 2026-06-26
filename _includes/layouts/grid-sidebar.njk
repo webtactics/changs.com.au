@@ -35,7 +35,7 @@
     		<img src="https://ik.imagekit.io/webtactics/changs-media/assets/icons/changs-bowl_pyS8wDFp1.png?updatedAt=1711837496199" alt="Chang's Flavours of Asia" title="Chang's Flavours of Asia" width="106px" height="79px">
 		</div>
 
-		<h3 class="text-center">Latest Recipes</h3>
+		<h3 class="text-center">Latest Gluten Free Recipes</h3>
           
 	{% set postslist = collections['Gluten-Free'] | union(collections['Gluten Free Variation']) | reverse | limit(3) %}
 	{% include "components/postlist/postslist-recipes-3-wide-nofadein.njk" %}
