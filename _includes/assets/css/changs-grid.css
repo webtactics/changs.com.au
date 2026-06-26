@@ -3899,9 +3899,10 @@ text-decoration: none;
 }
 
 .accordion-content p {
-  padding-bottom: 1rem;
+  padding-bottom: 0.5rem;
   font-size: 0.9rem;
   line-height: 1;
+  margin: 0 0 0.5rem 0;
 }
 
 .accordion-content p:last-of-type {
