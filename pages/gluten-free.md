@@ -1,5 +1,5 @@
 ---
-layout: layouts/grid-default.njk
+layout: layouts/grid-sidebar.njk
 title: Gluten Free Products and Recipes
 description: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.description will be used instead.
 section: gluten-free
@@ -11,9 +11,7 @@ subtitle: "Whether you choose to avoid gluten for lifestyle or health reasons, g
 ---
 
 
-<div class="page-search-wrapper">
- <div id="search"></div>
- </div>
+
  
 
 
