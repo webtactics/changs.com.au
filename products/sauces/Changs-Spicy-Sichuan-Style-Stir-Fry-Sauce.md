@@ -3,7 +3,8 @@ eleventyExcludeFromCollections: true
 disable: true
 
 title: "Chang's Spicy Sichuan Style Stir Fry Sauce"
-status: published
+status: disable
+
 date: 4000-01-27
 description: "Chang's range of sauces makes cooking a delicious, quick dinner easy for everyone. This Spicy Sichuan style sauce is a great addition to stir-fries."
 permalink: "/products/Changs-Spicy-Sichuan-Style-Stir-Fry-Sauce/"

@@ -3,7 +3,8 @@ eleventyExcludeFromCollections: true
 disable: true
 
 title: "Chang's Sweet Manchurian Stir Fry Sauce"
-status: published
+status: disable
+
 date: 4000-01-26
 description: "Chang's Sweet Manchurian Stir Fry Sauce: Indulge in a delightful fusion of sweet and savory flavors for your stir-fry adventures. Try it now!"
 permalink: "/products/Changs-Sweet-Manchurian-Stir-Fry-Sauce/"

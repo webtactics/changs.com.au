@@ -3,7 +3,8 @@ eleventyExcludeFromCollections: true
 disable: true
 
 title: "Chang's Savoury Black Bean Stir Fry Sauce"
-status: published
+status: disable
+
 date: 4000-01-31
 description: "Black bean sauce is an essential ingredient in the Cantonese dish &ldquo;Beef in Black bean sauce&rdquo;. It adds a unique flavour to stir-fry beef, pork casserole and steamed fish."
 permalink: "/products/Changs-Savoury-Black-Bean-Stir-Fry-Sauce/"

@@ -2,7 +2,8 @@
 eleventyExcludeFromCollections: true
 disable: true
 title: "Chang's Black Bean Sauce"
-status: published
+status: disable
+
 date: 4000-02-15
 description: "A traditional Cantonese sauce that is versatile enough to use with beef, pork and fish."
 permalink: "/products/Changs-Black-Bean-Sauce/"

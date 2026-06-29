@@ -3,7 +3,8 @@ eleventyExcludeFromCollections: true
 disable: true
 
 title: "Chang's Master Stock"
-status: published
+status: disable
+
 date: 4000-02-06
 description: "Authentic master stock with none of the hard work."
 permalink: "/products/Changs-Master-Stock/"

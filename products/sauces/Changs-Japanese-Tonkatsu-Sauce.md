@@ -3,7 +3,7 @@ eleventyExcludeFromCollections: true
 disable: true
 
 title: "Chang's Japanese Tonkatsu Sauce"
-status: published
+status: disable
 date: 4000-02-09
 description: "Dipping sauce. See label for recipes. Try with your favourite BBQ meats and sausages."
 permalink: "/products/Changs-Japanese-Tonkatsu-Sauce/"

@@ -3,7 +3,8 @@ eleventyExcludeFromCollections: true
 disable: true
 
 title: "Chang's Original Hot Chilli Sauce"
-status: published
+status: disable
+
 date: 4000-02-02
 description: "Who doesn't love a spicy chilli sauce? And a gluten-free one at that!"
 permalink: "/products/Changs-Original-Hot-Chilli-Sauce/"

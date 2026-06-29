@@ -1,8 +1,9 @@
 ﻿---
 eleventyExcludeFromCollections: true
+disable: true
 
 title: "Chang's Tamari Oyster Sauce"
-status: published
+status: disable
 date: 4000-01-22
 description: "A gluten-, wheat- and MSG-free oyster sauce. A staple for your favourite stir-fry!"
 permalink: "/products/Changs-Tamari-Oyster-Sauce/"
