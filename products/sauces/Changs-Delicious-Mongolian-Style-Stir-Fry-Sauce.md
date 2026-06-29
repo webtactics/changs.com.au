@@ -1,4 +1,6 @@
 ﻿---
+eleventyExcludeFromCollections: true
+
 title: "Chang's Delicious Mongolian Style Stir Fry Sauce"
 status: published
 date: 4000-02-11

@@ -1,4 +1,6 @@
 ﻿---
+eleventyExcludeFromCollections: true
+
 title: "Chang's Japanese Tonkatsu Sauce"
 status: published
 date: 4000-02-09

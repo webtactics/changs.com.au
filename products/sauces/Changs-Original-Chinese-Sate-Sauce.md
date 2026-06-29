@@ -1,4 +1,6 @@
 ﻿---
+eleventyExcludeFromCollections: true
+
 title: "Chang's Original Chinese Sate Sauce"
 status: published
 date: 4000-02-05

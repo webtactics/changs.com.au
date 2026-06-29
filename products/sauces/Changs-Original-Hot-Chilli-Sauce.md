@@ -1,4 +1,6 @@
 ﻿---
+eleventyExcludeFromCollections: true
+
 title: "Chang's Original Hot Chilli Sauce"
 status: published
 date: 4000-02-02

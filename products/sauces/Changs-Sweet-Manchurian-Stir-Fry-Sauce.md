@@ -1,4 +1,6 @@
 ﻿---
+eleventyExcludeFromCollections: true
+
 title: "Chang's Sweet Manchurian Stir Fry Sauce"
 status: published
 date: 4000-01-26

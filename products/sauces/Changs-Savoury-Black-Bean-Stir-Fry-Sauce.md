@@ -1,4 +1,6 @@
 ﻿---
+eleventyExcludeFromCollections: true
+
 title: "Chang's Savoury Black Bean Stir Fry Sauce"
 status: published
 date: 4000-01-31

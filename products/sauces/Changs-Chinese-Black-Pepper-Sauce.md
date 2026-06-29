@@ -1,4 +1,6 @@
 ﻿---
+eleventyExcludeFromCollections: true
+
 title: "Chang's Chinese Black Pepper Sauce"
 status: published
 date: 4000-02-14

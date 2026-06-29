@@ -1,4 +1,6 @@
 ﻿---
+eleventyExcludeFromCollections: true
+
 title: "Chang's Tamari Oyster Sauce"
 status: published
 date: 4000-01-22
