@@ -1,5 +1,6 @@
 ﻿---
 eleventyExcludeFromCollections: true
+disable: true
 
 title: "Chang's Sweet Manchurian Stir Fry Sauce"
 status: published

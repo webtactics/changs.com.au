@@ -1,5 +1,6 @@
 ﻿---
 eleventyExcludeFromCollections: true
+disable: true
 
 title: "Chang's Japanese Yakitori Sauce"
 status: published

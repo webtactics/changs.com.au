@@ -1,5 +1,6 @@
 ﻿---
 eleventyExcludeFromCollections: true
+disable: true
 
 title: "Chang's Delicious Mongolian Style Stir Fry Sauce"
 status: published

@@ -1,5 +1,6 @@
 ﻿---
 eleventyExcludeFromCollections: true
+disable: true
 
 title: "Chang's Original Hot Chilli Sauce"
 status: published

@@ -7,12 +7,19 @@ section: post
 
   <div class="recipedetailtitle hide-for-large padsmall">
     <h1>{{ title }}</h1>
+
+ {% disabled %}
+<p>Please note that this product is currently out of stock, and may not be replenished.</p>
+ {% endif %}
   </div>
 
   <div class="recipes-ingredients padsmall">
 
     <div class="recipedetailtitle show-for-large hide-for-small">
       <h1>{{ title }}</h1>
+       {% disabled %}
+<p>Please note that this product is currently out of stock, and may not be replenished.</p>
+ {% endif %}
     </div>
 
     {% if gtin %}

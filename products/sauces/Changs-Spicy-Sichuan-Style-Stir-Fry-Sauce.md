@@ -1,5 +1,6 @@
 ﻿---
 eleventyExcludeFromCollections: true
+disable: true
 
 title: "Chang's Spicy Sichuan Style Stir Fry Sauce"
 status: published

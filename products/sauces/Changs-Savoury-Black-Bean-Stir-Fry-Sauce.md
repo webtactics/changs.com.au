@@ -1,5 +1,6 @@
 ﻿---
 eleventyExcludeFromCollections: true
+disable: true
 
 title: "Chang's Savoury Black Bean Stir Fry Sauce"
 status: published
