@@ -1,4 +1,6 @@
 ﻿---
+eleventyExcludeFromCollections: true
+
 title: "Chang's Organic Ramen Noodles"
 status: published
 date: 4000-02-23
