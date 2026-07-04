@@ -11,7 +11,7 @@ gallery: "recipes/Noodle-Hair-Monster-Pops"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 packet <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a> (For Gluten Free option use <a title="Chang's Gluten Free Fried Noodles" href="/products/Gluten-Free-Fried-Noodles/">Chang's Gluten Free Fried Noodles</a>.)</li>
+  <li>1 packet <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a> (For Gluten Free option use <a title="Chang's Gluten Free Fried Noodles" href="/products/changs-gluten-free-fried-noodles/">Chang's Gluten Free Fried Noodles</a>.)</li>
   <li>4 chocolate blocks broken in half (we used 70% cacao)</li>
   <li>8 lolly pop sticks</li>
   <li>16 sugar candy eyeballs</li>

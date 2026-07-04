@@ -12,7 +12,7 @@ gallery: "recipes/Spicy-Fried-Noodle-Salad"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 packet <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a>, or <a title="Chang's Gluten Free Fried Noodles" href="/products/Gluten-Free-Fried-Noodles/">Chang's Gluten Free Fried Noodles</a></li>
+  <li>1 packet <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a>, or <a title="Chang's Gluten Free Fried Noodles" href="/products/changs-gluten-free-fried-noodles/">Chang's Gluten Free Fried Noodles</a></li>
   <li>&frac14; Chinese cabbage, shredded</li>
   <li>&frac14; purple cabbage, shredded</li>
   <li>1 large carrot, sliced thinly</li>

@@ -17,7 +17,7 @@ ingredients: |
   <li>&frac12; cup icing sugar</li>
   <li>2 to 3 tablespoons of water</li>
   <li>1 teaspoon of Queen Red food colouring</li>
-  <li>1 packet <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a> (or <a title="Chang's Gluten Free Fried Noodles" href="/products/Gluten-Free-Fried-Noodles/"  rel="noopener">Chang's Gluten Free Fried Noodles</a> for a gluten-free option)</li>
+  <li>1 packet <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a> (or <a title="Chang's Gluten Free Fried Noodles" href="/products/changs-gluten-free-fried-noodles/"  rel="noopener">Chang's Gluten Free Fried Noodles</a> for a gluten-free option)</li>
   <li>12 Gummy eyeballs</li>
   </ul>
 method: |
