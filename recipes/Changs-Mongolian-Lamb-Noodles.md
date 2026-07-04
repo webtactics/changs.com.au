@@ -41,7 +41,7 @@ ingredients: |
   </ul>
   <h4>Noodles:</h4>
   <ul>
-  <li>1 packet <a href="/products/Changs-Shelf-Fresh-Noodles-Hokkien-Style/" title="Chang's Hokkien Noodles" alt="Chang's Hokkien Noodles">Chang's Hokkien Noodles</a><br /> (OR gluten-free alternative, use 3 packets of <a href="/products/Changs-Wok-Ready-Noodles/" title="Chang's Wok-Ready Noodles" alt="Chang's Wok-Ready Noodles">Chang's Wok-Ready Noodles</a>)</li>
+  <li>1 packet <a href="/products/changs-hokkien-style-shelf-fresh-noodles/" title="Chang's Hokkien Noodles" alt="Chang's Hokkien Noodles">Chang's Hokkien Noodles</a><br /> (OR gluten-free alternative, use 3 packets of <a href="/products/Changs-Wok-Ready-Noodles/" title="Chang's Wok-Ready Noodles" alt="Chang's Wok-Ready Noodles">Chang's Wok-Ready Noodles</a>)</li>
   </ul>
 method: |
   <h3>Method:</h3>
