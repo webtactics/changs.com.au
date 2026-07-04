@@ -37,7 +37,7 @@ ingredients: |
   </ul>
   <h4>Noodles:</h4>
   <ul>
-  <li>2 packs <a title="Chang's Traditional Super Lo-Cal Wide Noodles" href="/products/Changs-Traditional-Super-Lo-Cal-Wide-Noodles/">Chang's Traditional Super Lo-Cal Wide Noodles</a></li>
+  <li>2 packs <a title="Chang's Traditional Super Lo-Cal Wide Noodles" href="/products/changs-traditional-super-lo-cal-noodles/">Chang's Traditional Super Lo-Cal Wide Noodles</a></li>
   <li>2-3 tablespoons <a title="Chang's Sesame Oil" href="/products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
   </ul>
   <h4>To Garnish:</h4>

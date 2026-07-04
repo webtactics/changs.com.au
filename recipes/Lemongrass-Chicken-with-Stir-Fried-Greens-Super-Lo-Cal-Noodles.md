@@ -36,7 +36,7 @@ ingredients: |
   <li>3 tablespoons ice cold water</li>
   <li>2 teaspoons corn flour</li>
   <li>2 tablespoons cooking oil</li>
-  <li>2-3 packets <a title="Chang's Traditional Super Lo-Cal Wide Noodles" href="/products/Changs-Traditional-Super-Lo-Cal-Wide-Noodles/">Chang's Traditional Super Lo-Cal Wide Noodles</a></li>
+  <li>2-3 packets <a title="Chang's Traditional Super Lo-Cal Wide Noodles" href="/products/changs-traditional-super-lo-cal-noodles/">Chang's Traditional Super Lo-Cal Wide Noodles</a></li>
   </ul>
   <h4>Options to Garnish:</h4>
   <p>Lime, Coriander, Chilli slices and Green Onions</p>
