@@ -19,7 +19,7 @@ ingredients: |
   <li>1 tsp. sugar</li>
   <li>1 tsp. freshly grated ginger</li>
   <li>1 egg, beaten</li>
-  <li>1 tbsp. <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>1 tbsp. <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
   <li>1 tbsp. neutral oil</li>
   <li>20 gyoza wrappers, or wheat-based wonton wrappers</li>
   </ul>

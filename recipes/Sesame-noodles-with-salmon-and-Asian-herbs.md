@@ -12,9 +12,9 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>200g packet <a href="/products/Changs-Egg-Noodles/" title="Chang's Egg Noodles" alt="Chang's Egg Noodles">Chang's Egg Noodles</a></li>
-  <li>3 tbsps <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>3 tbsps <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>3tbsps rice wine vinegar</li>
-  <li>4tbsps <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>4tbsps <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>1tbsp finely grated ginger</li>
   <li>1 clove garlic, crushed</li>
   <li>2tbsps hulled tahini paste</li>

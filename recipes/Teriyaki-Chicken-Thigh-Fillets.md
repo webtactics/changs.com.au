@@ -22,8 +22,8 @@ ingredients: |
   <ul>
   <li>2 bunches broccolini, stems removed and washed</li>
   <li>1 tablespoons cooking oil</li>
-  <li>1 tablespoon <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
-  <li>2 tablespoons <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tablespoon <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2 tablespoons <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>2x2cm fresh ginger, grated</li>
   <li>2 large garlic cloves, thinly sliced</li>
   <li>Chilli flakes (optional)</li>
@@ -39,7 +39,7 @@ method: |
   <ol>
   <li>Heat oil in a wok or pan and add the garlic, ginger and broccolini. Stir fry for 1 minute.</li>
   <li>Pour the Tamari Soy Sauce, season with salt and pepper and stir fry for a further 2 minutes.</li>
-  <li>Remove from heat, serve onto platter and drizzle with <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a>. Optional to sprinkle chilli flakes. Serve.</li>
+  <li>Remove from heat, serve onto platter and drizzle with <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a>. Optional to sprinkle chilli flakes. Serve.</li>
   </ol>
 tags:
   - "Poultry"

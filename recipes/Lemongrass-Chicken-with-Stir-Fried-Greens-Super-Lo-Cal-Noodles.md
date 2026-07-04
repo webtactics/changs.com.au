@@ -21,7 +21,7 @@ ingredients: |
   <li>1 cup Thai basil (or coriander if unavailable)</li>
   <li>1 long red chilli, roughly chopped</li>
   <li>2 tablespoons <a title="Chang's Original Fish Sauce" href="/products/Changs-Original-Fish-Sauce/">Chang's Original Fish Sauce</a></li>
-  <li>2 tablespoons <a title="Chang's Sesame Oil" href="/products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
+  <li>2 tablespoons <a title="Chang's Sesame Oil" href="/products/changs-sesame-oil/">Chang's Sesame Oil</a></li>
   <li>2 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>Juice of &frac12; lime</li>
   <li>Salt and pepper to taste</li>
@@ -31,7 +31,7 @@ ingredients: |
   <li>1 bunch Chinese broccoli, chopped 4cm lengths</li>
   <li>3cm piece ginger, thinly sliced</li>
   <li>2 large garlic cloves, minced</li>
-  <li>2 tablespoons <a title="Chang's Sesame Oil" href="/products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
+  <li>2 tablespoons <a title="Chang's Sesame Oil" href="/products/changs-sesame-oil/">Chang's Sesame Oil</a></li>
   <li>2 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>3 tablespoons ice cold water</li>
   <li>2 teaspoons corn flour</li>

@@ -15,7 +15,7 @@ ingredients: |
   <h4>Chicken and stock:</h4>
   <ul>
   <li>1 whole small organic or free range chicken, trimmed of excess fat</li>
-  <li>1 tbsp.<a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tbsp.<a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 tablespoon Shaosing rice wine</li>
   <li>&frac12; kg chicken carcasses</li>
   <li>1 large thumb ginger, sliced</li>
@@ -36,7 +36,7 @@ ingredients: |
   <li>2 spring onions, white and pale green parts only, very finely sliced</li>
   <li>1 thumb ginger, grated</li>
   <li>1/3 cup neutral oil</li>
-  <li>2 tablespoons <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>2 tablespoons <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
   <li>Diced or sliced cucumber to serve</li>
   </ul>
 method: |

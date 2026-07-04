@@ -14,7 +14,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>1 small Japanese pumpkin (2.8 kg), cut into 4cm slices</li>
-  <li>2 tbsps <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2 tbsps <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>2 tbsps olive oil</li>
   <li>2 tbsps thyme leaves</li>
   <li>300g tri- coloured quinoa, rinsed</li>

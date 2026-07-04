@@ -17,7 +17,7 @@ ingredients: |
   <li>500ml cold water</li>
   <li>1.6kg free range chicken, cut into 8 pieces</li>
   <li>500ml sunflower oil</li>
-  <li>1 x 250g packet <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a>, cooked according to directions on the packet</li>
+  <li>1 x 250g packet <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a>, cooked according to directions on the packet</li>
   <li>1 cup loosely packed mint leaves, torn</li>
   <li>1 cup loosely packed coriander leaves</li>
   <li>1 spring onions, thinly sliced</li>

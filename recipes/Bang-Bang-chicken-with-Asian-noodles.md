@@ -15,7 +15,7 @@ ingredients: |
   <li>125 ml ( 1/2 cup) Shaoxing wine</li>
   <li>4 cm piece ginger, thinly sliced</li>
   <li>3 large chicken breast fillets</li>
-  <li>250g <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
+  <li>250g <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
   <li>1/4 Chinese cabbage, thinly sliced</li>
   <li>1/4 red cabbage, thinly sliced</li>
   <li>2 large carrots, cut into julienne or shredded</li>

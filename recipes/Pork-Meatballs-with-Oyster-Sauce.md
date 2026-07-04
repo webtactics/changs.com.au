@@ -14,9 +14,9 @@ ingredients: |
   <li>600g pork mince</li>
   <li>4 green onions, finely chopped</li>
   <li>2 cloves garlic, crushed</li>
-  <li>2 tbsps <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
-  <li>3 tbsps <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
-  <li>1tbsp <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tbsps <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>3 tbsps <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1tbsp <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 egg, lightly whisked</li>
   <li>1/4 cup rice bran or vegetable oil</li>
   <li>100g mini mixed capsicums, sliced</li>

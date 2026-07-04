@@ -21,9 +21,9 @@ ingredients: |
   <li>Finely grated zest of half a lemon</li>
   <li>&frac12; - 1 medium chilli, finely chopped &ndash; optional</li>
   <li>&frac12; cup finely chopped coriander</li>
-  <li>&frac12; cup <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>&frac12; cup <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
   <li>&frac14; cup lemon juice</li>
-  <li>1 tbsp. <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tbsp. <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   </ul>
 method: |
   <h3>Method:</h3>
@@ -32,7 +32,7 @@ method: |
   <li>For the warm marinade, place a heavy metal baking dish just big enough to hold the steak on a flame and when hot, add a tablespoon of the oil, the garlic, ginger and chilli if using. Cook for 30 seconds then add the lemon zest and juice, oyster sauce, coriander and the remaining olive oil. Remove from heat and add the sesame oil.</li>
   <li>Place the steak and asparagus in the warm marinade and cover with a clean tea towel or very loosely with foil. Rest for five minutes then turn steak over and rest for another five minutes.</li>
   <li>Slice steak against the grain and serve with warm marinade spooned over and asparagus</li>
-  <li>For an added extra serve with <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a>, or for those looking for a gluten free option, steamed rice.</li>
+  <li>For an added extra serve with <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a>, or for those looking for a gluten free option, steamed rice.</li>
   </ol>
 tags:
   - "Beef"

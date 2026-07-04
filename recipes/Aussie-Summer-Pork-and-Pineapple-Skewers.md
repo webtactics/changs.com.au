@@ -23,7 +23,7 @@ ingredients: |
   <li>100ml pineapple juice</li>
   <li>2 tbs <a href="/products/Changs-Soy-Sauce-Dark/" title="Chang's Soy Sauce Dark" alt="Chang's Soy Sauce Dark">Chang's Soy Sauce Dark</a></li>
   <li>2 tbs <a href="/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce">Chang's Original Hoisin Sauce</a></li>
-  <li>1 tsp <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tsp <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   </ul>
 method: |
   <h3>Method:</h3>
@@ -36,7 +36,7 @@ method: |
   <ul>
   <li>1 pkt <a title="Chang's Rice Vermicelli Noodles" href="/products/Changs-Rice-Noodles-Vermicelli/">Chang's Rice Vermicelli Noodles</a></li>
   <li>1 tbs <a title="Chang's Soy Sauce" href="/products/Changs-Soy-Sauce-Dark/">Chang's Soy Sauce</a></li>
-  <li>1 tbs <a title="Chang's Sesame Oil" href="/products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
+  <li>1 tbs <a title="Chang's Sesame Oil" href="/products/changs-sesame-oil/">Chang's Sesame Oil</a></li>
   <li>3 tbs pineapple juice</li>
   </ul>
   <h3>Method:</h3>

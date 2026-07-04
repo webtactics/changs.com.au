@@ -21,7 +21,7 @@ ingredients: |
   <li>1 small red chilli, finely sliced</li>
   <li>1 small green chilli, finely sliced</li>
   <li>1/2 cup red peanuts, roughly chopped</li>
-  <li>2 tbsp. <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2 tbsp. <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

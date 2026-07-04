@@ -19,7 +19,7 @@ ingredients: |
   <li>1.6kg free range chicken, cut into 8 pieces</li>
   <li>800g packet <a href="/products/Changs-Shelf-Fresh-Noodles-Hokkien-Style/" title="Chang's Hokkien Noodles" alt="Chang's Hokkien Noodles">Chang's Hokkien Noodles</a> or <a href="/products/Changs-Egg-Noodles/" title="Chang's Egg Noodles" alt="Chang's Egg Noodles">Chang's Egg Noodles</a></li>
   <li>200g sugar snap peas, lightly steamed</li>
-  <li>1 tbsp. <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tbsp. <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>2 small red chillies, finely chopped</li>
   <li>2 tbsp. crispy fried shallots</li>
   </ul>

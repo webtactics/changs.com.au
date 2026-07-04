@@ -15,7 +15,7 @@ ingredients: |
   <ul>
   <li>600g lean pork belly, cut into 1cm x 4 cm approx. pieces</li>
   <li>200 ml chicken stock</li>
-  <li>1 cup <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 cup <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>Juice and finely grated zest of an orange</li>
   <li>&frac12; thumb ginger, thinly sliced</li>
   <li>2 cloves garlic, thinly sliced</li>

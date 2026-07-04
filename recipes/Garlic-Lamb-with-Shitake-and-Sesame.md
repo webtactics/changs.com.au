@@ -12,15 +12,15 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>8 cloves garlic, crushed</li>
-  <li>2tbsps <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
-  <li>2tbsps <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>2tbsps <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2tbsps <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>2tbsps <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2tbsps <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>1/2 tsp castor sugar</li>
   <li>500g lamb leg steaks, thinly sliced</li>
   <li>1 large red onion, cut into small cubes</li>
   <li>500g shitake mushrooms, halved</li>
   <li>2 bunches broccolini, cut into 5cm lengths</li>
-  <li>2x 390g packets <a href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a>, drained, rinsed under cold water</li>
+  <li>2x 390g packets <a href="/products/changs-traditional-super-lo-cal-noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a>, drained, rinsed under cold water</li>
   <li>1/3 cup vegetable stock</li>
   </ul>
 method: |

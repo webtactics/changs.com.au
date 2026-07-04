@@ -18,7 +18,7 @@ ingredients: |
   <li>1tsp cracked black pepper</li>
   <li>1 bunch snake beans, sliced</li>
   <li>1 bunch baby bok choy, sliced</li>
-  <li>3tbsps <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>3tbsps <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 tbsp raw sugar</li>
   <li>1 tbsp <a href="/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce">Chang's Original Hoisin Sauce</a></li>
   <li>2x100g packets <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a> li&gt;</li>

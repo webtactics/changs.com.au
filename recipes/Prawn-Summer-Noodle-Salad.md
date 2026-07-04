@@ -28,8 +28,8 @@ ingredients: |
   <ul>
   <li>&frac12; cup <a href="/products/Changs-Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a></li>
   <li>2 tablespoons lime juice</li>
-  <li>2 tablespoons <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>1 tablespoon <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2 tablespoons <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tablespoon <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>2 teaspoons <a href="/products/Changs-Original-Fish-Sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce">Chang's Original Fish Sauce</a></li>
   <li>2 garlic cloves, minced or finely chopped</li>
   </ul>

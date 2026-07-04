@@ -22,10 +22,10 @@ ingredients: |
   <li>4 cm piece fresh ginger, peeled and grated</li>
   <li>1-litre Beef stock</li>
   <li>2 tablespoons cooking oil</li>
-  <li>1 pkt <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> or 2 pkts <a href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a> or <a href="/products/Changs-Super-Lo-Cal-Wide-Noodles/" title="Chang's Super Lo-Cal Wide Noodles" alt="Chang's Super Lo-Cal Wide Noodles">Chang's Super Lo-Cal Wide Noodles</a></li>
-  <li>&frac14; cup <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 pkt <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> or 2 pkts <a href="/products/changs-traditional-super-lo-cal-noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a> or <a href="/products/Changs-Super-Lo-Cal-Wide-Noodles/" title="Chang's Super Lo-Cal Wide Noodles" alt="Chang's Super Lo-Cal Wide Noodles">Chang's Super Lo-Cal Wide Noodles</a></li>
+  <li>&frac14; cup <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>&frac14; cup<a href="/products/Changs-Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a></li>
-  <li>2 tablespoons <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2 tablespoons <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>Salt and pepper</li>
   <li>Lime</li>
   </ul>

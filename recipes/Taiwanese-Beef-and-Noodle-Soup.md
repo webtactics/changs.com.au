@@ -21,7 +21,7 @@ ingredients: |
   <li>2 spring onions, cut into 6 cm lengths</li>
   <li>1 tbsp. <a href="/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce">Chang's Original Hoisin Sauce</a></li>
   <li>1 tbsp. chilli sauce</li>
-  <li>100ml <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>100ml <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>&frac14; tsp ground black pepper</li>
   <li>1 medium red chilli, sliced</li>
   <li>2 tsp. honey</li>

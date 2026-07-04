@@ -20,7 +20,7 @@ ingredients: |
   <li>2 stalks spring onion finely chopped</li>
   <li>5 tablespoons Korean roasted black bean paste (Chunjang)</li>
   <li>3 tbsp vegetable oil</li>
-  <li>1 tbsp <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>1 tbsp <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
   <li>1 tsp sugar</li>
   <li>1 cup of water</li>
   </ul>

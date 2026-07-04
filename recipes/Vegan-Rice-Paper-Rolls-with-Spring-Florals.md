@@ -20,8 +20,8 @@ ingredients: |
   <li>10 green oak lettuce leaves, halved</li>
   <li>1/2 cup <a href="/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce">Chang's Original Hoisin Sauce</a></li>
   <li>1/4 cup roasted peanuts, crushed</li>
-  <li>2tbsps <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>1 tbsp <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2tbsps <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tbsp <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>Juice of 1 lime</li>
   </ul>
 method: |

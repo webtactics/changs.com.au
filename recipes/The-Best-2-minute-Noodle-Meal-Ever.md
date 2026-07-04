@@ -12,15 +12,15 @@ gallery: "recipes/The-Best-2-minute-Noodle-Meal-Ever"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 pkt <a href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a> or <a href="/products/Changs-Super-Lo-Cal-Wide-Noodles/" title="Chang's Super Lo-Cal Wide Noodles" alt="Chang's Super Lo-Cal Wide Noodles">Chang's Super Lo-Cal Wide Noodles</a></li>
+  <li>1 pkt <a href="/products/changs-traditional-super-lo-cal-noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a> or <a href="/products/Changs-Super-Lo-Cal-Wide-Noodles/" title="Chang's Super Lo-Cal Wide Noodles" alt="Chang's Super Lo-Cal Wide Noodles">Chang's Super Lo-Cal Wide Noodles</a></li>
   <li>1 small clove garlic, minced</li>
   <li>1cm x 1cm fresh ginger finely chopped</li>
-  <li>1 tsp <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tsp <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   </ul>
   <p><strong>Sauce:</strong></p>
   <ul>
-  <li>2 tsp <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>1 tsp <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>2 tsp <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tsp <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
   <li>1 tsp maple syrup</li>
   <li>&frac12; tsp rice vinegar</li>
   </ul>

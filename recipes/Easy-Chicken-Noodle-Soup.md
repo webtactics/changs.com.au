@@ -14,13 +14,13 @@ ingredients: |
   <ul>
   <li>6 cups Chicken stock, bought or homemade</li>
   <li>400g chicken thigh fillets, cut into strips</li>
-  <li>1 packet <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> or (2 Packets <a href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a>, as a gluten-free option)</li>
-  <li>2 tbs <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> plus extra</li>
+  <li>1 packet <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> or (2 Packets <a href="/products/changs-traditional-super-lo-cal-noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a>, as a gluten-free option)</li>
+  <li>2 tbs <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> plus extra</li>
   <li>1 tbs fresh ginger, grated</li>
   <li>1 large carrot, cut into matchsticks</li>
   <li>2 cups Chinese cabbage, shredded</li>
-  <li>1/4 cup <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>2 tablespoons <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>1/4 cup <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tablespoons <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
   <li>2 tbs rice vinegar</li>
   <li>1 green onion, sliced</li>
   <li>1 red chilli, sliced</li>

@@ -12,13 +12,13 @@ gallery: "recipes/Noodle-Stir-Fry-with-Chinese-Sausage"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 packet <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
-  <li>2 tbs <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 packet <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
+  <li>2 tbs <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>4 Chinese sausages cut into thin slices</li>
   <li>4 baby bok choy, leaves separated</li>
   <li>1 large carrot cut into matchsticks</li>
   <li>1 large onion sliced</li>
-  <li>4 tbs <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a> (for sweeter option use hoisin)</li>
+  <li>4 tbs <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a> (for sweeter option use hoisin)</li>
   <li>2 tbs <a href="/products/Changs-Soy-Sauce-Dark/" title="Chang's Soy Sauce Dark" alt="Chang's Soy Sauce Dark">Chang's Soy Sauce Dark</a></li>
   <li>2 green onions sliced</li>
   <li>Juice of 1 lemon</li>

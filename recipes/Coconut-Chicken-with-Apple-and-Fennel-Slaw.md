@@ -19,7 +19,7 @@ ingredients: |
   <li>2 cloves garlic, crushed</li>
   <li>1 lime, zest and juice</li>
   <li>800g chicken tenderloins</li>
-  <li>2 tbsps <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2 tbsps <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   </ul>
   <h3>Apple and fennel slaw:</h3>
   <ul>

@@ -15,8 +15,8 @@ ingredients: |
   <ul>
   <li>2 skin-on chicken breasts, ideally still on the bone</li>
   <li>2 tbsp. honey</li>
-  <li>1 tsp. <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
-  <li>1 tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tsp. <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>12-16 Chinese pancakes (sold frozen in Asian food stores), warmed in a steamer or microwave</li>
   <li>4 spring onions, white and pale green parts only halved, then halved lengthways</li>
   <li>1 small cucumber, peeled, seeded and cut into 4cm lengths</li>

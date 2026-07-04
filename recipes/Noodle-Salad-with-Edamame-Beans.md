@@ -12,7 +12,7 @@ gallery: "recipes/Noodle-Salad-with-Edamame-Beans"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 pkt <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
+  <li>1 pkt <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
   <li>200g Edamame beans, frozen</li>
   <li>3 green onions, sliced</li>
   <li>1 large carrot, shredded</li>
@@ -21,13 +21,13 @@ ingredients: |
   <li>&frac14; cup <a href="/products/Changs-Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a></li>
   <li>1 tbs toasted sesame seeds</li>
   <li>1 pkt <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a></li>
-  <li>2 tsp <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2 tsp <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>Coriander</li>
   </ul>
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Prepare <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> according to packet instructions. Set aside to cool down. Boil the edamame beans for 10 minutes, drain and set aside to cool down.</li>
+  <li>Prepare <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> according to packet instructions. Set aside to cool down. Boil the edamame beans for 10 minutes, drain and set aside to cool down.</li>
   <li>In a bowl combine Chang's Salad Dressing and Sesame Oil. Whisk until well combined and set aside.</li>
   <li>Add noodles to a large mixing bowl and pour over the dressing. Combine until evenly coated.</li>
   <li>Assemble salad. Combine noodles, beans, lettuce, carrot, onions, chilli, sesame seeds and coriander. Sprinkle Chang's Fried Noodles and toss again until well combined.</li>

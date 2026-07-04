@@ -20,7 +20,7 @@ ingredients: |
   <li>1 large carrot, grated</li>
   <li>1 packet <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a>, <a href="/products/Changs-Gluten-Free-Fried-Noodles/" title="Chang's Gluten Free Fried Noodles" alt="Chang's Gluten Free Fried Noodles">Chang's Gluten Free Fried Noodles</a> or <a href="/products/Changs-Crunchy-Fried-Noodles/" title="Chang's Crunchy Fried Noodles" alt="Chang's Crunchy Fried Noodles">Chang's Crunchy Fried Noodles</a></li>
   <li>&frac12; cup <a href="/products/Changs-Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a></li>
-  <li>2 teaspoons <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2 teaspoons <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

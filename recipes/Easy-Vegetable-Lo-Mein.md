@@ -16,14 +16,14 @@ ingredients: |
   <h3>Ingredients:</h3>
   <h4>Noodles Optional:</h4>
   <ul>
-  <li>1 packet <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
+  <li>1 packet <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
   <li>Or (1 packet <a href="/products/Changs-Thai-Style-Rice-Noodles/" title="Chang's Thai Style Rice Noodles" alt="Chang's Thai Style Rice Noodles">Chang's Thai Style Rice Noodles</a> as a gluten-free option)</li>
   </ul>
   <h4>Sauce:</h4>
   <ul>
   <li>250ml (1 cup) vegetable stock</li>
-  <li>2 tablespoons <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>3 tablespoons <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>2 tablespoons <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>3 tablespoons <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
   <li>1 tablespoon corn flour/corn starch</li>
   <li>1 teaspoon caster sugar</li>
   <li>&frac12; teaspoon salt</li>
@@ -42,7 +42,7 @@ ingredients: |
   <ul>
   <li>2 green onions, sliced in 3cm</li>
   <li>1 cup bean sprouts</li>
-  <li>1 tablespoon <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tablespoon <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

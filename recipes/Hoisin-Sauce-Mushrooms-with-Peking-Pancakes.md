@@ -20,7 +20,7 @@ ingredients: |
   <li>1 tsp garlic minced</li>
   <li>1 tsp cooking oil</li>
   <li>4 tbs <a href="/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce">Chang's Original Hoisin Sauce</a></li>
-  <li>1 tsp <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tsp <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>&frac12; tsp Chinese Five Spice powder</li>
   </ul>
   <p> </p>

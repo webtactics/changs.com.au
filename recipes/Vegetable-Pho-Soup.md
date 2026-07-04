@@ -21,7 +21,7 @@ ingredients: |
   <li>2 cinnamon quills</li>
   <li>40ml <a href="/products/Changs-Original-Fish-Sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce">Chang's Original Fish Sauce</a></li>
   <li>4 tbs <a href="/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce">Chang's Original Hoisin Sauce</a></li>
-  <li>2 tbs <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tbs <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   </ul>
   <h3>Ingredients:</h3>
   <ul>

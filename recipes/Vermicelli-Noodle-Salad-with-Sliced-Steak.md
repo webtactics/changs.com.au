@@ -17,9 +17,9 @@ ingredients: |
   <h4>Beef:</h4>
   <ul>
   <li>2 x 200g Beef Rump Medallion Steak</li>
-  <li>2 tablespoons <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tablespoons <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 tablespoon <a href="/products/Changs-Original-Fish-Sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce">Chang's Original Fish Sauce</a></li>
-  <li>1 tablespoon <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tablespoon <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>1 tablespoon rice vinegar</li>
   <li>Sea salt and pepper</li>
   <li>Cooking oil</li>
@@ -30,7 +30,7 @@ ingredients: |
   <li>2 cloves garlic, minced</li>
   <li>2 tablespoons white caster sugar</li>
   <li>2 tablespoons <a href="/products/Changs-Original-Fish-Sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce">Chang's Original Fish Sauce</a></li>
-  <li>2 tablespoons <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tablespoons <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>3 tablespoons freshly squeezed lime juice</li>
   <li>&frac14; cup water</li>
   </ul>

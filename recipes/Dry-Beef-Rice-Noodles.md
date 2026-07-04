@@ -21,9 +21,9 @@ ingredients: |
   <li>1 cup bean sprouts</li>
   <li>2 cloves garlic, finely chopped</li>
   <li>2 spring onions, cut into 2 cm lengths</li>
-  <li>2 tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 tbsp. <a href="/products/Changs-Soy-Sauce-Dark/" title="Chang's Soy Sauce Dark" alt="Chang's Soy Sauce Dark">Chang's Soy Sauce Dark</a></li>
-  <li>&frac12; tsp. <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>&frac12; tsp. <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>1 tsp. sesame seeds, toasted if preferred</li>
   </ul>
   <h3>Marinade:</h3>

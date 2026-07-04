@@ -18,8 +18,8 @@ ingredients: |
   <li>4 cm piece ginger, peeled, finely grated</li>
   <li>600g minced pork</li>
   <li>1/3 cup <a href="/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce">Chang's Original Hoisin Sauce</a></li>
-  <li>1/4 cup <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>2 tbsps <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1/4 cup <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tbsps <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>200g snake beans, quartered</li>
   <li>2x 200g packets <a href="/products/Changs-Wok-Ready-Noodles/" title="Chang's Wok-Ready Noodles" alt="Chang's Wok-Ready Noodles">Chang's Wok-Ready Noodles</a></li>
   </ul>

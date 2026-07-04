@@ -13,10 +13,10 @@ gallery: "recipes/Teriyaki-Chicken-Noodle-Bowl"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 packet <a title="Chang's Long Life Noodles" href="/products/Changs-Long-Life-Noodles/"  rel="noopener">Chang's Long Life Noodles</a> (Gluten Free Option use <a title="Chang's Thai Style Rice Noodles" href="/products/Changs-Thai-Style-Rice-Noodles/"  rel="noopener">Chang's Thai Style Rice Noodles</a>)</li>
+  <li>1 packet <a title="Chang's Long Life Noodles" href="/products/changs-long-life-noodles/"  rel="noopener">Chang's Long Life Noodles</a> (Gluten Free Option use <a title="Chang's Thai Style Rice Noodles" href="/products/Changs-Thai-Style-Rice-Noodles/"  rel="noopener">Chang's Thai Style Rice Noodles</a>)</li>
   <li>6 chicken thigh fillets, diced into 2cm cubes</li>
   <li>140ml <a title="Chang's Japanese Teriyaki Sauce" href="/products/changs-japanese-teriyaki-sauce/"  rel="noopener">Chang's Japanese Teriyaki Sauce</a></li>
-  <li>2 tablespoons <a title="Chang's Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce/"  rel="noopener">Chang's Tamari Light Soy Sauce</a></li>
+  <li>2 tablespoons <a title="Chang's Tamari Light Soy Sauce" href="/products/changs-tamari-light-soy-sauce/"  rel="noopener">Chang's Tamari Light Soy Sauce</a></li>
   <li>1 tablespoon <a title="Chang's Sesame Oil" href="/products/Changs-Pure-Sesame-Oil/"  rel="noopener">Chang's Sesame Oil</a></li>
   <li>3 garlic cloves, minced</li>
   <li>3 tablespoons cooking oil</li>
@@ -29,7 +29,7 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Season the chicken with sea salt, pepper and <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a>. Set aside to marinade.</li>
+  <li>Season the chicken with sea salt, pepper and <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a>. Set aside to marinade.</li>
   <li>In the meantime, prepare the noodles according to packet instructions. Drain and set aside.</li>
   <li>In a large heated wok, add 1 tablespoon of the cooking oil and the chicken. Cook until golden. Transfer to a plate.</li>
   <li>Add to the same wok the remaining cooking oil along with the broccoli and red capsicum. Stir fry for only 2-3 minutes.</li>

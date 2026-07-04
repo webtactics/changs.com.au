@@ -26,7 +26,7 @@ ingredients: |
   </ul>
   <h3>Dipping Sauce:</h3>
   <ul>
-  <li>1 tablespoon<a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>1 tablespoon<a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
   <li>1 tablespoon <a href="/products/Changs-Original-Fish-Sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce">Chang's Original Fish Sauce</a></li>
   <li>1 tablespoon caster sugar</li>
   <li>1 teaspoon dried chilli flakes</li>

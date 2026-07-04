@@ -26,7 +26,7 @@ ingredients: |
   </ul>
   <h4>Sauce (Pre-Mixed in a Bowl):</h4>
   <ul>
-  <li>4 tablespoons <a title="Chang's Original Oyster Sauce" href="/products/Changs-Original-Oyster-Sauce/">Chang's Original Oyster Sauce</a></li>
+  <li>4 tablespoons <a title="Chang's Original Oyster Sauce" href="/products/changs-original-oyster-sauce/">Chang's Original Oyster Sauce</a></li>
   <li>2 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 tablespoon <a title="Chang's Original Fish Sauce" href="/products/Changs-Original-Fish-Sauce/">Chang's Original Fish Sauce</a></li>
   <li>2 tablespoons Thai Chilli Jam (add more for an extra kick)</li>
@@ -37,7 +37,7 @@ ingredients: |
   <h4>Noodles:</h4>
   <ul>
   <li>1 packet <a title="Chang's Thai Style Rice Noodles" href="/products/Changs-Thai-Style-Rice-Noodles/">Chang's Thai Style Rice Noodles</a></li>
-  <li>4 tablespoons <a title="Chang's Sesame Oil" href="/products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
+  <li>4 tablespoons <a title="Chang's Sesame Oil" href="/products/changs-sesame-oil/">Chang's Sesame Oil</a></li>
   <li>Crushed peanuts or nuts of choice</li>
   </ul>
 method: |

@@ -12,10 +12,10 @@ gallery: "recipes/Spicy-Satay-Noodles"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 pkt <a href="/products/Changs-Thai-Style-Rice-Noodles/" title="Chang's Thai Style Rice Noodles" alt="Chang's Thai Style Rice Noodles">Chang's Thai Style Rice Noodles</a> or 1 pkt <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
+  <li>1 pkt <a href="/products/Changs-Thai-Style-Rice-Noodles/" title="Chang's Thai Style Rice Noodles" alt="Chang's Thai Style Rice Noodles">Chang's Thai Style Rice Noodles</a> or 1 pkt <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
   <li>1/3 cup peanut butter or preferred nut butter</li>
   <li>2 tbs rice vinegar</li>
-  <li>2 tbs <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2 tbs <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>2 tbs <a href="/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce">Chang's Original Hoisin Sauce</a></li>
   <li>2 tbs hot sauce</li>
   </ul>
@@ -25,7 +25,7 @@ method: |
   <li>Prepare Spicy Satay Sauce by adding all ingredients (excluding noodles) to food processor and blending for 30 seconds.</li>
   <li>Prepare noodles as per packet instructions. Drain and place in wide bowl.</li>
   <li>Pour Spicy Satay Sauce over noodles and combine well.</li>
-  <li>Add an extra tablespoon of <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> if needed. Optional to garnish with coriander leaves, parsley leaves or chilli flakes.</li>
+  <li>Add an extra tablespoon of <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> if needed. Optional to garnish with coriander leaves, parsley leaves or chilli flakes.</li>
   </ol>
 tags:
   - "Main Meals"

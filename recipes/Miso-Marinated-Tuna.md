@@ -19,15 +19,15 @@ ingredients: |
   <li>1 tsp. black sesame seeds</li>
   <li>2 bunches spring onions, white and pale green parts only</li>
   <li>&frac12; cup neutral oil</li>
-  <li>1 packet <a href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a> or <em>Changs Wide Potato Glass Noodle</em></li>
+  <li>1 packet <a href="/products/changs-traditional-super-lo-cal-noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a> or <em>Changs Wide Potato Glass Noodle</em></li>
   </ul>
   <h3>Marinade:</h3>
   <ul>
   <li>&frac12; cup white miso paste</li>
   <li>2 tbsp.mirin</li>
-  <li>2tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>&frac12; thumb ginger, grated</li>
-  <li>1 tsp.<a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tsp.<a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>1 tbsp. brown sugar</li>
   <li>&frac14; cup water</li>
   </ul>

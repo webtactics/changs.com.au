@@ -27,10 +27,10 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Prepare <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> according to packet instructions by adding to boiling water to soften, then remove and drain. Set aside.</li>
+  <li>Prepare <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> according to packet instructions by adding to boiling water to soften, then remove and drain. Set aside.</li>
   <li>Add Chang's Oyster sauce and soy sauce to bowl and whisk together.</li>
   <li>Add 1 tsp sesame oil to wok and heat. Add garlic and minute steak and stir-fry for 1-2 minutes. Season with freshly ground pepper then add long life noodles to wok and pour over the prepared sauce. Combine well and stir-fry until sauce has coated all noodles evenly. Remove from wok and set aside.</li>
-  <li>Add 1 tsp <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> to wok again and heat. Add Bok Choy and carrots and over high heat stir-fry for 1-2 minutes. Remove from heat.</li>
+  <li>Add 1 tsp <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> to wok again and heat. Add Bok Choy and carrots and over high heat stir-fry for 1-2 minutes. Remove from heat.</li>
   <li>Assemble Fried Noodle Nest by evenly distributing <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a> into 4 bowls or plates. Then add the beef and noodles and top with Bok Choy, carrots and a few bean sprouts.</li>
   </ol>
   <p><strong>Optional:</strong> squeeze lime juice over noodles for zest.</p>

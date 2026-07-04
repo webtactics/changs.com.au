@@ -14,7 +14,7 @@ ingredients: |
   <ul>
   <li>1/2 cup (110g) yellow miso paste</li>
   <li>2 cloves garlic, crushed</li>
-  <li>1 tbsp <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tbsp <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>800g skinless chicken thigh fillets, cut into 4cm wide strips</li>
   <li>1/4 cup vegetable oil</li>
   <li>3/4 cup self- raising flour</li>

@@ -16,7 +16,7 @@ ingredients: |
   <li>12 lamb cutlets, drenched</li>
   <li>3/4 cup <a href="/products/Changs-Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a></li>
   <li>1/4 cup mint leaves, chopped</li>
-  <li>2 tbsps <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2 tbsps <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>2 yellow beetroots, washed, thinly sliced</li>
   <li>2 red beetroots, washed, thinly sliced</li>
   <li>2 large red apples, cored, julienned</li>

@@ -16,16 +16,16 @@ ingredients: |
   <li>1 x 800g whole Snapper, scaled</li>
   <li>1 large thumb ginger, very finely julienned</li>
   <li>4 spring onions, 2 very finely sliced diagonally, 2 julienned lengthways for garnish</li>
-  <li>&frac12; cup <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>&frac12; cup <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>&frac12; cup peanut or other neutral oil</li>
-  <li>1 tsp. <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tsp. <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>1 bunch coriander to garnish</li>
-  <li>3 tbsp. <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a> to serve</li>
+  <li>3 tbsp. <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a> to serve</li>
   </ul>
   <h3>Rub:</h3>
   <ul>
   <li>2 tbsp. Shaosing rice wine</li>
-  <li>1 tsp. <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tsp. <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>1 tsp. sugar</li>
   <li>1 tsp. salt</li>
   </ul>

@@ -11,9 +11,9 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>12 scallops in the shell, removed from the shell and hard, shiny filament removed, replaced in the shell</li>
-  <li>3 tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>3 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>4 tbsp. Shaoxing rice wine</li>
-  <li>1 tsp. <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tsp. <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>1 clove garlic, crushed or grated</li>
   <li>&frac12; thumb ginger, grated</li>
   <li>1 medium chilli, finely sliced &ndash; optional</li>

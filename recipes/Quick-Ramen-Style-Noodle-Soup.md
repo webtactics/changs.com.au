@@ -18,7 +18,7 @@ ingredients: |
   <li>&frac14; cup <a title="Chang's Soy Sauce Lighte" href="/products/Changs-Soy-Sauce-Light/">Chang's Soy Sauce Light</a></li>
   <li>200g cold roast pork- rolled shoulder, loin, leg or fillet- thinly sliced</li>
   <li>2 boiled eggs, peeled and halved</li>
-  <li>250g <a title="Chang's Long Life Noodles" href="/products/Changs-Long-Life-Noodles/">Chang's Long Life Noodles</a> or <a title="Chang's Organic Ramen Noodles" href="/products/Changs-Organic-Ramen-Noodles/">Chang's Organic Ramen Noodles</a></li>
+  <li>250g <a title="Chang's Long Life Noodles" href="/products/changs-long-life-noodles/">Chang's Long Life Noodles</a> or <a title="Chang's Organic Ramen Noodles" href="/products/Changs-Organic-Ramen-Noodles/">Chang's Organic Ramen Noodles</a></li>
   <li>100g bamboo shoots, thinly sliced</li>
   <li>4 fresh shitake mushrooms, sliced or quartered</li>
   <li>&frac12; sheet nori, thinly sliced</li>
@@ -27,8 +27,8 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Place chicken stock, sake, <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a>, bamboo shoots and mushrooms in a saucepan and bring to the boil, then simmer for a few minutes to incorporate flavours and gently cook the mushrooms.</li>
-  <li>While the soup is simmering, cook the <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> as per instructions on the pack and divide between four soup bowls.</li>
+  <li>Place chicken stock, sake, <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a>, bamboo shoots and mushrooms in a saucepan and bring to the boil, then simmer for a few minutes to incorporate flavours and gently cook the mushrooms.</li>
+  <li>While the soup is simmering, cook the <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> as per instructions on the pack and divide between four soup bowls.</li>
   <li>Ladle soup over the noodles and arrange sliced pork, eggs, nori strips and spring onions on top of each bowl.</li>
   <li>Enjoy!</li>
   <li>You can also use Chang's Egg Noodle, Rice Vermicelli or Super Lo Cal Noodle.</li>

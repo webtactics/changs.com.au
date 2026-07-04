@@ -19,7 +19,7 @@ ingredients: |
   <li>150 grams brown sugar</li>
   <li>150 ml cold water</li>
   <li>100 ml <a title="Chang's Fish Sauce" href="/products/Fish-Sauce-430ml/"  rel="noopener">Chang's Fish Sauce</a></li>
-  <li>50 ml <a title="Chang's Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce/"  rel="noopener">Chang's Tamari Light Soy Sauce</a></li>
+  <li>50 ml <a title="Chang's Tamari Light Soy Sauce" href="/products/changs-tamari-light-soy-sauce/"  rel="noopener">Chang's Tamari Light Soy Sauce</a></li>
   <li>2 pieces of star anise</li>
   <li>1 cinnamon stick</li>
   <li>3 ginger cloves, crushed</li>

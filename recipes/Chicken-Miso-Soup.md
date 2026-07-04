@@ -19,15 +19,15 @@ ingredients: |
   <li>1 packet <a href="/products/Changs-Thai-Style-Rice-Noodles/" title="Chang's Thai Style Rice Noodles" alt="Chang's Thai Style Rice Noodles">Chang's Thai Style Rice Noodles</a></li>
   <li>1.7 litres (7 cups) chicken or vegetable stock</li>
   <li>1 tablespoon <a href="/products/Changs-Original-Fish-Sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce">Chang's Original Fish Sauce</a></li>
-  <li>2 tablespoons <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tablespoons <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>3 tablespoons white miso paste (Gluten Free miso paste)</li>
   <li>3cm piece fresh ginger, finely grated</li>
   </ul>
   <h4>Mince:</h4>
   <ul>
   <li>500g chicken or pork mince (substitute with crumbled tofu for a vegetarian option)</li>
-  <li>3 tablespoons <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
-  <li>3 tablespoons <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>3 tablespoons <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>3 tablespoons <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>4 garlic cloves, minced</li>
   <li>Salt and pepper</li>
   </ul>

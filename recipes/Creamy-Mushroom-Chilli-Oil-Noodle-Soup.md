@@ -19,14 +19,14 @@ ingredients: |
   <li>2 litres cold water</li>
   <li>4 slices fresh ginger</li>
   <li>&frac14; can coconut milk</li>
-  <li>1 tsp <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tsp <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   </ul>
   <h4>Mushroom &lsquo;Mince&rsquo;:</h4>
   <ul>
   <li>Rehydrated shiitake mushrooms, diced</li>
-  <li>1 tbsp <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tbsp <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 tbsp <a href="/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce">Chang's Original Hoisin Sauce</a></li>
-  <li>1 tsp <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a> (omit for vegetarian)</li>
+  <li>1 tsp <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a> (omit for vegetarian)</li>
   </ul>
   <h4>Sizzling Chilli Oil:</h4>
   <ul>
@@ -38,7 +38,7 @@ ingredients: |
   </ul>
   <h4>Noodles:</h4>
   <ul>
-  <li><a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
+  <li><a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
   </ul>
 method: |
   <h3>Method:</h3>
@@ -76,7 +76,7 @@ method: |
   <ol>
   <li>Ladle the creamy mushroom broth over the noodles.</li>
   <li>Top with the mushroom &lsquo;mince&rsquo;.</li>
-  <li>Drizzle with <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> and the sizzling chilli oil.</li>
+  <li>Drizzle with <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> and the sizzling chilli oil.</li>
   <li>Finish with chopped coriander.</li>
   </ol>
 tags:

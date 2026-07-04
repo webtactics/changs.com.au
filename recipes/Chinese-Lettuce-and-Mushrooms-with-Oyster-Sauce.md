@@ -18,9 +18,9 @@ ingredients: |
   <li>4 baby coz lettuce, sliced in half or quarters</li>
   <li>200g Oyster Mushrooms, sliced</li>
   <li>4 garlic cloves, finely chopped</li>
-  <li>3 tablespoons <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
-  <li>1 tablespoon <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>1 tablespoon <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>3 tablespoons <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>1 tablespoon <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tablespoon <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>1 teaspoon red chilli flakes</li>
   <li>1 teaspoon black sesame seeds</li>
   <li>1 packet <a href="/products/Changs-Crunchy-Fried-Noodles/" title="Chang's Crunchy Fried Noodles" alt="Chang's Crunchy Fried Noodles">Chang's Crunchy Fried Noodles</a> (or use <a href="/products/Changs-Gluten-Free-Fried-Noodles/" title="Chang's Gluten Free Fried Noodles" alt="Chang's Gluten Free Fried Noodles">Chang's Gluten Free Fried Noodles</a> as a gluten-free option).</li>
@@ -31,7 +31,7 @@ method: |
   <li>Remove bruised outer lettuce leaves and slice in half or quarter lengthways. Rinse under cold water.</li>
   <li>Bring a pot of water to boil, and add a teaspoon of sea salt. Turn off the heat and place the lettuce into the pot. Stir for 10 seconds and remove. Place immediately into a bath of ice water to stop it from overcooking.</li>
   <li>Remove excess water and pat with paper towel. Place onto large platter.</li>
-  <li>Add to a small frying pan <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a>, the garlic and oyster mushrooms. Stir and cook for 2 minutes stirring continuously, then add Chang's Oyster Sauce and Light Soy Sauce and stir well to combine. Cook for a further 1 minute.</li>
+  <li>Add to a small frying pan <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a>, the garlic and oyster mushrooms. Stir and cook for 2 minutes stirring continuously, then add Chang's Oyster Sauce and Light Soy Sauce and stir well to combine. Cook for a further 1 minute.</li>
   <li>Pour over the plated lettuce. Sprinkle over the top the red chilli flakes, sesame seeds and <a href="/products/Changs-Crunchy-Fried-Noodles/" title="Chang's Crunchy Fried Noodles" alt="Chang's Crunchy Fried Noodles">Chang's Crunchy Fried Noodles</a>. Serve.</li>
   </ol>
 tags:

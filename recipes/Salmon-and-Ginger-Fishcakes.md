@@ -15,8 +15,8 @@ ingredients: |
   <ul>
   <li>500g boneless, skinless salmon or ocean trout</li>
   <li>80g Panko crumbs or dried fresh breadcrumbs</li>
-  <li>2 tbsp. <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
-  <li>1 tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tbsp. <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>1 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 egg, beaten</li>
   <li>4 spring onions, white and pale green parts only, finely sliced (reserve dark green tops for garnish)</li>
   <li>1 tbsp. finely grated ginger</li>

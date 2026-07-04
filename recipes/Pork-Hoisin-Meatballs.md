@@ -16,13 +16,13 @@ ingredients: |
   <li>750g pork mince</li>
   <li>2 egg yolks</li>
   <li>2 tbsp. <a href="/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce">Chang's Original Hoisin Sauce</a></li>
-  <li>1 tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 cup panko dried breadcrumbs (Japanese bread crumbs)</li>
   <li>Finely grated zest of half a lemon</li>
   <li>1 tsp. five spice powder</li>
   <li>&frac12; tsp. freshly ground black pepper</li>
   <li>&frac12; cup neutral oil</li>
-  <li>2 packs <a href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a> or <a href="/products/Changs-Super-Lo-Cal-Wide-Noodles/" title="Chang's Super Lo-Cal Wide Noodles" alt="Chang's Super Lo-Cal Wide Noodles">Chang's Super Lo-Cal Wide Noodles</a></li>
+  <li>2 packs <a href="/products/changs-traditional-super-lo-cal-noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a> or <a href="/products/Changs-Super-Lo-Cal-Wide-Noodles/" title="Chang's Super Lo-Cal Wide Noodles" alt="Chang's Super Lo-Cal Wide Noodles">Chang's Super Lo-Cal Wide Noodles</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

@@ -22,7 +22,7 @@ ingredients: |
   <li>sliced, for the sane</li>
   <li>&frac12; tsp. freshly ground black pepper</li>
   <li>4 tbsp. <a href="/products/Changs-Kecap-Manis-Sweet-Soy-Sauce/" title="Chang's Kecap Manis Sweet Soy Sauce" alt="Chang's Kecap Manis Sweet Soy Sauce">Chang's Kecap Manis Sweet Soy Sauce</a></li>
-  <li>2 tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 cup chicken stock</li>
   </ul>
 method: |

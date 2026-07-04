@@ -14,7 +14,7 @@ ingredients: |
   <ul>
   <li>2kg whole chicken</li>
   <li>&frac12; cup <a href="/products/Changs-Japanese-Teriyaki-Sauce/" title="Chang's Japanese Teriyaki Sauce" alt="Chang's Japanese Teriyaki Sauce">Chang's Japanese Teriyaki Sauce</a></li>
-  <li>1 tablespoon <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tablespoon <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>4 garlic cloves, crushed and minced</li>
   <li>3cm fresh ginger, minced or finely grated</li>
   <li>2-3 sweet corn cobs, halved</li>

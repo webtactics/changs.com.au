@@ -16,11 +16,11 @@ ingredients: |
   <li>200g chicken mince</li>
   <li>2 tbsp. finely chopped coriander</li>
   <li>2 tsp. finely grated fresh ginger</li>
-  <li>2 tbsp. <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>2 tbsp. <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
   <li>1 tsp. brown sugar</li>
   <li>20 egg wonton wrappers</li>
   <li>1 x 500ml <a href="/products/Changs-Master-Stock/" title="Chang's Master Stock" alt="Chang's Master Stock">Chang's Master Stock</a></li>
-  <li>1 x 250g packet <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
+  <li>1 x 250g packet <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
   <li>115g baby corn</li>
   <li>1 tbsp. sesame seeds, toasted</li>
   <li>2 small red chillies, finely chopped</li>

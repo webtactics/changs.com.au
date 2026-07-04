@@ -18,7 +18,7 @@ ingredients: |
   <li>2 cups water</li>
   <li>Few slices ginger</li>
   <li>2 tbsp. <a href="/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce">Chang's Original Hoisin Sauce</a></li>
-  <li>2 tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 tbsp. <a href="/products/Changs-Soy-Sauce-Dark/" title="Chang's Soy Sauce Dark" alt="Chang's Soy Sauce Dark">Chang's Soy Sauce Dark</a></li>
   <li>3 cloves garlic, finely chopped</li>
   <li>2 tbsp. ginger, finely chopped or grated</li>

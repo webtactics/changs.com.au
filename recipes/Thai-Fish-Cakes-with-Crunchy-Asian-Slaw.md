@@ -12,7 +12,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>600g boneless firm white fish fillets</li>
-  <li>1/4 cup <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1/4 cup <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>2 cloves garlic, crushed</li>
   <li>2tbsps lime juice</li>
   <li>3 green onions, finely chopped</li>

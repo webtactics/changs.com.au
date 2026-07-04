@@ -28,8 +28,8 @@ ingredients: |
   <h4>Seasoned Brisket:</h4>
   <ul>
   <li>Cooked brisket (reserved from broth)</li>
-  <li>1 tbsp <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>1 tbsp <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>1 tbsp <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tbsp <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
   <li>Freshly cracked black pepper</li>
   </ul>
   <h4>Soy-Cured Eggs:</h4>
@@ -37,7 +37,7 @@ ingredients: |
   <li>2&ndash;4 eggs</li>
   <li>&frac14; cup mirin</li>
   <li>&frac14; cup cooking sake</li>
-  <li>&frac14; cup <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>&frac14; cup <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   </ul>
   <h4>Noodles:</h4>
   <ul>
@@ -64,7 +64,7 @@ method: |
   <h4>Seasoned Brisket:</h4>
   <ol>
   <li>Shred the brisket into strips using two forks.</li>
-  <li>Season with Chang's Tamari Light Soy Sauce, <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a>, and black pepper.</li>
+  <li>Season with Chang's Tamari Light Soy Sauce, <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a>, and black pepper.</li>
   <li>Toss gently to coat.</li>
   </ol>
   <h4>Soy-Cured Eggs:</h4>

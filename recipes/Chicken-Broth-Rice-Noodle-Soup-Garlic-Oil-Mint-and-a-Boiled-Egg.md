@@ -15,12 +15,12 @@ ingredients: |
   <li>1 litre clear chicken broth (homemade is best, but store-bought works well too)</li>
   <li>1/2 boiled egg per serve</li>
   <li>Spring onion (white and green parts separated)</li>
-  <li>2 packets of <a href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a> (thin noodles)</li>
+  <li>2 packets of <a href="/products/changs-traditional-super-lo-cal-noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a> (thin noodles)</li>
   <li>Small handful of fresh coriander</li>
   <li>Small handful of fresh mint</li>
   <li>1 clove garlic (minced)</li>
   <li>Vegetable oil</li>
-  <li><a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li><a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li><a href="/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce">Chang's Original Hoisin Sauce</a> (for serving)</li>
   <li>Chilli sauce (for serving)</li>
   </ul>

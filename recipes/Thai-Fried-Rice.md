@@ -14,7 +14,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>4 cups cooked Jasmine rice, cold</li>
-  <li>3 tablespoons <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>3 tablespoons <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>2 tablespoon <a href="/products/Changs-Original-Fish-Sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce">Chang's Original Fish Sauce</a></li>
   <li>2 teaspoons hot sauce</li>
   <li>300g firm tofu, patted dry and diced into 1cm cubes</li>

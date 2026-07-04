@@ -17,7 +17,7 @@ ingredients: |
   <h4>Chicken and Salad:</h4>
   <ul>
   <li>2 chicken breasts (approximately 700g)</li>
-  <li>1 packet <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
+  <li>1 packet <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
   <li>2 cups purple cabbage, shredded</li>
   <li>2 Lebanese cucumbers, sliced into ribbons or grated</li>
   <li>1 large carrot, sliced into ribbons or grated</li>
@@ -27,7 +27,7 @@ ingredients: |
   </ul>
   <h4>Salad Dressing:</h4>
   <ul>
-  <li>3 tablespoons <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>3 tablespoons <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>3 tablespoons olive oil</li>
   <li>4 tablespoons lime juice</li>
   <li>3 tablespoons peanut butter</li>
@@ -39,7 +39,7 @@ method: |
   <h3>Method:</h3>
   <ol>
   <li>Place the chicken into a pot of boiling water with a teaspoon of salt and a quarter of a lemon. Reduce the heat and simmer for 12 minutes or until the chicken is cooked through. Once cooked, remove the chicken from the liquid and allow to cool. Once cooled, thinly slice or shred into small pieces.</li>
-  <li>While the chicken is cooling, prepare <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> according to packet instructions, by placing them in a bowl of boiling water for 3 minutes, draining and set aside.</li>
+  <li>While the chicken is cooling, prepare <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> according to packet instructions, by placing them in a bowl of boiling water for 3 minutes, draining and set aside.</li>
   <li>Shred and slice all the salad ingredients.</li>
   <li>Bring together the salad dressing by whisking the ingredients in a bowl or pouring into a jar and vigorously shaking until well combined.</li>
   <li>Assemble. Place noodles in a bowls, top with vegetables, herbs and chicken. Drizzle a the salad dressing and top with <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a>.</li>

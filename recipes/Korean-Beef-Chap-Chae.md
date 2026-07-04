@@ -15,7 +15,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>500g beef-rump, sirloin or topside, fat removed, thinly sliced, or best quality beef mince</li>
-  <li>100g or half a packet of <a href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a> or <a href="/products/Changs-Super-Lo-Cal-Wide-Noodles/" title="Chang's Super Lo-Cal Wide Noodles" alt="Chang's Super Lo-Cal Wide Noodles">Chang's Super Lo-Cal Wide Noodles</a></li>
+  <li>100g or half a packet of <a href="/products/changs-traditional-super-lo-cal-noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a> or <a href="/products/Changs-Super-Lo-Cal-Wide-Noodles/" title="Chang's Super Lo-Cal Wide Noodles" alt="Chang's Super Lo-Cal Wide Noodles">Chang's Super Lo-Cal Wide Noodles</a></li>
   <li>2 tbsp. neutral oil</li>
   <li>2 cloves garlic, minced</li>
   <li>1 bird&rsquo;s eye chilli, seeds removed, finely sliced</li>
@@ -23,19 +23,19 @@ ingredients: |
   <li>&frac12; carrot cut into thin diagonal slices</li>
   <li>1 small onion, sliced</li>
   <li>2 bok choy, quartered</li>
-  <li>3 tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>3 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 tbsp. rice vinegar</li>
   <li>1 tbsp. sugar</li>
-  <li>1 tsp. <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tsp. <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   </ul>
   <h3>Marinade:</h3>
   <ul>
   <li>1 tsp. cornflour</li>
-  <li>1 tsp. <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tsp. <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>1 tbsp. chilli sauce</li>
   <li>2 cloves garlic, minced</li>
   <li>1 tbsp. grated ginger</li>
-  <li>1 tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

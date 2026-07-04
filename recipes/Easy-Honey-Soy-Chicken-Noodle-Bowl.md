@@ -26,7 +26,7 @@ ingredients: |
   <ul>
   <li>2 large chicken breasts (approx. 700&ndash;800 g)</li>
   <li>3 tablespoons <a title="Chang's Gluten Free Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>3 tablespoons <a title="Chang's Original Oyster Sauce" href="/products/Changs-Original-Oyster-Sauce/">Chang's Original Oyster Sauce</a></li>
+  <li>3 tablespoons <a title="Chang's Original Oyster Sauce" href="/products/changs-original-oyster-sauce/">Chang's Original Oyster Sauce</a></li>
   <li>3 tablespoons runny honey</li>
   <li>2 tablespoons cooking oil</li>
   <li>Salt and pepper</li>
@@ -38,7 +38,7 @@ ingredients: |
   <h4>Noodles:</h4>
   <ul>
   <li>2 packs <a title="Chang's Traditional Super Lo-Cal Wide Noodles" href="/products/changs-traditional-super-lo-cal-noodles/">Chang's Traditional Super Lo-Cal Wide Noodles</a></li>
-  <li>2-3 tablespoons <a title="Chang's Sesame Oil" href="/products/Changs-Sesame-Oil/">Chang's Sesame Oil</a></li>
+  <li>2-3 tablespoons <a title="Chang's Sesame Oil" href="/products/changs-sesame-oil/">Chang's Sesame Oil</a></li>
   </ul>
   <h4>To Garnish:</h4>
   <p>1 large spring onion, finely sliced, 2 tablespoons sesame seeds and Optional chilli oil.</p>

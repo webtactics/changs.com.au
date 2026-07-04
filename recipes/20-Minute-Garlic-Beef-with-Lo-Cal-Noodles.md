@@ -13,7 +13,7 @@ ingredients: |
   <p>Approx. 120g protein total (30g per serve)</p>
   <h3>Ingredients:</h3>
   <ul>
-  <li>2 x packets <a title="Chang's Traditional Super Lo-Cal Noodles" href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/">Chang's Traditional Super Lo-Cal Noodles</a>, rinsed and drained</li>
+  <li>2 x packets <a title="Chang's Traditional Super Lo-Cal Noodles" href="/products/changs-traditional-super-lo-cal-noodles/">Chang's Traditional Super Lo-Cal Noodles</a>, rinsed and drained</li>
   <li>500g lean beef mince</li>
   <li>1 tablespoon cooking oil</li>
   <li>1 large brown onion, thinly sliced</li>

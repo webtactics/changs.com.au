@@ -36,14 +36,14 @@ ingredients: |
   <ul>
   <li>2 tablespoons of crushed chilli/chilli jam</li>
   <li>2 tablespoons of <a href="/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce">Chang's Original Hoisin Sauce</a></li>
-  <li>2 tablespoons of <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
-  <li>&frac12; tablespoon of <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tablespoons of <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>&frac12; tablespoon of <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>&frac12; tablespoon of <a href="/products/Changs-Kecap-Manis-Sweet-Soy-Sauce/" title="Chang's Kecap Manis Sweet Soy Sauce" alt="Chang's Kecap Manis Sweet Soy Sauce">Chang's Kecap Manis Sweet Soy Sauce</a></li>
   <li>1 tablespoon of chilli flakes</li>
   </ul>
   <h4>Noodles:</h4>
   <ul>
-  <li>1 x <a href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a></li>
+  <li>1 x <a href="/products/changs-traditional-super-lo-cal-noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a></li>
   <li>&frac12; tablespoon of lemon juice</li>
   <li>1 packet <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a> (or <a href="/products/Changs-Gluten-Free-Fried-Noodles/" title="Chang's Gluten Free Fried Noodles" alt="Chang's Gluten Free Fried Noodles">Chang's Gluten Free Fried Noodles</a> for a gluten-free option)</li>
   </ul>

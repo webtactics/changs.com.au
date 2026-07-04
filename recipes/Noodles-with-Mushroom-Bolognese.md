@@ -12,8 +12,8 @@ gallery: "recipes/Noodles-with-Mushroom-Bolognese"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 packet <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
-  <li>2 tbs <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 packet <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
+  <li>2 tbs <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>1 large carrot, diced</li>
   <li>1 celery stick, diced</li>
   <li>4 cloves garlic, minced</li>

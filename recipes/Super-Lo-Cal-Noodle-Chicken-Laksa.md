@@ -20,7 +20,7 @@ ingredients: |
   <li>4 Tbsps laksa paste (store-bought or homemade)</li>
   <li>2 cups vegetable broth (low-sodium)</li>
   <li>1/2 can (200ml) light coconut milk</li>
-  <li>1 Tbsp <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a> (low-sodium)</li>
+  <li>1 Tbsp <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a> (low-sodium)</li>
   <li>1 tsp brown sugar (optional)</li>
   <li>Salt and pepper to taste</li>
   </ul>

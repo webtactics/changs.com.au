@@ -19,8 +19,8 @@ ingredients: |
   <li>3 spring onions, white and pale green parts only, sliced</li>
   <li>1 bunch Snake beans, cut into 3-4 cm lengths or 12 &ndash; 15 green beans, halved</li>
   <li>400g <a href="/products/Changs-Shelf-Fresh-Noodles-Hokkien-Style/" title="Chang's Hokkien Noodles" alt="Chang's Hokkien Noodles">Chang's Hokkien Noodles</a></li>
-  <li>2 tablespoons <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
-  <li>1 tablespoon <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tablespoons <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>1 tablespoon <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

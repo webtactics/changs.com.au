@@ -12,7 +12,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>3 small (about 500g) single chicken breast fillets</li>
-  <li>150g <a title="Chang's Traditional Super Lo-Cal Noodles" href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/" >Chang's Traditional Super Lo-Cal Noodles</a></li>
+  <li>150g <a title="Chang's Traditional Super Lo-Cal Noodles" href="/products/changs-traditional-super-lo-cal-noodles/" >Chang's Traditional Super Lo-Cal Noodles</a></li>
   <li>1 tablespoon rice vinegar</li>
   <li>2 tablespoons fresh lime juice</li>
   <li>1 tablespoon sweet chilli sauce</li>

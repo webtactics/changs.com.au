@@ -20,7 +20,7 @@ ingredients: |
   <li>2 cloves garlic, crushed or finely grated</li>
   <li>1 tbsp. vegetable or neutral oil</li>
   <li>1 tbsp.Shaoxing rice wine</li>
-  <li>1 tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>I large eggplant, cut into a 1 cm dice</li>
   <li>1 tbsp.salt</li>
   <li>&frac12; cup vegetable or other neutral oil</li>

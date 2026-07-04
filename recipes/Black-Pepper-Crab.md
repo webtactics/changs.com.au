@@ -19,13 +19,13 @@ ingredients: |
   <li>4 cloves garlic, crushed or very finely chopped</li>
   <li>1 thumb ginger, grated</li>
   <li>1 medium green chilli, very finely sliced or diced-more to taste</li>
-  <li>2 tbsp. <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
-  <li>1 tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tbsp. <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>1 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 tbsp. <a href="/products/Changs-Soy-Sauce-Dark/" title="Chang's Soy Sauce Dark" alt="Chang's Soy Sauce Dark">Chang's Soy Sauce Dark</a></li>
   <li>1 tsp. sugar</li>
   <li>1 heaped tbsp. freshly ground black pepper</li>
   <li>1 cup coriander leaves</li>
-  <li>I packet of <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
+  <li>I packet of <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

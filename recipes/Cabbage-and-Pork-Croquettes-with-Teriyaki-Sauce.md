@@ -23,7 +23,7 @@ ingredients: |
   <li>1 teaspoon sea salt</li>
   <li>1 teaspoon ground pepper</li>
   <li>&frac14; cup <a title="Chang's Japanese Teriyaki Sauce" href="/products/changs-japanese-teriyaki-sauce/"  rel="noopener">Chang's Japanese Teriyaki Sauce</a> plus extra for serving</li>
-  <li>1 tablespoon <a title="Chang's Tamari Light Soy Sauce" href="/products/Changs-Tamari-Light-Soy-Sauce/"  rel="noopener">Chang's Tamari Light Soy Sauce</a></li>
+  <li>1 tablespoon <a title="Chang's Tamari Light Soy Sauce" href="/products/changs-tamari-light-soy-sauce/"  rel="noopener">Chang's Tamari Light Soy Sauce</a></li>
   <li>1.5 cups Panko breadcrumbs (gluten free breadcrumbs optional)</li>
   <li>2-3 eggs, whisked</li>
   <li>1 cup plain flour (gluten free optional)</li>

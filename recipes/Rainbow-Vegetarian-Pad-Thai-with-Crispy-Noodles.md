@@ -20,7 +20,7 @@ ingredients: |
   <li>1 yellow capsicum, thinly sliced</li>
   <li>1 brown onion, thinly sliced</li>
   <li>1 carrot, cut into matchsticks</li>
-  <li>1 tbs <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tbs <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   </ul>
   <p><strong>Sauce:</strong></p>
   <ul>

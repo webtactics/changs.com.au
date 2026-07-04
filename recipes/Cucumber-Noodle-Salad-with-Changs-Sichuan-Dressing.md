@@ -16,7 +16,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <h4>Noodles:</h4>
   <ul>
-  <li>2x <a href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a>, drained and rinsed</li>
+  <li>2x <a href="/products/changs-traditional-super-lo-cal-noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a>, drained and rinsed</li>
   <li>2 lebanese cucumbers</li>
   <li>2 spring onions, finely sliced</li>
   <li>1 long red chilli, seeds removed and finely chopped</li>
@@ -29,7 +29,7 @@ ingredients: |
   <li>&frac12; teaspoon chilli flakes</li>
   <li>2 garlic cloves, minced</li>
   <li>1 tablespoon balsamic vinegar</li>
-  <li>2 tablespoons <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2 tablespoons <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>4 tablespoons <a href="/products/Changs-Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a></li>
   </ul>
   <p>Optional added protein: Store-bought or leftover chicken, shredded</p>

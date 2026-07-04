@@ -13,7 +13,7 @@ gallery: "recipes/Noodle-Omelette"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>125g <a title="Chang's Long Life Noodles" href="/products/Changs-Long-Life-Noodles/"  rel="noopener">Chang's Long Life Noodles</a> (&frac12; pkt) OR 2 cups leftover cooked noodles</li>
+  <li>125g <a title="Chang's Long Life Noodles" href="/products/changs-long-life-noodles/"  rel="noopener">Chang's Long Life Noodles</a> (&frac12; pkt) OR 2 cups leftover cooked noodles</li>
   <li>4 eggs, whisked</li>
   <li>6 white mushrooms, sliced</li>
   <li>1 small brown onion, chopped</li>
@@ -25,7 +25,7 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>Place <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> in pot of boiling water and cook for 3 minutes. Drain and set aside. Alternatively use leftover noodles that are already cooked.</li>
+  <li>Place <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> in pot of boiling water and cook for 3 minutes. Drain and set aside. Alternatively use leftover noodles that are already cooked.</li>
   <li>Place in a frying pan half the oil, half the onion and half the mushrooms. Saut&eacute; for 2 minutes.</li>
   <li>Add half the noodles, sweet chilli sauce, season and combine well, then add half the cheese and half of the whisked eggs. Place lid on pan and allow to cook for 3-4 minutes. Once surface is thickened, fold omelette in half and using the back of the spatula press down. Cook for a further minute.</li>
   <li>Slide omelette onto plate and repeat with other half of ingredients.</li>

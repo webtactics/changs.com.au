@@ -22,7 +22,7 @@ ingredients: |
   <li>1/3 cup rice wine vinegar</li>
   <li>4 cloves garlic, grated or crushed</li>
   <li>1 thumb ginger, peeled and finely grated or chopped and pounded to a paste in a mortar and pestle</li>
-  <li>1 packet <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> - to serve</li>
+  <li>1 packet <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> - to serve</li>
   </ul>
 method: |
   <h3>Method:</h3>

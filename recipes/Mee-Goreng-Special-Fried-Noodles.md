@@ -13,12 +13,12 @@ gallery: "recipes/Mee-Goreng-Special-Fried-Noodles"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 pkt <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> (for a gluten free variation swap for <a href="/products/Changs-Wok-Ready-Noodles/" title="Chang's Wok-Ready Noodles" alt="Chang's Wok-Ready Noodles">Chang's Wok-Ready Noodles</a> or <a href="/products/Changs-Thai-Style-Rice-Noodles/" title="Chang's Thai Style Rice Noodles" alt="Chang's Thai Style Rice Noodles">Chang's Thai Style Rice Noodles</a>)</li>
+  <li>1 pkt <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> (for a gluten free variation swap for <a href="/products/Changs-Wok-Ready-Noodles/" title="Chang's Wok-Ready Noodles" alt="Chang's Wok-Ready Noodles">Chang's Wok-Ready Noodles</a> or <a href="/products/Changs-Thai-Style-Rice-Noodles/" title="Chang's Thai Style Rice Noodles" alt="Chang's Thai Style Rice Noodles">Chang's Thai Style Rice Noodles</a>)</li>
   <li>1 x 300g chicken breast, thinly sliced</li>
   <li>12-16 large green prawns, raw (optional to peel)</li>
-  <li>&frac14; cup <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>&frac14; cup <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>&frac12; cup <a href="/products/Changs-Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a></li>
-  <li>2 tablespoons <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2 tablespoons <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>2 tablespoons cooking oil</li>
   <li>1 large brown onion, sliced</li>
   <li>4 green onions, sliced on the diagonal</li>

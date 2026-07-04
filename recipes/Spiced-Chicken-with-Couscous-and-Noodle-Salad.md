@@ -15,7 +15,7 @@ ingredients: |
   <li>1 tsp ground Chinese five spice</li>
   <li>2 tsps ground cumin</li>
   <li>2 tbsps Chang's Hoisin Sauce</li>
-  <li>2 tbsps <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2 tbsps <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>4 x 200g skinless chicken breast fillets</li>
   <li>11/2 cups couscous</li>
   <li>250g mixed medley tomatoes or cherry tomatoes, chopped</li>

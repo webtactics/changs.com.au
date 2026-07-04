@@ -23,8 +23,8 @@ ingredients: |
   <ul>
   <li>350g extra firm tofu</li>
   <li>&frac14; cup <a href="/products/Changs-Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a></li>
-  <li>1 tsp <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
-  <li>1 tbs <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tsp <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>1 tbs <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 garlic clove minced</li>
   </ul>
   <p><strong>To Garnish:</strong></p>
@@ -38,7 +38,7 @@ method: |
   <ol>
   <li>Cut the tofu block into 3cm cubes. Add to a wide bowl the soy sauce, fried noodle salad dressing, sesame oil and garlic and whisk. Add the tofu to the sauce and coat well. Marinate in the fridge while preparing the salad.</li>
   <li>Prepare Chang's Original Fried Noodle salad by shredding cabbage and combining with green onion and slithered almonds. Set aside. Do not add sauce or noodles yet.</li>
-  <li>Thread tofu onto skewers. Heat skillet/pan and brush with <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> before placing skewers. Cook each side for 2-3 minutes, brushing all sides with leftover marinade as they cook.</li>
+  <li>Thread tofu onto skewers. Heat skillet/pan and brush with <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> before placing skewers. Cook each side for 2-3 minutes, brushing all sides with leftover marinade as they cook.</li>
   <li>Once tofu skewers are cooked pour Chang's Fried Noodle salad dressing over salad, toss and then sprinkle <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a> over. Combined well.</li>
   <li>Serve salad and then place 1-2 skewers per person over each salad plate. To garnish, add coriander, slices of chilli and a good squeeze of lime juice. Serve immediately</li>
   </ol>

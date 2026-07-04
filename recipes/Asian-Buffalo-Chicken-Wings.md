@@ -34,7 +34,7 @@ method: |
   <li>Add to a large bowl the baking powder, salt, pepper and garlic, and combine well.</li>
   <li>Toss the wings into the bowl and coat with the baking powder mixture.</li>
   <li>Place onto baking tray and cook for 40 minutes or until golden and cooked through. Remove from oven.</li>
-  <li>Just before removing the chicken wings from the oven, melt butter and add <a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> and Chang's Tamari Soy Sauce, chilli sauce and runny honey. Bring to a simmer (not to a boil), remove from heat and then set aside until chicken is ready.</li>
+  <li>Just before removing the chicken wings from the oven, melt butter and add <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a> and Chang's Tamari Soy Sauce, chilli sauce and runny honey. Bring to a simmer (not to a boil), remove from heat and then set aside until chicken is ready.</li>
   <li>Pour Buffalo Sauce over hot chicken wings and toss to evenly coat. Serve immediately.</li>
   </ol>
 tags:

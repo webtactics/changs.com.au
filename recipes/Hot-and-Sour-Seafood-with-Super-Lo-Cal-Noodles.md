@@ -21,7 +21,7 @@ ingredients: |
   <li>1 cup coriander leaves</li>
   <li>1 cup mint leaves</li>
   <li>2 medium red chillies, sliced more or less to your taste</li>
-  <li>1 pack of <a title="Chang's Traditional Super Lo-Cal Noodles" href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/"  rel="noopener">Chang's Traditional Super Lo-Cal Noodles</a> rinsed under cold water and drained</li>
+  <li>1 pack of <a title="Chang's Traditional Super Lo-Cal Noodles" href="/products/changs-traditional-super-lo-cal-noodles/"  rel="noopener">Chang's Traditional Super Lo-Cal Noodles</a> rinsed under cold water and drained</li>
   </ul>
   <h3>Dressing:</h3>
   <ul>

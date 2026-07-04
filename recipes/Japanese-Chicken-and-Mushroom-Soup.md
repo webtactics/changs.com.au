@@ -17,8 +17,8 @@ ingredients: |
   <li>200g skinless chicken breast meat, shredded</li>
   <li>6 fresh shiitake mushrooms, sliced, or 4 dried shiitake mushrooms</li>
   <li>2 baby bok choy, leaves removed and reserved</li>
-  <li>2 packs <a href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a> or <a href="/products/Changs-Super-Lo-Cal-Wide-Noodles/" title="Chang's Super Lo-Cal Wide Noodles" alt="Chang's Super Lo-Cal Wide Noodles">Chang's Super Lo-Cal Wide Noodles</a></li>
-  <li>1 tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 packs <a href="/products/changs-traditional-super-lo-cal-noodles/" title="Chang's Traditional Super Lo-Cal Noodles" alt="Chang's Traditional Super Lo-Cal Noodles">Chang's Traditional Super Lo-Cal Noodles</a> or <a href="/products/Changs-Super-Lo-Cal-Wide-Noodles/" title="Chang's Super Lo-Cal Wide Noodles" alt="Chang's Super Lo-Cal Wide Noodles">Chang's Super Lo-Cal Wide Noodles</a></li>
+  <li>1 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 tbsp.mirin</li>
   <li>4 sprigs coriander leaves</li>
   </ul>
@@ -26,7 +26,7 @@ method: |
   <h3>Method:</h3>
   <ol>
   <li>Bring the chicken stock to the boil in a large saucepan.</li>
-  <li>Add the <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a>, mirin, mushrooms and bok choy, reducing heat to a simmer and cooking for one minute.</li>
+  <li>Add the <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a>, mirin, mushrooms and bok choy, reducing heat to a simmer and cooking for one minute.</li>
   <li>Rinse the Super Lo Cal Noodles in cold water, and distribute amongst soup bowls along with the shredded chicken breast.</li>
   <li>Ladle the soup into the bowls, ensuring vegetables are evenly distributed.</li>
   <li>Top soup with the coriander sprigs and serve immediately.</li>

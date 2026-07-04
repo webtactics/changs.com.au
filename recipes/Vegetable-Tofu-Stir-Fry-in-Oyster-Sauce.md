@@ -13,7 +13,7 @@ author: "Joy"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 pack <a href="/products/Changs-Long-Life-Noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
+  <li>1 pack <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a></li>
   <li>2 tbsp. neutral oil</li>
   <li>1 clove garlic, crushed</li>
   <li>4 spring onions, white and pale green parts only, cut into 3-4 cm lengths</li>
@@ -23,8 +23,8 @@ ingredients: |
   <li>1 bunch asparagus, cut into 3-4 cm lengths</li>
   <li>3-4 shitake mushrooms, halved or quartered</li>
   <li>&frac12; cup vegetable stock or water</li>
-  <li>1 tbsp. <a href="/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>2 tbsp. <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>1 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tbsp. <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
   <li>1 bunch flowering garlic chives or Chinese chives - optional</li>
   <li>1 tsp. sugar</li>
   <li>100g firm tofu, cut into 1-2 cm cubes</li>

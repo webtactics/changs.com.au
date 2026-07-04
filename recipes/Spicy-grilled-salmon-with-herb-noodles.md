@@ -21,7 +21,7 @@ ingredients: |
   <li>6 garlic cloves, finely minced</li>
   <li>1 tablespoon of lemon juice</li>
   <li>Sesame seeds</li>
-  <li><a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li><a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   </ul>
   <h4>For the grilled salmon:</h4>
   <ul>
@@ -30,9 +30,9 @@ ingredients: |
   <li>2 tablespoons of crushed chilli/chilli jam</li>
   <li>&frac12; teaspoon white vinegar</li>
   <li>3 tablespoons of <a href="/products/Changs-Original-Fish-Sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce">Chang's Original Fish Sauce</a></li>
-  <li>3 tablespoons of <a href="/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
+  <li>3 tablespoons of <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
   <li>1 tablespoon of chilli flakes</li>
-  <li><a href="/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li><a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   </ul>
 method: |
   <h3>Method:</h3>
