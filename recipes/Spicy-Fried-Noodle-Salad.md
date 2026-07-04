@@ -21,7 +21,7 @@ ingredients: |
   <li>2 red chillies, finely sliced</li>
   <li>125g can of corn</li>
   <li>Juice of 1 lime</li>
-  <li>&frac12; cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>&frac12; cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/changs-crispy-noodle-salad-dressing/">Chang's Crispy Noodle Salad Dressing</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

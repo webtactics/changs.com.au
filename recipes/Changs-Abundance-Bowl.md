@@ -25,7 +25,7 @@ ingredients: |
   <li>2 green onions, sliced on the diagonal</li>
   <li>2 tbs slithered almonds</li>
   <li>&frac12; pkt <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/"  rel="noopener">Chang's Crunchy Fried Noodles</a> (choice of <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a>, <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/"  rel="noopener">Chang's Crunchy Fried Noodles</a> or <a title="Chang's Gluten Free Fried Noodles" href="/products/changs-gluten-free-fried-noodles/">Chang's Gluten Free Fried Noodles</a>)</li>
-  <li>&frac14; cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>&frac14; cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/changs-crispy-noodle-salad-dressing/">Chang's Crispy Noodle Salad Dressing</a></li>
   </ul>
   <p>Combine all ingredients. Evenly coat salad with dressing.</p>
   <p><strong>Chang's Konjac 2 minute Noodles</strong></p>

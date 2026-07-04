@@ -12,7 +12,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>4x 200g skirt steaks, trimmed or 2 x 350g packets pillow steaks</li>
-  <li>1/2 cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/" rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>1/2 cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/changs-crispy-noodle-salad-dressing/" rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
   <li>1 bunch curly kale, stalks removed, leaves shredded</li>
   <li>2 green onions or shallots, sliced into thin strips</li>
   <li>1/2 Chinese cabbage, shredded</li>

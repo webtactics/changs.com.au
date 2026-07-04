@@ -16,7 +16,7 @@ ingredients: |
   <li>&frac14; purple cabbage, finely shredded</li>
   <li>6 green onions</li>
   <li>1 cup slivered almonds</li>
-  <li>1 bottle <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>1 bottle <a title="Chang's Crispy Noodle Salad Dressing" href="/products/changs-crispy-noodle-salad-dressing/">Chang's Crispy Noodle Salad Dressing</a></li>
   <li>1 packet <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/"  rel="noopener">Chang's Crunchy Fried Noodles</a> (choice of <a title="Chang's Original Fried Noodles" href="/products/Original-Fried-Noodles/">Chang's Original Fried Noodles</a>, <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/"  rel="noopener">Chang's Crunchy Fried Noodles</a> or <a title="Chang's Gluten Free Fried Noodles" href="/products/changs-gluten-free-fried-noodles/">Chang's Gluten Free Fried Noodles</a>)</li>
   </ul>
 method: |

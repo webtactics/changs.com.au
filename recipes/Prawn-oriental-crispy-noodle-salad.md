@@ -17,13 +17,13 @@ ingredients: |
   <li>6 green onions, sliced</li>
   <li>&frac12; cup slivered almonds, toasted</li>
   <li>18 cooked king prawns, peeled and de-veined</li>
-  <li>&frac34; cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/"  rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>&frac34; cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/changs-crispy-noodle-salad-dressing/"  rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
   </ul>
 method: |
   <h3>Method:</h3>
   <ol>
   <li>Finely shred the cabbage and place in a large bowl along with the <a href="/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a>, green onions and almonds. Toss until combined.</li>
-  <li>Just before serving add the prawns and pour <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/"  rel="noopener">Chang's Crispy Noodle Salad Dressing</a> over salad and toss until salad is fully coated.</li>
+  <li>Just before serving add the prawns and pour <a title="Chang's Crispy Noodle Salad Dressing" href="/products/changs-crispy-noodle-salad-dressing/"  rel="noopener">Chang's Crispy Noodle Salad Dressing</a> over salad and toss until salad is fully coated.</li>
   </ol>
 tags:
   - "Seafood"

@@ -21,7 +21,7 @@ ingredients: |
   <li>1 long red chilli, thinly sliced</li>
   <li>juice of 1 lime</li>
   <li>handful on Thai mint</li>
-  <li>2/3 cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>2/3 cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/changs-crispy-noodle-salad-dressing/">Chang's Crispy Noodle Salad Dressing</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

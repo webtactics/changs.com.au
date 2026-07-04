@@ -19,7 +19,7 @@ ingredients: |
   <li>&frac12; cup lightly toasted slivered almonds</li>
   <li>&frac14; cup shelled pistachios</li>
   <li>1 bag of <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/"  rel="noopener">Chang's Crunchy Fried Noodles</a></li>
-  <li>&frac12; bottle of <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/"  rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>&frac12; bottle of <a title="Chang's Crispy Noodle Salad Dressing" href="/products/changs-crispy-noodle-salad-dressing/"  rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

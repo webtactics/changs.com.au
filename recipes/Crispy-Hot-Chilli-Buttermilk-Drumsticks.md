@@ -21,7 +21,7 @@ ingredients: |
   <li>1 packet <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/"  rel="noopener">Chang's Crunchy Fried Noodles</a></li>
   <li>Oil spray</li>
   <li>1 spring onion</li>
-  <li>&frac12; cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/"  rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>&frac12; cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/changs-crispy-noodle-salad-dressing/"  rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

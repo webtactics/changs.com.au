@@ -14,7 +14,7 @@ ingredients: |
   <h3>Salad:</h3>
   <ul>
   <li>1 packet <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/"  rel="noopener">Chang's Crunchy Fried Noodles</a></li>
-  <li>&frac12; cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/Crispy-Noodle-Salad-Dressing/"  rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>&frac12; cup <a title="Chang's Crispy Noodle Salad Dressing" href="/products/changs-crispy-noodle-salad-dressing/"  rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
   <li>&frac12; Chinese Cabbage, finely shredded</li>
   <li>6 green onions, sliced</li>
   <li>1 cup frozen or fresh peas, boiled until tender</li>

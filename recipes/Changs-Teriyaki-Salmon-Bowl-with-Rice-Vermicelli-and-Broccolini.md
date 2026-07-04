@@ -23,7 +23,7 @@ ingredients: |
   <h4>Noodles &amp; Sauce:</h4>
   <ul>
   <li>1 packet <a href="/products/Changs-Vermicelli-Rice-Noodles/" title="Chang's Vermicelli Rice Noodles" alt="Chang's Vermicelli Rice Noodles">Chang's Vermicelli Rice Noodles</a></li>
-  <li>½ cup <a href="/products/Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a></li>
+  <li>½ cup <a href="/products/changs-crispy-noodle-salad-dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing">Chang's Crispy Noodle Salad Dressing</a></li>
   <li>¼ cup fresh lime juice</li>
   </ul>
   <h4>Broccolini:</h4>
