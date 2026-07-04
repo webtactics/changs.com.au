@@ -15,7 +15,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>4 duck marylands</li>
-  <li>2 tbsp. <a title="Chang's Hoisin Sauce" href="/products/Changs-Hoisin-Sauce/">Chang's Hoisin Sauce</a></li>
+  <li>2 tbsp. <a title="Chang's Hoisin Sauce" href="/products/changs-original-hoisin-sauce/">Chang's Hoisin Sauce</a></li>
   <li>2 tbsp. Shaosing rice wine</li>
   <li>2 tbsp. brown sugar</li>
   <li>2 cloves garlic, crushed or finely grated</li>
