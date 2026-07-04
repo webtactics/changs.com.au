@@ -13,7 +13,7 @@ author: "pwg"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 packet <a href="/products/changs-hokkien-style-shelf-fresh-noodles/" title="Chang's Hokkien Noodles" alt="Chang's Hokkien Noodles">Chang's Hokkien Noodles</a></li>
+  <li>1 packet <a href="/products/changs-hokkien-style-shelf-fresh-noodles/" title="Chang's Hokkien Style Shelf Fresh Noodles" alt="Chang's Hokkien Style Shelf Fresh Noodles">Chang's Hokkien Style Shelf Fresh Noodles</a></li>
   <li>200g leftover turkey meat, thinly sliced</li>
   <li>2 tbsp. vegetable oil</li>
   <li>1 clove garlic, crushed or sliced</li>
@@ -45,5 +45,5 @@ tags:
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Hokkien Style Shelf Fresh Noodles"
   - "Chang's Original Oyster Sauce"
-  - "Chang's Hokkien Noodles"
+  - "Chang's Hokkien Style Shelf Fresh Noodles"
 ---

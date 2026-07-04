@@ -17,7 +17,7 @@ ingredients: |
   <li>1 large brown onion, sliced</li>
   <li>2 cloves garlic, crushed</li>
   <li>250g shitake mushrooms, sliced</li>
-  <li>1 packet <a href="/products/changs-hokkien-style-shelf-fresh-noodles/" title="Chang's Hokkien Noodles" alt="Chang's Hokkien Noodles">Chang's Hokkien Noodles</a></li>
+  <li>1 packet <a href="/products/changs-hokkien-style-shelf-fresh-noodles/" title="Chang's Hokkien Style Shelf Fresh Noodles" alt="Chang's Hokkien Style Shelf Fresh Noodles">Chang's Hokkien Style Shelf Fresh Noodles</a></li>
   <li>1/4 cup gluten-free beef stock</li>
   <li>1/2 cup thinly sliced spring onions</li>
   <li>1/4 cup firmly packed coriander leaves, finely chopped</li>
@@ -50,5 +50,5 @@ tags:
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Hokkien Style Shelf Fresh Noodles"
   - "Chang's Sesame Oil"
-  - "Chang's Hokkien Noodles"
+  - "Chang's Hokkien Style Shelf Fresh Noodles"
 ---
