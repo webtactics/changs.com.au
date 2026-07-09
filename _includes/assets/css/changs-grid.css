@@ -3793,11 +3793,16 @@ textarea
 
 .accordion-item {
   border-top: 1px solid var(--primary);
+  border-bottom: 1px solid var(--lightpink);
+  margin-bottom: -2px;
+  overflow: hidden;
+}
+.accordion-item:last-child {
+  border-top: 1px solid var(--lightpink);
   border-bottom: 1px solid var(--primary);
   margin-bottom: -2px;
   overflow: hidden;
 }
-
 
 
 .accordion-item:hover {
