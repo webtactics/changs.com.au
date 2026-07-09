@@ -3934,6 +3934,7 @@ text-decoration: none;
 
 .accordion-content p:last-of-type {
   padding-bottom: 0;
+    margin: 0;
 }
 
 .accordion-content img {
