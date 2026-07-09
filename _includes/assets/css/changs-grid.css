@@ -439,6 +439,12 @@ font-style: italic;
 color: var(--black);
 }
 
+p.disable {
+font-style: italic;
+color: var(--primary);
+font-weight: bold;
+margin: 0 0 2rem 0;
+}
 
 .eightypercentborder {
   margin: 0 auto 3.5rem auto;
