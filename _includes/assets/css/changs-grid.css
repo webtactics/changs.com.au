@@ -3836,8 +3836,8 @@ textarea
   transition: box-shadow var(--transition06) var(--transitionTiming);
   z-index: 1;
   cursor: pointer;
-  color: var(--primary);
-  font-size: 1.4rem;
+  color: var(--black);
+  font-size: 1.3rem;
 }
 
 
@@ -3870,7 +3870,7 @@ text-decoration: none;
   content: '';
   width: 10px;
   height: 10px;
-  border: 2px solid var(--primary);
+  border: 3px solid var(--primary);
   border-bottom: transparent;
   border-left: transparent;
   transform: rotate(135deg);
@@ -3885,7 +3885,7 @@ text-decoration: none;
   content: '';
   width: 10px;
   height: 10px;
-  border: 2px solid var(--white);
+  border: 3px solid var(--white);
   border-bottom: transparent;
   border-left: transparent;
   transform: rotate(135deg);
