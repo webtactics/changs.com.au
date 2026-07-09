@@ -3794,13 +3794,20 @@ textarea
 .accordion-item {
   border-top: 1px solid var(--primary);
   border-bottom: 1px solid var(--pink);
-  margin-bottom: -2px;
+  margin-bottom: 1px;
   overflow: hidden;
 }
+.accordion-item:first-child {
+  border-top: 1px solid var(--black);
+  border-bottom: 1px solid var(--green);
+  margin-bottom: 1px;
+  overflow: hidden;
+}
+
 .accordion-item:last-child {
   border-top: 1px solid var(--pink);
   border-bottom: 1px solid var(--primary);
-  margin-bottom: -2px;
+    margin-bottom: 1px;
   overflow: hidden;
 }
 
