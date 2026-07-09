@@ -2835,7 +2835,9 @@ line-height: 1.5rem;
 
 
 
-.CGBlogMethod {max-width:120ch;}
+.CGBlogMethod {
+max-width:120ch;
+padding: 0 0 2rem 0;}
 
 
 .CGBlogMethod ol {
