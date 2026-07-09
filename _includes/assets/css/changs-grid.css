@@ -3813,7 +3813,7 @@ textarea
 }
 .accordion-item:only-child {
   border-top: 1px solid var(--primary);
-  border-bottom: 1px solid var(--pink);
+  border-bottom: 1px solid var(--primary);
   margin-bottom: 0;
   overflow: hidden;
 }
