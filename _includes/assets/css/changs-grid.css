@@ -444,6 +444,8 @@ font-style: italic;
 color: var(--primary);
 font-weight: bold;
 margin: 0 0 2rem 0;
+font-size: 1.2rem;
+font-size: clamp(20px, 2vw + 1rem, 1.3rem);
 }
 
 .eightypercentborder {
