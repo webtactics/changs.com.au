@@ -3791,6 +3791,7 @@ textarea
   }
 }
 
+
 .accordion-item {
   border-top: 1px solid var(--pink);
   border-bottom: 1px solid var(--pink);
@@ -3808,6 +3809,12 @@ textarea
   border-top: 1px solid var(--pink);
   border-bottom: 1px solid var(--primary);
      margin-bottom: 0;
+  overflow: hidden;
+}
+.accordion-item:only-child {
+  border-top: 1px solid var(--primary);
+  border-bottom: 1px solid var(--pink);
+  margin-bottom: 0;
   overflow: hidden;
 }
 
