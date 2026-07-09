@@ -3790,8 +3790,8 @@ textarea
 }
 
 .accordion-item {
-  border-top: 1px solid var(--lightpink);
-  border-bottom: 1px solid var(--lightpink);
+  border-top: 1px solid var(--primary);
+  border-bottom: 1px solid var(--primary);
   margin-bottom: -2px;
   overflow: hidden;
 }
