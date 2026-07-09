@@ -3847,12 +3847,13 @@ textarea
 .accordion-trigger {
   display: block;
   position: relative;
-    padding: 1rem 0.4rem;
+    padding: 0.8rem 0.5rem;
   transition: box-shadow var(--transition06) var(--transitionTiming);
   z-index: 1;
   cursor: pointer;
   color: var(--black);
   font-size: 1.1rem;
+  line-height: 1;
 }
 
 
