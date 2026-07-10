@@ -3847,7 +3847,7 @@ textarea
 .accordion-trigger {
   display: block;
   position: relative;
-    padding: 0.8rem 0.5rem;
+    padding: 0.85rem 0.5rem;
   transition: box-shadow var(--transition06) var(--transitionTiming);
   z-index: 1;
   cursor: pointer;
