@@ -1,0 +1,436 @@
+Woolworths
+email
+<a href="https://www.woolworths.com.au/shop/search/products?searchTerm=chang%27s" target="_blank">Woolworths</a>
+
+Coles
+email
+<a href="https://www.coles.com.au/search/products?q=Chang%27s" target="_blank">Coles</a>
+
+Chgang's
+<a href="https://www.changs.com/" title="Chang's Authentic Asian Cooking" alt="Chang's Authentic Asian Cooking" target="_blank">Chang's Authentic Asian Cooking</a>
+
+Products
+<a href="https://www.changs.com/products/" target="_blank">Products</a>
+
+Noodle range
+<a href="https://www.changs.com/products/noodles/" title="Chang's Delicious Noodles!" alt="Chang's Delicious Noodles!" target="_blank">Chang's Noodles</a>
+
+Gluten Free Recipes
+<a href="https://www.changs.com/recipes/gluten-free-recipes/" target="_blank">Gluten Free Recipes</a>
+
+Desserts Tab
+<a href="https://www.changs.com/recipes/desserts/" target="_blank">Desserts & Sweet Treats!</a>
+
+
+Chang’s Crispy Noodle Salad
+<a href="https://www.changs.com/recipes/Crispy-Noodle-Salad/" title="Chang’s Crispy Noodle Salad" alt="Chang’s Crispy Noodle Salad" target="_blank" >Chang’s Crispy Noodle Salad</a>
+{include file='cms_template:Crispy-Noodle-Salad'}
+
+
+Chang's Original Hoisin Sauce
+<a href="https://www.changs.com/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce" target="_blank" >Chang's Original Hoisin Sauce</a>
+{include file='cms_template:Changs-Original-Hoisin-Sauce'}
+old
+{include file='cms_template:Changs-Original-Hoisin-Sauce-280ml'}
+
+
+{% include "components/product-recipe-link/Changs-Hoisin-Sauce.html" %}
+
+Chang's Soy Sauce Dark 
+<a href="https://www.changs.com/products/Changs-Soy-Sauce-Dark/" title="Chang's Soy Sauce Dark" alt="Chang's Soy Sauce Dark" target="_blank" >Chang's Soy Sauce Dark</a>
+{include file='cms_template:Changs-Soy-Sauce-Dark'}
+
+{% include "components/product-recipe-link/Changs-Soy-Sauce-Dark.html" %}
+
+Chang's Soy Sauce Light
+<a href="https://www.changs.com/products/Changs-Soy-Sauce-Light/" title="Chang's Soy Sauce Light" alt="Chang's Soy Sauce Light" target="_blank" >Chang's Soy Sauce Light</a>
+{include file='cms_template:Changs-Soy-Sauce-Light'} 
+{% include "components/product-recipe-link/Changs-Soy-Sauce-Light.html" %}
+
+Chang's Gluten Free Tamari Light Soy Sauce
+<a href="https://www.changs.com/products/Changs-Tamari-Light-Soy-Sauce" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce" >Chang's Gluten Free Tamari Light Soy Sauce</a>
+{include file='cms_template:Changs-Tamari-Light-Soy-Sauce'}
+<a href="https://www.changs.com/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce" >Chang's Gluten Free Tamari Light Soy Sauce</a>
+old
+{include file='cms_template:Changs-Tamari-Light-Soy-Sauce-280ml'}
+
+{% include "components/product-recipe-link/Changs-Tamari-Light-Soy-Sauce.html" %}
+
+
+Chang's Sesame Oil
+<a href="https://www.changs.com/products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil" target="_blank" >Chang's Sesame Oil</a>
+{include file='cms_template:Changs-Sesame-Oil'}
+<a href="products/Changs-Sesame-Oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil" target="_blank" >Chang's Sesame Oil</a>
+old
+{include file='cms_template:Changs-Pure-Sesame-Oil'}
+
+{% include "components/product-recipe-link/Changs-Sesame-Oil.html" %}
+
+Chang's Original Oyster Sauce
+<a href="https://www.changs.com/products/Changs-Original-Oyster-Sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce" target="_blank">Chang's Original Oyster Sauce</a>
+{include file='cms_template:Changs-Original-Oyster-Sauce'}
+old
+{include file='cms_template:Changs-Original-Oyster-Sauce-280ml'}
+{% include "components/product-recipe-link/Changs-Original-Oyster-Sauce.html" %}
+
+
+Chang's Original Fish Sauce
+<a href="https://www.changs.com/products/Changs-Original-Fish-Sauce" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce" target="_blank">Chang's Original Fish Sauce</a>
+{include file='cms_template:Changs-Original-Fish-Sauce'}
+old
+{include file='cms_template:Changs-Original-Fish-Sauce-280ml'}
+
+
+Chang's Crispy Noodle Salad Dressing
+<a href="https://www.changs.com/products/changs-crispy-noodle-salad-dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing" target="_blank">Chang's Crispy Noodle Salad Dressing</a>
+{include file='cms_template:Crispy-Noodle-Salad-Dressing'}
+<a href="products/Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing" target="_blank">Chang's Crispy Noodle Salad Dressing</a>
+
+Chang's Kecap Manis Sweet Soy Sauce
+<a href="https://www.changs.com/products/Changs-Kecap-Manis-Sweet-Soy-Sauce/" title="Chang's Kecap Manis Sweet Soy Sauce" alt="Chang's Kecap Manis Sweet Soy Sauce" target="_blank">Chang's Kecap Manis Sweet Soy Sauce</a>
+{include file='cms_template:Changs-Kecap-Manis-Sweet-Soy-Sauce'}
+
+Chang's Master Stock
+<a href="https://www.changs.com/products/Changs-Master-Stock/" title="Chang's Master Stock" alt="Chang's Master Stock" target="_blank">Chang's Master Stock</a>
+{include file='cms_template:Changs-Master-Stock'}
+
+
+Chang's Original Hot Chilli Sauce 280ml
+products/Changs-Original-Hot-Chilli-Sauce-280ml/
+<a title="Chang's Original Hot Chilli Sauce 280ml" href="products/Changs-Original-Hot-Chilli-Sauce-280ml/" >Chang's Original Hot Chilli Sauce 280ml</a>
+
+Chang's Japanese Teriyaki Sauce
+<a href="https://www.changs.com/products/Changs-Japanese-Teriyaki-Sauce/" title="Chang's Japanese Teriyaki Sauce" alt="Chang's Japanese Teriyaki Sauce" target="_blank">Chang's Japanese Teriyaki Sauce</a>
+
+{include file='cms_template:Changs-Japanese-Teriyaki-Sauce'}
+{% include "components/product-recipe-link/Changs-Japanese-Teriyaki-Sauce.html" %}
+
+
+Chang's Wide Potato Glass Noodle
+<a href="https://www.changs.com/products/Changs-Wide-Potato-Glass-Noodle/" title="Chang's Wide Potato Glass Noodle" alt="Chang's Wide Potato Glass Noodle" target="_blank">Chang's Wide Potato Glass Noodle</a>
+
+{include file='cms_template:Changs-Wide-Potato-Glass-Noodle'}
+
+
+Chang's Super Lo-Cal Noodles
+<a href="https://www.changs.com/products/Changs-Traditional-Super-Lo-Cal-Noodles/" alt="Chang's Traditional Super Lo-Cal Noodles" title="Chang's Traditional Super Lo-Cal Noodles" target="_blank">Chang's Traditional Super Lo-Cal Noodles</a>
+{include file='cms_template:Changs-Traditional-Super-Lo-Cal-Noodles'}
+
+
+Chang's Super Lo-Cal Wide Noodles
+<a href="https://www.changs.com/products/Changs-Super-Lo-Cal-Wide-Noodles/" alt="Chang's Super Lo-Cal Wide Noodles" title="Chang's Super Lo-Cal Wide Noodles"  target="_blank">Chang's Super Lo-Cal Wide Noodles</a>
+{include file='cms_template:Changs-Super-Lo-Cal-Wide-Noodles'}
+old
+{include file='cms_template:Changs-Traditional-Super-Lo-Cal-Wide-Noodles'}
+
+
+Both Chang's Traditional Super Lo-Cal Noodles + Chang's Traditional Super Lo-Cal Wide Noodles
+
+{include file='cms_template:Changs-Traditional-Super-Lo-Cal-Noodles'} or {include file='cms_template:Changs-Traditional-Super-Lo-Cal-Wide-Noodles'}
+
+
+Chang's Organic Ramen Noodles
+<a href="https://www.changs.com/products/Changs-Organic-Ramen-Noodles/" alt="Chang's Organic Ramen Noodles" title="Chang's Organic Ramen Noodles"  target="_blank">Chang's Organic Ramen Noodles</a>
+
+Chang's Long Life Noodles
+<a href="https://www.changs.com/products/changs-long-life-noodles/" alt="Chang's Long Life Noodles" title="Chang's Long Life Noodles"  target="_blank">Chang's Long Life Noodles</a>
+{include file='cms_template:Changs-Long-Life-Noodles'}
+
+{% include "components/product-recipe-link/Changs-Shelf-Fresh-Noodles-Hokkien-Style.html" %}
+
+Chang's Original Fried Noodles
+<a href="https://www.changs.com/products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles" target="_blank">Chang's Original Fried Noodles</a>
+
+{include file='cms_template:Changs-Original-Fried-Noodles'} 
+{% include "components/product-recipe-link/Changs-Original-Fried-Noodles.html" %}
+
+original plus gluten free option
+{include file='cms_template:Changs-Original-Fried-Noodles'} or {include file='cms_template:Gluten-Free-Fried-Noodles'} 
+{include file='cms_template:Changs-Original-Fried-Noodles'} or {include file='cms_template:Gluten-Free-Fried-Noodles'} for a gluten-free option.
+
+
+Chang's Gluten Free Fried Noodles
+<a href="https://www.changs.com/products/Gluten-Free-Fried-Noodles/" title="Chang's Gluten Free Fried Noodles" alt="Chang's Gluten Free Fried Noodles" target="_blank">Chang's Gluten Free Fried Noodles</a>
+
+{include file='cms_template:Gluten-Free-Fried-Noodles'} 
+{% include "components/product-recipe-link/Changs-Vermicelli-Rice-Noodles.html" %}
+
+Chang's Crunchy Fried Noodles
+<a href="https://www.changs.com/products/changs-crunchy-fried-noodles/" title="Chang's Crunchy Fried Noodles" alt="Chang's Crunchy Fried Noodles" target="_blank">Chang's Crunchy Fried Noodles</a>
+
+{include file='cms_template:Changs-Crunchy-Fried-Noodles'} 
+{% include "components/product-recipe-link/Changs-Shelf-Fresh-Noodles-Hokkien-Style.html" %}
+
+
+Chang's Thai Style Rice Noodles
+<a href="https://www.changs.com/products/Changs-Thai-Style-Rice-Noodles/" alt="Chang's Thai Style Rice Noodles" title="Chang's Thai Style Rice Noodles"  target="_blank">Chang's Thai Style Rice Noodles</a>
+
+{include file='cms_template:Changs-Thai-Style-Rice-Noodles'} 
+{% include "components/product-recipe-link/Changs-Shelf-Fresh-Noodles-Hokkien-Style.html" %}
+
+
+Chang's Egg Noodles
+<a href="https://www.changs.com/products/Changs-Egg-Noodles/" alt="Chang's Egg Noodles" title="Chang's Egg Noodles"  target="_blank">Chang's Egg Noodles</a>
+
+{include file='cms_template:Changs-Egg-Noodles'}
+
+
+Chang's Long Life Noodles
+<a href="https://www.changs.com/products/Changs-Long-Life-Noodles/" alt="Chang's Long Life Noodles" title="Chang's Long Life Noodles"  target="_blank">Chang's Long Life Noodles</a>
+
+{include file='cms_template:Changs-Long-Life-Noodles'}
+
+
+Chang's Wok-Ready Noodles
+<a href="https://www.changs.com/products/Wok-Ready-Noodles/" title="Chang's Wok-Ready Noodles" alt="Chang's Wok-Ready Noodles"target="_blank">Chang's Wok-Ready Noodles</a>
+
+{include file='cms_template:Wok-Ready-Noodles'}
+{% include "components/product-recipe-link/Wok-Ready-Noodles.html" %}
+
+
+Chang's Vermicelli Rice Noodles
+<a href="https://www.changs.com/products/Changs-Vermicelli-Rice-Noodles/" title="Chang's Vermicelli Rice Noodles" alt="Chang's Vermicelli Rice Noodles" target="_blank">Chang's Vermicelli Rice Noodles</a>
+
+{include file='cms_template:Changs-Vermicelli-Rice-Noodles'} 
+{% include "components/product-recipe-link/Changs-Vermicelli-Rice-Noodles.html" %}
+
+
+Chang's Hokkien Noodles
+<a href="https://www.changs.com/products/Changs-Shelf-Fresh-Noodles-Hokkien-Style/" alt="Chang's Hokkien Noodles" title="Chang's Hokkien Noodles"  target="_blank">Chang's Hokkien Noodles</a>
+
+{include file='cms_template:Changs-Shelf-Fresh-Noodles-Hokkien-Style'}
+{% include "components/product-recipe-link/Changs-Shelf-Fresh-Noodles-Hokkien-Style.html" %}
+
+Woolworths
+email
+<a href="https://www.woolworths.com.au/shop/search/products?searchTerm=Chang%27s&pageNumber=1&sortBy=TraderRelevance&filter=Brand(Chang%27s)" target="_blank">Woolworths</a>
+
+Coles
+email
+<a href="https://www.coles.com.au/brands/changs-3028503409" target="_blank">Coles</a>
+
+
+Chang’s Crispy Noodle Salad
+<a href="https://www.changs.com/recipes/Crispy-Noodle-Salad/" title="Chang’s Crispy Noodle Salad" alt="Chang’s Crispy Noodle Salad" target="_blank" >Chang’s Crispy Noodle Salad</a>
+
+{include file='cms_template:Crispy-Noodle-Salad'}
+
+
+Chang's Original Hoisin Sauce
+<a href="https://www.changs.com/products/Changs-Original-Hoisin-Sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce" target="_blank">Chang's Original Hoisin Sauce</a>
+
+{include file='cms_template:Changs-Original-Hoisin-Sauce'}
+old
+{include file='cms_template:Changs-Original-Hoisin-Sauce-280ml'}
+{% include "components/product-recipe-link/Changs-Hoisin-Sauce.html" %}
+
+Chang's Soy Sauce Dark
+<a href="https://www.changs.com/products/Changs-Soy-Sauce-Dark/" title="Chang's Soy Sauce Dark" alt="Chang's Soy Sauce Dark" target="_blank">Chang's Soy Sauce Dark</a>
+
+{include file='cms_template:Changs-Soy-Sauce-Dark'}
+{% include "components/product-recipe-link/Changs-Soy-Sauce-Dark.html" %}
+
+Chang's Soy Sauce Light
+<a href="https://www.changs.com/products/Changs-Soy-Sauce-Light/" title="Chang's Soy Sauce Light" alt="Chang's Soy Sauce Light" target="_blank">Chang's Soy Sauce Light</a>
+
+{% include "components/product-recipe-link/Changs-Soy-Sauce-Light.html" %}
+
+Chang's Gluten Free Tamari Light Soy Sauce
+<a href="https://www.changs.com/products/Changs-Tamari-Light-Soy-Sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce" target="_blank" >Chang's Gluten Free Tamari Light Soy Sauce</a>
+{include file='cms_template:Changs-Tamari-Light-Soy-Sauce'}
+old
+{include file='cms_template:Changs-Tamari-Light-Soy-Sauce-280ml'}
+
+{% include "components/product-recipe-link/Changs-Tamari-Light-Soy-Sauce.html" %}
+
+
+Chang's Pure Sesame Oil
+<a href="products/Changs-Pure-Sesame-Oil/" title="Chang's Pure Sesame Oil" alt="Chang's Pure Sesame Oil" >Chang's Pure Sesame Oil</a>
+{include file='cms_template:Changs-Pure-Sesame-Oil'}
+
+{% include "components/product-recipe-link/Changs-Pure-Sesame-Oil.html" %}
+
+Chang's Original Oyster Sauce
+<a title="Chang's Original Oyster Sauce" href="products/Changs-Original-Oyster-Sauce/" >Chang's Original Oyster Sauce</a>
+{include file='cms_template:Changs-Original-Oyster-Sauce'}
+old
+{include file='cms_template:Changs-Original-Oyster-Sauce-280ml'}
+
+email
+<a href="https://www.changs.com/products/Changs-Original-Oyster-Sauce/" target="_blank">Chang's Original Oyster Sauce</a>
+
+{% include "components/product-recipe-link/Changs-Original-Oyster-Sauce.html" %}
+
+
+Chang's Original Fish Sauce
+<a title="Chang's Original Fish Sauce" href="products/Changs-Original-Fish-Sauce/" >Chang's Original Fish Sauce</a>
+{include file='cms_template:Changs-Original-Fish-Sauce'}
+old
+{include file='cms_template:Changs-Original-Fish-Sauce-280ml'}
+
+email
+<a href="https://www.changs.com/products/Changs-Original-Fish-Sauce" target="_blank">Chang's Original Fish Sauce</a>
+
+Chang's Crispy Noodle Salad Dressing
+<a title="Chang's Crispy Noodle Salad Dressing" href="products/Crispy-Noodle-Salad-Dressing/" >Chang's Crispy Noodle Salad Dressing</a>
+{include file='cms_template:Crispy-Noodle-Salad-Dressing'} 
+
+Coles
+https://www.coles.com.au/product/chang's-crispy-noodle-salad-dressing-280ml-6803642
+
+Woolworths'
+https://www.woolworths.com.au/shop/productdetails/354423/chang-s-salad-dressing-oriental
+
+
+
+Chang's Kecap Manis Sweet Soy Sauce
+products/Changs-Kecap-Manis-Sweet-Soy-Sauce/
+<a title="Chang's Kecap Manis Sweet Soy Sauce" href="products/Changs-Kecap-Manis-Sweet-Soy-Sauce/" >Chang's Kecap Manis Sweet Soy Sauce</a>
+{include file='cms_template:Changs-Kecap-Manis-Sweet-Soy-Sauce'} 
+
+Chang's Original Hot Chilli Sauce 280ml
+products/Changs-Original-Hot-Chilli-Sauce-280ml/
+<a title="Chang's Original Hot Chilli Sauce 280ml" href="products/Changs-Original-Hot-Chilli-Sauce-280ml/" >Chang's Original Hot Chilli Sauce 280ml</a>
+
+Chang's Japanese Teriyaki Sauce
+products/Changs-Japanese-Teriyaki-Sauce/
+<a title="Chang's Japanese Teriyaki Sauce" href="products/Changs-Japanese-Teriyaki-Sauce/" >Chang's Japanese Teriyaki Sauce</a>
+{include file='cms_template:Changs-Japanese-Teriyaki-Sauce'}
+
+{% include "components/product-recipe-link/Changs-Japanese-Teriyaki-Sauce.html" %}
+
+
+Chang's Wide Potato Glass Noodle
+products/Changs-Wide-Potato-Glass-Noodle/
+<a title="Chang's Wide Potato Glass Noodle" href="products/Changs-Wide-Potato-Glass-Noodle/" >Chang's Wide Potato Glass Noodle</a>
+{include file='cms_template:Changs-Wide-Potato-Glass-Noodle'}
+
+email
+<a href="https://www.changs.com/products/Changs-Wide-Potato-Glass-Noodle/" title="Chang's Wide Potato Glass Noodle" alt="Chang's Wide Potato Glass Noodle" target="_blank">Chang's Wide Potato Glass Noodle</a>
+
+
+Chang's Traditional Super Lo-Cal Noodles
+<a title="Chang's Traditional Super Lo-Cal Noodles" href="https://www.changs.com/products/Changs-Traditional-Super-Lo-Cal-Noodles/" >Chang's Traditional Super Lo-Cal Noodles</a>
+{include file='cms_template:Changs-Traditional-Super-Lo-Cal-Noodles'}
+<a title="Chang's Traditional Super Lo-Cal Noodles" href="/products/Changs-Traditional-Super-Lo-Cal-Noodles/" >Chang's Traditional Super Lo-Cal Noodles</a>
+
+email: 
+<a href="https://www.changs.com/products/Changs-Traditional-Super-Lo-Cal-Noodles/" alt="Chang's Traditional Super Lo-Cal Noodles" title="Chang's Traditional Super Lo-Cal Noodles" target="_blank">Chang's Traditional Super Lo-Cal Noodles</a>
+
+
+
+Chang's Super Lo-Cal Wide Noodles
+<a title="Chang's Super Lo-Cal Wide Noodles" href="products/Changs-Super-Lo-Cal-Wide-Noodles/" >Chang's Super Lo-Cal Wide Noodles</a>
+{include file='cms_template:Changs-Traditional-Super-Lo-Cal-Wide-Noodles'}
+
+email
+<a title="Chang's Super Lo-Cal Wide Noodles" href="https://www.changs.com/products/changs-super-lo-cal-wide-noodles/" target="_blank" >Chang's Super Lo-Cal Wide Noodles</a>
+
+
+Both Chang's Traditional Super Lo-Cal Noodles + Chang's Traditional Super Lo-Cal Wide Noodles
+
+{include file='cms_template:Changs-Traditional-Super-Lo-Cal-Noodles'} or {include file='cms_template:Changs-Traditional-Super-Lo-Cal-Wide-Noodles'}
+
+
+Chang's Organic Ramen Noodles
+products/Changs-Organic-Ramen-Noodles/
+<a title="Chang's Organic Ramen Noodles" href="products/Changs-Organic-Ramen-Noodles/" >Chang's Organic Ramen Noodles</a>
+
+Chang's Long Life Noodles
+<a title="Chang's Long Life Noodles" href="products/Changs-Long-Life-Noodles/" >Chang's Long Life Noodles</a>
+{include file='cms_template:Changs-Long-Life-Noodles'}
+
+email
+<a href="https://www.changs.com/products/Changs-Long-Life-Noodles/" target="_blank">Chang's Long Life Noodles</a>
+
+{% include "components/product-recipe-link/Changs-Shelf-Fresh-Noodles-Hokkien-Style.html" %}
+
+
+
+Chang's Original Fried Noodles
+<a href="products/Changs-Original-Fried-Noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles">Chang's Original Fried Noodles</a>
+{include file='cms_template:Changs-Original-Fried-Noodles'} 
+
+email
+<a href="https://www.changs.com/products/Changs-Original-Fried-Noodles/" target="_blank">Chang's Original Fried Noodles</a>
+
+{% include "components/product-recipe-link/Changs-Original-Fried-Noodles.html" %}
+
+
+
+Coles
+https://www.coles.com.au/product/chang's-original-fried-noodles-100g-292212
+
+Woolworths'
+https://www.woolworths.com.au/shop/productdetails/76191/chang-s-fried-noodles
+
+original plus gluten free option
+{include file='cms_template:Changs-Original-Fried-Noodles'} or {include file='cms_template:Gluten-Free-Fried-Noodles'} 
+{include file='cms_template:Changs-Original-Fried-Noodles'} or {include file='cms_template:Gluten-Free-Fried-Noodles'} for a gluten-free option.
+
+
+Chang's Gluten Free Fried Noodles
+<a title="Chang's Gluten Free Fried Noodles" href="products/Gluten-Free-Fried-Noodles/" >Chang's Gluten Free Fried Noodles</a>
+{include file='cms_template:Gluten-Free-Fried-Noodles'} 
+
+email
+<a href="https://www.changs.com/products/Gluten-Free-Fried-Noodles/" target="_blank">Chang's Gluten Free Fried Noodles</a>
+
+{% include "components/product-recipe-link/Changs-Vermicelli-Rice-Noodles.html" %}
+
+
+Chang's Crunchy Fried Noodles
+<a href="products/Changs-Crunchy-Fried-Noodles/" title="Chang's Crunchy Fried Noodles" alt="Chang's Crunchy Fried Noodles" target="_blank">Chang's Crunchy Fried Noodles</a>
+{include file='cms_template:Changs-Crunchy-Fried-Noodles'} 
+
+{% include "components/product-recipe-link/Changs-Shelf-Fresh-Noodles-Hokkien-Style.html" %}
+
+Chang's Thai Style Rice Noodles
+<a href="https://www.changs.com/products/Changs-Thai-Style-Rice-Noodles/" title="Chang's Thai Style Rice Noodles" alt="Chang's Thai Style Rice Noodles" target="_blank">Chang's Thai Style Rice Noodles</a>
+{include file='cms_template:Changs-Thai-Style-Rice-Noodles'} 
+
+{% include "components/product-recipe-link/Changs-Shelf-Fresh-Noodles-Hokkien-Style.html" %}
+
+
+Chang's Egg Noodles
+<a title="Chang's Egg Noodles" alt="Chang's Egg Noodles" href="products/Changs-Egg-Noodles/" >Chang's Egg Noodles</a>
+{include file='cms_template:Changs-Egg-Noodles'}
+
+
+Chang's Long Life Noodles
+<a title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles" href="products/Changs-Long-Life-Noodles/" >Chang's Long Life Noodles</a>
+{include file='cms_template:Changs-Long-Life-Noodles'}
+
+email
+<a href="https://www.changs.com/products/Changs-Long-Life-Noodles/" target="_blank">Chang's Long Life Noodles</a>
+
+Woolworths
+https://www.woolworths.com.au/shop/productdetails/94986/chang-s-noodles-long-life
+
+Chang's Wok-Ready Noodles
+<a title="Chang's Wok-Ready Noodles" href="products/Wok-Ready-Noodles/" >Chang's Wok-Ready Noodles</a>
+{include file='cms_template:Wok-Ready-Noodles'}
+
+email
+<a href="https://www.changs.com/products/Wok-Ready-Noodles/" target="_blank">Chang's Wok-Ready Noodles</a>
+
+{% include "components/product-recipe-link/Wok-Ready-Noodles.html" %}
+
+
+Chang's Vermicelli Rice Noodles
+products/Changs-Vermicelli-Rice-Noodles/
+<a title="Chang's Vermicelli Rice Noodles" href="products/Changs-Vermicelli-Rice-Noodles/" >Chang's Vermicelli Rice Noodles</a>
+{include file='cms_template:Changs-Vermicelli-Rice-Noodles'} 
+
+email
+<a href="https://www.changs.com/products/Changs-Vermicelli-Rice-Noodles/" target="_blank">Chang's Vermicelli Rice Noodles</a>
+
+{% include "components/product-recipe-link/Changs-Vermicelli-Rice-Noodles.html" %}
+
+
+Chang's Hokkien Noodles
+<a title="Chang's Hokkien Noodles" href="products/Changs-Shelf-Fresh-Noodles-Hokkien-Style" >Chang's Hokkien Noodles</a>
+{include file='cms_template:Changs-Shelf-Fresh-Noodles-Hokkien-Style'}
+
+{% include "components/product-recipe-link/Changs-Shelf-Fresh-Noodles-Hokkien-Style.html" %}
+

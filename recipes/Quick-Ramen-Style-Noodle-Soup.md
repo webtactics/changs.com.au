@@ -31,7 +31,7 @@ method: |
   <li>While the soup is simmering, cook the <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> as per instructions on the pack and divide between four soup bowls.</li>
   <li>Ladle soup over the noodles and arrange sliced pork, eggs, nori strips and spring onions on top of each bowl.</li>
   <li>Enjoy!</li>
-  <li>You can also use Chang's Egg Noodle, Rice Vermicelli or Super Lo Cal Noodle.</li>
+  <li>You can also use <a title="Chang's Vermicelli Rice Noodles" href="/products/changs-vermicelli-rice-noodles/">Chang's Vermicelli Rice Noodles</a> or <a title="Chang's Traditional Super Lo-Cal Noodles" href="/products/changs-traditional-super-lo-cal-noodles/">Chang's Traditional Super Lo-Cal Noodles</a>.</li>
   </ol>
   <p>Note: you can substitute the fresh shitake mushrooms with dried, but soak them in very hot or boiling water for 20 minutes then discard stems</p>
 tags:
@@ -57,6 +57,6 @@ tags:
   - "Chang's Soy Sauce Light"
   - "Chang's Long Life Noodles"
   - "Chang's Egg Noodles"
-  - "Chang's Rice Vermicelli"
-  - "Chang's Super Lo Cal Noodles"
+  - "Chang's Vermicelli Rice Noodles"
+  - "Chang's Traditional Super Lo-Cal Noodles"
 ---
