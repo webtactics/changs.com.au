@@ -112,8 +112,9 @@ Chang's Wide Potato Glass Noodle
 {include file='cms_template:Changs-Wide-Potato-Glass-Noodle'}
 
 
-Chang's Super Lo-Cal Noodles
-<a href="https://www.changs.com/products/Changs-Traditional-Super-Lo-Cal-Noodles/" alt="Chang's Traditional Super Lo-Cal Noodles" title="Chang's Traditional Super Lo-Cal Noodles" target="_blank">Chang's Traditional Super Lo-Cal Noodles</a>
+Chang's Traditional Super Lo-Cal Noodles
+<a href="https://www.changs.com/products/changs-traditional-super-lo-cal-noodles/" alt="Chang's Traditional Super Lo-Cal Noodles" title="Chang's Traditional Super Lo-Cal Noodles" target="_blank">Chang's Traditional Super Lo-Cal Noodles</a>
+<a title="Chang's Traditional Super Lo-Cal Noodles" href="/products/changs-traditional-super-lo-cal-noodles/">Chang's Traditional Super Lo-Cal Noodles</a>
 {include file='cms_template:Changs-Traditional-Super-Lo-Cal-Noodles'}
 
 
@@ -170,14 +171,14 @@ Chang's Thai Style Rice Noodles
 
 
 Chang's Egg Noodles
-<a href="https://www.changs.com/products/Changs-Egg-Noodles/" alt="Chang's Egg Noodles" title="Chang's Egg Noodles"  target="_blank">Chang's Egg Noodles</a>
-
+<a href="https://www.changs.com/products/Changs-Egg-Noodles/" title="Chang's Egg Noodles"  target="_blank">Chang's Egg Noodles</a>
+<a title="Chang's Egg Noodles" href="/products/changs-egg-noodles/">Chang's Egg Noodles</a>
 {include file='cms_template:Changs-Egg-Noodles'}
 
 
 Chang's Long Life Noodles
 <a href="https://www.changs.com/products/Changs-Long-Life-Noodles/" alt="Chang's Long Life Noodles" title="Chang's Long Life Noodles"  target="_blank">Chang's Long Life Noodles</a>
-
+<a title="Chang's Long Life Noodles" href="/products/changs-long-life-noodles/">Chang's Long Life Noodles</a>
 {include file='cms_template:Changs-Long-Life-Noodles'}
 
 
@@ -189,7 +190,9 @@ Chang's Wok-Ready Noodles
 
 
 Chang's Vermicelli Rice Noodles
-<a href="https://www.changs.com/products/Changs-Vermicelli-Rice-Noodles/" title="Chang's Vermicelli Rice Noodles" alt="Chang's Vermicelli Rice Noodles" target="_blank">Chang's Vermicelli Rice Noodles</a>
+<a href="https://www.changs.com/products/changs-vermicelli-rice-noodles/" title="Chang's Vermicelli Rice Noodles" alt="Chang's Vermicelli Rice Noodles" target="_blank">Chang's Vermicelli Rice Noodles</a>
+<a title="Chang's Vermicelli Rice Noodles" href="/products/changs-vermicelli-rice-noodles/">Chang's Vermicelli Rice Noodles</a>
+
 
 {include file='cms_template:Changs-Vermicelli-Rice-Noodles'} 
 {% include "components/product-recipe-link/Changs-Vermicelli-Rice-Noodles.html" %}
