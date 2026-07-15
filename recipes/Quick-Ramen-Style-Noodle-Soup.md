@@ -18,7 +18,7 @@ ingredients: |
   <li>&frac14; cup <a title="Chang's Soy Sauce Lighte" href="/products/Changs-Soy-Sauce-Light/">Chang's Soy Sauce Light</a></li>
   <li>200g cold roast pork- rolled shoulder, loin, leg or fillet- thinly sliced</li>
   <li>2 boiled eggs, peeled and halved</li>
-  <li>250g <a title="Chang's Long Life Noodles" href="/products/changs-long-life-noodles/">Chang's Long Life Noodles</a> or <a title="Chang's Organic Ramen Noodles" href="/products/Changs-Organic-Ramen-Noodles/">Chang's Organic Ramen Noodles</a></li>
+  <li>250g <a title="Chang's Long Life Noodles" href="/products/changs-long-life-noodles/">Chang's Long Life Noodles</a> or <a title="Chang's Egg Noodles" href="/products/changs-egg-noodles/">Chang's Egg Noodles</a></li>
   <li>100g bamboo shoots, thinly sliced</li>
   <li>4 fresh shitake mushrooms, sliced or quartered</li>
   <li>&frac12; sheet nori, thinly sliced</li>
@@ -53,9 +53,10 @@ tags:
   - "Summer"
   - "Autumn"
   - "Winter"
-  - "Chang's Gluten Free Fried Noodles"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
-  - "Chang's Organic Ramen Noodles"
   - "Chang's Soy Sauce Light"
   - "Chang's Long Life Noodles"
+  - "Chang's Egg Noodles"
+  - "Chang's Rice Vermicelli"
+  - "Chang's Super Lo Cal Noodles"
 ---
