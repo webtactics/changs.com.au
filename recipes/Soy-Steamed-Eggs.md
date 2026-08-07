@@ -11,6 +11,7 @@ cookingtime: "10 minutes"
 difficulty: "Easy"
 author: "pwg"
 video: "https://iframe.mediadelivery.net/embed/68279/56273bf9-2f2b-4021-b9df-cae4ce5849aa"
+videoportrait: "true"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>

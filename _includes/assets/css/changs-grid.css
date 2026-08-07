@@ -2876,6 +2876,28 @@ padding:3px 6px 6px 6px;
 .recipesvideocontent.large {max-width: 1000px;
 padding: 2rem 0;}
 
+
+
+
+
+.legacy-portrait-container {
+  position: relative;
+  width: 100%;
+  max-width: 450px;
+  margin: 0 auto;
+  height: 0;
+  padding-bottom: 177.78%; /* Calculated 9:16 ratio percentage */
+}
+
+.legacy-portrait-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
 .flexcenter-summaryvideo {
 color: var(--white);
 font-size: 0.9rem;
