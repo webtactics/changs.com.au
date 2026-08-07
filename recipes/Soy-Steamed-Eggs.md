@@ -2,7 +2,7 @@
 title: "Soy-Steamed Eggs"
 status: published
 date: 2026-08-07
-description: "This quick and easy Soy-Steamed Eggs make an amazing breakfast, and start to your day, or a simple healthy meal for those lazy days!"
+description: "This quick and easy Soy-Steamed Eggs makes an amazing breakfast (and start to your day), or a simple healthy meal for any time!"
 permalink: "/recipes/Soy-Steamed-Eggs/"
 image: "https://ik.imagekit.io/webtactics/changs-media/img/recipes/Soy-Steamed-Eggs/Soy-Steamed-Eggs.jpg"
 makes: "2"
