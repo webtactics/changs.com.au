@@ -2873,6 +2873,7 @@ padding:3px 6px 6px 6px;
 .productsumrecipeimage {padding:0rem;}
 
 .recipesvideocontent {max-width: 800px;}
+.recipesvideocontent.portrait {max-width: 600px;}
 .recipesvideocontent.large {max-width: 1000px;
 padding: 2rem 0;}
 
@@ -2883,7 +2884,7 @@ padding: 2rem 0;}
 .legacy-portrait-container {
   position: relative;
   width: 100%;
-  max-width: 800px;
+  max-width: 600px;
   margin: 0 auto;
   height: 0;
   padding-bottom: 177.78%; /* Calculated 9:16 ratio percentage */
@@ -4605,7 +4606,7 @@ padding: 0 0 2rem 0;
 padding: 0;
 }
 
-.componenth3 h3 {
+.componenth3 h3  {
 margin: 2rem 0;
   color: var(--primary);
   text-transform: none;
