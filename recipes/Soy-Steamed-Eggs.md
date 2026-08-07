@@ -10,7 +10,7 @@ preptime: "2 minutes"
 cookingtime: "10 minutes"
 difficulty: "Easy"
 author: "pwg"
-video: "https://iframe.mediadelivery.net/embed/68279/3d0bbcd5-4ff3-4b30-a7c2-967aad2780a4"
+video: "https://iframe.mediadelivery.net/embed/68279/56273bf9-2f2b-4021-b9df-cae4ce5849aa"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
