@@ -2,7 +2,7 @@
 title: "Chinese Ginger Scallion Chicken"
 status: published
 date: 2026-08-07
-description: "This quick and easy Chinese Ginger Scallion Chicken makes a delicious entrée or light midweek meal."
+description: "This deceptively simple Chinese Ginger Scallion Chicken makes a delicious entrée or light midweek meal."
 permalink: "/recipes/Chinese-Ginger-Scallion-Chicken/"
 image: "https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chinese-Ginger-Scallion-Chicken/Chinese-Ginger-Scallion-Chicken.jpg"
 makes:
