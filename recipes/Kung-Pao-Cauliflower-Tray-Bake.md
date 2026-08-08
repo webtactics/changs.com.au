@@ -4,7 +4,7 @@ status: published
 date: 2023-05-10
 description: "Elevate your vegetarian cooking with this delectable Kung Pao Cauliflower Tray Bake recipe from Chang's. Roasted cauliflower florets, crunchy peanuts, and a bold Kung Pao sauce combine to create a flavourful and satisfying dish. Discover a new twist on a classic Chinese favourite that will impress your taste buds and leave you craving more."
 permalink: "/recipes/Kung-Pao-Cauliflower-Tray-Bake/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Kung-Pao-Cauliflower-Tray-Bake/Kung-Pao-Cauliflower-Tray-Bake-6.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Kung-Pao-Cauliflower-Tray-Bake/Kung-Pao-Cauliflower-Tray-Bake-6.jpg
 serves: "4"
 preptime: "10 minutes"
 cookingtime: "30 minutes"

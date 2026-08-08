@@ -4,7 +4,7 @@ status: published
 date: 2015-08-07
 description: "These ling and salmon skewers are a quick and easy weeknight meal."
 permalink: "/recipes/Marinated-Ling-and-Salmon-Skewers/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Marinated-Ling-and-Salmon-Skewers/Marinated-Ling-and-Salmon-Skewers.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Marinated-Ling-and-Salmon-Skewers/Marinated-Ling-and-Salmon-Skewers.jpg
 serves: "4"
 preptime: "20 minutes"
 difficulty: "Easy"

@@ -7,8 +7,8 @@ status: disable
 date: 4000-02-09
 description: "Dipping sauce. See label for recipes. Try with your favourite BBQ meats and sausages."
 permalink: "/products/Changs-Japanese-Tonkatsu-Sauce/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Japanese-Tonkatsu-Sauce/Changs-Japanese-Tonkatsu-Sauce.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Japanese-Tonkatsu-Sauce/Changs-Japanese-Tonkatsu-Sauce-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Japanese-Tonkatsu-Sauce/Changs-Japanese-Tonkatsu-Sauce.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Japanese-Tonkatsu-Sauce/Changs-Japanese-Tonkatsu-Sauce-300x200.jpg
 prodsize: "150ml"
 gluten_free: true
 gtin: "9300777092996"

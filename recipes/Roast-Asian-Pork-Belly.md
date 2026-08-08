@@ -4,7 +4,7 @@ status: published
 date: 2015-12-08
 description: "Simple and impressive Asian Pork Belly"
 permalink: "/recipes/Roast-Asian-Pork-Belly/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Roast-Asian-Pork-Belly/Roast-Asian-Pork-Belly.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Roast-Asian-Pork-Belly/Roast-Asian-Pork-Belly.jpg
 serves: "4"
 preptime: "2+ hours"
 marinating: "12 hours"

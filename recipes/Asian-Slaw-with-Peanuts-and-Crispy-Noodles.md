@@ -4,7 +4,7 @@ status: published
 date: 2021-11-17
 description: "Asian Slaw with Peanuts and Crispy Noodles"
 permalink: "/recipes/Asian-Slaw-with-Peanuts-and-Crispy-Noodles/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Asian-Slaw-with-Peanuts-and-Crispy-Noodles/Asian-Slaw-with-Peanuts-and-Crispy-Noodles-1.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Asian-Slaw-with-Peanuts-and-Crispy-Noodles/Asian-Slaw-with-Peanuts-and-Crispy-Noodles-1.jpg
 preptime: "10 minutes"
 cookingtime: "5 minutes"
 difficulty: "Easy"

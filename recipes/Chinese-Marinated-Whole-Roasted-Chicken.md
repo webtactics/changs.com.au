@@ -4,7 +4,7 @@ status: published
 date: 2016-02-03
 description: "For the main course we suggest our Chinese marinated Chicken. With a mix of sweet and spicy, this is a meal that will titillate the senses but most of all, will keep the whole family full and happy this Chinese New Year."
 permalink: "/recipes/Chinese-Marinated-Whole-Roasted-Chicken/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chinese-Marinated-Whole-Roasted-Chicken/Chinese-Marinated-Whole-Roasted-Chicken.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Chinese-Marinated-Whole-Roasted-Chicken/Chinese-Marinated-Whole-Roasted-Chicken.jpg
 serves: "4-6"
 preptime: "1+ hours"
 marinating: "12 hours"

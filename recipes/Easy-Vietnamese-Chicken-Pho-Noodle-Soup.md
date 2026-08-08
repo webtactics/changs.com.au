@@ -4,7 +4,7 @@ status: published
 date: 2016-02-03
 description: "Simple and easy do-it-yourself Chicken Pho Noodle Soup."
 permalink: "/recipes/Easy-Vietnamese-Chicken-Pho-Noodle-Soup/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Easy-Vietnamese-Chicken-Pho-Noodle-Soup/Easy-Vietnamese-Chicken-Pho-Noodle-Soup.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Easy-Vietnamese-Chicken-Pho-Noodle-Soup/Easy-Vietnamese-Chicken-Pho-Noodle-Soup.jpg
 serves: "4"
 preptime: "2+ hours"
 difficulty: "Medium"

@@ -4,7 +4,7 @@ status: published
 date: 2015-10-11
 description: "The classic Rocky Road with an adult twist."
 permalink: "/recipes/Grown-Ups-Rocky-Road/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Grown-Ups-Rocky-Road/Grown-Up-s-Rocky-Road.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Grown-Ups-Rocky-Road/Grown-Up-s-Rocky-Road.jpg
 serves: "4"
 preptime: "2 hours 40 mins"
 difficulty: "Easy"

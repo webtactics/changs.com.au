@@ -4,7 +4,7 @@ status: published
 date: 2018-10-10
 description: "Made with Changs Eggs Noodles, which are versatile in a stir-fry, soups and even salads. Chang’s noodles carry the Heart Foundation Tick of approval for contributing to a balanced diet."
 permalink: "/recipes/Sesame-noodles-with-salmon-and-Asian-herbs/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Sesame-noodles-with-salmon-and-Asian-herbs/Sesame-noodles-with-salmon-and-Asian-herbs.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Sesame-noodles-with-salmon-and-Asian-herbs/Sesame-noodles-with-salmon-and-Asian-herbs.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

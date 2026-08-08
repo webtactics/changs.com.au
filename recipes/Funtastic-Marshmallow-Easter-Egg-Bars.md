@@ -4,7 +4,7 @@ status: published
 date: 2016-03-01
 description: "Quick marshmallow bars that are quick to make and great for the kids!"
 permalink: "/recipes/Funtastic-Marshmallow-Easter-Egg-Bars/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Funtastic-Marshmallow-Easter-Egg-Bars/Funtastic-Marshmallow-Easter-Egg-Bars.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Funtastic-Marshmallow-Easter-Egg-Bars/Funtastic-Marshmallow-Easter-Egg-Bars.jpg
 serves: "16"
 preptime: "1 hour"
 difficulty: "Easy"

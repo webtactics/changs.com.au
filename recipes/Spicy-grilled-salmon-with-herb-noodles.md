@@ -4,7 +4,7 @@ status: published
 date: 2022-04-21
 description: "Spicy. Grilled. Noodles. Not sure you need to hear much more about this recipe, as those three words alone are more than enough to entice most of us!"
 permalink: "/recipes/Spicy-grilled-salmon-with-herb-noodles/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Spicy-grilled-salmon-with-herb-noodles/Spicy-Grilled-Salmon-with-Herb-Noodles_HD-6.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Spicy-grilled-salmon-with-herb-noodles/Spicy-Grilled-Salmon-with-Herb-Noodles_HD-6.jpg
 serves: "4"
 preptime: "15 minutes"
 cookingtime: "20 minutes"

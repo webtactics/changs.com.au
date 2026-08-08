@@ -4,7 +4,7 @@ status: published
 date: 2015-09-15
 description: "Asian inspired lamb with a red apple and beetroot watercress salad"
 permalink: "/recipes/Lamb-Beetroot-Red-Apple-and-Watercress-Noodle-Salad/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Lamb-Beetroot-Red-Apple-and-Watercress-Noodle-Salad/Lamb-Beetroot-Red-Apple-and-Watercress-Noodle-Salad.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Lamb-Beetroot-Red-Apple-and-Watercress-Noodle-Salad/Lamb-Beetroot-Red-Apple-and-Watercress-Noodle-Salad.jpg
 serves: "4"
 preptime: "30 minutes"
 difficulty: "Easy"

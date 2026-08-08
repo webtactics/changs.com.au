@@ -4,7 +4,7 @@ status: published
 date: 2018-10-10
 description: "Ah, spring, what would we do without you and your delicious aromas, seasonal vegetables and extra hours of daylight?"
 permalink: "/recipes/Grilled-King-Prawns-with-Pad-Thai-noodles-lime-and-mint/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Grilled-King-Prawns-with-Pad-Thai-noodles-lime-and-mint/Grilled-King-Prawns-with-Pad-Thai-noodles-lime-and-mint.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Grilled-King-Prawns-with-Pad-Thai-noodles-lime-and-mint/Grilled-King-Prawns-with-Pad-Thai-noodles-lime-and-mint.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

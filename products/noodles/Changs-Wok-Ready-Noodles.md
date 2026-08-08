@@ -4,8 +4,8 @@ status: published
 date: 4000-02-16
 description: "Your favourite noodles without the fuss."
 permalink: "/products/Changs-Wok-Ready-Noodles/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Wok-Ready-Noodles/Changs-Wok-Ready-Noodles-1200x1200.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Wok-Ready-Noodles/Changs-Wok-Ready-Noodles-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Wok-Ready-Noodles/Changs-Wok-Ready-Noodles-1200x1200.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Wok-Ready-Noodles/Changs-Wok-Ready-Noodles-300x200.jpg
 prodsize: "200g"
 gluten_free: true
 gtin: "9300777092705"

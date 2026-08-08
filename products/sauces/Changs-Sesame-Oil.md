@@ -4,8 +4,8 @@ status: published
 date: 4000-01-30
 description: "Chang's Sesame Oil gives a delicate flavour to meats, chicken, vegetable and noodles."
 permalink: "/products/Changs-Sesame-Oil/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Sesame-Oil/210504-Changs-Sesame-Oil-280ml-1200x1200.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Sesame-Oil/210504-Changs-Sesame-Oil-280ml-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Sesame-Oil/210504-Changs-Sesame-Oil-280ml-1200x1200.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Sesame-Oil/210504-Changs-Sesame-Oil-280ml-300x200.jpg
 prodsize: "280ml"
 packsizes: "150ml and 280ml"
 gluten_free: true

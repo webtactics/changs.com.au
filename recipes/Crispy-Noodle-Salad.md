@@ -6,7 +6,7 @@ description: "This dish is the classic crowd pleaser and a staple on Aussie dinn
 
 permalink: "/recipes/Crispy-Noodle-Salad/"
 
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Crispy-Noodle-Salad/Crispy-Noodle-Salad-250807.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Crispy-Noodle-Salad/Crispy-Noodle-Salad-250807.jpg
 serves: "4"
 preptime: "15 minutes"
 difficulty: "Easy"

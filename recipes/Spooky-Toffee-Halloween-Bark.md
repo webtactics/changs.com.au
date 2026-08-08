@@ -4,7 +4,7 @@ status: published
 date: 2015-10-14
 description: "Quick and tasty Halloween Toffee bark to keep kids and adults enchanted"
 permalink: "/recipes/Spooky-Toffee-Halloween-Bark/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Spooky-Toffee-Halloween-Bark/Spooky-Toffee-Halloween-Bark.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Spooky-Toffee-Halloween-Bark/Spooky-Toffee-Halloween-Bark.jpg
 preptime: "1 hour"
 difficulty: "Medium"
 author: "pwg"

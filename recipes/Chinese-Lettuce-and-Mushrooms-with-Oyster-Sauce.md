@@ -4,7 +4,7 @@ status: published
 date: 2022-10-18
 description: "Perfect side dish for entertaining and summer menu"
 permalink: "/recipes/Chinese-Lettuce-and-Mushrooms-with-Oyster-Sauce/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chinese-Lettuce-and-Mushrooms-with-Oyster-Sauce/Chinese-Lettuce-and-Mushrooms-with-Oyster-Sauce-6.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Chinese-Lettuce-and-Mushrooms-with-Oyster-Sauce/Chinese-Lettuce-and-Mushrooms-with-Oyster-Sauce-6.jpg
 serves: "6 as a side"
 preptime: "5 minutes"
 cookingtime: "10 minutes"

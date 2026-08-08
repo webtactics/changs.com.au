@@ -4,7 +4,7 @@ status: published
 date: 2021-02-17
 description: "Healthy, simple vegetarian and delicious! That’s our Vermicelli Salad. Add in the great taste and Kentucky Coated Tofu and you have a completely satisfying meal!"
 permalink: "/recipes/Vermicelli-Salad-with-Kentucky-Coated-Tofu/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Vermicelli-Salad-with-Kentucky-Coated-Tofu/Vermicelli-Salad-with-Kentucky-Coated-Tofu-1.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Vermicelli-Salad-with-Kentucky-Coated-Tofu/Vermicelli-Salad-with-Kentucky-Coated-Tofu-1.jpg
 serves: "4"
 difficulty: "Pretty easy"
 author: "pwg"

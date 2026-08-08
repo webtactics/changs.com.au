@@ -4,7 +4,7 @@ status: published
 date: 2015-08-07
 description: "Five Spice Lamb Fillet and Eggplant Tortillas"
 permalink: "/recipes/Five-Spice-Lamb-Fillet-and-Eggplant-Tortillas/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Five-Spice-Lamb-Fillet-and-Eggplant-Tortillas/Five-Spice-Lamb-Fillet-and-Eggplant-Tortillas.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Five-Spice-Lamb-Fillet-and-Eggplant-Tortillas/Five-Spice-Lamb-Fillet-and-Eggplant-Tortillas.jpg
 serves: "4"
 preptime: "40 minutes"
 marinating: "1-4 hours"

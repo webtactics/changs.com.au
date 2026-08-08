@@ -4,7 +4,7 @@ status: published
 date: 2018-10-10
 description: "Skirt steak with kale slaw and crispy noodles"
 permalink: "/recipes/Skirt-steak-with-kale-slaw-and-crispy-noodles/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Skirt-steak-with-kale-slaw-and-crispy-noodles/Skirt-steak-with-kale-slaw-and-crispy-noodles.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Skirt-steak-with-kale-slaw-and-crispy-noodles/Skirt-steak-with-kale-slaw-and-crispy-noodles.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

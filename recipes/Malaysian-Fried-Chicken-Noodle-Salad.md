@@ -4,7 +4,7 @@ status: published
 date: 2016-02-03
 description: "Malaysian inspired Fried Chicken Salad with Noodles."
 permalink: "/recipes/Malaysian-Fried-Chicken-Noodle-Salad/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Malaysian-Fried-Chicken-Noodle-Salad/Malaysian-Fried-Chicken-Noodle-Salad.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Malaysian-Fried-Chicken-Noodle-Salad/Malaysian-Fried-Chicken-Noodle-Salad.jpg
 serves: "4-6"
 preptime: "20 minutes"
 marinating: "12-24+ hours"

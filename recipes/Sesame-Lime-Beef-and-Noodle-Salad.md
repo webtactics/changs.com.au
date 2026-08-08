@@ -4,7 +4,7 @@ status: published
 date: 2015-09-14
 description: "Asian infused beef and noodle salad with sesame lime"
 permalink: "/recipes/Sesame-Lime-Beef-and-Noodle-Salad/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Sesame-Lime-Beef-and-Noodle-Salad/Sesame-Lime-Beef-and-Noodle-Salad.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Sesame-Lime-Beef-and-Noodle-Salad/Sesame-Lime-Beef-and-Noodle-Salad.jpg
 serves: "4"
 preptime: "30 mins"
 difficulty: "Easy"

@@ -4,8 +4,8 @@ status: published
 date: 4000-02-24
 description: "Traditional noodles perfect for a stir-fry, soup or salad."
 permalink: "/products/Changs-Long-Life-Noodles/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Long-Life-Noodles/Changs-Long-Life-Noodles.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Long-Life-Noodles/Changs-Long-Life-Noodles-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Long-Life-Noodles/Changs-Long-Life-Noodles.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Long-Life-Noodles/Changs-Long-Life-Noodles-300x200.jpg
 gluten_free: true
 gtin: "9300777081136"
 ingredients: "Wheat flour, water, salt Product of China"

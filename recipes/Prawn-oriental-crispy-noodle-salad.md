@@ -4,7 +4,7 @@ status: published
 date: 2017-11-30
 description: "Prawn oriental crispy noodle salad"
 permalink: "/recipes/Prawn-oriental-crispy-noodle-salad/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Prawn-oriental-crispy-noodle-salad/Prawn-oriental-crispy-noodle-salad.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Prawn-oriental-crispy-noodle-salad/Prawn-oriental-crispy-noodle-salad.jpg
 serves: "4"
 preptime: "25 minutes"
 difficulty: "Easy"

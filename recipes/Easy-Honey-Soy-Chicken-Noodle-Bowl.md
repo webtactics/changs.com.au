@@ -4,7 +4,7 @@ status: published
 date: 2025-05-25
 description: "Try our Easy Honey Soy Chicken Noodle Bowl recipe for a quick, flavorful meal! Perfectly seasoned chicken and noodles come together in a delicious dish you'll love."
 permalink: "/recipes/Easy-Honey-Soy-Chicken-Noodle-Bowl/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Easy-Honey-Soy-Chicken-Noodle-Bowl/Easy-Honey-Soy-Chicken-Noodle-Bowl.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Easy-Honey-Soy-Chicken-Noodle-Bowl/Easy-Honey-Soy-Chicken-Noodle-Bowl.jpg
 serves: "4"
 preptime: "15 minutes"
 cookingtime: "30 minutes"

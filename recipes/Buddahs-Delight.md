@@ -4,7 +4,7 @@ status: published
 date: 2016-02-03
 description: "Colourful vegetarian stir fry with a Chang’s kick."
 permalink: "/recipes/Buddahs-Delight/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Buddahs-Delight/Buddahs-Delight.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Buddahs-Delight/Buddahs-Delight.jpg
 serves: "4-6"
 preptime: "45 minutes"
 difficulty: "Easy"

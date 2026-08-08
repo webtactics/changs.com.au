@@ -4,7 +4,7 @@ status: published
 date: 2017-12-01
 description: "Chicken and bok choy noodle soup"
 permalink: "/recipes/Chicken-and-bok-choy-noodle-soup/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chicken-and-bok-choy-noodle-soup/Chicken-and-bok-choy-noodle-soup.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Chicken-and-bok-choy-noodle-soup/Chicken-and-bok-choy-noodle-soup.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

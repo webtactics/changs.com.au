@@ -4,7 +4,7 @@ status: published
 date: 2015-08-07
 description: "These twice cooked prawns make a great entrée or light midweek meal."
 permalink: "/recipes/Twice-Cooked-King-Prawns/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Twice-Cooked-King-Prawns/Twice-Cooked-King-Prawns.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Twice-Cooked-King-Prawns/Twice-Cooked-King-Prawns.jpg
 serves: "4"
 preptime: "1 hour"
 difficulty: "Easy"

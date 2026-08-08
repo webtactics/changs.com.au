@@ -4,7 +4,7 @@ status: published
 date: 2015-09-15
 description: "Coconut flavoured chicken with apple and fennel slaw - a perfect summer meal"
 permalink: "/recipes/Coconut-Chicken-with-Apple-and-Fennel-Slaw/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Coconut-Chicken-with-Apple-and-Fennel-Slaw/Coconut-Chicken-with-Apple-and-Fennel-Slaw.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Coconut-Chicken-with-Apple-and-Fennel-Slaw/Coconut-Chicken-with-Apple-and-Fennel-Slaw.jpg
 serves: "4"
 preptime: "30 mins"
 difficulty: "Easy"

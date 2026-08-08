@@ -4,7 +4,7 @@ status: published
 date: 2019-04-04
 description: "Another spin on our Original Fried Noodle salad, with an added tang of squeezed lime to top this colourful salad."
 permalink: "/recipes/Rainbow-Fried-Noodle-Salad/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Rainbow-Fried-Noodle-Salad/Rainbow-Fried-Noodle-Salad.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Rainbow-Fried-Noodle-Salad/Rainbow-Fried-Noodle-Salad.jpg
 serves: "3-4"
 difficulty: "Simple"
 author: "pwg"

@@ -4,7 +4,7 @@ status: published
 date: 2016-03-01
 description: "A fun double-decker take on the traditional Chocolate Crackle favourite"
 permalink: "/recipes/Double-Decker-Chocolate-Crackles/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Double-Decker-Chocolate-Crackles/Double-Decker-Chocolate-Crackles.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Double-Decker-Chocolate-Crackles/Double-Decker-Chocolate-Crackles.jpg
 serves: "12"
 preptime: "2 hours"
 difficulty: "Easy"

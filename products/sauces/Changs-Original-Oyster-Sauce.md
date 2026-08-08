@@ -4,8 +4,8 @@ status: published
 date: 4000-02-01
 description: "Chang's Oyster Sauce is a traditional sauce widely used in Cantonese cooking. Complex flavours make it suitable for stir-fried beef, pork or chicken"
 permalink: "/products/Changs-Original-Oyster-Sauce/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Oyster-Sauce/Changs-Original-Oyster-Sauce-280ml.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Oyster-Sauce/Changs-Original-Oyster-Sauce-280ml-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Original-Oyster-Sauce/Changs-Original-Oyster-Sauce-280ml.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Original-Oyster-Sauce/Changs-Original-Oyster-Sauce-280ml-300x200.jpg
 prodsize: "280ml"
 packsizes: "150ml, 280ml and 430ml"
 gluten_free: true

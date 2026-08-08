@@ -4,8 +4,8 @@ status: published
 date: 4000-02-04
 description: "A naturally brewed sauce made from fresh anchovies and salt, Fish Sauce is used extensively in Thai and Vietnamese cooking. Fish Sauce adds a unique delicious savoury flavour to your soups, stews, stir-fries, curries, dressings and as a dipping sauce."
 permalink: "/products/Changs-Original-Fish-Sauce/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Fish-Sauce/Changs-Original-Fish-Sauce-gallery-1.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Fish-Sauce/Changs-Original-Fish-Sauce-280ml-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Original-Fish-Sauce/Changs-Original-Fish-Sauce-gallery-1.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Original-Fish-Sauce/Changs-Original-Fish-Sauce-280ml-300x200.jpg
 prodsize: "280ml"
 packsizes: "150ml, 280ml and 430ml"
 gluten_free: true

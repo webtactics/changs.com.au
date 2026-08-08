@@ -4,8 +4,8 @@ status: published
 date: 4000-02-12
 description: "The perfect dressing for your fried noodle salad. Gluten Free. No artificial colours or preservatives."
 permalink: "/products/Changs-Crispy-Noodle-Salad-Dressing/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Crispy-Noodle-Salad-Dressing/Changs-Crispy-Noodle-Salad-Dressing-1000x1000.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Crispy-Noodle-Salad-Dressing/Changs-Crispy-Noodle-Salad-Dressing-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Crispy-Noodle-Salad-Dressing/Changs-Crispy-Noodle-Salad-Dressing-1000x1000.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Crispy-Noodle-Salad-Dressing/Changs-Crispy-Noodle-Salad-Dressing-300x200.jpg
 prodsize: "280ml"
 gluten_free: true
 gtin: "9300777092316"

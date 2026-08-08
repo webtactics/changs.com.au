@@ -4,7 +4,7 @@ status: published
 date: 2021-07-27
 description: "Teriyaki Chicken Noodle Bowl"
 permalink: "/recipes/Teriyaki-Chicken-Noodle-Bowl/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Teriyaki-Chicken-Noodle-Bowl/Teriyaki-Chicken-Noodle-Bowl-1.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Teriyaki-Chicken-Noodle-Bowl/Teriyaki-Chicken-Noodle-Bowl-1.jpg
 serves: "4-5"
 preptime: "10 minutes"
 cookingtime: "15 minutes"

@@ -4,7 +4,7 @@ status: published
 date: 2026-04-14
 description: "A fresh, fragrant, and deeply comforting bowl inspired by Vietnamese soups and bún chả."
 permalink: "/recipes/Juicy-Pork-Meatball-Veggie-Noodle-Soup/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Juicy-Pork-Meatball-Veggie-Noodle-Soup/Juicy-Pork-Meatball-Veggie-Noodle-Soup.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Juicy-Pork-Meatball-Veggie-Noodle-Soup/Juicy-Pork-Meatball-Veggie-Noodle-Soup.jpg
 serves: "4"
 preptime: "10 minutes"
 cookingtime: "20 minutes"

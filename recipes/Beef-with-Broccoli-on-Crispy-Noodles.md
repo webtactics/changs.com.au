@@ -4,7 +4,7 @@ status: published
 date: 2016-03-05
 description: "A rich and tasty Chinese inspired stirfry"
 permalink: "/recipes/Beef-with-Broccoli-on-Crispy-Noodles/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Beef-with-Broccoli-on-Crispy-Noodles/Beef-with-Broccoli-on-Crispy-Noodles.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Beef-with-Broccoli-on-Crispy-Noodles/Beef-with-Broccoli-on-Crispy-Noodles.jpg
 serves: "4"
 preptime: "40 minutes"
 difficulty: "Easy"

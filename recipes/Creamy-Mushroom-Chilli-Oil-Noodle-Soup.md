@@ -4,7 +4,7 @@ status: published
 date: 2026-04-13
 description: "A rich, creamy, umami-packed bowl layered with silky noodles, caramelised mushroom ‘mince’, and a fragrant chilli oil finish. Deeply comforting with just the right amount of heat."
 permalink: "/recipes/Creamy-Mushroom-Chilli-Oil-Noodle-Soup/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Creamy-Mushroom-Chilli-Oil-Noodle-Soup/Creamy-Mushroom-Chilli-Oil-Noodle-Soup.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Creamy-Mushroom-Chilli-Oil-Noodle-Soup/Creamy-Mushroom-Chilli-Oil-Noodle-Soup.jpg
 serves: "2-3"
 preptime: "15 minutes (plus soaking time)"
 cookingtime: "20 minutes"

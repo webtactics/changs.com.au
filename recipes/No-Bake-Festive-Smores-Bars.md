@@ -4,7 +4,7 @@ status: published
 date: 2021-11-17
 description: "No Bake Festive S’mores Bars"
 permalink: "/recipes/No-Bake-Festive-Smores-Bars/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/No-Bake-Festive-Smores-Bars/No-Bake-Festive-Smores-Bars.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/No-Bake-Festive-Smores-Bars/No-Bake-Festive-Smores-Bars.jpg
 difficulty: "Pretty Easy"
 author: "pwg"
 gallery: "recipes/No-Bake-Festive-Smores-Bars"

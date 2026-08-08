@@ -4,7 +4,7 @@ status: published
 date: 2019-10-17
 description: "Flat noodles wind through thick sauce, crisp greens and garlic galore - it's no wonder Pad See Ew is a favourite Thai street food. Add in some prawns and you have one of the simplest, yet most tasty stir-fry’s around!"
 permalink: "/recipes/Prawn-Pad-See-Ew/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Prawn-Pad-See-Ew/191202-Pad-See-Ew-2.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Prawn-Pad-See-Ew/191202-Pad-See-Ew-2.jpg
 serves: "2-3"
 difficulty: "Simple"
 author: "pwg"

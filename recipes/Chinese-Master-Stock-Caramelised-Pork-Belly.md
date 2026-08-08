@@ -4,7 +4,7 @@ status: published
 date: 2016-06-19
 description: "Caramelised Pork Belly in Chinese Master Stock with Chilli and Orange"
 permalink: "/recipes/Chinese-Master-Stock-Caramelised-Pork-Belly/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chinese-Master-Stock-Caramelised-Pork-Belly/Changs-Chinese-Master-Stock-Pork-Belly.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Chinese-Master-Stock-Caramelised-Pork-Belly/Changs-Chinese-Master-Stock-Pork-Belly.jpg
 serves: "4"
 preptime: "2 hours 30 minutes"
 difficulty: "Medium"

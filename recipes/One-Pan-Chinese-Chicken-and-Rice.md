@@ -4,7 +4,7 @@ status: published
 date: 2022-10-12
 description: "Who doesn’t love a one-pan meal? Especially one that tastes like this!"
 permalink: "/recipes/One-Pan-Chinese-Chicken-and-Rice/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/One-Pan-Chinese-Chicken-and-Rice/One-Pan-Chinese-Chicken-and-Rice-13.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/One-Pan-Chinese-Chicken-and-Rice/One-Pan-Chinese-Chicken-and-Rice-13.jpg
 author: "pwg"
 gallery: "recipes/One-Pan-Chinese-Chicken-and-Rice"
 video: "https://iframe.mediadelivery.net/embed/68279/5efde264-fade-41fa-a269-935464a2f8ac"

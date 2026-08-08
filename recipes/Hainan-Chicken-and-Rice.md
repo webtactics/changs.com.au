@@ -4,7 +4,7 @@ status: published
 date: 2015-08-07
 description: "Hainan Chicken and Rice"
 permalink: "/recipes/Hainan-Chicken-and-Rice/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Hainan-Chicken-and-Rice/Hainan-Chicken-and-Rice.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Hainan-Chicken-and-Rice/Hainan-Chicken-and-Rice.jpg
 serves: "4"
 preptime: "2 hours"
 difficulty: "Medium"

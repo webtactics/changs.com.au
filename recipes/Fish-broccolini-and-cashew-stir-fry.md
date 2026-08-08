@@ -4,7 +4,7 @@ status: published
 date: 2017-12-01
 description: "Fish, broccolini and cashew stir fry"
 permalink: "/recipes/Fish-broccolini-and-cashew-stir-fry/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Fish-broccolini-and-cashew-stir-fry/Fish-broccolini-and-cashew-stir-fry.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Fish-broccolini-and-cashew-stir-fry/Fish-broccolini-and-cashew-stir-fry.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

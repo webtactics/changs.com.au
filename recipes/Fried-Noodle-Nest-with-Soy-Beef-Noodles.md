@@ -4,7 +4,7 @@ status: published
 date: 2019-04-04
 description: "An easy to prepare, soon to be family favourite! Stir-fry Bok Choy, Beef and noodles. Sensational."
 permalink: "/recipes/Fried-Noodle-Nest-with-Soy-Beef-Noodles/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Fried-Noodle-Nest-with-Soy-Beef-Noodles/Fried-Noodle-Nest-with-Soy-Beef-Noodles.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Fried-Noodle-Nest-with-Soy-Beef-Noodles/Fried-Noodle-Nest-with-Soy-Beef-Noodles.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

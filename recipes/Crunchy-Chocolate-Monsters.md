@@ -4,7 +4,7 @@ status: published
 date: 2016-03-01
 description: "Adorable Milk Chocolate monsters with Chang’s Fried Noodles"
 permalink: "/recipes/Crunchy-Chocolate-Monsters/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Crunchy-Chocolate-Monsters/Chocolate-Monsters.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Crunchy-Chocolate-Monsters/Chocolate-Monsters.jpg
 serves: "12"
 preptime: "50 mins"
 difficulty: "Easy"

@@ -4,7 +4,7 @@ status: published
 date: 2021-11-17
 description: "Asian Style BBQ Whole Snapper"
 permalink: "/recipes/Asian-Style-BBQ-Whole-Snapper/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Asian-Style-BBQ-Whole-Snapper/Asian-Style-BBQ-Whole-Snapper_HD-3.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Asian-Style-BBQ-Whole-Snapper/Asian-Style-BBQ-Whole-Snapper_HD-3.jpg
 serves: "4"
 preptime: "10 minutes"
 cookingtime: "40 minutes"

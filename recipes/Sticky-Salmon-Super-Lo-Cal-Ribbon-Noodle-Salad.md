@@ -4,7 +4,7 @@ status: published
 date: 2018-05-23
 description: "Marinate Salmon with Changs Soy Sauce and Changs Hoisin Sauce and fry with honey. Mix with cucumber, capsicum, green beans and ribbon noodles"
 permalink: "/recipes/Sticky-Salmon-Super-Lo-Cal-Ribbon-Noodle-Salad/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Sticky-Salmon-Super-Lo-Cal-Ribbon-Noodle-Salad/Sticky-Salmon-Super-Lo-Cal-Ribbon-Noodle-Salad.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Sticky-Salmon-Super-Lo-Cal-Ribbon-Noodle-Salad/Sticky-Salmon-Super-Lo-Cal-Ribbon-Noodle-Salad.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

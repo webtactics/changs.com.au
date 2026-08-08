@@ -4,7 +4,7 @@ status: published
 date: 2023-02-21
 description: "This is one for the whole family to enjoy. Simple enough for the kids to make, delicious, colourful and fantastic!"
 permalink: "/recipes/Rainbow-Rocky-Road/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Rainbow-Rocky-Road/Rainbow-Rocky-Road-10.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Rainbow-Rocky-Road/Rainbow-Rocky-Road-10.jpg
 preptime: "10 minutes"
 cookingtime: "Chilling Time 2 hours"
 author: "pwg"

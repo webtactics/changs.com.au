@@ -4,7 +4,7 @@ status: published
 date: 2015-08-07
 description: "Tuna steaks marinated with miso and served with Chang’s Super Lo Cal Noodles"
 permalink: "/recipes/Miso-Marinated-Tuna/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Miso-Marinated-Tuna/Miso-Marinated-Tuna.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Miso-Marinated-Tuna/Miso-Marinated-Tuna.jpg
 serves: "4"
 preptime: "20 minutes"
 marinating: "4 hours"

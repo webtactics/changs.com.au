@@ -4,7 +4,7 @@ status: published
 date: 2015-08-07
 description: "Korean Beef Chap Chae served with bean thread noodles."
 permalink: "/recipes/Korean-Beef-Chap-Chae/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Korean-Beef-Chap-Chae/Korean-Beef-Chap-Chae.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Korean-Beef-Chap-Chae/Korean-Beef-Chap-Chae.jpg
 serves: "4"
 preptime: "30 minutes"
 marinating: "2+ hours"

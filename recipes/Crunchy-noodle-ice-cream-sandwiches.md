@@ -4,7 +4,7 @@ status: published
 date: 2018-10-10
 description: "Our famous Original Fried Noodles and ice cream? What's not to love?"
 permalink: "/recipes/Crunchy-noodle-ice-cream-sandwiches/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Crunchy-noodle-ice-cream-sandwiches/Crunchy-noodle-ice-cream-sandwiches.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Crunchy-noodle-ice-cream-sandwiches/Crunchy-noodle-ice-cream-sandwiches.jpg
 makes: "4-6"
 difficulty: "Easy"
 author: "pwg"

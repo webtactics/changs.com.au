@@ -4,7 +4,7 @@ status: published
 date: 2017-09-10
 description: "Thai Fish Cakes with Crunchy Asian Slaw"
 permalink: "/recipes/Thai-Fish-Cakes-with-Crunchy-Asian-Slaw/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Thai-Fish-Cakes-with-Crunchy-Asian-Slaw/Thai-Fish-Cakes-with-Crunchy-Asian-Slaw.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Thai-Fish-Cakes-with-Crunchy-Asian-Slaw/Thai-Fish-Cakes-with-Crunchy-Asian-Slaw.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

@@ -4,7 +4,7 @@ status: published
 date: 2025-05-26
 description: "These delicate pork meatballs simmer gently in a deeply flavourful tomato-garlic broth — no pre-browning or steaming needed. Grated green apple adds tenderness and a subtle sweet note in place of jicama."
 permalink: "/recipes/Vietnamese-Meatballs-in-Garlic-Tomato-Broth-Xiu-Mai/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Vietnamese-Meatballs-in-Garlic-Tomato-Broth-Xiu-Mai/Vietnamese-Meatballs-in-Garlic-Tomato-Broth-Xiu-Mai.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Vietnamese-Meatballs-in-Garlic-Tomato-Broth-Xiu-Mai/Vietnamese-Meatballs-in-Garlic-Tomato-Broth-Xiu-Mai.jpg
 serves: "4-5"
 makes: "16 meatballs"
 preptime: "15 minutes"

@@ -4,7 +4,7 @@ status: published
 date: 2021-07-27
 description: "This simple to make dessert is the perfect combination of sweet, creamy and salty!"
 permalink: "/recipes/Crispy-Noodles-No-Bake-Cheesecake/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Crispy-Noodles-No-Bake-Cheesecake/Festive-No-Bake-Cheesecake_WEB-4.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Crispy-Noodles-No-Bake-Cheesecake/Festive-No-Bake-Cheesecake_WEB-4.jpg
 serves: "12 slices"
 preptime: "20 min Chilling Time: Overnight"
 difficulty: "Easy"

@@ -4,7 +4,7 @@ status: published
 date: 2015-08-07
 description: "Delicious Yakitori Chicken Skewers, perfect for the BBQ"
 permalink: "/recipes/Chicken-Yakitori-Skewers/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chicken-Yakitori-Skewers/Chicken-Yakitori-Skewers.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Chicken-Yakitori-Skewers/Chicken-Yakitori-Skewers.jpg
 serves: "4"
 preptime: "30 minutes"
 marinating: "2+ hours"

@@ -4,7 +4,7 @@ status: published
 date: 2015-08-07
 description: "Spaghetti Bolognese, Chang’s Style"
 permalink: "/recipes/Spag-Bol-Asian-Style/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Spag-Bol-Asian-Style/Spag-Bol-Asian-Style.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Spag-Bol-Asian-Style/Spag-Bol-Asian-Style.jpg
 serves: "4"
 preptime: "1+ hours"
 difficulty: "Easy"

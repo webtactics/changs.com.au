@@ -4,7 +4,7 @@ status: published
 date: 2015-08-07
 description: "This easy Asian twist on steak with mushroom sauce is always a weeknight pleaser"
 permalink: "/recipes/Steak-with-Mushroom-Sauce/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Steak-with-Mushroom-Sauce/Steak-with-Mushroom-Sauce.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Steak-with-Mushroom-Sauce/Steak-with-Mushroom-Sauce.jpg
 serves: "4"
 preptime: "25 minutes"
 difficulty: "Easy"

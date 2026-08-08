@@ -4,7 +4,7 @@ status: published
 date: 2021-03-14
 description: "Does anything sound better than Sweet and Salty Pancake Doughnuts? Sure, sure, maybe not every day, but for those days when a treat is needed, wanted, desired or something to make someone happy, think our doughnuts!"
 permalink: "/recipes/Sweet-and-Salty-Pancake-Doughnuts/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Sweet-and-Salty-Pancake-Doughnuts/Sweet-and-Salty-Pancake-Doughnuts-2.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Sweet-and-Salty-Pancake-Doughnuts/Sweet-and-Salty-Pancake-Doughnuts-2.jpg
 makes: "12"
 preptime: "10 minutes"
 cookingtime: "12 minutes"

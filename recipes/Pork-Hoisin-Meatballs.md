@@ -4,7 +4,7 @@ status: published
 date: 2015-08-07
 description: "Asian-inspired hoisin pork meatballs served with Chang’s Super Lo-Cal Noodles."
 permalink: "/recipes/Pork-Hoisin-Meatballs/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Pork-Hoisin-Meatballs/Pork-Hoisin-Meatballs.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Pork-Hoisin-Meatballs/Pork-Hoisin-Meatballs.jpg
 serves: "4"
 preptime: "45 minutes"
 difficulty: "Easy"

@@ -4,7 +4,7 @@ status: published
 date: 2019-04-02
 description: "Abundance bowls are the perfect meal to use up whatever you have in your fridge or pantry. Don’t let the ingredient list fool you, this is super quick and easy recipe to prepare!"
 permalink: "/recipes/Changs-Abundance-Bowl/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Changs-Abundance-Bowl/Abundance-Bowl-1.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Changs-Abundance-Bowl/Abundance-Bowl-1.jpg
 serves: "2"
 difficulty: "Simple"
 author: "pwg"

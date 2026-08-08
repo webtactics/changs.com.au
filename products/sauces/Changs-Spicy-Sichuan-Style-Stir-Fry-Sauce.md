@@ -8,8 +8,8 @@ status: disable
 date: 4000-01-27
 description: "Chang's range of sauces makes cooking a delicious, quick dinner easy for everyone. This Spicy Sichuan style sauce is a great addition to stir-fries."
 permalink: "/products/Changs-Spicy-Sichuan-Style-Stir-Fry-Sauce/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Spicy-Sichuan-Style-Stir-Fry-Sauce/Changs-Spicy-Sichuan-Style-Stir-Fry-Sauce.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Spicy-Sichuan-Style-Stir-Fry-Sauce/Changs-Spicy-Sichuan-Style-Stir-Fry-Sauce-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Spicy-Sichuan-Style-Stir-Fry-Sauce/Changs-Spicy-Sichuan-Style-Stir-Fry-Sauce.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Spicy-Sichuan-Style-Stir-Fry-Sauce/Changs-Spicy-Sichuan-Style-Stir-Fry-Sauce-300x200.jpg
 prodsize: "75ml"
 gluten_free: true
 gtin: "9300777092842"

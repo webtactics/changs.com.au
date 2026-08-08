@@ -4,7 +4,7 @@ status: published
 date: 2017-04-15
 description: "Asian infused beef with lime and lemongrass"
 permalink: "/recipes/Lime-and-Lemongrass-Beef-Noodle-Salad/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Lime-and-Lemongrass-Beef-Noodle-Salad/Lime-and-Lemongrass-Beef-Noodle-Salad.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Lime-and-Lemongrass-Beef-Noodle-Salad/Lime-and-Lemongrass-Beef-Noodle-Salad.jpg
 serves: "4"
 preptime: "30 mins"
 difficulty: "Easy"

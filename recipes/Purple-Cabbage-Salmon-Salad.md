@@ -4,7 +4,7 @@ status: published
 date: 2020-09-30
 description: "A delicious “eat the rainbow” twist on our Crispy Noodle Salad turned into an easy, no-cook salmon salad dinner in under 20. Perfect for mid-week dinners, but it’s also a great number for entertaining served to be shared."
 permalink: "/recipes/Purple-Cabbage-Salmon-Salad/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Purple-Cabbage-Salmon-Salad/Purple-Cabbage-Salmon-Salad-0175.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Purple-Cabbage-Salmon-Salad/Purple-Cabbage-Salmon-Salad-0175.jpg
 serves: "2"
 preptime: "15 mins"
 author: "pwg"

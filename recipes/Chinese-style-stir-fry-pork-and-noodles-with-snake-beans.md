@@ -4,7 +4,7 @@ status: published
 date: 2018-10-10
 description: "Chinese-style stir fry pork and noodles with snake beans"
 permalink: "/recipes/Chinese-style-stir-fry-pork-and-noodles-with-snake-beans/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chinese-style-stir-fry-pork-and-noodles-with-snake-beans/Chinese-style-stir-fry-pork-and-noodles-with-snake-beans.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Chinese-style-stir-fry-pork-and-noodles-with-snake-beans/Chinese-style-stir-fry-pork-and-noodles-with-snake-beans.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

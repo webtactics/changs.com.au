@@ -4,7 +4,7 @@ status: published
 date: 2022-10-18
 description: "Shaking Beef (Bo Luc Lac in Vietnamese) is a French-inspired dish of wok-seared cubed steak, named after the constant shaking of the wok adding a tasty crust to each steak cube."
 permalink: "/recipes/One-Pan-Vietnamese-Shaking-Beef-Thit-Bo-Luc-Lac/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/One-Pan-Vietnamese-Shaking-Beef-Thit-Bo-Luc-Lac/One-Pan-Vietnamese-Shaking-Beef-Thit-Bo-Luc-Lac-4.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/One-Pan-Vietnamese-Shaking-Beef-Thit-Bo-Luc-Lac/One-Pan-Vietnamese-Shaking-Beef-Thit-Bo-Luc-Lac-4.jpg
 serves: "4"
 preptime: "15 minutes"
 cookingtime: "15 minutes"

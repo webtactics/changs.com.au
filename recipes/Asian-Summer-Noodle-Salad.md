@@ -4,7 +4,7 @@ status: published
 date: 2022-09-30
 description: "This layered version of our Asian Summer Noodle Salad is a table showstopper. With layers of Pad Thai Rice Noodles, spinach, capsicum, bean sprouts, carrots, Chang’s Fried Noodles and the most delicious home-made salad dressing, it is hearty, fresh and the perfect salad to serve on Christmas Day."
 permalink: "/recipes/Asian-Summer-Noodle-Salad/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Aussie-Summer-Pork-and-Pineapple-Skewers/Aussie-Summer-Pork-and-Pineapple-Skewers-5.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Aussie-Summer-Pork-and-Pineapple-Skewers/Aussie-Summer-Pork-and-Pineapple-Skewers-5.jpg
 preptime: "10 minutes"
 cookingtime: "10 minutes"
 author: "pwg"

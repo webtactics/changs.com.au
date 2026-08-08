@@ -4,7 +4,7 @@ status: published
 date: 2017-12-01
 description: "Chilled prawn, tofu and ginger noodle salad"
 permalink: "/recipes/Chilled-prawn-tofu-and-ginger-noodle-salad/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chilled-prawn-tofu-and-ginger-noodle-salad/Chilled-prawn-tofu-and-ginger-noodle-salad.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Chilled-prawn-tofu-and-ginger-noodle-salad/Chilled-prawn-tofu-and-ginger-noodle-salad.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

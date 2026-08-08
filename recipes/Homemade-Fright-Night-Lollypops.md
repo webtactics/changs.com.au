@@ -4,7 +4,7 @@ status: published
 date: 2015-10-14
 description: "Easy to make spooky toffee lollypops with added Chang’s crunch"
 permalink: "/recipes/Homemade-Fright-Night-Lollypops/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Homemade-Fright-Night-Lollypops/Homemade-Fright-Night-Lollypops.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Homemade-Fright-Night-Lollypops/Homemade-Fright-Night-Lollypops.jpg
 serves: "12"
 difficulty: "Medium"
 author: "pwg"

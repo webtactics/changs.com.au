@@ -4,7 +4,7 @@ status: published
 date: 2024-03-31
 description: "Enjoy the savory delight of Jjimdak, Korean Braised Chicken. Tender chicken cooked with vegetables in a flavorful soy-based sauce. A Korean favorite!"
 permalink: "/recipes/Jjimdak-Korean-Braised-Chicken/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Jjimdak-Korean-Braised-Chicken/Jjimdak-Korean-Braised-Chicken.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Jjimdak-Korean-Braised-Chicken/Jjimdak-Korean-Braised-Chicken.jpg
 serves: "4"
 preptime: "20 mins"
 cookingtime: "40 mins"

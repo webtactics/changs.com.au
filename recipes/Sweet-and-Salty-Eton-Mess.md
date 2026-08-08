@@ -4,7 +4,7 @@ status: published
 date: 2019-10-31
 description: "Just look at it! Fantastic. You know you are going to love our Sweet and Salty Eton Mess dessert. Make it today to make today special."
 permalink: "/recipes/Sweet-and-Salty-Eton-Mess/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Sweet-and-Salty-Eton-Mess/191031-Sweet-and-Salty-Eton-Mess-1.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Sweet-and-Salty-Eton-Mess/191031-Sweet-and-Salty-Eton-Mess-1.jpg
 makes: "10 x 300ml dessert glasses"
 preptime: "15 minutes"
 difficulty: "Easy"

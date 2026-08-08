@@ -4,7 +4,7 @@ status: published
 date: 2015-03-23
 description: "A fresh, crunchy salad for all occasions"
 permalink: "/recipes/Changs-Chopped-Salad/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Changs-Chopped-Salad/chopped-salad.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Changs-Chopped-Salad/chopped-salad.jpg
 serves: "4+"
 preptime: "15"
 difficulty: "Easy"

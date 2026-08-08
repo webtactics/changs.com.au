@@ -4,7 +4,7 @@ status: published
 date: 2018-10-10
 description: "Hoisin beef with shitake, noodles and spring onion dressing"
 permalink: "/recipes/Hoisin-beef-with-shitake-noodles-and-spring-onion-dressing/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Hoisin-beef-with-shitake-noodles-and-spring-onion-dressing/Hoisin-beef-with-shitake-noodles-and-spring-onion-dressing.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Hoisin-beef-with-shitake-noodles-and-spring-onion-dressing/Hoisin-beef-with-shitake-noodles-and-spring-onion-dressing.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

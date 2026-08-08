@@ -4,7 +4,7 @@ status: published
 date: 2015-12-08
 description: "Jazz up your traditional Christmas Ham with an Asian-style glaze!"
 permalink: "/recipes/Hoisin-Glazed-Christmas-Ham/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Hoisin-Glazed-Christmas-Ham/Hoisin-Glazed-Christmas-Ham.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Hoisin-Glazed-Christmas-Ham/Hoisin-Glazed-Christmas-Ham.jpg
 serves: "10+"
 preptime: "45 minutes"
 difficulty: "Medium"

@@ -4,7 +4,7 @@ status: published
 date: 2025-05-25
 description: "Whip up a delicious 20-Minute Garlic Beef with Lo-Cal Noodles recipe! Perfect for busy nights, this quick dish balances flavor and health effortlessly."
 permalink: "/recipes/20-Minute-Garlic-Beef-with-Lo-Cal-Noodles/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/20-Minute-Garlic-Beef-with-Lo-Cal-Noodles/20-Minute-Garlic-Beef-with-Lo-Cal-Noodles.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/20-Minute-Garlic-Beef-with-Lo-Cal-Noodles/20-Minute-Garlic-Beef-with-Lo-Cal-Noodles.jpg
 serves: "3-4"
 preptime: "10 minutes"
 cookingtime: "20 minutes"

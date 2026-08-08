@@ -4,7 +4,7 @@ status: published
 date: 2015-03-17
 description: "Quick and easy pork and asparagus stir fry with our Super Lo-Cal Noodles."
 permalink: "/recipes/Pork-and-Asparagus-Stir-Fry/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Pork-and-Asparagus-Stir-Fry/Pork-and-Asparagus-Stir-Fry.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Pork-and-Asparagus-Stir-Fry/Pork-and-Asparagus-Stir-Fry.jpg
 serves: "4"
 preptime: "25 minutes"
 marinating: "4+"

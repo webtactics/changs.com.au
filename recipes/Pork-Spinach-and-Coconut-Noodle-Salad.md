@@ -4,7 +4,7 @@ status: published
 date: 2015-09-15
 description: "Asian inspired pork with a spinach and coconut salad"
 permalink: "/recipes/Pork-Spinach-and-Coconut-Noodle-Salad/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Pork-Spinach-and-Coconut-Noodle-Salad/Pork-Spinach-and-Coconut-Noodle-Salad.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Pork-Spinach-and-Coconut-Noodle-Salad/Pork-Spinach-and-Coconut-Noodle-Salad.jpg
 serves: "4+"
 preptime: "25 minutes"
 difficulty: "Easy"

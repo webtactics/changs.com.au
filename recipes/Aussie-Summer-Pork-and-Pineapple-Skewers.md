@@ -4,7 +4,7 @@ status: published
 date: 2019-10-17
 description: "Pork and pineapple are one of those pairings that screams fun. Add in some capsicum, slide into a skewer and your taste buds have a guaranteed good time!"
 permalink: "/recipes/Aussie-Summer-Pork-and-Pineapple-Skewers/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Aussie-Summer-Pork-and-Pineapple-Skewers/Aussie-Summer-Pork-and-Pineapple-Skewers-5.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Aussie-Summer-Pork-and-Pineapple-Skewers/Aussie-Summer-Pork-and-Pineapple-Skewers-5.jpg
 serves: "3 – 4"
 difficulty: "Easy"
 author: "pwg"

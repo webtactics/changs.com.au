@@ -6,8 +6,8 @@ status: published
 date: 4000-02-14
 description: "Authentic black pepper sauce originating from Cantonese cuisine, made popular by Chinese restaurants around the world. Can be used with all meats and firm white fish. Now gluten free."
 permalink: "/products/Changs-Chinese-Black-Pepper-Sauce/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Chinese-Black-Pepper-Sauce/chinese-black-pepper-sauce-500x500.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Chinese-Black-Pepper-Sauce/chinese-black-pepper-sauce-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Chinese-Black-Pepper-Sauce/chinese-black-pepper-sauce-500x500.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Chinese-Black-Pepper-Sauce/chinese-black-pepper-sauce-300x200.jpg
 gluten_free: true
 gtin: "9300777092972"
 allergen: "Gluten Free"

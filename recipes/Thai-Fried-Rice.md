@@ -4,7 +4,7 @@ status: published
 date: 2021-07-29
 description: "Thai Fried Rice"
 permalink: "/recipes/Thai-Fried-Rice/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Thai-Fried-Rice/Thai-Fried-Rice-7.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Thai-Fried-Rice/Thai-Fried-Rice-7.jpg
 serves: "4"
 preptime: "15 minutes"
 cookingtime: "15 minutes"

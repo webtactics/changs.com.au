@@ -7,8 +7,8 @@ status: disable
 date: 4000-02-08
 description: "Yakitori is a popular Japanese finger-food, made with tender pieces of chicken threaded on wooden skewers and marinated with Obento Yakitori Sauce, then barbequed over an open flame."
 permalink: "/products/Changs-Japanese-Yakitori-Sauce/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Japanese-Yakitori-Sauce/Changs-Japanese-Yakitori-Sauce.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Japanese-Yakitori-Sauce/Changs-Japanese-Yakitori-Sauce-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Japanese-Yakitori-Sauce/Changs-Japanese-Yakitori-Sauce.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Japanese-Yakitori-Sauce/Changs-Japanese-Yakitori-Sauce-300x200.jpg
 prodsize: "150ml"
 gluten_free: true
 gtin: "9300777093009"

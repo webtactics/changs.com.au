@@ -4,7 +4,7 @@ status: published
 date: 2019-04-04
 description: "The combination of mint, chilli, lime and our famous Original Fried Noodles Salad make this salad special. Light, tangy, and sensational."
 permalink: "/recipes/Fried-Noodle-Salad-with-Mint-Chilli-and-Lime/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Fried-Noodle-Salad-with-Mint-Chilli-and-Lime/Fried-Noodle-Salad-with-Mint-Chilli-and-Lime.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Fried-Noodle-Salad-with-Mint-Chilli-and-Lime/Fried-Noodle-Salad-with-Mint-Chilli-and-Lime.jpg
 serves: "3-4"
 difficulty: "Easy"
 author: "pwg"

@@ -4,7 +4,7 @@ status: published
 date: 2015-08-07
 description: "Quick and tasty minute steak mixed mushrooms with Hoisin"
 permalink: "/recipes/Minute-Steak-Mixed-Mushrooms/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Minute-Steak-Mixed-Mushrooms/Minute-Steak-Mixed-Mushrooms.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Minute-Steak-Mixed-Mushrooms/Minute-Steak-Mixed-Mushrooms.jpg
 serves: "4"
 preptime: "20 minutes"
 marinating: "30 minutes"

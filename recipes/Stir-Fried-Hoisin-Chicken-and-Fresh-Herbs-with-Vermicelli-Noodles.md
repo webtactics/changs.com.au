@@ -4,7 +4,7 @@ status: published
 date: 2016-08-07
 description: "Stir Fried Hoisin marinated chicken, cooked with lots of fresh herbs and vermicelli noodles"
 permalink: "/recipes/Stir-Fried-Hoisin-Chicken-and-Fresh-Herbs-with-Vermicelli-Noodles/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Stir-Fried-Hoisin-Chicken-and-Fresh-Herbs-with-Vermicelli-Noodles/Stir-Fried-Hoisin-Chicken-and-Fresh-Herbs-with-Vermicelli-Noodles.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Stir-Fried-Hoisin-Chicken-and-Fresh-Herbs-with-Vermicelli-Noodles/Stir-Fried-Hoisin-Chicken-and-Fresh-Herbs-with-Vermicelli-Noodles.jpg
 serves: "4"
 preptime: "15 minutes"
 difficulty: "Easy"

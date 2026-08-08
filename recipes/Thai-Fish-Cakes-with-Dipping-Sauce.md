@@ -4,7 +4,7 @@ status: published
 date: 2021-07-27
 description: "Thai Fish Cakes with Dipping Sauce"
 permalink: "/recipes/Thai-Fish-Cakes-with-Dipping-Sauce/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Thai-Fish-Cakes-with-Dipping-Sauce/Thai-Fish-Cakes-7.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Thai-Fish-Cakes-with-Dipping-Sauce/Thai-Fish-Cakes-7.jpg
 serves: "4"
 preptime: "1 hour chiling"
 cookingtime: "15 minutes"

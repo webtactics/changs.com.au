@@ -4,7 +4,7 @@ status: published
 date: 2015-08-07
 description: "Zucchini Fritters served with Roast Duck and Hoisin Sauce. An interesting Asian Dinner Party entrée."
 permalink: "/recipes/Zucchini-Fritters-with-Roast-Duck-and-Hoisin-Sauce/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Zucchini-Fritters-with-Roast-Duck-and-Hoisin-Sauce/Zucchini-Fritters-with-Roast-Duck-and-Hoisin-Sauce.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Zucchini-Fritters-with-Roast-Duck-and-Hoisin-Sauce/Zucchini-Fritters-with-Roast-Duck-and-Hoisin-Sauce.jpg
 serves: "4"
 preptime: "1 hour"
 difficulty: "Easy"

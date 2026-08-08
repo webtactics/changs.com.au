@@ -4,8 +4,8 @@ status: published
 date: 4000-01-29
 description: "An authentic, naturally brewed dark soy."
 permalink: "/products/Changs-Soy-Sauce-Dark/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Soy-Sauce-Dark/dark-soy-sauce-500x500.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Soy-Sauce-Dark/dark-soy-sauce-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Soy-Sauce-Dark/dark-soy-sauce-500x500.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Soy-Sauce-Dark/dark-soy-sauce-300x200.jpg
 gluten_free: true
 gtin: "93777148"
 allergen: "Gluten Free"

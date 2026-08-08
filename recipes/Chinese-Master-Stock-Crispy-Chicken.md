@@ -4,7 +4,7 @@ status: published
 date: 2016-06-19
 description: "Red Roasted Crispy Skinned Chicken"
 permalink: "/recipes/Chinese-Master-Stock-Crispy-Chicken/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chinese-Master-Stock-Crispy-Chicken/Red-Roasted-Crispy-Skinned-Chicken.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Chinese-Master-Stock-Crispy-Chicken/Red-Roasted-Crispy-Skinned-Chicken.jpg
 serves: "4"
 preptime: "2 hours 50 minutes"
 marinating: "1 hour"

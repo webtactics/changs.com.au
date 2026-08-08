@@ -4,7 +4,7 @@ status: published
 date: 2023-11-15
 description: "Unleash the flavors of summer in every bite – a dessert experience that's as vibrant as it is delicious."
 permalink: "/recipes/Changs-Mango-Summer-Trifle/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Changs-Mango-Summer-Trifle/Changs-Mango-Summer-Trifle-1.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Changs-Mango-Summer-Trifle/Changs-Mango-Summer-Trifle-1.jpg
 makes: "4"
 preptime: "10 minutes"
 difficulty: "Easy, easy, easy!"

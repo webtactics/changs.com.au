@@ -4,7 +4,7 @@ status: published
 date: 2024-03-31
 description: "Savor the Super Lo-Cal Noodle Chicken Laksa recipe by Chang's. A delectable, low-calorie twist on a classic Malaysian favorite awaits!"
 permalink: "/recipes/Super-Lo-Cal-Noodle-Chicken-Laksa/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Super-Lo-Cal-Noodle-Chicken-Laksa/Chicken-Laksa-Super-Lo-Cal-Noodle.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Super-Lo-Cal-Noodle-Chicken-Laksa/Chicken-Laksa-Super-Lo-Cal-Noodle.jpg
 serves: "2"
 preptime: "15 mins"
 cookingtime: "15 mins"

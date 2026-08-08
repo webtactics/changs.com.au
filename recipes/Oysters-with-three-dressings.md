@@ -4,7 +4,7 @@ status: published
 date: 2015-12-08
 description: "Take freshly shucked oysters to the next level by splitting them across three distinct, balanced dressings:  a zesty Thai style lime and fish sauce, a ginger and spring onion infused Chinese style and an umami-rich Japanese mirin-soy dressing."
 permalink: "/recipes/Oysters-with-three-dressings/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Oysters-with-three-dressings/Oysters-with-three-dressings.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Oysters-with-three-dressings/Oysters-with-three-dressings.jpg
 serves: "4"
 preptime: "10 minutes"
 difficulty: "Easy"

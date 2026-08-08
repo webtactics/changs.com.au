@@ -4,7 +4,7 @@ status: published
 date: 2015-08-07
 description: "Delicious pork and tofu Chinese stew"
 permalink: "/recipes/Ma-Po-Bean-Curd/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Ma-Po-Bean-Curd/Ma-Po-Bean-Curd.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Ma-Po-Bean-Curd/Ma-Po-Bean-Curd.jpg
 serves: "2-4"
 preptime: "1+ hours"
 marinating: "1 hour"

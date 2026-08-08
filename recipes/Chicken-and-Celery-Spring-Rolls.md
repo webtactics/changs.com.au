@@ -4,7 +4,7 @@ status: published
 date: 2015-08-07
 description: "These spring rolls make the perfect entrée or start to your own Asian banquet"
 permalink: "/recipes/Chicken-and-Celery-Spring-Rolls/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chicken-and-Celery-Spring-Rolls/Chicken-and-Celery-Spring-Rolls.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Chicken-and-Celery-Spring-Rolls/Chicken-and-Celery-Spring-Rolls.jpg
 makes: "6-8"
 preptime: "20 - 30 minutes"
 difficulty: "Easy"

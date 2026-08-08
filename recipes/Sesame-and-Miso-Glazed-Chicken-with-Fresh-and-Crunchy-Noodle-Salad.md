@@ -4,7 +4,7 @@ status: published
 date: 2015-09-15
 description: "Asian infused sesame and miso glazed chicken with a fresh, crunchy noodle salad"
 permalink: "/recipes/Sesame-and-Miso-Glazed-Chicken-with-Fresh-and-Crunchy-Noodle-Salad/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Sesame-and-Miso-Glazed-Chicken-with-Fresh-and-Crunchy-Noodle-Salad/Sesame-and-Miso-Glazed-Chicken-with-Fresh-and-Crunchy-Noodle-Salad-1000x750-ai-cropped.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Sesame-and-Miso-Glazed-Chicken-with-Fresh-and-Crunchy-Noodle-Salad/Sesame-and-Miso-Glazed-Chicken-with-Fresh-and-Crunchy-Noodle-Salad-1000x750-ai-cropped.jpg
 serves: "4"
 preptime: "30 minutes"
 difficulty: "Easy"

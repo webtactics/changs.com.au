@@ -4,7 +4,7 @@ status: published
 date: 2017-09-01
 description: "Who doesn't love drumsticks?"
 permalink: "/recipes/Thai-Chicken-Drumsticks/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Thai-Chicken-Drumsticks/Thai-Chicken-Drumsticks.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Thai-Chicken-Drumsticks/Thai-Chicken-Drumsticks.jpg
 serves: "4"
 difficulty: "Easy"
 author: "pwg"

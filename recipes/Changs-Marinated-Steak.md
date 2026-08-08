@@ -4,7 +4,7 @@ status: published
 date: 2016-03-23
 description: "The perfect BBQ steak seasoned with a zesty warm marinade"
 permalink: "/recipes/Changs-Marinated-Steak/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Changs-Marinated-Steak/back-to-front-marinated-steak-750x1000.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Changs-Marinated-Steak/back-to-front-marinated-steak-750x1000.jpg
 serves: "4"
 preptime: "30 minutes"
 difficulty: "Easy"

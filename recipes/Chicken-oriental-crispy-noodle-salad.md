@@ -4,7 +4,7 @@ status: published
 date: 2017-11-30
 description: "Chicken oriental crispy noodle salad"
 permalink: "/recipes/Chicken-oriental-crispy-noodle-salad/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chicken-oriental-crispy-noodle-salad/Chicken-oriental-crispy-noodle-salad.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Chicken-oriental-crispy-noodle-salad/Chicken-oriental-crispy-noodle-salad.jpg
 serves: "4"
 preptime: "25 minutes"
 difficulty: "Easy"

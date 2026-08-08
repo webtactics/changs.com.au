@@ -4,7 +4,7 @@ status: published
 date: 2023-06-01
 description: "Our Apple and Rhubarb Crumble offers a unique twist on a classic crumble, with Chang's Original Fried Noodles or Chang's Gluten Free Fried Noodles for a gluten-free option. providing the crunch!"
 permalink: "/recipes/Changs-Apple-and-Rhubarb-Crumble/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Changs-Apple-and-Rhubarb-Crumble/Changs-Apple-and-Rhubarb-Crumble-8.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Changs-Apple-and-Rhubarb-Crumble/Changs-Apple-and-Rhubarb-Crumble-8.jpg
 serves: "6"
 preptime: "10 minutes"
 cookingtime: "45 minutes"

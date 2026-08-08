@@ -4,7 +4,7 @@ status: published
 date: 2020-04-08
 description: "We love this gourmet inspired dish made easy (and healthier!) right at home. It’s only 8 ingredients, packed with nutrients, and surprisingly filling & satisfying."
 permalink: "/recipes/Portobello-Mushroom-Steaks-in-Hoisin-Sauce/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Portobello-Mushroom-Steaks-in-Hoisin-Sauce/Portobello-Mushroom-Steaks-in-Hoisin-Sauce-web-5.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Portobello-Mushroom-Steaks-in-Hoisin-Sauce/Portobello-Mushroom-Steaks-in-Hoisin-Sauce-web-5.jpg
 serves: "4"
 preptime: "25 min (Prep 15min)"
 difficulty: "Easy"

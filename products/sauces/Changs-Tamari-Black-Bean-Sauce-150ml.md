@@ -4,8 +4,8 @@ status: published
 date: 4000-01-25
 description: "Black bean sauce is an essential ingredient in the Cantonese dish &ldquo;Beef in Black bean sauce&rdquo;. It adds a unique flavour to stir-fry beef, pork casserole and steamed fish."
 permalink: "/products/Changs-Tamari-Black-Bean-Sauce-150ml/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Tamari-Black-Bean-Sauce-150ml/Changs-Tamari-Black-Bean-Sauce.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Tamari-Black-Bean-Sauce-150ml/Changs-Tamari-Black-Bean-Sauce-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Tamari-Black-Bean-Sauce-150ml/Changs-Tamari-Black-Bean-Sauce.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Tamari-Black-Bean-Sauce-150ml/Changs-Tamari-Black-Bean-Sauce-300x200.jpg
 prodsize: "150ml"
 gluten_free: true
 gtin: "9300777092460"

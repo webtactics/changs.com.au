@@ -4,7 +4,7 @@ status: published
 date: 2019-04-02
 description: "Make an Easter nest surprise. Step 1. Make an Easter treat with a chocolaty surprise and share with friends and family. Don’t forget to take a picture and tag Chang’s #cookingwithchangs"
 permalink: "/recipes/Easter-Nest-Surprise/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Easter-Nest-Surprise/Easter-Nest-Surprise.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Easter-Nest-Surprise/Easter-Nest-Surprise.jpg
 makes: "16"
 difficulty: "Simple"
 author: "pwg"

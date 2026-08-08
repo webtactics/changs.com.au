@@ -4,8 +4,8 @@ status: published
 date: 4000-02-03
 description: "Perfect for glazes, marinades, a stir-fry or simply as a dipping sauce."
 permalink: "/products/Changs-Original-Hoisin-Sauce/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Hoisin-Sauce/Changs-Original-Hoisin-Sauce-280ml.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Hoisin-Sauce/Changs-Original-Hoisin-Sauce-280ml-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Original-Hoisin-Sauce/Changs-Original-Hoisin-Sauce-280ml.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Original-Hoisin-Sauce/Changs-Original-Hoisin-Sauce-280ml-300x200.jpg
 prodsize: "280ml"
 packsizes: "150ml and 280ml"
 gluten_free: true

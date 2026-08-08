@@ -4,7 +4,7 @@ status: published
 date: 2015-03-17
 description: "A healthy, quick and easy warm noodle salad with prawns, squid and mussels"
 permalink: "/recipes/Hot-and-Sour-Seafood-with-Super-Lo-Cal-Noodles/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Hot-and-Sour-Seafood-with-Super-Lo-Cal-Noodles/Hot-and-Sour-Seafood-with-Super-Lo-Cal-Noodles.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Hot-and-Sour-Seafood-with-Super-Lo-Cal-Noodles/Hot-and-Sour-Seafood-with-Super-Lo-Cal-Noodles.jpg
 serves: "4"
 preptime: "20 minutes"
 difficulty: "Easy"

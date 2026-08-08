@@ -4,7 +4,7 @@ status: published
 date: 2015-03-17
 description: "Simple pork and bean stir-fry with Hokkien noodles."
 permalink: "/recipes/Hokkien-Noodles-with-Pork-and-Snake-Beans/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Hokkien-Noodles-with-Pork-and-Snake-Beans/Hokkien-Noodles-with-Pork-and-Snake-Beans.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Hokkien-Noodles-with-Pork-and-Snake-Beans/Hokkien-Noodles-with-Pork-and-Snake-Beans.jpg
 serves: "4"
 preptime: "20 minutes"
 difficulty: "Easy"

@@ -4,8 +4,8 @@ status: published
 date: 4000-01-23
 description: "Soy Sauce can be used as a flavouring marinade, table sauce or dipping sauce. Marinade any meat, poultry, vegetables and seafood to enhance your favourite dishes."
 permalink: "/products/Changs-Tamari-Light-Soy-Sauce/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Tamari-Light-Soy-Sauce/Changs-Tamari-Light-Soy-Sauce-280ml-1200x1200.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Tamari-Light-Soy-Sauce/Changs-Tamari-Light-Soy-Sauce-280ml-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Tamari-Light-Soy-Sauce/Changs-Tamari-Light-Soy-Sauce-280ml-1200x1200.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Tamari-Light-Soy-Sauce/Changs-Tamari-Light-Soy-Sauce-280ml-300x200.jpg
 prodsize: "280ml"
 packsizes: "150ml and 280ml"
 gluten_free: true

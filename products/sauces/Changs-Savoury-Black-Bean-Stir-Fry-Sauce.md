@@ -8,8 +8,8 @@ status: disable
 date: 4000-01-31
 description: "Black bean sauce is an essential ingredient in the Cantonese dish &ldquo;Beef in Black bean sauce&rdquo;. It adds a unique flavour to stir-fry beef, pork casserole and steamed fish."
 permalink: "/products/Changs-Savoury-Black-Bean-Stir-Fry-Sauce/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Savoury-Black-Bean-Stir-Fry-Sauce/Changs-Savoury-Black-Bean-Stir-Fry-Sauce.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Savoury-Black-Bean-Stir-Fry-Sauce/Changs-Savoury-Black-Bean-Stir-Fry-Sauce-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Savoury-Black-Bean-Stir-Fry-Sauce/Changs-Savoury-Black-Bean-Stir-Fry-Sauce.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Savoury-Black-Bean-Stir-Fry-Sauce/Changs-Savoury-Black-Bean-Stir-Fry-Sauce-300x200.jpg
 prodsize: "75ml"
 gluten_free: true
 gtin: "9300777092804"

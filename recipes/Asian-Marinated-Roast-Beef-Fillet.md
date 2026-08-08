@@ -4,7 +4,7 @@ status: published
 date: 2015-12-07
 description: "Asian inspired marinated roast beef fillet with oyster sauce"
 permalink: "/recipes/Asian-Marinated-Roast-Beef-Fillet/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Asian-Marinated-Roast-Beef-Fillet/Asian-Marinated-Roast-Beef-Fillet.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Asian-Marinated-Roast-Beef-Fillet/Asian-Marinated-Roast-Beef-Fillet.jpg
 preptime: "45 mins"
 marinating: "2 hours"
 difficulty: "Easy"

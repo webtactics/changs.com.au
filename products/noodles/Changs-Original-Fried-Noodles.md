@@ -6,8 +6,8 @@ description: "Our famous original fried noodles! Ready to eat thin, short, strai
 
 permalink: "/products/Changs-Original-Fried-Noodles/"
 
-image: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Fried-Noodles/190829-Original-Fried-Noodles.jpg
-sumimage: https://ik.imagekit.io/webtactics/changs-media/img/products/Changs-Original-Fried-Noodles/190829-Original-Fried-Noodles-300x200.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Original-Fried-Noodles/190829-Original-Fried-Noodles.jpg
+sumimage: https://ik.imagekit.io/webtactics/changs/static/img/products/Changs-Original-Fried-Noodles/190829-Original-Fried-Noodles-300x200.jpg
 gluten_free: true
 gtin: "9300777013021"
 allergen: "Contains gluten"

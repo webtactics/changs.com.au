@@ -4,7 +4,7 @@ status: published
 date: 2016-02-03
 description: "Delicious, traditional Asian dumplings."
 permalink: "/recipes/Dumplings/"
-image: https://ik.imagekit.io/webtactics/changs-media/img/recipes/Dumplings/Dumplings.jpg
+image: https://ik.imagekit.io/webtactics/changs/static/img/recipes/Dumplings/Dumplings.jpg
 makes: "20"
 preptime: "45 minutes"
 difficulty: "Medium"
