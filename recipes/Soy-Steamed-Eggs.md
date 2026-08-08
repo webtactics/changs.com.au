@@ -29,7 +29,7 @@ method: |
   <li><strong>Make the Soy Mixture</strong><br/>Place a shallow heatproof bowl inside the steamer. Add the tamari light soy sauce, water and cooking oil, then stir to combine.</li>
   <li><strong>Add the Eggs</strong><br/>Crack the eggs whole into the soy mixture, taking care not to break the yolks.</li>
   <li><strong>Steam the Eggs</strong><br/>Cover with the steamer lid, then turn on the heat and bring the water to the boil.<br/>Once boiling, cook the eggs for 5-6 minutes, or until the whites are set and the yolks are cooked to your liking.<br/>The water will take approximately 3–4 minutes to reach boiling point before the timed cooking begins.</li>
-  <li><strong>Garnish and Serve</strong><br/>Carefully remove the hot bowl, scatter over the green onions, chilli oil and serve immediately. Optional to serve alongside steamed rice or <a href="https://www.changs.com/products/changs-vermicelli-rice-noodles/" title="Chang's Vermicelli Rice Noodles" alt="Chang's Vermicelli Rice Noodles" target="_blank">Chang's Vermicelli Rice Noodles</a>.</li>
+  <li><strong>Garnish and Serve</strong><br/>Carefully remove the hot bowl, scatter over the green onions, chilli oil and serve immediately. Optional to serve alongside steamed rice or <a href="https://www.changs.com/products/changs-vermicelli-rice-noodles/" title="Chang's Vermicelli Rice Noodles" alt="Chang's Vermicelli Rice Noodles" >Chang's Vermicelli Rice Noodles</a>.</li>
   </ol>
 
   <p>Five minutes should give you set whites with soft yolks.<br/>For completely firm yolks, I’d allow 8 minutes.</p>

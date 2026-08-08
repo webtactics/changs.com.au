@@ -31,14 +31,14 @@ ingredients: |
   <li>1 tablespoon minced ginger</li>
   <li>1 teaspoon chilli flakes (optional to add chilli oil)</li>
   <li>2 tablespoons <a href="https://www.changs.com/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce" >Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>1 tablespoon <a href="https://www.changs.com/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce" target="_blank">Chang's Original Oyster Sauce</a></li>
+  <li>1 tablespoon <a href="https://www.changs.com/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce" >Chang's Original Oyster Sauce</a></li>
   <li>¾ cup reserved chicken poaching liquid</li>
   <li>Salt and pepper, to taste</li>
-  <li>2 teaspoons <a href="https://www.changs.com/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil" target="_blank" >Chang's Sesame Oil</a></li>
+  <li>2 teaspoons <a href="https://www.changs.com/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil"  >Chang's Sesame Oil</a></li>
   </ul>
   <h4>To Serve:</h4>
   <ul>
-  <li>1 packet <a href="https://www.changs.com/products/changs-vermicelli-rice-noodles/" title="Chang's Vermicelli Rice Noodles" alt="Chang's Vermicelli Rice Noodles" target="_blank">Chang's Vermicelli Rice Noodles</a></li>
+  <li>1 packet <a href="https://www.changs.com/products/changs-vermicelli-rice-noodles/" title="Chang's Vermicelli Rice Noodles" alt="Chang's Vermicelli Rice Noodles" >Chang's Vermicelli Rice Noodles</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

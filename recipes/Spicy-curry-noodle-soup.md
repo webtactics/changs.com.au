@@ -11,8 +11,8 @@ author: "pwg"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>450g <a href="https://www.changs.com/products/changs-traditional-super-lo-cal-noodles/" alt="Chang's Traditional Super Lo-Cal Noodles" title="Chang's Traditional Super Lo-Cal Noodles" target="_blank">Chang's Traditional Super Lo-Cal Noodles</a></li>
-  <li>2 1/2 tablespoons <a href="https://www.changs.com/products/changs-original-fish-sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce" target="_blank">Chang's Original Fish Sauce</a></li>
+  <li>450g <a href="https://www.changs.com/products/changs-traditional-super-lo-cal-noodles/" alt="Chang's Traditional Super Lo-Cal Noodles" title="Chang's Traditional Super Lo-Cal Noodles" >Chang's Traditional Super Lo-Cal Noodles</a></li>
+  <li>2 1/2 tablespoons <a href="https://www.changs.com/products/changs-original-fish-sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce" >Chang's Original Fish Sauce</a></li>
   <li>2 tablespoons vegetable oil</li>
   <li>3 tablespoons chopped shallots</li>
   <li>3 garlic cloves, chopped</li>

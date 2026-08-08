@@ -22,8 +22,8 @@ ingredients: |
   <li>3 spring onions, finely sliced, dark green tops reserved</li>
   <li>1 tbsp.chilli bean sauce</li>
   <li>1 cup Asian (plain) chicken stock</li>
-  <li>1 tbsp <a href="https://www.changs.com/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce" target="_blank">Chang's Original Oyster Sauce</a></li>
-  <li>1 tbsp <a href="https://www.changs.com/products/changs-original-hoisin-sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce" target="_blank" >Chang's Original Hoisin Sauce</a></li>
+  <li>1 tbsp <a href="https://www.changs.com/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce" >Chang's Original Oyster Sauce</a></li>
+  <li>1 tbsp <a href="https://www.changs.com/products/changs-original-hoisin-sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce"  >Chang's Original Hoisin Sauce</a></li>
   <li>1 tbsp.cornflour, dissolved in half a cup of cold water</li>
   <li>3-400g firm bean curd (tofu), cut into1cm cubes</li>
   <li>½ - 1 medium red chilli, finely sliced</li>

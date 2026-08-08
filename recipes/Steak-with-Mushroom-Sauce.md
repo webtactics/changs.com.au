@@ -20,8 +20,8 @@ ingredients: |
   <li>2 spring onions, finely sliced</li>
   <li>1 punnet fresh shitake mushrooms</li>
   <li>3 or 4 Portobello or field mushrooms</li>
-  <li>2 tbsp. <a href="https://www.changs.com/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce" target="_blank">Chang's Original Oyster Sauce</a></li>
-  <li>2 tbsp. <a href="https://www.changs.com/products/changs-original-hoisin-sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce" target="_blank" >Chang's Original Hoisin Sauce</a></li>
+  <li>2 tbsp. <a href="https://www.changs.com/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce" >Chang's Original Oyster Sauce</a></li>
+  <li>2 tbsp. <a href="https://www.changs.com/products/changs-original-hoisin-sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce"  >Chang's Original Hoisin Sauce</a></li>
   </ul>
 method: |
   <h3>Method:</h3>

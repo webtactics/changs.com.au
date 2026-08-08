@@ -13,7 +13,7 @@ ingredients: |
   <ul>
   <li>60ml <a href="https://www.changs.com/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce" >Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>60ml Chinese rice wine</li>
-  <li>2 tablespoons <a href="https://www.changs.com/products/changs-original-hoisin-sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce" target="_blank" >Chang's Original Hoisin Sauce</a></li>
+  <li>2 tablespoons <a href="https://www.changs.com/products/changs-original-hoisin-sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce"  >Chang's Original Hoisin Sauce</a></li>
   <li>1 tablespoons brown sugar</li>
   <li>375g salmon</li>
   <li>Vegetable spray oil</li>
@@ -24,12 +24,12 @@ ingredients: |
   <li>1 red capsicum</li>
   <li>1 cucumber</li>
   <li>200g snow peas</li>
-  <li>100g <a href="https://www.changs.com/products/changs-traditional-super-lo-cal-noodles/" alt="Chang's Traditional Super Lo-Cal Noodles" title="Chang's Traditional Super Lo-Cal Noodles" target="_blank">Chang's Traditional Super Lo-Cal Noodles</a></li>
+  <li>100g <a href="https://www.changs.com/products/changs-traditional-super-lo-cal-noodles/" alt="Chang's Traditional Super Lo-Cal Noodles" title="Chang's Traditional Super Lo-Cal Noodles" >Chang's Traditional Super Lo-Cal Noodles</a></li>
   </ul>
 method: |
   <h3>Method:</h3>
   <ol>
-  <li>In a shallow bowl, combine <a href="https://www.changs.com/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce" >Chang's Gluten Free Tamari Light Soy Sauce</a>, rice wine, <a href="https://www.changs.com/products/changs-original-hoisin-sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce" target="_blank" >Chang's Original Hoisin Sauce</a> and brown sugar. Place salmon in the marinade. Cover and marinate for 30 minutes.</li>
+  <li>In a shallow bowl, combine <a href="https://www.changs.com/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce" >Chang's Gluten Free Tamari Light Soy Sauce</a>, rice wine, <a href="https://www.changs.com/products/changs-original-hoisin-sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce"  >Chang's Original Hoisin Sauce</a> and brown sugar. Place salmon in the marinade. Cover and marinate for 30 minutes.</li>
   <li>Combine salad ingredients; set aside.</li>
   <li>Remove salmon from marinade and transfer marinade to a small saucepan.</li>
   <li>Heat a non-stick pan with oil and cook salmon to taste</li>

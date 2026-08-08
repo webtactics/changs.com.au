@@ -12,15 +12,15 @@ gallery: "recipes/Fried-Noodle-Nest-with-Soy-Beef-Noodles"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 pkt <a href="https://www.changs.com/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles" target="_blank" >Chang's Long Life Noodles</a></li>
+  <li>1 pkt <a href="https://www.changs.com/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles"  >Chang's Long Life Noodles</a></li>
   <li>400g Minute steak, cut into strips</li>
   <li>3 cloves garlic, minced</li>
   <li>3 tbs <a href="https://www.changs.com/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce" >Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>3 tbs <a href="https://www.changs.com/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce" target="_blank" >Chang's Original Oyster Sauce</a></li>
+  <li>3 tbs <a href="https://www.changs.com/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce"  >Chang's Original Oyster Sauce</a></li>
   <li>4 bok choy, sliced in half lengthways</li>
   <li>1 large carrot cut into julienne or shredded</li>
-  <li>2 tsp <a href="https://www.changs.com/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil" target="_blank" >Chang's Sesame Oil</a></li>
-  <li>1 pkt <a href="https://www.changs.com/products/changs-original-fried-noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles" target="_blank" >Chang's Original Fried Noodles</a></li>
+  <li>2 tsp <a href="https://www.changs.com/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil"  >Chang's Sesame Oil</a></li>
+  <li>1 pkt <a href="https://www.changs.com/products/changs-original-fried-noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles"  >Chang's Original Fried Noodles</a></li>
   <li>1 cup bean sprouts</li>
   <li>Freshly ground pepper</li>
   </ul>
