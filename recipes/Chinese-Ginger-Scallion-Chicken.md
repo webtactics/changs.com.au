@@ -4,7 +4,7 @@ status: published
 date: 2026-08-07
 description: "This deceptively simple Chinese Ginger Scallion Chicken makes a delicious entrée or light midweek meal."
 permalink: "/recipes/Chinese-Ginger-Scallion-Chicken/"
-image: "https://ik.imagekit.io/webtactics/changs-media/img/recipes/Chinese-Ginger-Scallion-Chicken/Chinese-Ginger-Scallion-Chicken.jpg"
+image: "https://ik.imagekit.io/webtactics/changs/static/img/recipes/Chinese-Ginger-Scallion-Chicken/Chinese-Ginger-Scallion-Chicken.jpg"
 makes:
 serves: "4"
 preptime: "10 minutes"
