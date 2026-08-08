@@ -15,7 +15,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>12 medium green king prawns, peeled with tails left on, digestive tract removed and prawn butterflied</li>
-  <li>150ml Chang’s Hoisin Sauce</li>
+  <li>150ml <a href="https://www.changs.com/products/changs-original-hoisin-sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce" target="_blank" >Chang's Original Hoisin Sauce</a></li>
   <li>3 tbsp. neutral oil</li>
   <li>1 clove garlic, crushed</li>
   <li>1 tsp. grated ginger</li>
@@ -52,4 +52,5 @@ tags:
   - "Nut Free"
   - "Spring"
   - "Summer"
+  - "Chang's Original Hoisin Sauce"
 ---

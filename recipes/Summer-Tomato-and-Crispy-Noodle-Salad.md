@@ -16,8 +16,8 @@ ingredients: |
   <li>500g mixed, different types and coloured tomatoes, cut in different sizes and shapes</li>
   <li>2 spring onions, white and pale green parts only, sliced</li>
   <li>&frac12; cup coriander leaves, roughly chopped</li>
-  <li>1 pack Chang's Original Crispy Noodles</li>
-  <li>&frac12; cup Chang's Asian Salad Dressing</li>
+  <li>1 pack <a href="https://www.changs.com/products/changs-original-fried-noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles" target="_blank">Chang's Original Fried Noodles</a></li>
+  <li>&frac12; cup <a href="https://www.changs.com/products/changs-crispy-noodle-salad-dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing" target="_blank">Chang's Crispy Noodle Salad Dressing</a></li>
   <li>&frac14; cup olive oil</li>
   </ul>
 method: |
@@ -46,4 +46,5 @@ tags:
   - "Spring"
   - "Summer"
   - "Chang's Original Fried Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
 ---
