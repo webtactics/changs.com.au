@@ -2921,6 +2921,26 @@ border-top-left-radius: var(--radius);
 border-bottom-right-radius: var(--radius);
 }
 
+.flexcenter-detailvideo {
+color: var(--white);
+font-size: 1.3rem;
+line-height: 1.1;
+font-weight: 500;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  margin: 0;
+  white-space: nowrap;
+  display: block;
+  background-color: var(--primarydark);
+  height: auto;
+  width: auto;
+  text-align: left;
+  position: absolute;
+  top: 20%;
+  left:20%;
+  z-index: 1;
+border-radius: var(--radius);
+}
 
 
 
