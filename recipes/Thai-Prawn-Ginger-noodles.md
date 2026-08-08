@@ -11,9 +11,9 @@ author: "pwg"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>100g Changs Traditional Super Low Cal noodles</li>
+  <li>100g <a href="https://www.changs.com/products/changs-traditional-super-lo-cal-noodles/" alt="Chang's Traditional Super Lo-Cal Noodles" title="Chang's Traditional Super Lo-Cal Noodles" target="_blank">Chang's Traditional Super Lo-Cal Noodles</a></li>
   <li>1&frac12;-2 tbsp red curry paste</li>
-  <li>1-2 tsp Changs fish sauce</li>
+  <li>1-2 tsp <a href="https://www.changs.com/products/changs-original-fish-sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce" target="_blank">Chang's Original Fish Sauce</a></li>
   <li>2 tsp light brown soft sugar</li>
   <li>1 tbsp sunflower oil</li>
   <li>25g ginger</li>
@@ -37,4 +37,5 @@ tags:
   - "Gluten-Free"
   - "Spring"
   - "Chang's Traditional Super Lo-Cal Noodles"
+  - "Chang's Original Fish Sauce"
 ---
