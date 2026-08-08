@@ -11,9 +11,9 @@ author: "pwg"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>1 pack Changs Crunchy Noodles</li>
+  <li>1 pack <a href="https://www.changs.com/products/changs-crunchy-fried-noodles/" title="Chang's Crunchy Fried Noodles" alt="Chang's Crunchy Fried Noodles" target="_blank">Chang's Crunchy Fried Noodles</a></li>
   <li>1-2 teaspoons Chinese five spice powder</li>
-  <li>1/3 cup Changs Hoisin Sauce, to serve</li>
+  <li>1/3 cup <a href="https://www.changs.com/products/changs-original-hoisin-sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce" target="_blank" >Chang's Original Hoisin Sauce</a>, to serve</li>
   </ul>
 method: |
   <h3>Method:</h3>
@@ -31,4 +31,6 @@ tags:
   - "Quick and Easy"
   - "Christmas"
   - "Spring"
+  - "Chang's Crunchy Fried Noodles"
+  - "Chang's Original Hoisin Sauce"
 ---

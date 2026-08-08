@@ -11,7 +11,7 @@ author: "pwg"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li>2 packs Changs Super Lo-Cal Noodles</li>
+  <li>2 packs <a href="https://www.changs.com/products/changs-traditional-super-lo-cal-noodles/" alt="Chang's Traditional Super Lo-Cal Noodles" title="Chang's Traditional Super Lo-Cal Noodles" target="_blank">Chang's Traditional Super Lo-Cal Noodles</a></li>
   <li>50g snow peas, trimmed</li>
   <li>1 teaspoon finely grated ginger</li>
   <li>3 teaspoons rice wine vinegar</li>
@@ -44,4 +44,5 @@ tags:
   - "Lunch"
   - "Spring"
   - "Summer"
+  - "Chang's Traditional Super Lo-Cal Noodles"
 ---
