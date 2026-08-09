@@ -25,9 +25,10 @@ ingredients: |
   <li>1 teaspoon of sea salt and more to taste.</li>
   <li>1 brown onion (halves, skin removed)</li>
   <li>1 tbsp white miso paste</li>
-  <li>1 tsp mirin</li>
+  <li>1 tsp mirin*</li>
   <li>2 spring onions (sliced in rounds, white parts and green parts separated)</li>
   </ul>
+  <p>*Mirin is a sweet Japanese rice wine. If you don’t have mirin, you can substitute with 1 tsp of sugar and 1 tsp of rice vinegar.</p>
 method: |
   <h3>Method:</h3>
   <ol>
