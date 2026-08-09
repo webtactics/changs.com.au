@@ -17,6 +17,12 @@ eleventyExcludeFromCollections: true
 You’ve just signed up for our (mostly) monthly email newsletter where we share generally easy to make and fun recipe ideas, product news, exclusive competitions and more!
 
 <h3 class="text-center">Latest Recipes</h3>
-          
-	{% set postslist = collections['Recipes'] | reverse | skip(2) | limit(3) %}
-	{% include "components/postlist/postslist-recipes-3-wide-nofadein.njk" %}
+{% include "components/global/latest-recipes-3.html" %}
+
+<div class="wtbbox4">
+    		<div class="wtbboxwrapper">
+         		<div class="text-centerflex">
+            		<a href="/recipes/" class="button success" title="View all recipes" alt="View all recipes">View all recipes > </a>
+        		</div>
+    		</div>
+		</div>
