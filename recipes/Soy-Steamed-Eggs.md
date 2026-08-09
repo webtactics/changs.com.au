@@ -5,7 +5,7 @@ date: 2026-08-07
 description: "This quick and easy Soy-Steamed Eggs makes an amazing breakfast (and start to your day), or a simple healthy meal for any time!"
 permalink: "/recipes/Soy-Steamed-Eggs/"
 image: "https://ik.imagekit.io/webtactics/changs/static/img/recipes/Soy-Steamed-Eggs/Soy-Steamed-Eggs.jpg"
-makes: "2"
+serves: "2"
 preptime: "2 minutes"
 cookingtime: "10 minutes"
 difficulty: "Easy"
