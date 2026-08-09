@@ -210,8 +210,10 @@ a:not([class]) {
 
 /* Make images easier to work with */
 img,
-picture {
+picture,
+iframe {
   max-width: 100%;
+height: auto;
   display: block;
 }
 
