@@ -1,4 +1,5 @@
 ---
+layout: layouts/grid-contact.njk
 title: Thank you for joining Chang's Gang
 description: "You’ve just signed up for our (mostly) monthly email newsletter where we share generally easy to make and fun recipe ideas, product news, exclusive competitions and more!"
 date: 2017-01-01T00:00:00.000Z
@@ -13,16 +14,4 @@ eleventyNavigation:
 
 eleventyExcludeFromCollections: true
 ---
-
 You’ve just signed up for our (mostly) monthly email newsletter where we share generally easy to make and fun recipe ideas, product news, exclusive competitions and more!
-
-<h3 class="text-center">Latest Recipes</h3>
-{% include "components/global/latest-recipes-3.html" %}
-
-<div class="wtbbox4">
-    		<div class="wtbboxwrapper">
-         		<div class="text-centerflex">
-            		<a href="/recipes/" class="button success" title="View all recipes" alt="View all recipes">View all recipes > </a>
-        		</div>
-    		</div>
-		</div>
