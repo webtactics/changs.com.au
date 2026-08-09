@@ -1,6 +1,22 @@
 {% extends "layouts/grid-default.njk" %}
 
 
+
+
+
+{% block content %}
+
+<div class="container">
+
+    <main class="content contact" data-pagefind-body>
+        <div class="maincontent">{{ content | safe }}</div>
+		
+    </main>
+</div>
+
+{% endblock %}
+
+
 {% block content2 %}
 
 <div class="container">
