@@ -95,9 +95,11 @@
 <div class="container">
   <div class="content buttonnavbox hide-for-small">
     <div class="buttonnav hide-for-small">
-      <div class="buttonnavwrapper">
+      <div class="buttonnavwrapper buttonnavgrouped">
         {% for item in navItems %}
+        {% if loop.index0 % 4 == 0 %}<div class="buttonnavrow">{% endif %}
         <button class="{% if url == item.url %}currentpage{% endif %}"><a class="{% if url == item.url %}currentpage{% endif %}" href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></button>
+        {% if loop.index0 % 4 == 3 or loop.last %}</div>{% endif %}
         {% endfor %}
       </div>
     </div>
