@@ -17,7 +17,7 @@ ingredients: |
   <li>400g boneless, skinless chicken thighs, trimmed of excess fat</li>
   <li>4-6 spring onions, white and pale green parts only, cut into 2-3 cm lengths</li>
   <li>8-12 bamboo skewers, soaked in water for at least an hour</li>
-  <li>200ml Chang’s Yakitori Sauce</li>
+  <li>200ml <a href="/products/changs-japanese-yakitori-sauce/" title="Chang's Japanese Yakitori Sauce" alt="Chang's Japanese Yakitori Sauce" >Chang's Japanese Yakitori Sauce</a></li>
   <li>1 tbsp. neutral oil</li>
   </ul>
 method: |
@@ -46,4 +46,5 @@ tags:
   - "Summer"
   - "Autumn"
   - "Winter"
+  - "Chang's Japanese Yakitori Sauce"
 ---

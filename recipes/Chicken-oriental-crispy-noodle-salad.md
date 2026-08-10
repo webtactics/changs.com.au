@@ -19,7 +19,7 @@ ingredients: |
   <li>1 long red chilli, sliced</li>
   <li>&frac14; cup coriander leaves</li>
   <li>2 cooked chicken breasts, shredded</li>
-  <li>2/3 cup Changs Oriental Fried Noodle Salad Dressing</li>
+  <li>2/3 cup <a href="products/Crispy-Noodle-Salad-Dressing/" title="Chang's Crispy Noodle Salad Dressing" alt="Chang's Crispy Noodle Salad Dressing" >Chang's Crispy Noodle Salad Dressing</a></li>
   </ul>
 method: |
   <h3>Method:</h3>
@@ -40,4 +40,5 @@ tags:
   - "Christmas"
   - "Spring"
   - "Chang's Original Fried Noodles"
+  - "Chang's Crispy Noodle Salad Dressing"
 ---
