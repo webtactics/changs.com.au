@@ -88,7 +88,7 @@ section: post
 {% set relatedProducts = collections.Products | productsFromTags(tags) | sortAlphabetically("title") %}
 {% if relatedProducts.length %}
 <div class="componenth3 relatedProducts">
-  <h3>Products used in {{ title }}</h3>
+  <h3>Chang's products used in {{ title }}</h3>
   <div id="relevant-products" class="relevant-products">
    {% set postslist = relatedProducts %}
    {% include "components/postlist/postslist-products-6-wide-related-from-recipes.njk" %}
