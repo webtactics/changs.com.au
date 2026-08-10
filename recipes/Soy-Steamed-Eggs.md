@@ -38,7 +38,7 @@ tags:
 
   - "Poultry"
   - "Chicken"
-  - "Eggs"
+  - "Egg"
   - "Breakfast"
   - "Light Meals"
   - "Healthy Meals"

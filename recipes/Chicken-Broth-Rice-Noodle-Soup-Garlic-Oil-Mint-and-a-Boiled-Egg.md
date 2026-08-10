@@ -38,6 +38,7 @@ method: |
 tags:
   - "Poultry"
   - "Chicken"
+  - "Egg"
   - "Main Meals"
   - "Soup and Salad"
   - "Soups"

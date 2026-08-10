@@ -91,6 +91,7 @@ method: |
   </ol>
 tags:
   - "Beef"
+  - "Egg"
   - "Dinner for Two"
   - "Main Meals"
   - "Soup and Salad"
