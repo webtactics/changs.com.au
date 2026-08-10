@@ -36,8 +36,11 @@ method: |
   <p><strong>Please note:</strong> the bowl depth and steam intensity will affect the cooking time.</p>
 tags:
 
-  - "Light Meals"
+  - "Poultry"
+  - "Chicken"
+  - "Eggs"
   - "Breakfast"
+  - "Light Meals"
   - "Healthy Meals"
   - "Quick and Easy"
   - "Kid Friendly"

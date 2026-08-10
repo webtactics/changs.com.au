@@ -52,12 +52,16 @@ method: |
   </ol>
 
 
-tags:
+tags: 
 
+  - "Poultry"
+  - "Chicken"
+  - "Noodles Ingredient"
   - "Dinner for One"
   - "Dinner for Two"
   - "Light Meals"
   - "Breakfast"
+  - "Main Meals"
   - "Healthy Meals"
   - "Quick and Easy"
   - "Kid Friendly"
