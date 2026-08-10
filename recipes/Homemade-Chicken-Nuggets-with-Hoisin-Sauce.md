@@ -19,7 +19,7 @@ ingredients: |
   <li>1 large egg, beaten with a teaspoon of cold water</li>
   <li>2 cups panko crumbs</li>
   <li>2 cups neutral oil for frying</li>
-  <li>200ml Chang's Hoisin sauce</li>
+  <li>200ml <a href="/products/changs-original-hoisin-sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce" >Chang's Original Hoisin Sauce</a></li>
   <li>1 large carrot, cut into matchsticks</li>
   <li>1 tsp. sugar</li>
   </ul>
@@ -50,4 +50,5 @@ tags:
   - "Chinese New Year"
   - "Dairy Free"
   - "Nut Free"
+  - "Chang's Original Hoisin Sauce"
 ---
