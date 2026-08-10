@@ -70,6 +70,8 @@ tags:
   - "Dairy Free"
   - "Gluten-Free"
   - "Nut Free"
+  - "Autumn"
+  - "Winter"
   - "Spring"
   - "Summer"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
