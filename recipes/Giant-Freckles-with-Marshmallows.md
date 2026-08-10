@@ -13,11 +13,11 @@ author: "pwg"
 ingredients: |
   <h3>Ingredients:</h3>
   <ul>
-  <li><span style="line-height: 22.3999996185303px;">2 x 200g blocks white chocolate, chopped</span></li>
-  <li><span style="line-height: 22.3999996185303px;">1 x 200g block milk chocolate, chopped</span></li>
-  <li><span style="line-height: 22.3999996185303px;">1 packet <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/"  rel="noopener">Chang's Crunchy Fried Noodles</a></span></li>
-  <li><span style="line-height: 22.3999996185303px;">2/3 cup hundreds and thousands</span></li>
-  <li><span style="line-height: 22.3999996185303px;">1 cup marshmallows , sliced</span></li>
+  <li>2 x 200g blocks white chocolate, chopped</li>
+  <li>1 x 200g block milk chocolate, chopped</li>
+  <li>1 packet <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/"  rel="noopener">Chang's Crunchy Fried Noodles</a></li>
+  <li>2/3 cup hundreds and thousands</li>
+  <li>1 cup marshmallows , sliced</li>
   </ul>
 method: |
   <h3>Method:</h3>

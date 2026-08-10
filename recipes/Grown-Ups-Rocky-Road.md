@@ -16,7 +16,7 @@ ingredients: |
   <li>500g high quality dark chocolate</li>
   <li>2/3 cup raisins</li>
   <li>2 tbsp. brandy</li>
-  <li>1 packet Chang's Original Crispy Noodles</li>
+  <li>1 packet <a href="/products/changs-original-fried-noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles" >Chang's Original Fried Noodles</a></li>
   <li>100g Turkish Delight</li>
   </ul>
 method: |
@@ -35,4 +35,5 @@ tags:
   - "Occasions"
   - "Festive"
   - "Christmas"
+  - "Chang's Original Fried Noodles"
 ---

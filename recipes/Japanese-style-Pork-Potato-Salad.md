@@ -18,7 +18,7 @@ ingredients: |
   <li>1 cup plain flour</li>
   <li>1-2 eggs, beaten with a little cold water</li>
   <li>2 cups panko crumbs</li>
-  <li>200ml Chang’s Hoisin sauce</li>
+  <li>200ml <a href="/products/changs-original-hoisin-sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce" >Chang's Original Hoisin Sauce</a></li>
   <li>2 tbsp. white sesame seeds</li>
   </ul>
   <h3>Potato Salad:</h3>
@@ -53,4 +53,5 @@ tags:
   - "Dairy Free"
   - "Autumn"
   - "Winter"
+  - "Chang's Original Hoisin Sauce"
 ---

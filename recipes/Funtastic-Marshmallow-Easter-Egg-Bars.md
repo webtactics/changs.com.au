@@ -14,7 +14,7 @@ ingredients: |
   <ul>
   <li>120g butter, chopped</li>
   <li>200g white marshmallows</li>
-  <li>2 packets Chang’s Fried Noodles</li>
+  <li>2 packets <a href="/products/changs-original-fried-noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles" >Chang's Original Fried Noodles</a></li>
   <li>2 cups Froot Loops cereal</li>
   <li>32 small chocolate Easter eggs to decorate</li>
   </ul>
@@ -35,4 +35,5 @@ tags:
   - "Occasions"
   - "Festive"
   - "Easter"
+  - "Chang's Original Fried Noodles"
 ---
