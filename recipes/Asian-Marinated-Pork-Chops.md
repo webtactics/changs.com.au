@@ -15,7 +15,7 @@ ingredients: |
   <h3>Ingredients:</h3>
   <ul>
   <li>4 x 250g meaty pork chops, ideally with some marbling through the meat</li>
-  <li>4 tbsp. neutral oil</li>
+  <li>4 tbsp neutral oil</li>
   <li>350g fresh Asian stir fry vegetable mix</li>
   <li>White and pale green part of 2 spring onions, very finely chopped</li>
   </ul>
@@ -25,7 +25,7 @@ ingredients: |
   <li>1 teaspoon <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>&frac12; cup mirin</li>
   <li>&frac12; cup <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>2 tbsp. brown sugar</li>
+  <li>2 tbsp brown sugar</li>
   <li>2 cloves garlic, crushed or grated</li>
   <li>1 thumb ginger, grated</li>
   </ul>

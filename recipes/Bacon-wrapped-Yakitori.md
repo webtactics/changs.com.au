@@ -19,9 +19,9 @@ ingredients: |
   <li>6 thick spring onions, white and pale green parts only</li>
   <li>4 thick spears asparagus</li>
   <li>8 small button mushrooms or 6 medium, halved</li>
-  <li>5 tbsp. Chang’s Hoisin sauce</li>
-  <li>1 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>1 tsp. <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>5 tbsp <a href="/products/changs-original-hoisin-sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce" >Chang's Original Hoisin Sauce</a></li>
+  <li>1 tbsp <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tsp <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   </ul>
 method: |
   <h3>Method:</h3>
@@ -41,6 +41,7 @@ tags:
   - "Special Occasion"
   - "Festive"
   - "Christmas"
+  - "Chang's Original Hoisin Sauce"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Sesame Oil"
 ---

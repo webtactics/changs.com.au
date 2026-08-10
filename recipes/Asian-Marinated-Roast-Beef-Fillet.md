@@ -15,9 +15,9 @@ ingredients: |
   <ul>
   <li>2 garlic cloves, finely grated or crushed</li>
   <li>1 kg beef fillet</li>
-  <li>2 tbsp. vegetable oil</li>
+  <li>2 tbsp vegetable oil</li>
   <li>250g <a href="/products/Changs-Vermicelli-Rice-Noodles/" title="Chang's Vermicelli Rice Noodles" alt="Chang's Vermicelli Rice Noodles">Chang's Vermicelli Rice Noodles</a></li>
-  <li>&frac14; cup (60ml) Chang's Fish Sauce</li>
+  <li>&frac14; cup (60ml) <a href="/products/changs-original-fish-sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce" >Chang's Original Fish Sauce</a></li>
   <li>2 long red chillies, seeds removed, chopped</li>
   <li>&frac14; cup (55g) caster sugar</li>
   <li>&frac14; cup (60ml) rice vinegar</li>
@@ -28,10 +28,10 @@ ingredients: |
   </ul>
   <h3>Marinade:</h3>
   <ul>
-  <li>2 tbsp. <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
-  <li>2 tbsp. Chang's Oyster Sauce</li>
-  <li>1 tbsp. honey</li>
-  <li>1 tbsp. <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
+  <li>2 tbsp <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>2 tbsp <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce" >Chang's Original Oyster Sauce</a></li>
+  <li>1 tbsp honey</li>
+  <li>1 tbsp <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil">Chang's Sesame Oil</a></li>
   <li>1 tsp. ginger, grated</li>
   <li>2 garlic cloves, finely grated or crushed</li>
   </ul>
@@ -56,6 +56,8 @@ tags:
   - "Festive"
   - "Christmas"
   - "Summer"
+  - "Chang's Original Fish Sauce"
+  - "Chang's Original Oyster Sauce"
   - "Chang's Gluten Free Tamari Light Soy Sauce"
   - "Chang's Sesame Oil"
   - "Chang's Vermicelli Rice Noodles"
