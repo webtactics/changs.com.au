@@ -37,7 +37,6 @@ tags:
   - "Chicken"
   - "Soup and Salad"
   - "Salad"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Gluten-Free"
   - "Chang's Crispy Noodle Salad Dressing"

@@ -37,7 +37,6 @@ tags:
   - "Vegetables"
   - "Dinner for Two"
   - "Main Meals"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Healthy Meals"
   - "Quick and Easy"

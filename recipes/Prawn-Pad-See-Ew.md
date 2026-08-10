@@ -38,7 +38,6 @@ tags:
   - "Dinner for Two"
   - "Light Meals"
   - "Main Meals"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Stir-Fry"
   - "Summer BBQ"

@@ -50,7 +50,6 @@ method: |
 tags:
   - "Seafood"
   - "Main Meals"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Summer BBQ"
   - "Quick and Easy"

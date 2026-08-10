@@ -41,7 +41,6 @@ tags:
   - "Main Meals"
   - "Soup and Salad"
   - "Salad"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Summer BBQ"
   - "Healthy Meals"

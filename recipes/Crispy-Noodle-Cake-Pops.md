@@ -36,7 +36,6 @@ method: |
   </ol>
   <p><em>*The recipe calls for one slab store-bought sponge cake. The other slab can be placed in a zip lock bag and frozen to use later.</em></p>
 tags:
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Sweet Treats"
   - "Festive"

@@ -46,7 +46,6 @@ tags:
   - "Main Meals"
   - "Soup and Salad"
   - "Salad"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Quick and Easy"
   - "Family Dinners"

@@ -54,7 +54,6 @@ tags:
   - "Dinner for One"
   - "Main Meals"
   - "Sides"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "BBQ"
   - "Summer BBQ"

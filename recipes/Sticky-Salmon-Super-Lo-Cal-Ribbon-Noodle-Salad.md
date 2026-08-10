@@ -40,7 +40,6 @@ tags:
   - "Seafood"
   - "Soup and Salad"
   - "Salad"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Gluten-Free"
   - "Chang's Traditional Super Lo-Cal Noodles"

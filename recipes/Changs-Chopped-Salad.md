@@ -49,7 +49,6 @@ tags:
   - "Soup and Salad"
   - "Salad"
   - "Sides"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Summer BBQ"
   - "Healthy Meals"

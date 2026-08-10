@@ -27,7 +27,6 @@ method: |
   </ol>
   <p>See all of our <a href="/recipes/desserts/scary-sweet-treats/">Scary Sweet Treats recipes here.</a></p>
 tags:
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Sweet Treats"
   - "Scary Sweets"

@@ -45,7 +45,6 @@ tags:
   - "Chicken"
   - "Dinner for Two"
   - "Main Meals"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Healthy Meals"
   - "Slow Cooking"

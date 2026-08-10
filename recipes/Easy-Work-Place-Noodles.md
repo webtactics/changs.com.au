@@ -28,7 +28,6 @@ method: |
 tags:
   - "Dinner for One"
   - "Light Meals"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Quick and Easy"
   - "Spring"

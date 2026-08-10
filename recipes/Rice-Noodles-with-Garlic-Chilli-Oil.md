@@ -51,7 +51,6 @@ tags:
   - "Vegetarian"
   - "Dinner for Two"
   - "Light Meals"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Healthy Meals"
   - "Quick and Easy"

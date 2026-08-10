@@ -39,7 +39,6 @@ tags:
   - "Main Meals"
   - "Soup and Salad"
   - "Soups"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Healthy Meals"
   - "Lunch"

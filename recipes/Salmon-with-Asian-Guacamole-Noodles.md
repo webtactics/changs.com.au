@@ -14,8 +14,8 @@ ingredients: |
   <p><strong>Salmon:</strong></p>
   <ul>
   <li>4 x 100 g Salmon Fillets</li>
-  <li>3 tsp Chang's Soy Sauce</li>
-  <li>1 tsp Chang's Sesame Oil</li>
+  <li>3 tsp <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce" >Chang's Gluten Free Tamari Light Soy Sauce</a></li>
+  <li>1 tsp <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil"  >Chang's Sesame Oil</a></li>
   <li>1 tbs fresh lime juice</li>
   <li>2 cm piece of ginger, peeled &amp; finely grated</li>
   <li>1 garlic clover, grated</li>
@@ -28,7 +28,7 @@ ingredients: |
   <li>2 tsp chilli flakes</li>
   <li>1 tsp nut oil</li>
   <li>&frac12; avocado peeled, mashed well</li>
-  <li>&frac12; tsp Chang's Soy Sauce</li>
+  <li>&frac12; tsp <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce" >Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>&frac12; tsp sriracha sauce</li>
   <li>&frac14; tsp sea salt</li>
   <li>&frac12; tsp pepper</li>
@@ -50,11 +50,15 @@ tags:
   - "Seafood"
   - "Dinner for Two"
   - "Main Meals"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Healthy Meals"
   - "Dairy Free"
   - "Gluten-Free"
   - "Autumn"
+  - "Winter"
+  - "Spring"
+  - "Summer"
+  - "Chang's Gluten Free Tamari Light Soy Sauce"
+  - "Chang's Sesame Oil"
   - "Chang's Vermicelli Rice Noodles"
 ---

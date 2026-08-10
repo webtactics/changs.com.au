@@ -44,7 +44,6 @@ tags:
   - "Main Meals"
   - "Soup and Salad"
   - "Soups"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Chang's Gluten Free Fried Noodles"
   - "Chang's Gluten Free Tamari Light Soy Sauce"

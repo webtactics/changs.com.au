@@ -39,7 +39,6 @@ tags:
   - "Chicken"
   - "Soup and Salad"
   - "Soups"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Gluten-Free"
   - "Chang's Traditional Super Lo-Cal Noodles"

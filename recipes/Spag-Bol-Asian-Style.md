@@ -38,7 +38,6 @@ tags:
   - "Pork"
   - "Dinner for Two"
   - "Main Meals"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Family Dinners"
   - "Kid Friendly"

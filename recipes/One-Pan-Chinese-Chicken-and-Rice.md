@@ -43,7 +43,6 @@ tags:
   - "Dinner for Two"
   - "Light Meals"
   - "Main Meals"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Quick and Easy"
   - "Gluten-Free"

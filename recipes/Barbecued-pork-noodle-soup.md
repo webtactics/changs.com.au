@@ -28,7 +28,6 @@ tags:
   - "Pork"
   - "Soup and Salad"
   - "Soups"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Occasions"
   - "Spring"

@@ -42,7 +42,6 @@ tags:
   - "Seafood"
   - "Dinner for Two"
   - "Main Meals"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Healthy Meals"
   - "Entertaining"

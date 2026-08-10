@@ -69,7 +69,6 @@ tags:
   - "Dinner for Two"
   - "Main Meals"
   - "Soup and Salad"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Quick and Easy"
   - "Family Dinners"

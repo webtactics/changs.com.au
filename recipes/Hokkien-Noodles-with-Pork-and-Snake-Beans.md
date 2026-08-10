@@ -33,7 +33,6 @@ tags:
   - "Pork"
   - "Dinner for Two"
   - "Main Meals"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Stir-Fry"
   - "Quick and Easy"

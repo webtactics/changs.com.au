@@ -42,7 +42,6 @@ tags:
   - "Dinner for Two"
   - "Light Meals"
   - "Soup and Salad"
-  - "Noodles Style"
   - "Noodles Ingredient"
   - "Healthy Meals"
   - "Quick and Easy"
