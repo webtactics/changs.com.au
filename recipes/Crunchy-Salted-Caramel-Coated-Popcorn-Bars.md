@@ -16,7 +16,7 @@ ingredients: |
   <li>¼ cup vegetable oil</li>
   <li>1/3 cup popping corn</li>
   <li>2tsp sea salt flakes</li>
-  <li>2 packets Chang’s Crunchy Noodles</li>
+  <li>2 packets <a href="/products/changs-crunchy-fried-noodles/" title="Chang's Crunchy Fried Noodles" alt="Chang's Crunchy Fried Noodles" >Chang's Crunchy Fried Noodles</a></li>
   <li>1 cup brown sugar</li>
   <li>200g butter, chopped</li>
   <li>½ cup golden syrup</li>
@@ -39,4 +39,5 @@ tags:
   - "Occasions"
   - "Festive"
   - "Easter"
+  - "Chang's Crunchy Fried Noodles"
 ---

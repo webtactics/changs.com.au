@@ -19,9 +19,9 @@ ingredients: |
   <li>1 large brown onion, sliced</li>
   <li>2/3 cup fresh bean sprouts</li>
   <li>3 tbsps Chinese rice wine</li>
-  <li>2tbsps Changs Oyster sauce</li>
+  <li>2tbsps <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce" >Chang's Original Oyster Sauce</a></li>
   <li>1/2 cup chicken stock</li>
-  <li>2 x 100g packets Changs Oriental Fried noodles</li>
+  <li>2 x 100g packets <a href="/products/changs-original-fried-noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles" >Chang's Original Fried Noodles</a></li>
   </ul>
 method: |
   <h3>Method:</h3>
@@ -42,4 +42,6 @@ tags:
   - "Stir-Fry"
   - "Quick and Easy"
   - "Lunch"
+  - "Chang's Original Fried Noodles"
+  - "Chang's Original Oyster Sauce"
 ---

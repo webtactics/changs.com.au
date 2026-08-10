@@ -15,17 +15,17 @@ ingredients: |
   <ul>
   <li>1 small organic or free-range chicken, trimmed of excess fat</li>
   <li>25g rock sugar</li>
-  <li>2 tbsp. fish sauce</li>
+  <li>2 tbsp <a href="/products/changs-original-fish-sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce" >Chang's Original Fish Sauce</a></li>
   <li>&frac12; thumb ginger</li>
-  <li>2 spring onions, white and pale green parts only</li>
-  <li>1 packet Chang's Thai Rice Noodles</li>
+  <li>2 spring onions, white and pale green parts only</li> 
+  <li>1 packet <a href="/products/changs-thai-style-rice-noodles/" alt="Chang's Thai Style Rice Noodles" title="Chang's Thai Style Rice Noodles" >Chang's Thai Style Rice Noodles</a></li>
   <li>1 medium white onion, sliced thinly on a mandolin</li>
   <li>1 bunch Vietnamese mint (or regular mint)</li>
   <li>1 bunch Thai basil</li>
   <li>2 cups fresh bean sprouts</li>
   <li>2 medium red chillies, sliced</li>
   <li>1 lime, quartered</li>
-  <li>6 tbsp. Chang's Hoisin sauce</li>
+  <li>6 tbsp <a href="/products/changs-original-hoisin-sauce/" title="Chang's Original Hoisin Sauce" alt="Chang's Original Hoisin Sauce" >Chang's Original Hoisin Sauce</a></li>
   </ul>
 method: |
   <h3>Method:</h3>
@@ -52,4 +52,7 @@ tags:
   - "Chinese New Year"
   - "Gluten-Free"
   - "Nut Free"
+  - "Chang's Original Fish Sauce"
+  - "Chang's Thai Style Rice Noodles"
+  - "Chang's Original Hoisin Sauce"
 ---
