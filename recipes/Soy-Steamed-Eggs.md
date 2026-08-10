@@ -32,7 +32,7 @@ method: |
   <li><strong>Garnish and Serve</strong><br/>Carefully remove the hot bowl, scatter over the green onions, chilli oil and serve immediately. Optional to serve alongside steamed rice or <a href="https://www.changs.com/products/changs-vermicelli-rice-noodles/" title="Chang's Vermicelli Rice Noodles" alt="Chang's Vermicelli Rice Noodles" >Chang's Vermicelli Rice Noodles</a>.</li>
   </ol>
 
-  <p>Five minutes should give you set whites with soft yolks.<br/>For completely firm yolks, I’d allow 8 minutes.</p>
+  <p>Five minutes steaming should give you set whites with soft yolks.<br/>For completely firm yolks, I’d allow 8 minutes.</p>
   <p><strong>Please note:</strong> the bowl depth and steam intensity will affect the cooking time.</p>
 tags:
 
