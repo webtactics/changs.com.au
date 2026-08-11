@@ -36,6 +36,9 @@ tags:
   - "Summer BBQ"
   - "Gluten-Free"
   - "Spring"
+  - "Summer"
+  - "Autumn"
+  - "Winter"
   - "Chang's Traditional Super Lo-Cal Noodles"
   - "Chang's Original Fish Sauce"
 ---

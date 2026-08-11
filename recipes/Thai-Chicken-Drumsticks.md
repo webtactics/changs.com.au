@@ -32,6 +32,7 @@ method: |
 tags:
   - "Poultry"
   - "Chicken"
+  - "Noodles Ingredient"
   - "Healthy Meals"
   - "Quick and Easy"
   - "Kid Friendly"

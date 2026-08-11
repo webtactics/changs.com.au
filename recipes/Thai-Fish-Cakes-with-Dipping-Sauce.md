@@ -49,6 +49,10 @@ tags:
   - "Main Meals"
   - "Quick and Easy"
   - "Gluten-Free"
+  - "Spring"
+  - "Summer"
+  - "Autumn"
+  - "Winter"
   - "Chang's Original Fish Sauce"
   - "Chang's Original Oyster Sauce"
 ---
