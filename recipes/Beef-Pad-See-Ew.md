@@ -60,8 +60,12 @@ method: |
   </ol>
 tags:
   - "Beef"
+  - "Dinner for Two"
+  - "Light Meals"
   - "Main Meals"
   - "Noodles Ingredient"
+  - "Family Dinners"
+  - "Kid Friendly"
   - "Stir-Fry"
   - "Quick and Easy"
   - "Gluten-Free"
