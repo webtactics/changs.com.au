@@ -15,7 +15,7 @@ ingredients: |
   <ul>
   <li>375ml (1/2 cups) coconut yoghurt</li>
   <li>2 tbsps brown sugar</li>
-  <li>1 tbsp Chang's Fish sauce</li>
+  <li>1 tbsp <a href="/products/changs-original-fish-sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce" >Chang's Original Fish Sauce</a></li>
   <li>2 cloves garlic, crushed</li>
   <li>1 lime, zest and juice</li>
   <li>800g chicken tenderloins</li>
@@ -55,6 +55,9 @@ tags:
   - "Spring"
   - "Summer"
   - "Autumn"
-  - "Chang's Original Fried Noodles"
+  - "Winter"
+  - "Chang's Original Fish Sauce"
   - "Chang's Sesame Oil"
+  - "Chang's Original Fried Noodles"
+
 ---

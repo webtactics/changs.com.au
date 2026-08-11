@@ -18,11 +18,11 @@ ingredients: |
   <li>1 lemongrass stalk, white part only, finely chopped</li>
   <li>2 cloves garlic, crushed</li>
   <li>2 tsps finely grated lime rind</li>
-  <li>2 tsps Chang's Fish Sauce</li>
+  <li>2 tsps <a href="/products/changs-original-fish-sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce" >Chang's Original Fish Sauce</a></li>
   <li>2 tbsps peanut oil</li>
   <li>1 bunch chop sum, (150g), washed, roughly chopped</li>
   <li>1/4 cup vegetable stock</li>
-  <li>1 packet Chang's Crunchy Noodles</li>
+  <li>1 packet <a href="/products/changs-crunchy-fried-noodles/" title="Chang's Crunchy Fried Noodles" alt="Chang's Crunchy Fried Noodles" >Chang's Crunchy Fried Noodles</a></li>
   </ul>
 method: |
   <h3>Method:</h3>
@@ -50,4 +50,6 @@ tags:
   - "Summer"
   - "Autumn"
   - "Chang's Crispy Noodle Salad Dressing"
+  - "Chang's Original Fish Sauce"
+  - "Chang's Crunchy Fried Noodles"
 ---
