@@ -30,18 +30,19 @@ method: |
   <li>Cover bowl and refrigerate 10 minutes.</li>
   <li>Heat oil in a wok and fry chicken strips for 3 minutes or until golden and cooked through, remove from oil with a slotted spoon and place on a plate.</li>
   <li>Carefully remove all but 2tbsps of the oil from the wok and stir fry broccolini and onion 2 minutes or until broccolini is bright green but still crisp.</li>
-  <li>Add bean sprouts, wine, oyster sauce and stock and stir fry a further 1 minute.</li>
-  <li>Return chicken to the wok with the crispy noodles and toss to coat in the sauce.</li>
+  <li>Add bean sprouts, wine, <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce" >Chang's Original Oyster Sauce</a> and stock and stir fry a further 1 minute.</li>
+  <li>Return chicken to the wok with the <a href="/products/changs-original-fried-noodles/" title="Chang's Original Fried Noodles" alt="Chang's Original Fried Noodles" >Chang's Original Fried Noodles</a> and toss to coat in the sauce.</li>
   <li>Divide between 4 plates and garnish with roasted peanuts and coriander if desired.</li>
   </ol>
 tags:
   - "Poultry"
   - "Chicken"
+  - "Lunch"
   - "Dinner for Two"
+  - "Light Meals"
   - "Main Meals"
   - "Stir-Fry"
   - "Quick and Easy"
-  - "Lunch"
   - "Chang's Original Fried Noodles"
   - "Chang's Original Oyster Sauce"
 ---
