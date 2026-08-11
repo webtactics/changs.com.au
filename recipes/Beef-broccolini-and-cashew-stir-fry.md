@@ -43,7 +43,6 @@ tags:
   - "Summer"
   - "Autumn"
   - "Winter"
-  - "Chang's Gluten Free Fried Noodles"
   - "Chang's Original Oyster Sauce"
   - "Chang's Long Life Noodles"
 ---
