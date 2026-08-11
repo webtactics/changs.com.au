@@ -24,7 +24,7 @@ method: |
   <li>Heat a little oil in a large wok or non-stick frying pan over high heat. Add beef strips and stir fry in batches until browned and nearly cooked through. Remove from the heat.</li>
   <li>Whilst the beef is cooking soften the <a href="/products/changs-long-life-noodles/" title="Chang's Long Life Noodles" alt="Chang's Long Life Noodles">Chang's Long Life Noodles</a> in boiling water. Drain and set aside.</li>
   <li>Add onion and broccolini to the wok along with a little extra oil and stir fry for 2-3 minutes.</li>
-  <li>Return the beef strips to the wok with the noodles and cashews. Toss through the Changs Oyster Sauce until fully coated and serve.</li>
+  <li>Return the beef strips to the wok with the noodles and cashews. Toss through the <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a> until fully coated and serve.</li>
   </ol>
 tags:
   - "Beef"
