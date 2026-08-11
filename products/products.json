@@ -2,6 +2,7 @@
     "layout": "layouts/post-products.njk",
     "permalink": "products/{{ title | slug }}/index.html",
     "author": "Anonymous",
+    "signupModal": true,
     "tags": [
      "Products"
     ]

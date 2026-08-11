@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html {% if section %} data-current="{{ section }}" {% endif %} lang="en">
+<html {% if section %} data-current="{{ section }}" {% endif %} data-signup-modal="{{ signupModal | default(false) }}" lang="en">
   {% block headmeta %} {% include "components/grid-head.njk" %} {% endblock %}
   {% block bodyclass %}
   <body class=" {{ class }} ">
@@ -388,6 +388,87 @@
 
 
         </form>
+        </div>
+      </div>
+    </dialog>
+
+    <dialog id="signup-modal" class="search-modal signup-modal" aria-label="Sign up to our newsletter">
+      <div class="modal-content">
+        <button id="close-signup-modal" class="modal-close" title="Close" aria-label="Close">&times;</button>
+
+        <div class="modal-body">
+          <h3>Don't miss out!</h3>
+          <p>Sign up for Chang's newsletter to savour delectable recipes, insightful content, exclusive offers, and gourmet inspirations.</p>
+
+          <form
+            class="js-cm-form"
+            id="modalSubForm"
+            action="https://www.createsend.com/t/subscribeerror?description="
+            method="post"
+            data-id="191722FC90141D02184CB1B62AB3DC263A612CC7EF95391906088D1B2C8E0F511919419E68376EA1CE016115826817A73FEC815F143B196367D7E3A80AD51791"
+          >
+            <div class="grid-5-2-columns">
+              <div class="emailbgrowleft">
+                <div class="emailbgrowlefttop">
+                  <label class="custom-field" aria-label="Enter your name">
+                    <input
+                      class="emailbginput"
+                      id="modalFieldName"
+                      maxlength="200"
+                      name="cm-name"
+                      placeholder="Your name"
+                      required=""
+                      onfocus="if(this.value==this.defaultValue) this.value='';"
+                      onblur="if(this.value=='') this.value=this.defaultValue;"
+                      type="text"
+                    />
+                  </label>
+                </div>
+                <div class="emailbgrowleftbottom">
+                  <label
+                    class="custom-field"
+                    aria-label="Enter your email address"
+                  >
+                    <input
+                      autocomplete="Email"
+                      class="js-cm-email-input qa-input-email emailbginput"
+                      id="modalFieldEmail"
+                      maxlength="200"
+                      name="cm-tjzykh-tjzykh"
+                      placeholder="Enter your email address"
+                      required=""
+                      type="email"
+                    />
+                  </label>
+                </div>
+                <div class="hidden emailhidden">
+                  <label
+                    class="custom-field"
+                    aria-label="Confirm your email address"
+                  >
+                    <input
+                      class="hidden emailbginput"
+                      id="modalFieldtyflhl"
+                      maxlength="200"
+                      name="cm-f-tyflhl"
+                      type="text"
+                      placeholder="Enter your email address"
+                    />
+                  </label>
+                </div>
+              </div>
+              <div class="emailbgrowright">
+                <button
+                  class="success fullwidth"
+                  type="submit"
+                  title="Sign up to our newsletter"
+                  alt="Sign up to our newsletter"
+                >
+                  Subscribe
+                </button>
+              </div>
+            </div>
+          </form>
         </div>
       </div>
     </dialog>

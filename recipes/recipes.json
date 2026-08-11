@@ -2,6 +2,7 @@
     "layout": "layouts/post-recipes.njk",
     "permalink": "recipes/{{ title | slug }}/index.html",
     "author": "Anonymous",
+    "signupModal": true,
     "tags": [
      "Recipes"
     ]

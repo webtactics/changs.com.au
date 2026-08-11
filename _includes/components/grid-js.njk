@@ -53,3 +53,45 @@ $('.home-slide').slick({
     }
   });
 </script>
+
+<script>
+(function () {
+  var SHOW_AFTER_MS = 30000; // 30 seconds on the page
+  var SUPPRESS_DAYS = 30; // don't re-prompt for this many days after a close/submit
+  var STORAGE_KEY = 'changsSignupModalLastSeen';
+
+  if (document.documentElement.dataset.signupModal !== 'true') return;
+
+  var lastSeen = localStorage.getItem(STORAGE_KEY);
+  if (lastSeen && (Date.now() - parseInt(lastSeen, 10)) < SUPPRESS_DAYS * 24 * 60 * 60 * 1000) return;
+
+  var signupModal = document.querySelector('#signup-modal');
+  var closeBtn = document.querySelector('#close-signup-modal');
+  if (!signupModal || !closeBtn) return;
+
+  function markSeen() {
+    localStorage.setItem(STORAGE_KEY, Date.now().toString());
+  }
+
+  var timer = setTimeout(function () {
+    if (!document.querySelector('dialog[open]')) {
+      signupModal.showModal();
+    }
+  }, SHOW_AFTER_MS);
+
+  closeBtn.addEventListener('click', function () {
+    signupModal.close();
+  });
+
+  signupModal.addEventListener('close', function () {
+    clearTimeout(timer);
+    markSeen();
+  });
+
+  signupModal.addEventListener('click', function (event) {
+    if (event.target === signupModal) {
+      signupModal.close();
+    }
+  });
+})();
+</script>

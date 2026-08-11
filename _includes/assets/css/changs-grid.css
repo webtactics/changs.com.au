@@ -4201,6 +4201,10 @@ font-family: 'Perpetua', sans-serif;
   color: var(--black);
 }
 
+.signup-modal {
+  width: min(94vw, 640px);
+}
+
 
 
 .search-modal-form input[type="search"] {
