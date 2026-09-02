@@ -41,8 +41,8 @@ method: |
   <li><strong>Cover, Rest and Serve</strong><br/>Cover the mug with a lid or plate and leave for 5-7 minutes or until the noodles are tender and plump, to your liking. Stir well and enjoy immediately.</li>
   </ol>
 
- <p>If the broth has cooled too much, microwave for 1 minute, or until hot, before serving.</p>
- <p><strong>Approximate cost:</strong> around $1.70 per cup, based on Chang’s Long Life Noodles, Chang’s Tamari Light Soy Sauce, Chang’s Sesame Oil and a premium chicken bone broth powder.</p>
+  <p>If the broth has cooled too much, microwave for 1 minute, or until hot, before serving.</p>
+  <p><strong>Approximate cost:</strong> around $1.70 per cup, based on Chang’s Long Life Noodles, Chang’s Tamari Light Soy Sauce, Chang’s Sesame Oil and a premium chicken bone broth powder.</p>
 
 
 
