@@ -30,7 +30,7 @@ ingredients: |
   <li>Fresh coriander, roughly chopped</li>
   </ul>
 
-<p>*Bone broth powders and pastes vary in strength. Use the amount recommended on the packet or jar to make approximately 300 ml of broth.</p>
+  <p>*Bone broth powders and pastes vary in strength. Use the amount recommended on the packet or jar to make approximately 300 ml of broth.</p>
 
 
 method: |
