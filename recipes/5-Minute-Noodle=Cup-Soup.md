@@ -23,7 +23,7 @@ ingredients: |
   <li>300 ml boiling water</li>
   <li>½ green onion, finely sliced</li>
   </ul>
-  <h4>*Optional add-ins:</h4>
+  <h4>Optional add-ins:</h4>
   <ul>
   <li>Cooked shredded chicken</li>
   <li>Tuna, drained</li>
