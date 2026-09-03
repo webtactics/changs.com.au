@@ -50,6 +50,7 @@ tags:
 
   - "Soup and Salad"
   - "Noodles Ingredient"
+  - "Vegetarian"
   - "Quick and Easy"
   - "Dinner for One"
   - "Dinner for Two"
@@ -59,7 +60,6 @@ tags:
   - "Kids"
   - "Lunch"
   - "Dairy Free"
-  - "Gluten-Free"
   - "Nut Free"
   - "Autumn"
   - "Winter"
@@ -70,6 +70,3 @@ tags:
   - "Chang's Sesame Oil"
 
 ---
-
-
-Under Quick and Easy: soup, noodles, vegetarian, light bites, dairy-free
