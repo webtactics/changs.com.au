@@ -4,7 +4,7 @@ status: published
 date: 2026-09-02
 description: "This quick and easy 5-minute noodle cup soup is perfect for a fast lunch or dinner."
 permalink: "/recipes/5-Minute-Noodle-Cup-Soup/"
-image: "https://ik.imagekit.io/webtactics/changs/static/img/recipes/5-Minute-Noodle=Cup-Soup/5-Minute-Noodle-Cup-Soup.jpg"
+image: "https://ik.imagekit.io/webtactics/changs/static/img/recipes/5-Minute-Noodle-Cup-Soup/5-Minute-Noodle-Cup-Soup.jpg"
 makes: "One packet of Chang’s Long Life Noodles makes 4 servings"
 serves: "4"
 preptime: 
