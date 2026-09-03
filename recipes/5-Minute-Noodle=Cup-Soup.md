@@ -42,7 +42,7 @@ method: |
   </ol>
 
   <p>If the broth has cooled too much, microwave for 1 minute, or until hot, before serving.</p>
-  <p><strong>Approximate cost:</strong> around $1.70 per cup, based on Chang’s Long Life Noodles, Chang’s Tamari Light Soy Sauce, Chang’s Sesame Oil and a premium chicken bone broth powder.</p>
+  <p><strong>Approximate cost:</strong> around $1.70 per cup, based on <a href="/products/changs-long-life-noodles/" alt="Chang's Long Life Noodles" title="Chang's Long Life Noodles" >Chang's Long Life Noodles</a>, <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce" >Chang's Gluten Free Tamari Light Soy Sauce</a>, <a href="/products/changs-sesame-oil/" title="Chang's Sesame Oil" alt="Chang's Sesame Oil"  >Chang's Sesame Oil</a> and a premium chicken bone broth powder.</p>
 
 
 
