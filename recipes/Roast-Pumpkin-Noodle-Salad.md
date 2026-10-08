@@ -16,8 +16,7 @@ ingredients: |
   <li>1 cup grated carrot</li>
   <li>1 cup finely shredded red cabbage</li>
   <li>3 cups pumpkin, cut into cubes</li>
-  <li>½ cup slivered almonds, lightly toasted</li>
-  <li>or ¼ cup shelled pistachios</li>
+  <li>½ cup toasted slivered almonds or pistachios</li>
   <li>1 bag of <a title="Chang's Crunchy Fried Noodles" href="/products/Changs-Crunchy-Fried-Noodles/"  rel="noopener">Chang's Crunchy Fried Noodles</a></li>
   <li>&frac12; bottle of <a title="Chang's Crispy Noodle Salad Dressing" href="/products/changs-crispy-noodle-salad-dressing/"  rel="noopener">Chang's Crispy Noodle Salad Dressing</a></li>
   <li>Olive oil, for roasting</li>
