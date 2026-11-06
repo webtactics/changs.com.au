@@ -25,7 +25,7 @@ ingredients: |
   <li>4 tablespoons <a href="/products/changs-original-oyster-sauce/" title="Chang's Original Oyster Sauce" alt="Chang's Original Oyster Sauce">Chang's Original Oyster Sauce</a></li>
   <li>4 tablespoons <a href="/products/changs-tamari-light-soy-sauce/" title="Chang's Gluten Free Tamari Light Soy Sauce" alt="Chang's Gluten Free Tamari Light Soy Sauce">Chang's Gluten Free Tamari Light Soy Sauce</a></li>
   <li>1 tablespoon <a href="/products/Changs-Original-Fish-Sauce/" title="Chang's Original Fish Sauce" alt="Chang's Original Fish Sauce">Chang's Original Fish Sauce</a></li>
-  <li>1 ½ tablespoon brown sugar</li>
+  <li>1 ½ tablespoons brown sugar</li>
   <li>3 tablespoons water</li>
   <li>2 teaspoons corn starch / flour</li>
   </ul>
