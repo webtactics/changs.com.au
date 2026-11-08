@@ -45,7 +45,7 @@ ingredients: |
 method: |
   <h3>Method:</h3>
   <ol>
-  <li><strong>Marinate the Beef:</strong><br />In a bowl, combine the sliced steak, Sesame Oil, Tamari Soy Sauce, and brown sugar. Mix thoroughly, then set aside to marinate for at least 15 minutes.</li>
+  <li><strong>Marinate the Beef:</strong><br />In a bowl, combine the sliced steak, Sesame Oil, and Tamari Soy Sauce. Mix thoroughly, then set aside to marinate for at least 15 minutes.</li>
   <li><strong>Cook the noodles:<br /></strong>Cook noodles according to packet instructions. Drain and set aside.</li>
   <li><strong>Make the Sauce:<br /></strong>In a bowl, whisk together the Oyster Sauce, Tamari Soy Sauce, Fish Sauce, brown sugar, water and corn starch.</li>
   <li><strong><strong>Cook the Beef:<br /></strong></strong>Heat 1 tablespoon of cooking oil in a wok or large frying pan over high heat. Add the marinated beef and stir-fry for 2-3 minutes until cooked through and browned. Remove the beef from the wok and set it aside.</li>
@@ -53,7 +53,6 @@ method: |
   <li><strong>Scramble the Eggs:<br /></strong>Push the greens to one side of the wok, add the eggs to the other side, and scramble quickly until it forms. Once cooked, mix everything together.</li>
   <li><strong>Combine the Noodles, Sauce, and Beef:<br /></strong>Add the noodles to the wok, then pour over the sauce. Toss well to coat the noodles, then return the cooked beef to the wok. Stir-fry for another minute, allowing the sauce to thicken and everything to heat through.</li>
   <li><strong>Serve:<br /></strong>Divide the Beef Pad See Ew into bowls, garnish with either bean sprouts, spring onions or chilli oil, and serve hot.
-  <p> </p>
   </li>
   </ol>
 tags:
